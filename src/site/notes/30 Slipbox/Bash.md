@@ -3,8 +3,4 @@
 ---
 
 
-## Bash
-
-### Overview
-
 Its Bash!
