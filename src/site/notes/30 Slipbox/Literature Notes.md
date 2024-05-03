@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Literature Notes.md","permalink":"/Literature Notes/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Literature Notes.md","permalink":"/literature-notes/","tags":["notes"]}
 ---
 
 
