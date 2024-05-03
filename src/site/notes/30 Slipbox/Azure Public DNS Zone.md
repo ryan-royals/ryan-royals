@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Public DNS Zone.md","permalink":"/Azure Public DNS Zone/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Public DNS Zone.md","permalink":"/azure-public-dns-zone/","tags":["notes"]}
 ---
 
 
