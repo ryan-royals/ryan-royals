@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Johnny Decimal System.md","permalink":"/johnny-decimal-system/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Johnny Decimal System.md","permalink":"/Johnny Decimal System/","tags":["notes"]}
 ---
 
 
