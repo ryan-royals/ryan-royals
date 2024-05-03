@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Public IP Address Prefix.md","permalink":"/Azure Public IP Address Prefix/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Public IP Address Prefix.md","permalink":"/azure-public-ip-address-prefix/","tags":["notes"]}
 ---
 
 
