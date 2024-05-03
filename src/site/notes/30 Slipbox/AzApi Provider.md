@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"AzApi Provider.md","permalink":"/AzApi Provider/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"AzApi Provider.md","permalink":"/az-api-provider/","tags":["notes"]}
 ---
 
 
