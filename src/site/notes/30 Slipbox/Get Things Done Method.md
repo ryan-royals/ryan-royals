@@ -1,5 +1,5 @@
 ---
-{"created":"2023-07-24","modified":"2023-09-19","tags":["notes"],"references":["[[40 References/readwise/Getting Things Done (GTD) Flowchart A Complete Guide\|Getting Things Done (GTD) Flowchart A Complete Guide]]","[[Obsidian and GTD]]","[[Getting Things Done]]"],"topics":["[[Note Taking and Productivity]]"],"dg-publish":true,"dg-path":"Get Things Done Method.md","permalink":"/get-things-done-method/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Get Things Done Method.md","permalink":"/get-things-done-method/","tags":["notes"]}
 ---
 
 
@@ -27,4 +27,4 @@ It aggressively actions items, schedules them for when they are due, or trashes 
 
 The system also offers a way to manage reference materials, agendas for meetings, and task for context (At Computer, At Home).
 
-[^1]: [[Getting Things Done (GTD) Flowchart A Complete Guide]]
+[^1]: [[40 References/readwise/Getting Things Done (GTD) Flowchart A Complete Guide\|Getting Things Done (GTD) Flowchart A Complete Guide]]
