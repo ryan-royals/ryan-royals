@@ -1,5 +1,5 @@
 ---
-{"tags":["notes"],"created":"2023-08-11","modified":"2023-09-19","topics":["[[Azure]]"],"dg-publish":true,"dg-path":"Azure Express Route.md","permalink":"/azure-express-route/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure Express Route.md","permalink":"/azure-express-route/","tags":["notes"]}
 ---
 
 
