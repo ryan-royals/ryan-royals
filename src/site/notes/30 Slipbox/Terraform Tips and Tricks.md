@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Terraform Tips and Tricks.md","permalink":"/Terraform Tips and Tricks/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Terraform Tips and Tricks.md","permalink":"/terraform-tips-and-tricks/","tags":["notes"]}
 ---
 
 
