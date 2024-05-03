@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Firewall.md","permalink":"/Azure Firewall/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Firewall.md","permalink":"/azure-firewall/","tags":["notes"]}
 ---
 
 
