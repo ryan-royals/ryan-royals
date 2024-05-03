@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Bot.md","permalink":"/azure-bot/","tags":["notes"]}
+{"created":"2023-05-26","modified":"2023-09-06","tags":["notes"],"dg-publish":true,"dg-path":"Azure Bot.md","permalink":"/azure-bot/","dgPassFrontmatter":true}
 ---
 
 
