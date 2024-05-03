@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Public IP.md","permalink":"/azure-public-ip/","tags":["notes"]}
+{"tags":["notes"],"topics":["[[Azure]]","[[Azure Public IP Address Prefix]]"],"references":["[[Configure public IP services - Training  Microsoft Learn]]"],"created":"2024-05-02","dg-publish":true,"dg-path":"Azure Public IP.md","permalink":"/azure-public-ip/","dgPassFrontmatter":true}
 ---
 
 
