@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Terraform.md","permalink":"/terraform/","tags":["#software"]}
+{"dg-publish":true,"dg-path":"Terraform.md","permalink":"/Terraform/","tags":["#software"]}
 ---
 
 
