@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure API Management.md","permalink":"/Azure API Management/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure API Management.md","permalink":"/azure-api-management/","tags":["notes"]}
 ---
 
 
