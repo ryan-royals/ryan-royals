@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How CAF TF module works.md","permalink":"/How CAF TF module works/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"How CAF TF module works.md","permalink":"/how-caf-tf-module-works/","tags":["notes"]}
 ---
 
 
