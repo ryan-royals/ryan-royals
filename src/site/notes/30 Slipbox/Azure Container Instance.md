@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Container Instance.md","permalink":"/Azure Container Instance/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Container Instance.md","permalink":"/azure-container-instance/","tags":["notes"]}
 ---
 
 
