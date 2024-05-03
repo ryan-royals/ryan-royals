@@ -1,5 +1,5 @@
 ---
-{"tags":["notes"],"topics":["[[Note Taking and Productivity]]"],"created":"2023-08-30","modified":"2023-09-19","references":["[[40 References/readwise/The PARA Method|The PARA Method]]"],"dg-publish":true,"dg-path":"The PARA Method.md","permalink":"/the-para-method/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"The PARA Method.md","permalink":"/the-para-method/","tags":["notes"]}
 ---
 
 
