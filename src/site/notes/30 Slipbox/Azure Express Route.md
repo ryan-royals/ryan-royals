@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Express Route.md","permalink":"/azure-express-route/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Express Route.md","permalink":"/Azure Express Route/","tags":["notes"]}
 ---
 
 
