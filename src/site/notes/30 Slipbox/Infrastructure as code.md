@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Infrastructure as code.md","permalink":"/infrastructure-as-code/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Infrastructure as code.md","permalink":"/Infrastructure as code/","tags":["notes"]}
 ---
 
 
