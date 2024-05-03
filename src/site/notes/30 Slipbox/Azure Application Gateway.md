@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Application Gateway.md","permalink":"/Azure Application Gateway/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Application Gateway.md","permalink":"/azure-application-gateway/","tags":["notes"]}
 ---
 
 
