@@ -1,5 +1,5 @@
 ---
-{"created":"2023-06-09","modified":"2023-09-19","tags":["notes"],"topics":["[[Azure]]"],"references":["[[What Is Azure VPN Gateway]]"],"dg-publish":true,"dg-path":"Azure VPN Gateway.md","permalink":"/azure-vpn-gateway/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure VPN Gateway.md","permalink":"/azure-vpn-gateway/","tags":["notes"]}
 ---
 
 
