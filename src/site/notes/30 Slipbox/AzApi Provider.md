@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"AzApi Provider.md","permalink":"/az-api-provider/","tags":["notes"]}
+{"tags":["notes"],"topics":["[[30 Slipbox/Terraform\|Terraform]]","[[Azure]]"],"created":"2023-08-29","modified":"2023-09-06","dg-publish":true,"dg-path":"AzApi Provider.md","permalink":"/az-api-provider/","dgPassFrontmatter":true}
 ---
 
 
 ## AzAPI Provider
 
-AzAPI is a [[30 Slipbox/Terraform\|Terraform]] Provider used to interact with Azure using API calls instead of using layer of obscurity supplied by the [[30 Slipbox/AzureRM Provider\|AzureRM Provider]].
+AzAPI is a [[Terraform]] Provider used to interact with Azure using API calls instead of using layer of obscurity supplied by the [[30 Slipbox/AzureRM Provider\|AzureRM Provider]].
 
 ```go
 resource "azapi_resource" "action_group" {
