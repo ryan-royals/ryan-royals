@@ -1,5 +1,5 @@
 ---
-{"created":"2023-10-15","tags":["notes"],"topics":null,"references":["https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code"],"aliases":["IaC"],"dg-publish":true,"dg-path":"Infrastructure as code.md","permalink":"/infrastructure-as-code/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Infrastructure as code.md","permalink":"/infrastructure-as-code/","tags":["notes"]}
 ---
 
 
