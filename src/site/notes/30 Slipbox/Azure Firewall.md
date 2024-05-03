@@ -1,5 +1,5 @@
 ---
-{"aliases":["AZFW"],"created":"2023-07-25","modified":"2023-09-19","topics":["[[Azure]]"],"tags":["notes"],"references":["[[New Enhanced DNS Features in Azure Firewall—now Generally Available]]"],"dg-publish":true,"dg-path":"Azure Firewall.md","permalink":"/azure-firewall/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure Firewall.md","permalink":"/azure-firewall/","tags":["notes"]}
 ---
 
 
