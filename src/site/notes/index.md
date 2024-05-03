@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["notes","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["notes","gardenEntry"]}
 ---
 
 
@@ -24,8 +24,8 @@ When I'm not doing that, I'm probably playing or otherwise obsessing over a Trad
 
 ## So what Am I Looking at here
 
-This is my [Digital Garden]([A Brief History & Ethos of the Digital Garden (maggieappleton.com)](https://maggieappleton.com/garden-history))! Basically this is my personal wiki that I manage with [[30 Slipbox/Obsidian\|Obsidian]], and the [Digital Garden Plugin]([Digital Garden - Publish Obsidian Notes For Free (ole.dev)](https://dg-docs.ole.dev/)).  
-Overall the intent is this is a bit of a experiment in [Learning in Public]([Why You Should Learn in Public. I want to talk about a concept that… | by Shu Omi | Shu Omi’s Blog | Medium](https://medium.com/my-learning-journal/why-you-should-learn-in-public-4fd3a6239549)), which to me is a practise in treating you, the reader, as a rubber ducky that helps me guide the content on my notes, more than them just being a random collection of words.  
+This is my [Digital Garden](https://maggieappleton.com/garden-history)! Basically this is my personal wiki that I manage with [[30 Slipbox/Obsidian\|Obsidian]], and the [Digital Garden Plugin](https://dg-docs.ole.dev/).  
+Overall the intent is this is a bit of a experiment in [Learning in Public](https://medium.com/my-learning-journal/why-you-should-learn-in-public-4fd3a6239549), which to me is a practise in treating you, the reader, as a rubber ducky that helps me guide the content on my notes, more than them just being a random collection of words.  
 I love note taking, and I currently have over 900 Notes in my vault, with that number climbing daily. This garden is a mildly curated list of topics that I'm happy to share.
 
 This content is as much a brain dump as anything else. Something things will lack detail, not be updated, all that compromise.  
