@@ -1,5 +1,5 @@
 ---
-{"created":"2023-04-04","modified":"2023-08-22","tags":["notes"],"topics":null,"references":null,"dg-publish":true,"dg-path":"Literature Notes.md","permalink":"/literature-notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Literature Notes.md","permalink":"/literature-notes/","tags":["notes"]}
 ---
 
 
