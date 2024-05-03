@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-03","modified":"2023-08-29","tags":["notes"],"topics":null,"references":null,"dg-publish":true,"dg-path":"Map of Contents.md","permalink":"/map-of-contents/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Map of Contents.md","permalink":"/map-of-contents/","tags":["notes"]}
 ---
 
 
