@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian is for taking notes the fun way.md","permalink":"/Obsidian is for taking notes the fun way/","tags":["slides","notes"]}
+{"dg-publish":true,"dg-path":"Obsidian is for taking notes the fun way.md","permalink":"/obsidian-is-for-taking-notes-the-fun-way/","tags":["slides","notes"]}
 ---
 
 
