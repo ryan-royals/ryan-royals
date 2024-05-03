@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-08","modified":"2023-09-10","tags":["notes"],"topics":["[[Note Taking and Productivity]]"],"references":["[[Johnny•Decimal]]"],"dg-publish":true,"dg-path":"Johnny Decimal System.md","permalink":"/johnny-decimal-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Johnny Decimal System.md","permalink":"/johnny-decimal-system/","tags":["notes"]}
 ---
 
 
