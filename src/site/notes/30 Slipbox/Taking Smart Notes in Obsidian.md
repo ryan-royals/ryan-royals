@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Taking Smart Notes in Obsidian.md","permalink":"/Taking Smart Notes in Obsidian/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Taking Smart Notes in Obsidian.md","permalink":"/taking-smart-notes-in-obsidian/","tags":["notes"]}
 ---
 
 
