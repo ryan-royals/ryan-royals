@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure VPN Gateway.md","permalink":"/Azure VPN Gateway/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure VPN Gateway.md","permalink":"/azure-vpn-gateway/","tags":["notes"]}
 ---
 
 
