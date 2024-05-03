@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The PARA Method.md","permalink":"/the-para-method/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"The PARA Method.md","permalink":"/The PARA Method/","tags":["notes"]}
 ---
 
 
