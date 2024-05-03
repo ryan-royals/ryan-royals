@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Private Link.md","permalink":"/azure-private-link/","tags":["notes"]}
+{"created":"2023-05-15","modified":"2023-08-22","tags":["notes"],"topics":["[[Azure]]"],"references":["[[What is Azure Private Link]]"],"dg-publish":true,"dg-path":"Azure Private Link.md","permalink":"/azure-private-link/","dgPassFrontmatter":true}
 ---
 
 
