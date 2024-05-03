@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Map of Contents.md","permalink":"/map-of-contents/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Map of Contents.md","permalink":"/Map of Contents/","tags":["notes"]}
 ---
 
 
