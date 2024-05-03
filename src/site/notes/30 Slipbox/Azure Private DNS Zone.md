@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Private DNS Zone.md","permalink":"/azure-private-dns-zone/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Private DNS Zone.md","permalink":"/Azure Private DNS Zone/","tags":["notes"]}
 ---
 
 
