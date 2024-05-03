@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Virtual Network.md","permalink":"/azure-virtual-network/","tags":["notes"]}
+{"tags":["notes"],"topics":["[[Azure]]"],"created":"2023-08-21","modified":"2023-09-19","references":["[[Azure Virtual Network FAQ  Microsoft Learn]]"],"dg-publish":true,"dg-path":"Azure Virtual Network.md","permalink":"/azure-virtual-network/","dgPassFrontmatter":true}
 ---
 
 
