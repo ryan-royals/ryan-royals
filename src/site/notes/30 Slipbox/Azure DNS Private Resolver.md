@@ -1,5 +1,5 @@
 ---
-{"created":"2023-06-14","modified":"2023-09-19","tags":["notes"],"topics":["[[Azure]]"],"references":["[[What Is Azure DNS Private Resolver]]"],"dg-publish":true,"dg-path":"Azure DNS Private Resolver.md","permalink":"/azure-dns-private-resolver/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure DNS Private Resolver.md","permalink":"/azure-dns-private-resolver/","tags":["notes"]}
 ---
 
 
