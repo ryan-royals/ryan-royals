@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Terraform.md","permalink":"/terraform/","tags":["#software"]}
+{"created":"2023-05-08","modified":"2023-09-19","references":["[[Refactoring  Terraform  HashiCorp Developer]]"],"tags":["#software"],"topics":["[[30 Slipbox/Infrastructure as code\|Infrastructure as code]]"],"orgs":["[[30 Slipbox/HashiCorp\|HashiCorp]]"],"dg-publish":true,"dg-path":"Terraform.md","permalink":"/terraform/","dgPassFrontmatter":true}
 ---
 
 
-Terraform is a Declarative, [[Domain Specific Language\|Domain Specific Language]], [[30 Slipbox/Infrastructure as code\|Infrastructure as code]] tool by [[30 Slipbox/HashiCorp\|HashiCorp]] used to manage public cloud platforms like [[30 Slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].
+Terraform is a Declarative, [[Domain Specific Language\|Domain Specific Language]], [[Infrastructure as code]] tool by [[HashiCorp]] used to manage public cloud platforms like [[30 Slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].
 
 Terraform uses a simple built upon individual blocks called Resources to build a Dependency Graph by linking items together.
 
