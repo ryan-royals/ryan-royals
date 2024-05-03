@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Service Endpoint.md","permalink":"/azure-service-endpoint/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Service Endpoint.md","permalink":"/Azure Service Endpoint/","tags":["notes"]}
 ---
 
 
