@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How I process documents.md","permalink":"/how-i-process-documents/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"How I process documents.md","permalink":"/How I process documents/","tags":["notes"]}
 ---
 
 
