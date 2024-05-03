@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Front Door.md","permalink":"/Azure Front Door/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Front Door.md","permalink":"/azure-front-door/","tags":["notes"]}
 ---
 
 
