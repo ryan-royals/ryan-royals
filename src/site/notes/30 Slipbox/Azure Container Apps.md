@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Container Apps.md","permalink":"/Azure Container Apps/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Container Apps.md","permalink":"/azure-container-apps/","tags":["notes"]}
 ---
 
 
