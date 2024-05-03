@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-slipbox/azure/","tags":["software"]}
+{"dg-publish":true,"dg-path":"Azure.md","permalink":"/azure/","tags":["software"]}
 ---
 
 
