@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How CAF TF module works.md","permalink":"/how-caf-tf-module-works/","tags":["notes"]}
+{"tags":["notes"],"topics":["[[Azure Cloud Adoption Framework]]","[[Terraform]]"],"created":"2023-08-31","modified":"2023-09-07","connie-publish":true,"connie-page-id":"531464193","dg-publish":true,"dg-path":"How CAF TF module works.md","permalink":"/how-caf-tf-module-works/","dgPassFrontmatter":true}
 ---
 
 
