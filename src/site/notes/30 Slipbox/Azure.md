@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure.md","permalink":"/Azure/","tags":["software"]}
+{"dg-publish":true,"dg-path":"Azure.md","permalink":"/azure/","tags":["software"]}
 ---
 
 
