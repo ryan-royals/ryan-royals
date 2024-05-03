@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-22","modified":"2023-09-07","tags":["notes"],"topics":null,"references":null,"dg-publish":true,"dg-path":"Note Taking and Productivity.md","permalink":"/note-taking-and-productivity/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Note Taking and Productivity.md","permalink":"/note-taking-and-productivity/","tags":["notes"]}
 ---
 
 
