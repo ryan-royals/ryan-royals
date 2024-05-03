@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Public DNS Zone.md","permalink":"/azure-public-dns-zone/","tags":["notes"]}
+{"tags":["notes"],"topics":["[[Azure]]"],"references":["[[What is Azure DNS  Microsoft Learn]]"],"created":"2024-05-02","dg-publish":true,"dg-path":"Azure Public DNS Zone.md","permalink":"/azure-public-dns-zone/","dgPassFrontmatter":true}
 ---
 
 
