@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-08","modified":"2023-09-10","tags":["notes"],"references":["[[Endpoints in Azure Front Door]]","[[Front Door routing limits]]","[[What is Azure Front Door]]","[[Azure Web Application Firewall on Azure Front Door]]","[[Use Azure Front Door in a Multitenant Solution]]"],"dg-publish":true,"dg-path":"Azure Front Door.md","permalink":"/azure-front-door/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure Front Door.md","permalink":"/azure-front-door/","tags":["notes"]}
 ---
 
 
