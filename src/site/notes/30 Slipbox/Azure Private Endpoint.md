@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Private Endpoint.md","permalink":"/Azure Private Endpoint/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Private Endpoint.md","permalink":"/azure-private-endpoint/","tags":["notes"]}
 ---
 
 
