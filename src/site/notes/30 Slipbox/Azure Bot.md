@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Bot.md","permalink":"/Azure Bot/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Bot.md","permalink":"/azure-bot/","tags":["notes"]}
 ---
 
 
