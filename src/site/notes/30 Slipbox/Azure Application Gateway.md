@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-30","modified":"2023-09-20","references":["[[Configure App Service With Application Gateway]]","[[What is Azure Application Gateway]]"],"tags":["notes"],"topics":["[[Azure]]"],"dg-publish":true,"dg-path":"Azure Application Gateway.md","permalink":"/azure-application-gateway/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure Application Gateway.md","permalink":"/azure-application-gateway/","tags":["notes"]}
 ---
 
 
