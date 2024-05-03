@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard"],"created":"2023-03-22","modified":"2023-09-07","tags":["software"],"topics":["[[Cloud Platforms]]"],"orgs":["[[Microsoft]]"],"dg-publish":true,"dg-path":"Azure.md","permalink":"/azure/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure.md","permalink":"/azure/","tags":["software"]}
 ---
 
 
