@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Private DNS Zone.md","permalink":"/azure-private-dns-zone/","tags":["notes"]}
+{"created":"2023-05-15","modified":"2023-09-10","tags":["notes"],"references":["[[What Is a Private Azure DNS Zone]]","[[What Is a Virtual Network Link Subresource of Azure DNS Private Zones  Microsoft Learn]]"],"topics":["[[Azure]]"],"dg-publish":true,"dg-path":"Azure Private DNS Zone.md","permalink":"/azure-private-dns-zone/","dgPassFrontmatter":true}
 ---
 
 
