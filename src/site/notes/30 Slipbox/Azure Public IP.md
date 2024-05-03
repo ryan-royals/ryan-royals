@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Public IP.md","permalink":"/azure-public-ip/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Public IP.md","permalink":"/Azure Public IP/","tags":["notes"]}
 ---
 
 
