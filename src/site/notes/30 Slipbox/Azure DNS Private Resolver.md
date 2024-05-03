@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure DNS Private Resolver.md","permalink":"/azure-dns-private-resolver/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure DNS Private Resolver.md","permalink":"/Azure DNS Private Resolver/","tags":["notes"]}
 ---
 
 
