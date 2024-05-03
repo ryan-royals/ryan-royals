@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Virtual Network.md","permalink":"/azure-virtual-network/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Virtual Network.md","permalink":"/Azure Virtual Network/","tags":["notes"]}
 ---
 
 
