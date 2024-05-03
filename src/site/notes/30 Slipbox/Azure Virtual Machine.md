@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Virtual Machine.md","permalink":"/Azure Virtual Machine/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Virtual Machine.md","permalink":"/azure-virtual-machine/","tags":["notes"]}
 ---
 
 
