@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Get Things Done Method.md","permalink":"/get-things-done-method/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Get Things Done Method.md","permalink":"/Get Things Done Method/","tags":["notes"]}
 ---
 
 
