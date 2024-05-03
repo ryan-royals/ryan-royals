@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Container Registry.md","permalink":"/Azure Container Registry/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Container Registry.md","permalink":"/azure-container-registry/","tags":["notes"]}
 ---
 
 
