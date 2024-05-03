@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Private Link.md","permalink":"/azure-private-link/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Azure Private Link.md","permalink":"/Azure Private Link/","tags":["notes"]}
 ---
 
 
