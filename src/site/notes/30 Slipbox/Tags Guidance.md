@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Tags Guidance.md","permalink":"/tags-guidance/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Tags Guidance.md","permalink":"/Tags Guidance/","tags":["notes"]}
 ---
 
 
