@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-26","modified":"2023-08-22","tags":["notes"],"references":["[[What Is Azure API Management]]","[[2023-11-22 APIM walkthrough with Leigh]]"],"dg-publish":true,"dg-path":"Azure API Management.md","permalink":"/azure-api-management/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure API Management.md","permalink":"/azure-api-management/","tags":["notes"]}
 ---
 
 
