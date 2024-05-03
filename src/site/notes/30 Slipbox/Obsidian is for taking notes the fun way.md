@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian is for taking notes the fun way.md","permalink":"/obsidian-is-for-taking-notes-the-fun-way/","tags":["slides","notes"]}
+{"dg-publish":true,"permalink":"/30-slipbox/obsidian-is-for-taking-notes-the-fun-way/","tags":["slides","notes"]}
 ---
 
 
-# Obsidian is for Taking Notes the Fun way
+## Obsidian is for Taking Notes the Fun way
 
 ---
 
-## What is Obsidian
+### What is Obsidian
 
 Obsidian is a note taking tool that proves that power can come from stripping features.  
 At its core it is a Markdown editor, at the edges its a Markdown editor.
@@ -20,31 +20,31 @@ At its core it is a Markdown editor, at the edges its a Markdown editor.
 
 ---
 
-## What is Obsidian Trying to Do
+### What is Obsidian Trying to Do
 
 Obsidian is a tool used to be Second Mind, a Digital Garden, a Zettelkasten, a PKM...  
 These are all fancy ways of saying: Take good notes, and you will use them.
 
 ---
 
-## How it Does These Things
+### How it Does These Things
 
 ---
 
-### Links!
+#### Links
 
 Link you thinking is the primary use and power that Obsidian offers over any other PKM I have used (I have extensively used OneNote and Notion before.)
 
 ---
 
-### Plugins!
+#### Plugins
 
 Obsidian has a massive eco system of plugins (They just crossed 1'000).  
 I use ~20 plugins... but I could stop using all of them and it would be fine.
 
 ---
 
-#### The Cool Plugins
+##### The Cool Plugins
 
 - Task Manager
 - Confluence Sync
@@ -56,6 +56,6 @@ I use ~20 plugins... but I could stop using all of them and it would be fine.
 
 ---
 
-## Where it Struggles
+### Where it Struggles
 
 - It is a blank canvas. You can spend *hours* setting it up and re engineering it (I have done it)
