@@ -1,5 +1,5 @@
 ---
-{"aliases":["How I Process Documents"],"created":"2023-04-19","modified":"2023-09-10","tags":["notes"],"topics":null,"references":null,"dg-publish":true,"dg-path":"How I process documents.md","permalink":"/how-i-process-documents/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"How I process documents.md","permalink":"/how-i-process-documents/","tags":["notes"]}
 ---
 
 
