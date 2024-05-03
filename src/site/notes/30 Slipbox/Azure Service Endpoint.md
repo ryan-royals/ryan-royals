@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Service Endpoint.md","permalink":"/azure-service-endpoint/","tags":["notes"]}
+{"created":"2023-05-15","modified":"2023-08-23","tags":["notes"],"dg-publish":true,"dg-path":"Azure Service Endpoint.md","permalink":"/azure-service-endpoint/","dgPassFrontmatter":true}
 ---
 
 
