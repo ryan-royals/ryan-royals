@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Note Taking and Productivity.md","permalink":"/Note Taking and Productivity/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Note Taking and Productivity.md","permalink":"/note-taking-and-productivity/","tags":["notes"]}
 ---
 
 
