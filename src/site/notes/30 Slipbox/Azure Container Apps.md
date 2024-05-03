@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-31","modified":"2023-08-22","tags":["notes"],"dg-publish":true,"dg-path":"Azure Container Apps.md","permalink":"/azure-container-apps/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure Container Apps.md","permalink":"/azure-container-apps/","tags":["notes"]}
 ---
 
 
