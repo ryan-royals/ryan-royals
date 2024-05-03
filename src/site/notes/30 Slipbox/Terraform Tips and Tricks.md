@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Terraform Tips and Tricks.md","permalink":"/terraform-tips-and-tricks/","tags":["notes"]}
+{"created":"2023-09-04","modified":"2023-09-19","tags":["notes"],"topics":["[[Terraform]]"],"review-frequency":"high","reviewed":"2024-04-11","dg-publish":true,"dg-path":"Terraform Tips and Tricks.md","permalink":"/terraform-tips-and-tricks/","dgPassFrontmatter":true}
 ---
 
 
