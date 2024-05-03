@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-15","modified":"2023-09-01","tags":["notes"],"topics":["[[30 Slipbox/Azure\|Azure]]","[[30 Slipbox/Private Endpoints Presentation\|Private Endpoints Presentation]]"],"references":["[[What Is a Private Endpoint]]","[[Azure Private Link Pricing]]","[[Azure Private Link Frequently Asked Questions]]","[[Single region scenario - Private Link and DNS in Azure Virtual WAN]]","[[Azure Private Endpoint DNS Configuration]]"],"dg-publish":true,"dg-path":"Azure Private Endpoint.md","permalink":"/azure-private-endpoint/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Azure Private Endpoint.md","permalink":"/azure-private-endpoint/","tags":["notes"]}
 ---
 
 
@@ -37,6 +37,6 @@ A [[30 Slipbox/Azure Service Endpoint\|Azure Service Endpoint]] is used to estab
 
 ---
 
-Links: [[Azure]], [[Private Endpoints Presentation]]  
+Links: [[30 Slipbox/Azure\|Azure]], [[30 Slipbox/Private Endpoints Presentation\|Private Endpoints Presentation]]  
 Tags:  
 Reference:
