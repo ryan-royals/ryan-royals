@@ -67,11 +67,11 @@
   - [[30 Slipbox/Azure Front Door\|Azure Front Door]]
   - [[30 Slipbox/Azure DNS Private Resolver\|Azure DNS Private Resolver]]
   - [[30 Slipbox/Azure Private DNS Zone\|Azure Private DNS Zone]]
-  - [[99 Inbox/Azure Public DNS Zone\|Azure Public DNS Zone]]
+  - [[30 Slipbox/Azure Public DNS Zone\|Azure Public DNS Zone]]
   - [[30 Slipbox/Azure Private Link\|Azure Private Link]]
   - [[30 Slipbox/Azure Private Endpoint\|Azure Private Endpoint]]
-  - [[99 Inbox/Azure Public IP\|Azure Public IP]]
-  - [[99 Inbox/Azure Public IP Address Prefix\|Azure Public IP Address Prefix]]
+  - [[30 Slipbox/Azure Public IP\|Azure Public IP]]
+  - [[30 Slipbox/Azure Public IP Address Prefix\|Azure Public IP Address Prefix]]
 
 ## Tools
 
