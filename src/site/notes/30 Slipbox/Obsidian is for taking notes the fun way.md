@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian is for taking notes the fun way.md","permalink":"/obsidian-is-for-taking-notes-the-fun-way/","tags":["slides","notes"]}
+{"aliases":["Obsidian is for Taking Notes the Fun way"],"created":"2023-07-20","modified":"2023-09-01","tags":["slides","notes"],"topics":["[[Obsidian]]","[[Note Taking and Productivity]]"],"dg-publish":true,"dg-path":"Obsidian is for taking notes the fun way.md","permalink":"/obsidian-is-for-taking-notes-the-fun-way/","dgPassFrontmatter":true}
 ---
 
 
