@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Azure Public IP Address Prefix.md","permalink":"/azure-public-ip-address-prefix/","tags":["notes"]}
+{"tags":["notes"],"topics":["[[Azure]]","[[Azure Public IP]]"],"references":["[[Create, Change, or Delete an Azure Public IP Address Prefix  Microsoft Learn]]"],"created":"2024-05-02","dg-publish":true,"dg-path":"Azure Public IP Address Prefix.md","permalink":"/azure-public-ip-address-prefix/","dgPassFrontmatter":true}
 ---
 
 
