@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"connie-page-id":"531562497","connie-publish":true,"created":"2023-03-20","modified":"2023-09-10","tags":["notes"],"topics":["[[Note Taking and Productivity]]","[[My Obsidian Vault]]"],"references":null,"dg-publish":true,"dg-path":"Taking Smart Notes in Obsidian.md","permalink":"/taking-smart-notes-in-obsidian/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Taking Smart Notes in Obsidian.md","permalink":"/taking-smart-notes-in-obsidian/","tags":["notes"]}
 ---
 
 
