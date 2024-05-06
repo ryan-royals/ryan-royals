@@ -60,7 +60,6 @@
 - **Microsoft.Network**
   - [[30 Slipbox/Azure Application Gateway\|Azure Application Gateway]]
   - [[30 Slipbox/Azure Virtual Network\|Azure Virtual Network]]
-  - [[30 Slipbox/Azure VPN Gateway\|Azure VPN Gateway]]
   - [[30 Slipbox/Azure Firewall\|Azure Firewall]]
   - [[30 Slipbox/Azure Express Route\|Azure Express Route]]
   - [[30 Slipbox/Azure DNS Private Resolver\|Azure DNS Private Resolver]]
@@ -72,6 +71,7 @@
   - [[30 Slipbox/Azure Private Endpoint\|Azure Private Endpoint]]
   - [[30 Slipbox/Azure Public IP\|Azure Public IP]]
   - [[30 Slipbox/Azure Public IP Address Prefix\|Azure Public IP Address Prefix]]
+  - [[99 Inbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]]
 
 ## Tools
 
