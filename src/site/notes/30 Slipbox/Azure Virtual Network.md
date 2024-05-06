@@ -28,7 +28,7 @@ Virtual Networks can be [[30 Slipbox/Peering Azure Virtual Networks\|peered toge
 
 #### Address Space
 
-Virtual Networks have a *Address Space* that is used by [[30 Slipbox/Azure Subnets\|Azure Subnets]].
+Virtual Networks have a *Address Space* that is used by [[30 Slipbox/Azure Subnet\|Azure Subnet]].
 
 It is recommended to use a Address Space enumerated in [[30 Slipbox/RFC 1918\|RFC 1918]].  
 Following this, there are some restricted ranges that can not be used:
