@@ -72,6 +72,9 @@
   - [[30 Slipbox/Azure Public IP\|Azure Public IP]]
   - [[30 Slipbox/Azure Public IP Address Prefix\|Azure Public IP Address Prefix]]
   - [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]]
+  - [[30 Slipbox/Azure ExpressRoute\|Azure ExpressRoute]]
+  - [[30 Slipbox/Azure Virtual WAN\|Azure Virtual WAN]]u
+  - [[30 Slipbox/Azure Route Table\|Azure Route Table]]
 
 ## Tools
 
