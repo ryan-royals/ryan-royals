@@ -8,11 +8,27 @@ Azure Virtual Network Gateway is the parent resource that can be configured to b
 Both types of gateways require that a specific [[30 Slipbox/Azure Subnet\|Azure Subnet]] must be deployed to the [[30 Slipbox/Azure Virtual Network\|Azure Virtual Network]], with the **Exact Name** of `GatewaySubnet`.  
 This subnet can be as small as /29, but it is recommended to be a /27 or larger to account for more ExpressRoute / VPN Connections.
 
-When configuring a connection, a [[30 Slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]] and a [[30 Slipbox/Azure Connection\|Azure Connection]] are configured to represent a on-premises location.
+When configuring a connection, a [[30 Slipbox/Azure Virtual Network Gateway#Local Network Gateway\|#Local Network Gateway]] and a [[30 Slipbox/Azure Virtual Network Gateway#Connection\|#Connection]] are configured to represent a on-premises location.
 
 ## VPN Gateway
 
-Azure VPN Gateway is used to create a [[30 Slipbox/Virtual Private Network\|Virtual Private Network]] connections as either Point-to-Site, Site-to-Site or Vnet-to-Vnet to a [[30 Slipbox/Azure Virtual Network\|Azure Virtual Network]].
+Azure VPN Gateway is used to create a [[30 Slipbox/Virtual Private Network\|Virtual Private Network]] connections as either [[30 Slipbox/Virtual Private Network#Point to Site\|Point-to-Site]], [[30 Slipbox/Virtual Private Network#Site to Site\|Site-to-Site]] or Vnet-to-Vnet to a [[30 Slipbox/Azure Virtual Network\|Azure Virtual Network]] via [[30 Slipbox/IPSec\|IPSec]].
+
+### Azure Resource Architecture
+
+To connect a VPN to another network, several sub resources are deployed to store information.  
+![Azure Virtual Network Gateway-1716082799506.png](/img/user/40%20References/attachments/image/Azure%20Virtual%20Network%20Gateway-1716082799506.png)
+
+- The on-premises network represents your on-premises Active Directory and any data or resources.
+- The gateway is responsible for sending encrypted traffic to a virtual IP address when it uses a public connection.
+- The Azure virtual network holds all your cloud applications and any Azure VPN gateway components.
+- An Azure VPN gateway provides the encrypted link between the Azure virtual network and your on-premises network. An Azure VPN gateway is made up of these elements:
+    - Virtual network gateway
+    - Local network gateway
+    - Connection
+    - Gateway subnet
+- Cloud applications are the ones you've made available through Azure.
+- An internal load balancer, located in the front end, routes cloud traffic to the correct cloud-based application or resource.
 
 ### VPN Gateway Types
 
@@ -31,27 +47,63 @@ Microsoft recommendation is to use **Route Based**
 
 ### SKUs
 
-|**VPN Gateway Generation**|**SKU**|**S2S/VNet-to-Vnet Tunnels**|**P2S SSTP Connections**|**P2S IKEv2/OpenVPN Connections**|**Aggregate Throughput Benchmark**|**BGP**|**Zone-redundant**|
-|---|---|---|---|---|---|---|---|
-|Generation1|Basic|Max. 10|Max. 128|Not Supported|100 Mbps|Not Supported|No|
-|Generation1|VpnGw1|Max. 30*|Max. 128|Max. 250|650 Mbps|Supported|No|
-|Generation1|VpnGw2|Max. 30*|Max. 128|Max. 500|1 Gbps|Supported|No|
-|Generation1|VpnGw3|Max. 30*|Max. 128|Max. 1000|1.25 Gbps|Supported|No|
-|Generation1|VpnGw1AZ|Max. 30*|Max. 128|Max. 250|650 Mbps|Supported|Yes|
-|Generation1|VpnGw2AZ|Max. 30*|Max. 128|Max. 500|1 Gbps|Supported|Yes|
-|Generation1|VpnGw3AZ|Max. 30*|Max. 128|Max. 1000|1.25 Gbps|Supported|Yes|
-|Generation2|VpnGw2|Max. 30*|Max. 128|Max. 500|1.25 Gbps|Supported|No|
-|Generation2|VpnGw3|Max. 30*|Max. 128|Max. 1000|2.5 Gbps|Supported|No|
-|Generation2|VpnGw4|Max. 30*|Max. 128|Max. 5000|5 Gbps|Supported|No|
-|Generation2|VpnGw5|Max. 30*|Max. 128|Max. 10000|10 Gbps|Supported|No|
-|Generation2|VpnGw2AZ|Max. 30*|Max. 128|Max. 500|1.25 Gbps|Supported|Yes|
-|Generation2|VpnGw3AZ|Max. 30*|Max. 128|Max. 1000|2.5 Gbps|Supported|Yes|
-|Generation2|VpnGw4AZ|Max. 100*|Max. 128|Max. 5000|5 Gbps|Supported|Yes|
-|Generation2|VpnGw5AZ|Max. 100*|Max. 128|Max. 10000|10 Gbps|Supported|Yes|
+| **VPN Gateway Generation** | **SKU**  | **S2S/VNet-to-Vnet Tunnels** | **P2S SSTP Connections** | **P2S IKEv2/OpenVPN Connections** | **Aggregate Throughput Benchmark** | **BGP**       | **Zone-redundant** |
+| -------------------------- | -------- | ---------------------------- | ------------------------ | --------------------------------- | ---------------------------------- | ------------- | ------------------ |
+| Generation1                | Basic    | Max. 10                      | Max. 128                 | Not Supported                     | 100 Mbps                           | Not Supported | No                 |
+| Generation1                | VpnGw1   | Max. 30*                     | Max. 128                 | Max. 250                          | 650 Mbps                           | Supported     | No                 |
+| Generation1                | VpnGw2   | Max. 30*                     | Max. 128                 | Max. 500                          | 1 Gbps                             | Supported     | No                 |
+| Generation1                | VpnGw3   | Max. 30*                     | Max. 128                 | Max. 1000                         | 1.25 Gbps                          | Supported     | No                 |
+| Generation1                | VpnGw1AZ | Max. 30*                     | Max. 128                 | Max. 250                          | 650 Mbps                           | Supported     | Yes                |
+| Generation1                | VpnGw2AZ | Max. 30*                     | Max. 128                 | Max. 500                          | 1 Gbps                             | Supported     | Yes                |
+| Generation1                | VpnGw3AZ | Max. 30*                     | Max. 128                 | Max. 1000                         | 1.25 Gbps                          | Supported     | Yes                |
+| Generation2                | VpnGw2   | Max. 30*                     | Max. 128                 | Max. 500                          | 1.25 Gbps                          | Supported     | No                 |
+| Generation2                | VpnGw3   | Max. 30*                     | Max. 128                 | Max. 1000                         | 2.5 Gbps                           | Supported     | No                 |
+| Generation2                | VpnGw4   | Max. 30*                     | Max. 128                 | Max. 5000                         | 5 Gbps                             | Supported     | No                 |
+| Generation2                | VpnGw5   | Max. 30*                     | Max. 128                 | Max. 10000                        | 10 Gbps                            | Supported     | No                 |
+| Generation2                | VpnGw2AZ | Max. 30*                     | Max. 128                 | Max. 500                          | 1.25 Gbps                          | Supported     | Yes                |
+| Generation2                | VpnGw3AZ | Max. 30*                     | Max. 128                 | Max. 1000                         | 2.5 Gbps                           | Supported     | Yes                |
+| Generation2                | VpnGw4AZ | Max. 100*                    | Max. 128                 | Max. 5000                         | 5 Gbps                             | Supported     | Yes                |
+| Generation2                | VpnGw5AZ | Max. 100*                    | Max. 128                 | Max. 10000                        | 10 Gbps                            | Supported     | Yes                |
+|                            |          |                              |                          |                                   |                                    |               |                    |
 
 (\*) Use Virtual WAN if you need more than 30 S2S VPN tunnels.
 
 All the *VPN* SKUs can be actively resized at anytime, but the *Basic* SKU is a legacy SKU, and can not be resized.
+
+### Local Network Gateway
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/azure-local-network-gateway/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+A Local Network Gateway is a sub resource of a [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]], that represents a on-premises location for the used in tandem with a [[30 Slipbox/Azure Connection\|Azure Connection]] resource in the creation of a [[30 Slipbox/Virtual Private Network\|Virtual Private Network]] or [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] Connection.
+
+The Address Space declared can be one or more [[30 Slipbox/Network Addressing#What is CIDR Notation\|CIDR]] formatted subnets. If you plan to use this Local Network Gateway in a BGP-enabled connection, the minimum prefix to declare is the host address of your BP Peer IP address on your BPN device.
+
+
+</div></div>
+
+
+### Connection
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/azure-connection/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+A Azure Connection is a sub resource of a [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] that represents the association of a [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] and a [[30 Slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]].  
+This resource holds the configuration information for the connection, including Pre Shared Key and Public IP of the On-premises router.
+
+Azure have a validated list of standard VPN devices from device manufacturers including Cisco, Juniper, Ubiquiti, and Barracuda Networks.
+
+
+</div></div>
+F
 
 ### High Availability
 
