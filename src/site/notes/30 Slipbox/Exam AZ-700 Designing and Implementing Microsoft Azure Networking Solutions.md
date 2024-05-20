@@ -3,14 +3,12 @@
 ---
 
 
-## Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions
-
 [Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/certifications/exams/az-700/)
 
-### Modules in Learning Path
+## Modules in Learning Path
 
 [[30 Slipbox/Introduction to Azure Virtual Networks\|Introduction to Azure Virtual Networks]]  
-[[99 Inbox/Design and Implement hybrid networking\|Design and Implement hybrid networking]]  
+[[30 Slipbox/Design and Implement hybrid networking\|Design and Implement hybrid networking]]  
 [[Design and implement Azure ExpressRoute\|Design and implement Azure ExpressRoute]]  
 [[Load balance non-HTTP(S) traffic in Azure\|Load balance non-HTTP(S) traffic in Azure]]  
 [[Load balance HTTP(S) traffic in Azure\|Load balance HTTP(S) traffic in Azure]]  
