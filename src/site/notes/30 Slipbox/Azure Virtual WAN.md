@@ -61,6 +61,6 @@ The S2S capability is measured in *Gateway scale units*. Each *Gateway scale uni
 
 ## Point to Site VPN
 
-A [[30 Slipbox/Virtual Private Network#Point to Site\|Point to Site VPN]]
+A [[30 Slipbox/Virtual Private Network#Point to Site\|Point to Site VPN]] can be configured using a [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] either on deployment of the Virtual Hub or post deploy. A Point to Site VPN can use either OpenVPN Protocol, Secure Socket Tunnelling Protocol or IKEv2. Users can either be authenticated by Azure Certificates, Entra ID, or AD DS with RADIUS
 
 [^1]: Citation needed

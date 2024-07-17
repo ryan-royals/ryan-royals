@@ -7,6 +7,8 @@
 
 ### Resource Providers
 
+- **Microsoft.AAD**
+  - [[30 Slipbox/Entra Domain Services\|Entra Domain Services]]
 - **Microsoft.ApiManagement**
   - [[30 Slipbox/Azure API Management\|Azure API Management]]
 - **Microsoft.App**
@@ -22,11 +24,13 @@
 - **Microsoft.ContainerRegistry**
   - [[30 Slipbox/Azure Container Registry\|Azure Container Registry]]
 - **Microsoft.ContainerService**
-  - [[Azure Kubernetes Services\|Azure Kubernetes Services]]
+  - [[30 Slipbox/Azure Kubernetes Services\|Azure Kubernetes Services]]
 - **Microsoft.DataFactory**
   - [[30 Slipbox/Azure Data Factory\|Azure Data Factory]]
 - **Microsoft.DevCenter**
   - [[30 Slipbox/Azure Dev Box\|Azure Dev Box]]
+- **Microsoft.DesktopVirtualization**
+  - [[30 Slipbox/Azure Virtual Desktop\|Azure Virtual Desktop]]
 - **Microsoft.GuestConfiguration**
   - [[30 Slipbox/Azure Policy\|Azure Policy]]
 - **Microsoft.Insights**
@@ -53,10 +57,6 @@
 - **Microsoft.Web**
   - [[30 Slipbox/Azure App Service\|Azure App Service]]
   - [[30 Slipbox/Azure Functions Apps\|Azure Functions Apps]]
-- **Other**
-  - [[30 Slipbox/Azure Resource Group\|Azure Resource Group]]
-  - [[30 Slipbox/Azure Arc\|Azure Arc]]
-  - [[30 Slipbox/MongoDB Atlas\|MongoDB Atlas]]
 - **Microsoft.Network**
   - [[30 Slipbox/Azure Application Gateway\|Azure Application Gateway]]
   - [[30 Slipbox/Azure Virtual Network\|Azure Virtual Network]]
@@ -73,8 +73,12 @@
   - [[30 Slipbox/Azure Public IP Address Prefix\|Azure Public IP Address Prefix]]
   - [[30 Slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]]
   - [[30 Slipbox/Azure ExpressRoute\|Azure ExpressRoute]]
-  - [[30 Slipbox/Azure Virtual WAN\|Azure Virtual WAN]]u
+  - [[30 Slipbox/Azure Virtual WAN\|Azure Virtual WAN]]
   - [[30 Slipbox/Azure Route Table\|Azure Route Table]]
+- **Other**
+  - [[30 Slipbox/Azure Resource Group\|Azure Resource Group]]
+  - [[30 Slipbox/Azure Arc\|Azure Arc]]
+  - [[30 Slipbox/MongoDB Atlas\|MongoDB Atlas]]
 
 ## Tools
 

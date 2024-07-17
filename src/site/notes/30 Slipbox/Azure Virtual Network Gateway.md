@@ -176,12 +176,4 @@ Use [[30 Slipbox/Azure Monitor\|Azure Monitor]] to analyse the data collected in
 
 ## Express Route Gateway
 
-### Express Route Types
-
-#### Azure Private
-
-Connects you to your VNET
-
-#### Microsoft Peering
-
-Connects you to Microsoft services like O365, as well as Public IP ranges for Azure Regions
+An Virtual Network Gateway can be configured as a [[30 Slipbox/Azure ExpressRoute\|Azure ExpressRoute]] Gateway.
