@@ -63,6 +63,15 @@ ExpressRoute is a [[30 Slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 C
 > This section shows you how to use Azure Virtual WAN to establish an IPsec/IKE VPN connection from your on-premises network to Azure over the private peering of an Azure ExpressRoute circuit. This technique can provide an encrypted transit between the on-premises networks and Azure virtual networks over ExpressRoute, without going over the public internet or using public IP addresses.[^1]  
 ![Azure ExpressRoute-1721181255378.png](/img/user/40%20References/attachments/image/Azure%20ExpressRoute-1721181255378.png)
 
+When using a VPN over Express route, it is important to configure the networking on both sides to weigh the VPN connection more favourably, as by default they will share the same address prefixes, and the Express Route will be priorities. In Azure to ensure that the IPsec path is preferred over the direct ExpressRoute path (without IPsec), you have two options:
+
+- Advertise more specific prefixes on the VPN BGP session for the VPN-connected network. You can advertise a larger range that encompasses the VPN-connected network over ExpressRoute private peering, then more specific ranges in the VPN BGP session. For example, advertise 10.0.0.0/16 over ExpressRoute, and 10.0.1.0/24 over VPN.
+- Advertise disjoint prefixes for VPN and ExpressRoute. If the VPN-connected network ranges are disjoint from other ExpressRoute connected networks, you can advertise the prefixes in the VPN and ExpressRoute BGP sessions, respectively. For example, advertise 10.0.0.0/24 over ExpressRoute, and 10.0.1.0/24 over VPN.
+
+### Design Redundancy for an ExpressRoute Deployment
+
+Redundancy can be configured for the ExpressRoute in Azure by either **having a backup Site-to-Site connection**, or **Create a Zone redundant VNET gateway in Azure Availability Zones**.
+
 ## Footnotes
 
 [^1]: [[40 References/readwise/Explore Azure ExpressRoute - Training\|Explore Azure ExpressRoute - Training]]
