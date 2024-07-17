@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/leveraging-backlinks-in-obsidian-and-readwise-export/","tags":["rw/articles"]}
 ---
 
-# Leveraging Backlinks in Obsidian and Readwise Export
-
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:800/0*n8kDQtD_LlS-hVmR.png)
   
 URL: https://medium.com/obsidian-observer/leveraging-backlinks-in-obsidian-and-readwise-export-aebb52ffa9d4
@@ -13,7 +11,7 @@ Author: TfTHacker
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Notice how for each set of highlights exported to your vault, we get the date and the file name. While this is very similar to the previous sync notification, we have enriched the linking by directly linking each line of the sync log to the date and the document file name. Here is what the Sync Notification configuration should look like to make this happen: ([View Highlight] (https://read.readwise.io/read/01h6jyc5msmnceyd8xzqy5ne0d))
 
 

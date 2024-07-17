@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/bringing-enterprise-level-security-and-even-more-power-to-git-hub-hosted-runners/","tags":["rw/articles"]}
 ---
 
-# Bringing Enterprise-Level Security and Even More Power to GitHub-hosted Runners
-
 ![rw-book-cover](https://github.blog/wp-content/uploads/2024/04/Enterprise-LightMode-3.png)
   
 URL: https://github.blog/2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners/
@@ -13,7 +11,7 @@ Author: Tanmayee Kamath
 
 GitHub has introduced Azure private networking for GitHub-hosted runners, enhancing enterprise security and power. This allows for secure access to private resources and enables network security policies for GitHub-hosted runners. Additionally, new runner SKUs, including GPU runners, are now available to support various use cases like machine learning and game development.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Today, we unveil the next chapter by generalizing Azure private networking, ensuring all runner tiers, starting from our 2-vCPU runners, now support auto-scaling, static IPs and private networking capabilities. ([View Highlight] (https://read.readwise.io/read/01htxzsrn04h826pew156tqqn9))
 
 

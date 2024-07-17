@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/actually-getting-things-done-with-obsidian-checklist-plugin/","tags":["rw/articles"]}
 ---
 
-# Actually getting things done with Obsidian // Checklist plugin
-
 ![rw-book-cover](https://i.ytimg.com/vi/ODhHTngIMJE/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=ODhHTngIMJE
@@ -28,7 +26,7 @@ Checklist plugin: https://github.com/delashum/obsidian-checklist-plugin
 3:59 Installing and setting up the Obsidian Checklist plugin
 4:48 Primer on GTD task mana...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >is Next Action, Waiting For,and Some Day Maybe ([View Highlight] (https://read.readwise.io/read/01gy66ayh9j26hcxekdtqyjy6s))
 
 

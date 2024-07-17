@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/","tags":["rw/articles"]}
 ---
 
-# Bring your own IP addresses (BYOIP) to Azure with Custom IP Prefix
-
 ![rw-book-cover](https://azure.microsoft.com/en-us/blog/wp-content/uploads/2022/03/f216b134-24a6-4a59-bb9a-5e276aa67e77.webp)
   
 URL: https://azure.microsoft.com/en-us/blog/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/
@@ -13,7 +11,7 @@ Author: Brian Lehr
 
 You can now bring your own public IP addresses to Azure using the Custom IP Prefix resource. This feature allows you to retain existing IP addresses and integrate them with Azure resources. Onboarding IP ranges can be done through various methods, and you are not charged for hosting the onboarded IP addresses.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Using the [Custom IP Prefix resource](https://docs.microsoft.com/azure/virtual-network/ip-services/custom-ip-address-prefix), you can now bring your own public IPv4 ranges to Azure and use them like any other Azure-owned public IP ranges. Once onboarded, these IPs can be associated with Azure resources, interact with private IPs and VNETs within Azure’s network, and reach external destinations by egressing from Microsoft’s Wide Area Network. ([View Highlight] (https://read.readwise.io/read/01hwvzwh578rhtf0p2neh3new7))
 
 

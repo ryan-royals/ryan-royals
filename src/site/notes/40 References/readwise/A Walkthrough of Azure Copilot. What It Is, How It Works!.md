@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/a-walkthrough-of-azure-copilot-what-it-is-how-it-works/","tags":["rw/articles"]}
 ---
 
-# A Walkthrough of Azure Copilot. What It Is, How It Works!
-
 ![rw-book-cover](https://i.ytimg.com/vi/-qZZnwgb2ss/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=-qZZnwgb2ss
@@ -43,7 +41,7 @@ Useful associated videos:
 🥇 Certification Content Repository
 ...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Microsoft being very careful about is when it's exposing functionality that can actually modify or delete things they want to make sure the right guard rails are in place the right checks the right confirmations are in place so we don't do harm through these natural language interactions so the whole point that these are put in all of the right guard rails
 >confirmations etc etc around anything ([View Highlight] (https://read.readwise.io/read/01hgvhgjaqfh25cba1ybzp9gq7))
 

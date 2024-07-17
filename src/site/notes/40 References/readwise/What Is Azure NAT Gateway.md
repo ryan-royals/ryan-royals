@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-azure-nat-gateway/","tags":["rw/articles"]}
 ---
 
-# What Is Azure NAT Gateway?
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
   
 URL: https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview
@@ -13,7 +11,7 @@ Author: asudbring
 
 Overview of Azure NAT Gateway features, resources, architecture, and implementation. Learn how Azure NAT Gateway works and how to use NAT gateway resources in Azure.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure NAT Gateway is a fully managed and highly resilient Network Address Translation (NAT) service. You can use Azure NAT Gateway to let all instances in a private subnet connect outbound to the internet while remaining fully private. Unsolicited inbound connections from the internet aren't permitted through a NAT gateway. Only packets arriving as response packets to an outbound connection can pass through a NAT gateway.
 >NAT Gateway provides dynamic SNAT port functionality to automatically scale outbound connectivity and reduce the risk of SNAT port exhaustion. ([View Highlight] (https://read.readwise.io/read/01h9fwryafshg9wsnnjh9c6tj0))
 

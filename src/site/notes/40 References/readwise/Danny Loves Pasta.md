@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/danny-loves-pasta/","tags":["rw/books"]}
 ---
 
-# Danny Loves Pasta
-
 ![rw-book-cover](https://books.google.com/books/content?id=PNWOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=public)
   
 Author: Danny Freeman
@@ -12,7 +10,7 @@ Author: Danny Freeman
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >1. Combine the flours in a pile on a flat work surface or in a large bowl. Make a deep well in the middle.
 >2. Crack the eggs into the well and use a fork to scramble them. Pull in a little bit of flour from the bottom of the well and mix it with the eggs until most of the lumps are gone.
 >3. Drag in flour from the edges of your well and incorporate with the Keep incorporating more and more of the flour and eggs until the mixture becomes difficult to stir with a fork.

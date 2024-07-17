@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/obsidian-and-gtd/","tags":["rw/articles"]}
 ---
 
-# Obsidian and GTD
-
 ![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2023/01/jeroen-den-otter-1SA__aN_I2U-unsplash-1.jpeg)
   
 URL: https://obsidian.rocks/obsidian-and-gtd/
@@ -13,7 +11,7 @@ Author: Timothy Miller
 
 Obsidian and GTD. At first glance, it may seem like these two systems have nothing in common. One is a tool for taking notes, the other is a system for tracking and completing tasks. Two different things, right? GTD is a controversial subject in its own right. For some GTD is too complex, for others, […]
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >There are five core steps to GTD:
 >• Collect
 >• Process

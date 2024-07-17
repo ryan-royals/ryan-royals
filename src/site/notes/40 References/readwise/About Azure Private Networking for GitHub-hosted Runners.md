@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/about-azure-private-networking-for-git-hub-hosted-runners/","tags":["rw/articles"]}
 ---
 
-# About Azure Private Networking for GitHub-hosted Runners
-
 ![rw-book-cover](https://github.githubassets.com/images/modules/open_graph/github-logo.png)
   
 URL: https://docs.github.com/en/organizations/managing-organization-settings/about-azure-private-networking-for-github-hosted-runners-in-your-organization
@@ -13,7 +11,7 @@ Author: GitHub Docs
 
 You can connect GitHub-hosted runners to an Azure VNET for more control over networking policies. This setup allows private connections without opening internet ports and supports Ubuntu and Windows runners. Configuring Azure private networking is necessary to manage access and monitor network traffic for GitHub-hosted runners.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >2-64 vCPU Ubuntu and Windows runners are supported with Azure VNET. For more information on these runner types, see "[About larger runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-larger-runners/about-larger-runners#about-ubuntu-and-windows-larger-runners)."
 >Private networking for GitHub-hosted runners does not support static IP addresses for larger runners. You must use dynamic IP addresses, which is the default configuration for larger runners. For more information about networking for larger runners, see "[About larger runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-larger-runners/about-larger-runners#networking-for-larger-runners)." ([View Highlight] (https://read.readwise.io/read/01hty02g4kjfbtheg2zztcvb3v))
 

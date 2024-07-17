@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/maps-of-content-effortless-organization-for-notes-obsidian-rocks/","tags":["rw/articles"]}
 ---
 
-# Maps of Content: Effortless organization for notes - Obsidian Rocks
-
 ![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2023/03/geojango-maps-Z8UgB80_46w-unsplash.jpg)
   
 URL: https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/
@@ -13,7 +11,7 @@ Author: obsidian.rocks
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >One of the biggest hurdles that you must overcome in order to take good notes is *organization*. The more notes you take, the harder it is to find things when you need them. ([View Highlight] (https://read.readwise.io/read/01gydvnexb5h3wb9nbqmykj4h8))
 
 

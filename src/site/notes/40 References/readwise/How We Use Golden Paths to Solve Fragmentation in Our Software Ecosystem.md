@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/","tags":["rw/articles"]}
 ---
 
-# How We Use Golden Paths to Solve Fragmentation in Our Software Ecosystem
-
 ![rw-book-cover](https://storage.googleapis.com/production-eng/1/2020/08/8d67f977-golden-paths_01b.png)
   
 URL: https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/
@@ -13,7 +11,7 @@ Author: Gary Niemen
 
 “His spice-induced visions show him a myriad of possible futures where humanity has become extinct and only one where humanity survives. He names this future ‘The Golden Path’ and resolves to bring it to fruition.” The above is a snippet taken from a Fandom summary of Frank Herbert’s 1976 science fiction novel, Children of Dune. [...]
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Rolling back six or so years, Spotify was (and still is) committed to an agile engineering culture with autonomous teams. With all the advantages that brings, it also brought forth complexities, including a fragmented ecosystem of developer tooling where the only way to find out how to do something was to ask your colleague. ‘Rumour-driven development’, we endearingly called it. ([View Highlight] (https://read.readwise.io/read/01h7184p8knscw3wsygq4b80am))
 
 

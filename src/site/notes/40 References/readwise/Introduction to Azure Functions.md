@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/introduction-to-azure-functions/","tags":["rw/articles"]}
 ---
 
-# Introduction to Azure Functions
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview
@@ -13,7 +11,7 @@ Author: ggailey777
 
 Learn how Azure Functions can help build robust serverless apps.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure Functions is a serverless solution ([View Highlight] (https://read.readwise.io/read/01gzwxtdk1nwf4mkxwpa0htjy1))
 
 

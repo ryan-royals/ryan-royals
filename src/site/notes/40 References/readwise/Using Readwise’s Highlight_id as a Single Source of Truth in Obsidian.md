@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/using-readwise-s-highlight-id-as-a-single-source-of-truth-in-obsidian/","tags":["rw/articles"]}
 ---
 
-# Using Readwise’s Highlight_id as a Single Source of Truth in Obsidian
-
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:800/0*HBhv7hIzbYVZv4z-.png)
   
 URL: https://medium.com/p/b1de98a8b87c
@@ -13,7 +11,7 @@ Author: TfTHacker
 
 The Readwise service allows you to export your highlights to various tools like Obsidian, Roam, Notion, and more. The export can be…
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >- {{ highlight_text }}{% if highlight_location and highlight_location_url %} ([{{highlight_location}}]({{highlight_location_url}})){% elif highlight_location %} ({{highlight_location}}){% endif %}
 { #rw}
 {{highlight_id}}{% if highlight_tags %} 

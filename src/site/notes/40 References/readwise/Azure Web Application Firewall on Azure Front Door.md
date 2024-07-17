@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-web-application-firewall-on-azure-front-door/","tags":["rw/articles"]}
 ---
 
-# Azure Web Application Firewall on Azure Front Door
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_OuOwLI6.png)
   
 URL: https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview
@@ -13,7 +11,7 @@ Author: vhorne
 
 Learn how Azure web application firewall on Azure Front Door service protects your web applications from malicious attacks.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure Web Application Firewall (WAF) on Azure Front Door provides centralized protection for your web applications. WAF defends your web services against common exploits and vulnerabilities. It keeps your service highly available for your users and helps you meet compliance requirements. ([View Highlight] (https://read.readwise.io/read/01h3bg4c8aysrqxytje5pq3nq2))
 
 

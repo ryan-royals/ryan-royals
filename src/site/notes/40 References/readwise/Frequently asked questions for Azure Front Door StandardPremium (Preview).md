@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/frequently-asked-questions-for-azure-front-door-standard-premium-preview/","tags":["rw/articles"]}
 ---
 
-# Frequently asked questions for Azure Front Door Standard/Premium (Preview)
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_ekGnDHw.png)
   
 URL: https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/faq
@@ -13,7 +11,7 @@ Author: duongau
 
 This page provides answers to frequently asked questions about Azure Front Door Standard/Premium.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >[](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/faq#how-do-i-lock-down-the-access-to-my-backend-to-only-azure-front-door)How do I lock down the access to my backend to only Azure Front Door?
 >The best way to lock down your application to accept traffic only from your specific Front Door instance is to publish your application via Private Endpoint. Network traffic between Front Door and the application traverses over the VNet and a Private Link on the Microsoft backbone network, eliminating exposure from the public internet.
 >Learn more about the [securing origin for Front Door with Private Link](https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/faq/../private-link).

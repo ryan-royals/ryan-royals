@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-take-smart-notes-in-obsidian/","tags":["rw/articles"]}
 ---
 
-# How to Take Smart Notes in Obsidian
-
 ![rw-book-cover](https://substackcdn.com/image/youtube/w_728,c_limit/o_pq43WzeEo)
   
 URL: https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian
@@ -13,7 +11,7 @@ Author: Josh Duffney
 
 A Zettelkasten Tutorial
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >**Writing is The Only Thing that Matters**: Thinking through the medium of writing will improve your reading, thinking, and other intellectual skills. And so this principle implies you must consume information with the purpose of writing about it. ([View Highlight] (https://read.readwise.io/read/01gydvanc43005bztcf6rnzy9f))
 
 

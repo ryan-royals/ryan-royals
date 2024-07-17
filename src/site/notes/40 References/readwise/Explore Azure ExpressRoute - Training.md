@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/explore-azure-express-route-training/","tags":["rw/articles"]}
 ---
 
-# Explore Azure ExpressRoute - Training
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
   
 URL: https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/2-explore
@@ -13,7 +11,7 @@ Author: wwlpublish
 
 ExpressRoute enables private connections to Azure services with higher reliability and faster speeds compared to typical internet connections. It allows organizations to extend their on-premises networks securely into the Microsoft cloud. By using ExpressRoute, businesses can create fast and reliable connections for data migration, replication, disaster recovery, and high-availability strategies.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to various Microsoft cloud services, such as Microsoft Azure and Microsoft 365. Connectivity can be from an any-to-any (IP VPN) network, a point-to-point Ethernet network, or a virtual cross-connection through a connectivity provider at a colocation facility. Since ExpressRoute connections do not go over the public Internet, this approach allows ExpressRoute connections to offer more reliability, faster speeds, consistent latencies, and higher security. ([View Highlight] (https://read.readwise.io/read/01j2z38smbsez5460nmqfrqtvs))
 
 

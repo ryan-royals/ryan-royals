@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/backup-cloud-and-on-premises-workloads-to-cloud/","tags":["rw/articles"]}
 ---
 
-# Backup Cloud and on-Premises Workloads to Cloud
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/backup/guidance-best-practices
@@ -13,7 +11,7 @@ Author: jyothisuri
 
 Discover the best practices and guidance for backing up cloud and on-premises workload to the cloud
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure Backup comprehensively protects your data assets in Azure through a simple, secure, and cost-effective solution that requires zero-infrastructure. ([View Highlight] (https://read.readwise.io/read/01gzmtbbskctan5keyztrmmdj3))
 
 

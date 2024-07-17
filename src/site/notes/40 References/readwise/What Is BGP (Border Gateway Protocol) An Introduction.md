@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-bgp-border-gateway-protocol-an-introduction/","tags":["rw/articles"]}
 ---
 
-# What Is BGP (Border Gateway Protocol)? An Introduction
-
 ![rw-book-cover](https://i.ytimg.com/vi/A1KXPpqlNZ4/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=A1KXPpqlNZ4
@@ -25,7 +23,7 @@ Subscribe to Eye on Tech: https://www.youtube.com/EyeOnTech
 Stay up on the latest networking news: https://www.techtarget.com/searchnetworking/
 Follow us on Twitter: ...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Border Gateway Protocol is the routing protocol that connects the entire internet ([View Highlight] (https://read.readwise.io/read/01h7s2b1x5w8stknjkpsxjfbpk))
 
 

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/use-azure-front-door-in-a-multitenant-solution/","tags":["rw/articles"]}
 ---
 
-# Use Azure Front Door in a Multitenant Solution
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door
@@ -13,7 +11,7 @@ Author: Raj Nemani
 
 Learn about the features of Azure Front Door that are useful when you work in multitenant solutions.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Wildcard domains simplify the configuration of DNS records and Azure Front Door traffic routing configuration when you use a shared stem domain and tenant-specific subdomains. For example, suppose your tenants access their applications by using subdomains like `tenant1.app.contoso.com` and `tenant2.app.contoso.com`. You can configure a wildcard domain, `*.app.contoso.com`, instead of configuring each tenant-specific domain individually. ([View Highlight] (https://read.readwise.io/read/01h4fw00jbevcbn9b8mvwnm09n))
 
 

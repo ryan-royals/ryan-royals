@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/a-comprehensive-guide-to-testing-in-terraform-keep-your-tests-validations-checks-and-policies-in-order/","tags":["rw/articles"]}
 ---
 
-# A Comprehensive Guide to Testing in Terraform: Keep Your Tests, Validations, Checks, and Policies in Order
-
 ![rw-book-cover](https://mattias.engineer/img/favicon/blue.png)
   
 URL: https://mattias.engineer/posts/terraform-testing-and-validation/?mkt_tok=ODQ1LVpMRi0xOTEAAAGPci3QK6rMcySFH5kuD1iyw76fNRV2XYgAFnm6ymmeswiTB1sRRSni7ILSh_1pOE8qIzA4b3R48LO9lePo2iZZdt72i0_Bf4Hdztp-kUpwkD6gXmo
@@ -13,7 +11,7 @@ Author: mattias.engineer a blog about cloud architecture and development
 
 You have many options to use when it comes to testing and validating your Terraform configurations and modules. The newest addition to these options is the native Terraform testing framework. This in combination with custom conditions, check blocks, and policies allow for creating robust infrastructure-as-code. This post is a comprehensive guide to testing and validation in Terraform.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >. These constrains could be to limit the length of a supplied string to less than ten characters, or to restrict the allowed values of a variable to a predefined list of values. Resources and data sources have the `lifecycle` block where you can add `precondition` and `postcondition` blocks to validate things before, and after, running an apply, respectively. Similarly, you can add `precondition` blocks to your `output` blocks, to validate something about the output value. ([View Highlight] (https://read.readwise.io/read/01hg6s3461nma2q6d635xgnarh))
 
 

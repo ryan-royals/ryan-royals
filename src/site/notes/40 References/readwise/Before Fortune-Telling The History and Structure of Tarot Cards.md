@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/before-fortune-telling-the-history-and-structure-of-tarot-cards/","tags":["rw/articles"]}
 ---
 
-# Before Fortune-Telling: The History and Structure of Tarot Cards
-
 ![rw-book-cover](http://www.metmuseum.org/-/media/images/blogs/in-season/2016/world-in-play/post-6/queen-of-swords.jpg?sc_lang=en)
   
 URL: https://www.metmuseum.org/blogs/in-season/2016/tarot
@@ -13,7 +11,7 @@ Author: The Metropolitan Museum of Art
 
 Curator Tim Husband reveals the origins and structure of two tarot decks featured in the exhibition The World in Play: Luxury Cards, 1430–1540.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >By the middle of the 15th century, the suit symbols of Italian cards were Cups, Swords, Batons, and Coins, and they remain so to this day. The pip cards were conventionally organized, with the repetition of the symbol indicating the value. In tarot cards, however, 21 trump cards, or *tarocchi*, were added, and these were figural, as in *[The Courtly Household Cards](https://www.metmuseum.org/blogs/in-season/2016/hunt-and-house)*, with the fool at the bottom leading up to the emperor and pope at the top. ([View Highlight] (https://read.readwise.io/read/01h60rfx0kcnf9tebr40ztky15))
 
 

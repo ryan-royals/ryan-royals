@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/virtual-network-traffic-routing/","tags":["rw/articles"]}
 ---
 
-# Virtual network traffic routing
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_mbgC5tW.png)
   
 URL: https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
@@ -13,7 +11,7 @@ Author: asudbring
 
 Learn how Azure routes virtual network traffic, and how you can customize Azure's routing.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >System routes
 >Azure automatically creates system routes and assigns the routes to each subnet in a virtual network. You can't create system routes, nor can you remove system routes, but you can override some system routes with [custom routes](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview#custom-routes). Azure creates default system routes for each subnet, and adds more [optional default routes](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview#optional-default-routes) to specific subnets, or every subnet, when you use specific Azure capabilities.
 >[](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview#default)Default

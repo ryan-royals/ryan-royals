@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-forte-labs/","tags":["rw/articles"]}
 ---
 
-# Progressive Summarization: A Practical Technique for Designing Discoverable Notes - Forte Labs
-
 ![rw-book-cover](https://i0.wp.com/fortelabs.com/wp-content/uploads/2017/12/1vTBT177SuhcgBEdPJwT9lA.jpeg?fit=704%2C282&ssl=1)
   
 URL: https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/
@@ -13,7 +11,7 @@ Author: fortelabs.com
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Modern digital tools make it easy to “capture” information from a wide variety of sources. We know how to snap a picture, type out some notes, record a video, or scan a document. Getting this content from the outside world into the digital world is trivial. ([View Highlight] (https://read.readwise.io/read/01h90e5qdgm9407zkrtwq4fwjv))
 
 

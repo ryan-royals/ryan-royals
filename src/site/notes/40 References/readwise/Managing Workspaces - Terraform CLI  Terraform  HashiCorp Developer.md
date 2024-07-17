@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/managing-workspaces-terraform-cli-terraform-hashi-corp-developer/","tags":["rw/articles"]}
 ---
 
-# Managing Workspaces - Terraform CLI | Terraform | HashiCorp Developer
-
 ![rw-book-cover](https://developer.hashicorp.com/og-image/terraform.jpg)
   
 URL: https://developer.hashicorp.com/terraform/cli/workspaces
@@ -13,7 +11,7 @@ Author: State: Workspaces | Terraform | HashiCorp Developer
 
 Workspaces allow the use of multiple states with a single configuration directory.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Workspaces in the Terraform CLI refer to separate instances of [state data](https://developer.hashicorp.com/terraform/language/state) inside the same Terraform working directory. ([View Highlight] (https://read.readwise.io/read/01h4mwkzdbdzn5yhk5nb229zac))
 
 

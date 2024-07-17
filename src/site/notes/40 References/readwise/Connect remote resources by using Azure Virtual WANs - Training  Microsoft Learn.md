@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/connect-remote-resources-by-using-azure-virtual-wa-ns-training-microsoft-learn/","tags":["rw/articles"]}
 ---
 
-# Connect remote resources by using Azure Virtual WANs - Training | Microsoft Learn
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/6-connect-remote-resources-by-using-azure-virtual-wans
@@ -13,7 +11,7 @@ Author: wwlpublish
 
 Azure Virtual WAN is a networking service that connects resources for distributed workforces. It combines various networking features like VPNs and routing functionalities. Virtual hubs play a key role in connecting different networks and enabling secure communication.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >What is Azure Virtual WAN?
 >Azure Virtual WAN is a networking service that brings many networking, security, and routing functionalities together to provide a single operational interface. Some of the main features include:
 >• Branch connectivity (via connectivity automation from Virtual WAN Partner devices such as SD-WAN or VPN CPE).

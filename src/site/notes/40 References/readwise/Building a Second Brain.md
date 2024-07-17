@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/building-a-second-brain/","tags":["rw/books"]}
 ---
 
-# Building a Second Brain
-
 ![rw-book-cover](https://m.media-amazon.com/images/I/71-C-CsboJL._SY160.jpg)
   
 Author: Tiago Forte
@@ -12,7 +10,7 @@ Author: Tiago Forte
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >To be able to make use of information we value, we need a way to package it up and send it through time to our future self. We need a way to cultivate a body of knowledge that is uniquely our own, so when the opportunity arises—whether changing jobs, giving a big presentation, launching a new product, or starting a business or a family—we will have access to the wisdom we need to make good decisions and take the most effective action. It all begins with the simple act of writing things down. ([Location 60] (https://readwise.io/to_kindle?action=open&asin=B09MDNDYYF&location=60))
 
 

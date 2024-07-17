@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-synapse-private-link-hub-implementation-guidance/","tags":["rw/articles"]}
 ---
 
-# Azure Synapse - Private Link Hub - Implementation Guidance
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
   
 Author: Ryan Royals
@@ -12,7 +10,7 @@ Author: Ryan Royals
 
 We recently did a bit of a deep dive on Azure Synapse Private Link Hub for private connectivity to Azure Synapse. Particularly with regard to customers with multiple workspaces.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >We recently did a bit of a deep dive on Azure Synapse Private Link Hub for private connectivity to Azure Synapse. Particularly with regard to customers with multiple workspaces. The key take aways are:
 >• Azure Synapse Private Link Hub is not at all tied to a Workspace
 >• When you create a private link from the hub, it gives you a private IP address and private DNS record for **web.azuresynapse.net** portal.

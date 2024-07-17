@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-process-notes-in-obsidian-readwise-official-obsidian-plugin/","tags":["rw/articles"]}
 ---
 
-# How to Process Notes in Obsidian // Readwise Official Obsidian Plugin
-
 ![rw-book-cover](https://i.ytimg.com/vi/Rw1L5sxlnuU/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=Rw1L5sxlnuU&t=77s
@@ -41,7 +39,7 @@ Site: https://nicolevanderhoeven.com
 Mastodon: https://pkm.social/@nicole
 My tr...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >YouTube videos, books, web articles, tweets, and also PDFs.And my desired end stateis to somehow distill all my learnings from theseinto my note taking tool, which is Obsidia ([View Highlight] (https://read.readwise.io/read/01gy8q99an2cyh4m13qqrx3j0r))
 
 

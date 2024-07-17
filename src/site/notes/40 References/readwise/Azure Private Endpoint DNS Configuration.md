@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-private-endpoint-dns-configuration/","tags":["rw/articles"]}
 ---
 
-# Azure Private Endpoint DNS Configuration
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns
@@ -13,7 +11,7 @@ Author: asudbring
 
 Learn about Azure Private Endpoint DNS configuration.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >It's important to correctly configure your DNS settings to resolve the private endpoint IP address to the fully qualified domain name (FQDN) of the connection string. ([View Highlight] (https://read.readwise.io/read/01h0efwbchgkh9gdka5xxf2p7g))
 
 

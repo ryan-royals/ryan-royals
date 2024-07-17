@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/converting-ip-addresses-into-binary/","tags":["rw/articles"]}
 ---
 
-# Converting IP Addresses Into Binary
-
 ![rw-book-cover](https://cdn.networkacademy.io/sites/default/files/2022-04/converting-ip-addresses-to-binary.png)
   
 URL: https://www.networkacademy.io/ccna/ip-subnetting/converting-ip-addresses-into-binary
@@ -13,7 +11,7 @@ Author: NetworkAcademy.io
 
 In this lesson, we will learn a technique called the positional notation method. The value of each digit in a binary number is determined by its position in the table. The sum of all these column values for each digit gives the decimal representation of the binary number.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Routers and switches see IP addresses like this:
 >110000.10101000.00000001.00101101
 >However, we humans find it hard to work and remember binary numbers. That is why we work and write IP addresses in decimal representation that looks like this:

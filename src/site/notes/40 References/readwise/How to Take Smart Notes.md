@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-take-smart-notes/","tags":["rw/articles"]}
 ---
 
-# How to Take Smart Notes
-
 ![rw-book-cover](https://i.ytimg.com/vi/5O46Rqh5zHE/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=5O46Rqh5zHE
@@ -32,7 +30,7 @@ We'll cover the 3 things that make smart notes smart, and techniques like Q/E/C 
 01:23 1/ active smart notes
 03:14 2/ atomic smart n...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >qec stands for question evidence andconclusion ([View Highlight] (https://read.readwise.io/read/01hfwj3v8w7fjqm9wqva5dvxd0))
 
 

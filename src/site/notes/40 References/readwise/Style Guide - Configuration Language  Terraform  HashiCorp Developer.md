@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/style-guide-configuration-language-terraform-hashi-corp-developer/","tags":["rw/articles"]}
 ---
 
-# Style Guide - Configuration Language | Terraform | HashiCorp Developer
-
 ![rw-book-cover](https://developer.hashicorp.com/og-image/terraform.jpg)
   
 URL: https://developer.hashicorp.com/terraform/language/style
@@ -13,7 +11,7 @@ Author: Style Guide - Configuration Language | Terraform | HashiCorp Developer
 
 Terraform's configuration language offers flexibility for writing code and structuring directories. Adopting a style guide helps maintain readability and consistency. Following recommended style conventions improves code maintenance and organization.
 
-## Highlights added July 17, 2024 at 10:57 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Use `count` and `for_each` sparingly. ([View Highlight] (https://read.readwise.io/read/01hv5qypqwqfpm438fm5eeh4e9))
 
 

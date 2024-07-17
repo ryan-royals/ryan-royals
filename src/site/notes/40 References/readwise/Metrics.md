@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/metrics/","tags":["rw/articles"]}
 ---
 
-# Metrics
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
   
 URL: https://en.wikipedia.org/wiki/Metrics_(networking)
@@ -13,7 +11,7 @@ Author: wikipedia.org
 
 Router metrics are configuration values used by a router to make routing decisions. A metric is typically one of many fields in a routing table.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >**Router metrics** are configuration values used by a [router](https://en.wikipedia.org/wiki/Router_(computing)) to make routing decisions. A *metric* is typically one of many fields in a [routing table](https://en.wikipedia.org/wiki/Routing_table). Router metrics help the router choose the best route among multiple feasible routes to a destination. The route will go in the direction of the gateway with the lowest metric. ([View Highlight] (https://read.readwise.io/read/01h8kbp2bnn92509sms2aw99kq))
 
 

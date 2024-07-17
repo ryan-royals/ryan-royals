@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/maturing-your-terraform-workflow/","tags":["rw/articles"]}
 ---
 
-# Maturing Your Terraform Workflow
-
 ![rw-book-cover](https://www.hashicorp.com/favicon.svg)
   
 URL: https://www.hashicorp.com/blog/maturing-your-terraform-workflow
@@ -13,7 +11,7 @@ Author: Morgan Peat
 
 These guidelines can help organizations mature their use of HashiCorp Terraform modules for scale and a faster release cadence.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Two anti-patterns often arise as organizations increase the use of their platform and start to scale: first module proliferation, then mega-modules. ([View Highlight] (https://read.readwise.io/read/01h717a5dcxqgncrd74hz1drcj))
 
 

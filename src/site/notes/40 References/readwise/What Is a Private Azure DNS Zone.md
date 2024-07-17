@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-a-private-azure-dns-zone/","tags":["rw/articles"]}
 ---
 
-# What Is a Private Azure DNS Zone
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/dns/private-dns-privatednszone
@@ -13,7 +11,7 @@ Author: greg-lindsay
 
 Overview of a private DNS zone
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure Private DNS provides a reliable, secure DNS service to manage and resolve domain names in a virtual network without the need to add a custom DNS solution ([View Highlight] (https://read.readwise.io/read/01h0efv199revzvccvem4h4ppn))
 
 

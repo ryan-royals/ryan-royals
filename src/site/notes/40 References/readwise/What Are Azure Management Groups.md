@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-are-azure-management-groups/","tags":["rw/articles"]}
 ---
 
-# What Are Azure Management Groups?
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_pyD5ldb.png)
   
 URL: https://learn.microsoft.com/en-us/azure/governance/management-groups/overview
@@ -13,7 +11,7 @@ Author: tfitzmac
 
 Learn about the management groups, how their permissions work, and how to use them.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >*Management groups* provide a governance scope above subscriptions. ([View Highlight] (https://read.readwise.io/read/01h181whwptgbh9fzkq0tj56pt))
 
 

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-azure-front-door/","tags":["rw/articles"]}
 ---
 
-# What is Azure Front Door?
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_iGQZ1il.png)
   
 URL: https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview
@@ -13,7 +11,7 @@ Author: duongau
 
 This article provides an overview of Azure Front Door.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Whether you’re delivering content and files or building global apps and APIs, Azure Front Door can help you deliver higher availability, lower latency, greater scale, and more secure experiences to your users wherever they are. ([View Highlight] (https://read.readwise.io/read/01h3vb7dmsv04w5012r4t88gkv))
 
 

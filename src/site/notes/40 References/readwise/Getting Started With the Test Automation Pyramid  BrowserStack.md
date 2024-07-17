@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/getting-started-with-the-test-automation-pyramid-browser-stack/","tags":["rw/articles"]}
 ---
 
-# Getting Started With the Test Automation Pyramid | BrowserStack
-
 ![rw-book-cover](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/10/How-to-jumpstart-a-Test-Automation-Pyramid.png)
   
 URL: https://www.browserstack.com/guide/testing-pyramid-for-test-automation
@@ -13,7 +11,7 @@ Author: BrowserStack
 
 The text discusses the Test Automation Pyramid, which includes manual testing, test automation, and management & optimization. It covers topics like browser automation, accessibility testing, visual testing, and automation without coding. The pyramid aims to help teams improve their testing efficiency and effectiveness.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Unit tests form the base of the test automation pyramid. They test individual components or functionalities to validate that it works as expected in isolated conditions. It is essential to run several scenarios in unit tests – happy path, error handling, etc. ([View Highlight] (https://read.readwise.io/read/01j27z64n4xct8aj5kqjg38zs4))
 
 

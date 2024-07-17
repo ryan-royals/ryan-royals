@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/web-application-firewall-drs-rule-groups-and-rules/","tags":["rw/articles"]}
 ---
 
-# Web Application Firewall DRS rule groups and rules
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image_aXYwgYv.png)
   
 URL: https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs?tabs=drs21#drs99001-21
@@ -13,7 +11,7 @@ Author: vhorne
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Note
 >When you review your WAF's logs, you might see rule ID 949110. The description of the rule might include *Inbound Anomaly Score Exceeded*.
 >This rule indicates that the total anomaly score for the request exceeded the maximum allowable score. For more information, see [Anomaly scoring](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs?tabs=drs21#anomaly-scoring-mode).

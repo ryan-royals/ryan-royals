@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/get-in-the-landing-zone-with-terraform-on-azure/","tags":["rw/articles"]}
 ---
 
-# Get in the (Landing) Zone With Terraform on Azure
-
 ![rw-book-cover](https://i.ytimg.com/vi/mXJiVCbWc6g/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=mXJiVCbWc6g&t=904s
@@ -21,7 +19,7 @@ For hands-on interactive labs, visit HashiCorp Developer → https://developer.h
 
 HashiCo...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >available uh not just in terraform but bicep and click Ops ([View Highlight] (https://read.readwise.io/read/01hdq58ybyc0c5d5e0v7a2pjsh))
 
 

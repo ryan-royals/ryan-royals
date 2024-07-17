@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/taking-notes-from-you-tube-videos-in-obsidian/","tags":["rw/articles"]}
 ---
 
-# Taking Notes From YouTube Videos in Obsidian
-
 ![rw-book-cover](https://i.ytimg.com/vi/qjWq4ck2-0o/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=qjWq4ck2-0o
@@ -37,7 +35,7 @@ Site: https://nicolevanderhoeven.com
 Mastodon: https://pkm.social/@nicole
 My travel...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >in media extended,I can also get timestampedfrom player and you'll see that I alreadyhad previously saved this to have a hot key of control ([View Highlight] (https://read.readwise.io/read/01gz4xmm76b9vdgrrj2th1s6wg))
 
 

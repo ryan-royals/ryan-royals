@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/administrative-distance/","tags":["rw/articles"]}
 ---
 
-# Administrative Distance
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
   
 URL: https://en.wikipedia.org/wiki/Administrative_distance
@@ -13,7 +11,7 @@ Author: wikipedia.org
 
 Administrative distance (AD) or route preference[1] is a number of arbitrary unit assigned to dynamic routes, static routes and directly-connected routes.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >The administrative distance (AD) value is assigned by the [router](https://en.wikipedia.org/wiki/Router_(computing)) on a per-protocol basis. ([View Highlight] (https://read.readwise.io/read/01h8kb42rh4k6vfdvtxaypzt38))
 
 

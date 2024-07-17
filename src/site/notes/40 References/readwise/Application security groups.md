@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/application-security-groups/","tags":["rw/articles"]}
 ---
 
-# Application security groups
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
   
 URL: https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups
@@ -13,7 +11,7 @@ Author: asudbring
 
 Learn about the use of application security groups.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >![](https://learn.microsoft.com/en-us/azure/virtual-network/media/security-groups/application-security-groups.png) ([View Highlight] (https://read.readwise.io/read/01h9ktj9gskch896x3rx4w9cr5))
 
 

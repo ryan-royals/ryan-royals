@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/front-door-routing-limits/","tags":["rw/articles"]}
 ---
 
-# Front Door routing limits
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_e3f1AZW.png)
   
 URL: https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits
@@ -13,7 +11,7 @@ Author: johndowns
 
 This article helps you understand the composite limits around routing for Azure Front Door.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Each Front Door profile has a *composite route limit*.
 >Your Front Door profile's composite route metric is derived from the number of routes, as well as the front end domains, protocols, and paths associated with that route.
 >The composite route metric for each Front Door profile can't exceed 5000. ([View Highlight] (https://read.readwise.io/read/01h4fx63z49nwatr99e5y8fcsn))

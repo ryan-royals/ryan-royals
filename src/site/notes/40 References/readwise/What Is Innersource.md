@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-innersource/","tags":["rw/articles"]}
 ---
 
-# What Is Innersource?
-
 ![rw-book-cover](https://images.ctfassets.net/wfutmusr1t3h/5jO5xoTHWrzpFmvqQr8aYD/a928ca5e9fbd17256b0939e6aff7898b/1200x640ader.png)
   
 URL: https://resources.github.com/innersource/what-is-innersource/
@@ -13,7 +11,7 @@ Author: GitHub Resources
 
 Getting started with using open source practices within your internal software engineering organization
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >By enabling a collaborative community, innersource creates a better developer experience, where devs can harness their collective knowledge, innovate, and do their best work. ([View Highlight] (https://read.readwise.io/read/01gz4xd824j6wg37jfky1kv41g))
 
 

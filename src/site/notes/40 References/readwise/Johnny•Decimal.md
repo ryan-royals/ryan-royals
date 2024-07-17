@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/johnny-decimal/","tags":["rw/articles"]}
 ---
 
-# Johnny•Decimal
-
 ![rw-book-cover](https://johnnydecimal.com/icons/icon-192x192.png)
   
 URL: https://johnnydecimal.com/
@@ -13,7 +11,7 @@ Author: johnnydecimal.com
 
 A system to organise projects.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >A system to 
 >organise projects ([View Highlight] (https://read.readwise.io/read/01gydvjcr86y8hbs146phn7x85))
 

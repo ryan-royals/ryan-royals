@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-private-link-frequently-asked-questions/","tags":["rw/articles"]}
 ---
 
-# Azure Private Link Frequently Asked Questions
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/private-link/private-link-faq
@@ -13,7 +11,7 @@ Author: asudbring
 
 Learn about Azure Private Link.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Private Endpoints grant network access to specific resources behind a given service providing granular segmentation. Traffic can reach the service resource from on premises without using public endpoints. ([View Highlight] (https://read.readwise.io/read/01h06mqbxn8damhefartzzhx8n))
 
 

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-azure-service-bus/","tags":["rw/articles"]}
 ---
 
-# What Is Azure Service Bus?
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview
@@ -13,7 +11,7 @@ Author: spelluru
 
 This article provides a high-level overview of Azure Service Bus, a fully managed enterprise integration serverless message broker.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics (in a namespace). ([View Highlight] (https://read.readwise.io/read/01gzcs16p3ekmwy4mej3m4bxpj))
 
 

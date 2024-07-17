@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-azure-route-server/","tags":["rw/articles"]}
 ---
 
-# What Is Azure Route Server?
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
   
 URL: https://learn.microsoft.com/en-us/azure/route-server/overview
@@ -13,7 +11,7 @@ Author: halkazwini
 
 Learn how Azure Route Server can simplify routing between your network virtual appliance (NVA) and your virtual network.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure Route Server simplifies dynamic routing between your network virtual appliance (NVA) and your virtual network. It allows you to exchange routing information directly through Border Gateway Protocol (BGP) routing protocol between any NVA that supports the BGP routing protocol and the Azure Software Defined Network (SDN) in the Azure Virtual Network (VNet) without the need to manually configure or maintain route tables. Azure Route Server is a fully managed service and is configured with high availability. ([View Highlight] (https://read.readwise.io/read/01h9fv4e39ce7dtx1r6ehnf7xe))
 
 

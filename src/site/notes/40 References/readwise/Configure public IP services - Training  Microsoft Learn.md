@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/configure-public-ip-services-training-microsoft-learn/","tags":["rw/articles"]}
 ---
 
-# Configure public IP services - Training | Microsoft Learn
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/3-configure-public-ip-services
@@ -13,7 +11,7 @@ Author: wwlpublish
 
 The text discusses the importance of configuring public IP services in Azure for communication between public and private networks. It explains how public IP addresses enable Internet resources to interact with Azure resources and how to choose between dynamic and static IP addresses. Additionally, it covers creating public IP address prefixes and the options available for different SKUs and allocation methods.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Public networks like the Internet communicate by using public IP addresses. Private networks like your Azure Virtual Network use private IP addresses, which aren't routable on public networks. To support a network that exists both in Azure and on-premises, you must configure IP addressing for both types of networks. ([View Highlight] (https://read.readwise.io/read/01hwvyt0nq6tkqeap0wkhzqnhm))
 
 

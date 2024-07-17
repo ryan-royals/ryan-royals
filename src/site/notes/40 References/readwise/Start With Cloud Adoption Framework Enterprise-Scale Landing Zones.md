@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/start-with-cloud-adoption-framework-enterprise-scale-landing-zones/","tags":["rw/articles"]}
 ---
 
-# Start With Cloud Adoption Framework Enterprise-Scale Landing Zones
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/
@@ -13,7 +11,7 @@ Author: Design guidelines
 
 Start with enterprise-scale landing zones using the Microsoft Cloud Adoption Framework for Azure.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >The enterprise-scale architecture represents the strategic design path and target technical state, for your Azure environment. ([View Highlight] (https://read.readwise.io/read/01gye63mjy5m3j93cngn2qeznb))
 
 

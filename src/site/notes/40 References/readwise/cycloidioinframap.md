@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/cycloidioinframap/","tags":["rw/articles"]}
 ---
 
-# cycloidio/inframap
-
 ![rw-book-cover](https://opengraph.githubassets.com/69ee1e8f6f3b75a0ef333dd0b77e3090dd5b270968c65b3f8ec7acb6e74eff9e/cycloidio/inframap)
   
 URL: https://github.com/cycloidio/inframap
@@ -13,7 +11,7 @@ Author: cycloidio
 
 Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant. - cycloidio/inframap: Read your tfstate or HCL to generate a gr...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant. ([View Highlight] (https://read.readwise.io/read/01h181yf9rtbsjhpe9fxp4zga7))
 
 

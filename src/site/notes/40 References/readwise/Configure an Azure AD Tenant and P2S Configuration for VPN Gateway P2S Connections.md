@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/configure-an-azure-ad-tenant-and-p2-s-configuration-for-vpn-gateway-p2-s-connections/","tags":["rw/articles"]}
 ---
 
-# Configure an Azure AD Tenant and P2S Configuration for VPN Gateway P2S Connections
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant
@@ -13,7 +11,7 @@ Author: cherylmc
 
 Learn how to set up an Azure AD tenant for P2S Azure AD authentication - OpenVPN protocol.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >If you're using a global admin account that is not native to the Azure AD tenant to provide consent, replace "common" with the Azure AD tenant ID in the URL. You may also have to replace "common" with your tenant ID in certain other cases as well. For help with finding your tenant ID, see [How to find your Azure Active Directory tenant ID](https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant/../active-directory/fundamentals/active-directory-how-to-find-tenant). ([View Highlight] (https://read.readwise.io/read/01h2dae1p7pxyxdjytwa0dyp3v))
 
 

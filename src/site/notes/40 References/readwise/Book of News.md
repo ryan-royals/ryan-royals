@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/book-of-news/","tags":["rw/articles"]}
 ---
 
-# Book of News
-
 ![rw-book-cover](https://news.microsoft.com/wp-content/uploads/prod/sites/659/2023/05/build-2023-book-of-news-main_1920x652-1024x348.jpg)
   
 URL: https://news.microsoft.com/build-2023-book-of-news/
@@ -13,7 +11,7 @@ Author: Microsoft Build 2023 Book of News
 
 The Book of News is your guide to all key items being announced at Microsoft Build.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Microsoft is announcing that it will adopt the same open plugin standard that OpenAI introduced for ChatGPT, enabling interoperability across ChatGPT and the breadth of Microsoft’s copilot offerings. ([View Highlight] (https://read.readwise.io/read/01h2543th1s2q60h1ezeaxk6qa))
 
 

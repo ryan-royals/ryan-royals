@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-an-azure-landing-zone/","tags":["rw/articles"]}
 ---
 
-# What Is an Azure Landing Zone?
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
@@ -13,7 +11,7 @@ Author: martinekuan
 
 Learn how a landing zone provides the basic building block of any cloud adoption environment.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Azure landing zone conceptual architecture below represents the destination in their cloud adoption journey. ([View Highlight] (https://read.readwise.io/read/01gz4yagt5zmw6wykdhhag4355))
 
 

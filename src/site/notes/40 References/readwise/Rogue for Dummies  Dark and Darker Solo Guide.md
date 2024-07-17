@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/rogue-for-dummies-dark-and-darker-solo-guide/","tags":["rw/articles"]}
 ---
 
-# Rogue for Dummies | Dark and Darker Solo Guide
-
 ![rw-book-cover](https://i.ytimg.com/vi/cLV85uq4U5g/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=cLV85uq4U5g
@@ -22,7 +20,7 @@ EA GUIDE: https://youtu.be/tWWyPiV3h1w
 More map information: https://youtu.be/4rXvsBpw6n0
 More commentary with more pvp: https://youtu.be/-cNuLDxCzTI
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >hey guys this is my real guide for dummies explaining the Bare Essentials for you guys especiall ([View Highlight] (https://read.readwise.io/read/01h8dtaz7arhnzdy3sqmnfggwn))
 
 

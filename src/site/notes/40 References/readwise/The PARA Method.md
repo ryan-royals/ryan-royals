@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/the-para-method/","tags":["rw/books"]}
 ---
 
-# The PARA Method
-
 ![rw-book-cover](https://m.media-amazon.com/images/I/61n2ppUc1AL._SY160.jpg)
   
 Author: Tiago Forte
@@ -12,7 +10,7 @@ Author: Tiago Forte
 
 None
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >PROJECTS Short-term efforts in your work or life that you’re working on now AREAS Long-term responsibilities you want to manage over time RESOURCES Topics or interests that may be useful in the future ARCHIVES Inactive items from the other three categories ([Location 117] (https://readwise.io/to_kindle?action=open&asin=B0BZ1GNCZG&location=117))
 
 

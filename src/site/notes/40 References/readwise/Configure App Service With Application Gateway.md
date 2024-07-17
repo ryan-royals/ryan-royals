@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/configure-app-service-with-application-gateway/","tags":["rw/articles"]}
 ---
 
-# Configure App Service With Application Gateway
-
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
   
 URL: https://learn.microsoft.com/en-us/azure/application-gateway/configure-web-app?tabs=customdomain%2Cazure-portal#configuring-dns
@@ -13,7 +11,7 @@ Author: greg-lindsay
 
 This article provides guidance on how to configure Application Gateway with Azure App Service
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Configuring DNS
 >In the context of this scenario, DNS is relevant in two places:
 >• The DNS name, which the user or client is using towards Application Gateway and what is shown in a browser

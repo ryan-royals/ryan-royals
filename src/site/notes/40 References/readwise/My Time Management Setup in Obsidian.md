@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/my-time-management-setup-in-obsidian/","tags":["rw/articles"]}
 ---
 
-# My Time Management Setup in Obsidian
-
 ![rw-book-cover](https://i.ytimg.com/vi/V3-A6j17KsI/maxresdefault.jpg)
   
 URL: https://www.youtube.com/watch?v=V3-A6j17KsI
@@ -38,7 +36,7 @@ My Reclaim video: https://youtu.be/cBVjpFDltvQ
 
 If you want to learn more about Obsidian, check out my course for beginners, Ob...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >n general, I like to categorize my setup
 >into the things that are for the future for the present and for the past. And I start with the future first because that's the essence of planning. Like you're looking ahead and trying to set intentions. So for me, that consists of goals, weekly, monthly, quarterly, and yearly goals. ([View Highlight] (https://read.readwise.io/read/01h8zz722stn4yej1gf4y8a227))
 

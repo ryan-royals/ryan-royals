@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/overview-of-tls-termination-and-end-to-end-tls-with-application-gateway/","tags":["rw/articles"]}
 ---
 
-# Overview of TLS termination and end to end TLS with Application Gateway
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_6v5YQH3.png)
   
 URL: https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview#tls-termination
@@ -13,7 +11,7 @@ Author: greg-lindsay
 
 This article is an overview of the Application Gateway end to end TLS support.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >Transport Layer Security (TLS), previously known as Secure Sockets Layer (SSL), is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and encrypted. Application gateway supports both TLS termination at the gateway as well as end to end TLS encryption. ([View Highlight] (https://read.readwise.io/read/01h1ncwptetcnygfv7jrt9qf25))
 
 

@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/enterprise-scale-readme-md-at-main-azure-enterprise-scale-git-hub/","tags":["rw/articles"]}
 ---
 
-# Enterprise-Scale/README.md at Main · Azure/Enterprise-Scale · GitHub
-
 ![rw-book-cover](https://opengraph.githubassets.com/7bcde7485579bd002693f53b69b9e4da52cba826db50fead1ef90a30b2d3dc95/Azure/Enterprise-Scale)
   
 URL: https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/README.md
@@ -13,7 +11,7 @@ Author: Azure
 
 The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organ...
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >A hub and spoke network topology allows you to create a central Hub VNet that contains shared networking components (such as Azure Firewall, ExpressRoute and VPN Gateways) that can then be used by spoke VNets, connected to the Hub VNet via VNET Peering, to centralize connectivity in your environment. ([View Highlight] (https://read.readwise.io/read/01h1819sk9cgava72fpdntz164))
 
 

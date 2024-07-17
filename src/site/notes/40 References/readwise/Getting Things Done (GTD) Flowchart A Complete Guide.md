@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/getting-things-done-gtd-flowchart-a-complete-guide/","tags":["rw/articles"]}
 ---
 
-# Getting Things Done (GTD) Flowchart: A Complete Guide
-
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
   
 URL: https://www.zenflowchart.com/guides/gtd-flowchart
@@ -13,7 +11,7 @@ Author: zenflowchart.com
 
 Getting things done (GTD) flowchart helps you plan for your tasks and handle things more quickly and productively. Learn 5 steps to get started.
 
-## Highlights added July 17, 2024 at 10:55 AM
+## Highlights added July 17, 2024 at 11:02 AM
 >**Main Principles**
 >• Break complex projects down into clear and concrete action steps
 >• Consolidate all jobs into one system, eliminating unnecessary or ambiguous tasks
