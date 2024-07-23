@@ -9,8 +9,8 @@
 
 [[30 Slipbox/Introduction to Azure Virtual Networks\|Introduction to Azure Virtual Networks]]  
 [[30 Slipbox/Design and Implement hybrid networking\|Design and Implement hybrid networking]]  
-[[99 Inbox/Design and implement Azure ExpressRoute\|Design and implement Azure ExpressRoute]]  
-[[Load balance non-HTTP(S) traffic in Azure\|Load balance non-HTTP(S) traffic in Azure]]  
+[[30 Slipbox/Design and implement Azure ExpressRoute\|Design and implement Azure ExpressRoute]]  
+[[99 Inbox/Load balance non-HTTP(S) traffic in Azure\|Load balance non-HTTP(S) traffic in Azure]]  
 [[Load balance HTTP(S) traffic in Azure\|Load balance HTTP(S) traffic in Azure]]  
 [[Design and implement network security\|Design and implement network security]]  
 [[Design and implement private access to Azure Services\|Design and implement private access to Azure Services]]  

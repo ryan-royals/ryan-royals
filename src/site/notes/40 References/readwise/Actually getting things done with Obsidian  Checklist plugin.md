@@ -5,8 +5,6 @@
 
 ![rw-book-cover](https://i.ytimg.com/vi/ODhHTngIMJE/maxresdefault.jpg)
 
-  
-
 URL: <https://www.youtube.com/watch?v=ODhHTngIMJE>  
 Author: Nicole van der Hoeven
 
