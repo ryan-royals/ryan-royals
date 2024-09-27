@@ -5,6 +5,8 @@
 
 ![rw-book-cover](https://upload.wikimedia.org/wikipedia/commons/e/eb/Pareto_principle.png)
 
+  
+
 URL: <https://en.wikipedia.org/wiki/Pareto_principle>  
 Author: wikipedia.org
 
@@ -12,7 +14,7 @@ Author: wikipedia.org
 
 The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few").
 
-## Highlights Added July 17, 2024 at 11:02 AM
+## Highlights Added August 30, 2024 at 2:23 PM
 
 > The **Pareto principle** states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few").1(<https://en.wikipedia.org/wiki/Pareto_principle#cite_note-NYT-1>) Other names for this principle are the **80/20 rule**, the **law of the vital few,** or the **principle of factor sparsity.**2(<https://en.wikipedia.org/wiki/Pareto_principle#cite_note-2>)3(<https://en.wikipedia.org/wiki/Pareto_principle#cite_note->:0-3) ([View Highlight] (<https://read.readwise.io/read/01h717xw80y33fwj3n20af4e8k>))
 

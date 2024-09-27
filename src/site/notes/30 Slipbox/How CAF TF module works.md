@@ -20,5 +20,5 @@ variables.tf --> ./main.tf --> ./modules/connectivity --> ./locals.connectivity.
 
 ### Why I Think it Does This
 
-Each module is called with its own Terraform Provider which has the limitation of not being able to be nested within a Module, otherwise it is treated as a [[Terraform Legacy Module\|Terraform Legacy Module]], which can be very hard to maintain.  
+Each module is called with its own Terraform Provider which has the limitation of not being able to be nested within a Module, otherwise it is treated as a *Terraform Legacy Module*, which can be very hard to maintain.  
 It also allows you deploy parts of the CAF Enterprise Scale per calling of the module, which could be spread over multiple repositories.

@@ -40,5 +40,5 @@ Other context is added to the note via linking in line to what matters.
 
 New notes work best when they link ideas or topics together. If a meeting is related to a specific project, just leave it on the project page.
 
-[^1]: [[40 References/readwise/How to Make Atomic Literature Notes Using the Zettelkasten Method\|How to Make Atomic Literature Notes Using the Zettelkasten Method]]  
- [^2] [[40 References/readwise/How to Take Smart Notes in Obsidian\|How to Take Smart Notes in Obsidian]]
+[^1]: [[40 References/readwise/How to Make Atomic Literature Notes Using the Zettelkasten Method\|How to Make Atomic Literature Notes Using the Zettelkasten Method]] Method]]  
+ [^2] [[40 References/readwise/How to Take Smart Notes in Obsidian\|How to Take Smart Notes in Obsidian]]bsidian]]

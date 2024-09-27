@@ -3,24 +3,30 @@
 ---
 
 
-## Azure Front Door
+## Overview
 
-### Overview
+Azure Front Door is a [[30 Slipbox/CDN\|CDN]] and [[30 Slipbox/WAF\|WAF]] solution for delivering content, files, apps or APIs.  
+Front Door is not directly tied to a Azure Region, and instead leverages over 118 Edge Locations.  
+![Azure Front Door-1727310193305.png](/img/user/40%20References/attachments/image/Azure%20Front%20Door-1727310193305.png)
 
-Azure Front Door is a [[CDN\|CDN]] and [[WAF\|WAF]] solution for delivering content, files, apps or APIs.  
-Front Door is not directly tied to a Azure Region, and instead leverages over 118 Edge Locations.
-
-### SKU Feature Comparison
+## SKU Feature Comparison
 
 Azure Front Door is available in 2 different SKU's: **Standard** and **Premium**.  
 Each SKU has a base cost, and additional fee's for Ingress and Egress data.  
 More information is available [Here]([Pricing - Front Door | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/frontdoor/))
 
-**Standard** starts at $54 AUD a month, and has enough features to get a full [[CDN\|CDN]] experience from the Resource, but the WAF only has support for Custom Rule Sets
+**Standard** starts at $54 AUD a month, and has enough features to get a full [[30 Slipbox/CDN\|CDN]] experience from the Resource, but the WAF only has support for Custom Rule Sets
 
 **Premium** starts at $510 AUD a month, but has Microsoft managed rulesets in the WAF, and for the Front Door to connect to [[30 Slipbox/Azure Private Endpoint\|Private Endpoints]]
 
-### Traffic Routing
+## Routing Architecture
+
+Front Door traffic routing takes place over multiple stages. First, traffic is routed from the client to Front Door. Then, Front Door uses your configuration to determine the origin to send the traffic to. The Front Door web application firewall, routing rules, rules engine, and caching configuration all affect the routing process. The following diagram illustrates the routing architecture:
+
+![Azure Front Door traffic routing stages illustrated in eight boxes.](https://learn.microsoft.com/en-us/training/wwl-azure/load-balancing-https-traffic-azure/media/routing-process-standard-premium.png)  
+[^1]
+
+## Traffic Routing
 
 Traffic through the Azure Front Door is co ordinated by **Custom Domains**, **Endpoints**, **Origins**, **Origin Groups**, and **Routes**
 
@@ -76,14 +82,16 @@ Origin4 --> st2["Storage Account 2"]
 
 **Routes** wrap up Endpoints and Origins, directing the traffic as configured in the routing rule set.
 
-### Web Application Firewall
+## Web Application Firewall
 
 Azure Web Application Firewall (WAF) on Azure Front Door provides centralized protection for your web applications. This allows you to protect against common vulnerabilities, Malicious Bots, DDoS attacks and other web based attacks.
 
 WAF can be deployed in either **Detection Mode** to only report, or **Prevention Mode** to act on issues found.
 
-### Troubleshooting
+## Troubleshooting
 
-#### Custom Domain Not Validating
+### Custom Domain Not Validating
 
 When authenticating custom domains against Azure FrontDoor, its important to note that if it says Timeout, you need to regenerate the txt record, otherwise it will not actually check again.
+
+[^1]: [[40 References/readwise/Design and Configure Azure Front Door - Training  Microsoft Learn\|Design and Configure Azure Front Door - Training  Microsoft Learn]]

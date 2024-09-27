@@ -19,7 +19,7 @@ Topics are used to receive a message, and send to multiple receivers
 
 ### Technical Notes
 
-- Should not be used as a backed for [[Azure SignalR\|Azure SignalR]]
+- Should not be used as a backed for [[30 Slipbox/Azure SignalR\|Azure SignalR]]
 - Can not be Firewalled or configured with a [[30 Slipbox/Azure Private Endpoint\|Private Endpoint]] without the Premium SKU.
 - [[Shared Access Signature\|Shared Access Signature]] can be disabled at any SKU, allowing [[Role Based Access Control\|Role Based Access Control]] on Users.
 
@@ -27,4 +27,4 @@ Topics are used to receive a message, and send to multiple receivers
 
 Links: [[30 Slipbox/Azure\|Azure]]  
 Tags:  
-Reference:[[40 References/readwise/What Is Azure Service Bus\|What Is Azure Service Bus]] [[40 References/readwise/Allow access to Azure Service Bus namespace from specific IP addresses or ranges\|Allow access to Azure Service Bus namespace from specific IP addresses or ranges]]
+Reference:

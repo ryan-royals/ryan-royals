@@ -22,6 +22,6 @@ In Azure Machine Learning, operations that you run are called *jobs*. The job co
 
 ---
 
-Links: [[AI\|AI]], [[30 Slipbox/Azure Machine Learning Studio\|Azure Machine Learning Studio]]  
+Links: [[30 Slipbox/AI\|AI]], [[30 Slipbox/Azure Machine Learning Studio\|Azure Machine Learning Studio]]  
 Tags:  
 Reference:

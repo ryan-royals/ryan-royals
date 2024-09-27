@@ -18,6 +18,6 @@ AMLS is used to manage the compute used by Azure Machine Learning, to which ther
 
 ---
 
-Links: [[30 Slipbox/Azure\|Azure]], [[AI\|AI]], [[30 Slipbox/Azure Machine Learning\|Azure Machine Learning]]  
+Links: [[30 Slipbox/Azure\|Azure]], [[30 Slipbox/AI\|AI]], [[30 Slipbox/Azure Machine Learning\|Azure Machine Learning]]  
 Tags:  
 Reference:

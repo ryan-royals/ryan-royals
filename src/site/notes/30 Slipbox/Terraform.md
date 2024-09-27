@@ -22,9 +22,10 @@ This includes using a `data` block to reference a Azure Key Vault secret. the co
 [[30 Slipbox/AzureRM Provider\|AzureRM Provider]]  
 [[30 Slipbox/AzureAD Provider\|AzureAD Provider]]  
 [[30 Slipbox/AzApi Provider\|AzApi Provider]]  
+[[30 Slipbox/ALZ Provider\|ALZ Provider]]  
 [[30 Slipbox/Ansible Provider\|Ansible Provider]]  
 [[30 Slipbox/Time Provider\|Time Provider]]  
-[[ALZ Provider\|ALZ Provider]]
+[[30 Slipbox/ALZ Provider\|ALZ Provider]]
 
 ### Backends
 

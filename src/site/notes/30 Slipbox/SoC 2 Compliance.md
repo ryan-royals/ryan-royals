@@ -17,8 +17,3 @@ Controls can be supplemented by the premade Azure Policies. These polices help c
 - Network Controls
 - Data Retention
 - Incident Response
-
----
-
-Links: [[Compliance\|Compliance]],[[Cloud Platforms\|Cloud Platforms]],[[30 Slipbox/Azure\|Azure]]  
-Tags:

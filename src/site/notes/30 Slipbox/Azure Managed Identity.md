@@ -7,6 +7,6 @@
 
 ---
 
-Links: [[30 Slipbox/Azure\|Azure]], [[30 Slipbox/Azure Active Directory\|Azure Active Directory]]  
+Links: [[30 Slipbox/Azure\|Azure]], [[30 Slipbox/Entra ID\|Entra ID]]  
 Tags:  
 Reference:

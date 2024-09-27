@@ -14,7 +14,7 @@ Author: obsidian.rocks
 
 None
 
-## Highlights Added July 17, 2024 at 11:02 AM
+## Highlights Added August 30, 2024 at 2:23 PM
 
 > One of the biggest hurdles that you must overcome in order to take good notes is *organization*. The more notes you take, the harder it is to find things when you need them. ([View Highlight] (<https://read.readwise.io/read/01gydvnexb5h3wb9nbqmykj4h8>))
 
@@ -31,8 +31,8 @@ None
 
 > The first is to keep it simple. Remember that we’re *gardening* here, our ideas can and will grow over time. Your first MOC could look no more complicated than this:
 > # My First Map
-> [[Home\|Home]]  
-> [[Interests\|Interests]] ([View Highlight] (<https://read.readwise.io/read/01gydvpwv8f34rezevm75pb340>))
+> Home  
+> Interests ([View Highlight] (<https://read.readwise.io/read/01gydvpwv8f34rezevm75pb340>))
 
 > When is the right time to create a MOC?  
 > Any time you start to feel *overwhelmed* by how many notes you’re trying to juggle, create a map of content.  

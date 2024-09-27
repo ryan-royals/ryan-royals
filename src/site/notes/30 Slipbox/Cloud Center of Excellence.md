@@ -19,4 +19,4 @@ It is important to note that this is not a single implementation, but is a chang
 
 Links: [[30 Slipbox/Azure Cloud Adoption Framework\|Azure Cloud Adoption Framework]]  
 Tags:  
-Reference: [[40 References/readwise/Cloud Center of Excellence (CCoE) Functions\|Cloud Center of Excellence (CCoE) Functions]], [[40 References/readwise/A Cloud Center of Excellence Is the Best-Practice Approach to Drive Cloud-Enabled Transformation.\|A Cloud Center of Excellence Is the Best-Practice Approach to Drive Cloud-Enabled Transformation.]]
+Reference: [[40 References/readwise/Cloud center of excellence (CCoE) functions - Cloud Adoption Framework\|Cloud center of excellence (CCoE) functions - Cloud Adoption Framework]], [[40 References/readwise/A Cloud Center of Excellence Is the Best-Practice Approach to Drive Cloud-Enabled Transformation.\|A Cloud Center of Excellence Is the Best-Practice Approach to Drive Cloud-Enabled Transformation.]]

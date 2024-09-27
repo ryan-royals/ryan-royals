@@ -5,7 +5,7 @@
 
 ## Azure Container Apps
 
-Container Apps are fully managed environment that allows you to run microservices and containers on a serverless platform. Runs on [[Kubernetes\|Kubernetes]] in the backend, but does not expose this.
+Container Apps are fully managed environment that allows you to run microservices and containers on a serverless platform. Runs on [[30 Slipbox/Kubernetes\|Kubernetes]] in the backend, but does not expose this.
 
 ### Key Features
 

@@ -12,10 +12,11 @@ Accessible via Http or Https.
 
 Is the base layer for several services:
 
-- [[Azure Files\|Azure Files]]
-- [[Azure Storage Queues\|Azure Storage Queues]]
-- [[Azure Storage Tables\|Azure Storage Tables]]
-- [[Azure Static Website\|Azure Static Website]]
+- [[30 Slipbox/Azure Files\|Azure Files]]
+- [[30 Slipbox/Azure Storage Queues\|Azure Storage Queues]]
+- [[30 Slipbox/Azure Storage Tables\|Azure Storage Tables]]
+- [[30 Slipbox/Azure Storage Blob\|Azure Storage Blob]]
+- [[30 Slipbox/Azure Static Website\|Azure Static Website]]
 - [[30 Slipbox/Azure Data Lake Storage Gen2\|Azure Data Lake Storage Gen2]]
 
 ### Naming
@@ -31,7 +32,7 @@ Used for Blob storage, Queues, Tables and Files
 Used for blob storage for block blobs and append blobs. Recommended for high transaction rates and / or low latency.
 
 **Premium File Shares**  
-Used for [[Server Message Blob\|SMB]] and [[Network File Share\|NFS]] file shares.
+Used for [[30 Slipbox/Server Message Blob\|SMB]] and [[30 Slipbox/Network File Share\|NFS]] file shares.
 
 **Premium Page Blobs**  
 Used specifically for page blobs

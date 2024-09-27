@@ -12,7 +12,6 @@ Author: BradQuackson
 
 ## Summary
 
-#darkanddarker  
 Should I do a guide for the ruins next? Thanks for the 300 subs! You guys are crazy! Livestreams soon?  
 Socials below:  
 <https://www.twitch.tv/bradquackson>  
@@ -23,7 +22,7 @@ EA GUIDE: <https://youtu.be/tWWyPiV3h1w>
 More map information: <https://youtu.be/4rXvsBpw6n0>  
 More commentary with more pvp: <https://youtu.be/-cNuLDxCzTI>
 
-## Highlights Added July 17, 2024 at 11:02 AM
+## Highlights Added August 30, 2024 at 2:23 PM
 
 > hey guys this is my real guide for dummies explaining the Bare Essentials for you guys especiall ([View Highlight] (<https://read.readwise.io/read/01h8dtaz7arhnzdy3sqmnfggwn>))
 

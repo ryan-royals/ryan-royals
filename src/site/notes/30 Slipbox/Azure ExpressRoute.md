@@ -36,7 +36,7 @@ Billing is based on a few configuration options:
 
 ## Types of Express Route
 
-Express Route can be configured as either **Private** or **Microsoft Peering**. **Private** is configured to extend your on premises network directly into a [[30 Slipbox/Azure Virtual Network\|Virtual Network]] in Azure. **Microsoft Peering** is used to connect to Microsoft Services like [[Office 365\|Office 365]], and the Public IP Ranges for Azure Regions.  
+Express Route can be configured as either **Private** or **Microsoft Peering**. **Private** is configured to extend your on premises network directly into a [[30 Slipbox/Azure Virtual Network\|Virtual Network]] in Azure. **Microsoft Peering** is used to connect to Microsoft Services like [[30 Slipbox/Office 365\|Office 365]], and the Public IP Ranges for Azure Regions.  
 ![Azure ExpressRoute-1721605786884.png](/img/user/40%20References/attachments/image/Azure%20ExpressRoute-1721605786884.png)
 
 | **Features**                          | **Private Peering**                                                                        | **Microsoft Peering**                                                                    |
@@ -90,7 +90,7 @@ ExpressRoute is a [[30 Slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 C
 
 ## Route Advertisement
 
-> When Microsoft peering gets configured on your ExpressRoute circuit, the Microsoft Edge routers establish a pair of [[30 Slipbox/Border Gateway Protocol\|Border Gateway Protocol]] (BGP) sessions with your edge routers through your connectivity provider. No routes are advertised to your network. To enable route advertisements to your network, you must associate a [[99 Inbox/Azure Route Filter\|Azure Route Filter]].  
+> When Microsoft peering gets configured on your ExpressRoute circuit, the Microsoft Edge routers establish a pair of [[30 Slipbox/Border Gateway Protocol\|Border Gateway Protocol]] (BGP) sessions with your edge routers through your connectivity provider. No routes are advertised to your network. To enable route advertisements to your network, you must associate a [[30 Slipbox/Azure Route Filter\|Azure Route Filter]].  
 > In order to associate a route filter:
 > - You must have an active ExpressRoute circuit that has Microsoft peering provisioned.
 > - Create an ExpressRoute circuit and have the circuit enabled by your connectivity provider before you continue. The ExpressRoute circuit must be in a provisioned and enabled state.

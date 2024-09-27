@@ -30,4 +30,4 @@ Need to have settings in `Configuration > Application Settings` to get it to tal
 
 Links: [[30 Slipbox/Azure\|Azure]]  
 Tags:  
-Reference: [[40 References/readwise/Introduction to Azure Functions\|Introduction to Azure Functions]]
+Reference: [[40 References/readwise/Azure Functions Overview\|Azure Functions Overview]]

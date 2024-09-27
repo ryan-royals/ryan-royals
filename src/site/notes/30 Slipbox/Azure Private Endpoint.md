@@ -7,8 +7,8 @@ Private Endpoints allow you to connect to a service over the private network spa
 They are used on services such as:
 
 - [[30 Slipbox/Azure Storage Account\|Azure Storage Account]]
-- [[Azure Cosmos DB\|Azure Cosmos DB]]
-- [[Azure SQL\|Azure SQL]]
+- [[30 Slipbox/Azure Cosmos DB\|Azure Cosmos DB]]
+- [[30 Slipbox/Azure SQL\|Azure SQL]]
 - or your own service using [[30 Slipbox/Azure Private Link\|Private Links]]
 
 ## Cost

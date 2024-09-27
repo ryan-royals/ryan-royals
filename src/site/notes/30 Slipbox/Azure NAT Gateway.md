@@ -11,7 +11,7 @@ Azure NAT Gateways provide a way to utilise [[Network Address Translation\|Netwo
 
 NAT Gateways do not allow traffic ingress, and are a controlled way to have a known IP/s to firewall for other services.
 
-NAT Gateways replace a [[30 Slipbox/Routing in Azure#What Are the Default Routes\|subnets default route]] to the internet. This can be overwritten by [[Azure User Defined Route\|Azure User Defined Route]] (Though this pattern most likely is not practical).
+NAT Gateways replace a [[30 Slipbox/Routing in Azure#What Are the Default Routes\|subnets default route]] to the internet. This can be overwritten by [[30 Slipbox/Azure User Defined Route\|Azure User Defined Route]] (Though this pattern most likely is not practical).
 
 Using [[Network Address Translation\|Network Address Translation]], this service can support up to 64,000 concurrent traffic flows.
 

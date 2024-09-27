@@ -5,7 +5,7 @@
 
 ## Azure Dev Box
 
-Dev Box is a Azure service that deploys project specific development [[Windows\|Windows]] machines within the Azure Platform
+Dev Box is a Azure service that deploys project specific development [[30 Slipbox/Windows\|Windows]] machines within the Azure Platform
 
 ### RBAC
 
