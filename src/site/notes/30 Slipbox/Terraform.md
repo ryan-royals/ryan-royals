@@ -57,4 +57,5 @@ This includes using a `data` block to reference a Azure Key Vault secret. the co
 [[30 Slipbox/Terraform Tips and Tricks\|Terraform Tips and Tricks]]  
 [[terraform-cheat-sheet.pdf]]  
 [[30 Slipbox/How CAF TF module works\|How CAF TF module works]]  
-[[30 Slipbox/Conditional where Key is not known\|Conditional where Key is not known]]
+[[30 Slipbox/Conditional where Key is not known\|Conditional where Key is not known]]  
+[[30 Slipbox/Types in Terraform\|Types in Terraform]]

@@ -12,9 +12,9 @@
 [[30 Slipbox/Design and implement Azure ExpressRoute\|Design and implement Azure ExpressRoute]]  
 [[30 Slipbox/Load balance non-HTTP(S) traffic in Azure\|Load balance non-HTTP(S) traffic in Azure]]  
 [[30 Slipbox/Load balance HTTP(S) traffic in Azure\|Load balance HTTP(S) traffic in Azure]]  
-[[Design and implement network security\|Design and implement network security]]  
-[[Design and implement private access to Azure Services\|Design and implement private access to Azure Services]]  
-[[Design and implement network monitoring\|Design and implement network monitoring]]
+[[30 Slipbox/Design and implement network security\|Design and implement network security]]  
+[[30 Slipbox/Design and implement private access to Azure Services\|Design and implement private access to Azure Services]]  
+[[99 Inbox/Design and implement network monitoring\|Design and implement network monitoring]]
 
 ## Things to Learn
 

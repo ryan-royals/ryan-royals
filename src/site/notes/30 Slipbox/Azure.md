@@ -91,6 +91,7 @@
   - [[30 Slipbox/Azure Network Interface Card\|Azure Network Interface Card]]
   - [[30 Slipbox/Azure User Defined Route\|Azure User Defined Route]]
   - [[30 Slipbox/Azure Bastion\|Azure Bastion]]
+  - [[30 Slipbox/Azure Network Security Group\|Azure Network Security Group]]
 - **Other**
   - [[30 Slipbox/Azure Resource Group\|Azure Resource Group]]
   - [[30 Slipbox/Azure Arc\|Azure Arc]]
@@ -117,5 +118,6 @@
 - [[30 Slipbox/Azure Landing Zones\|Azure Landing Zones]]
 - [[30 Slipbox/Enterprise Scale Landing Zone\|Enterprise Scale Landing Zone]]
 - [[30 Slipbox/Routing in Azure\|Routing in Azure]]
-
+- [[Microsoft Cloud Security Benchmark\|Microsoft Cloud Security Benchmark]]  
+- [[Microsoft Defender for Cloud\|Microsoft Defender for Cloud]]  
 Sorted by [Resource providers by Azure services - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-services-resource-providers)

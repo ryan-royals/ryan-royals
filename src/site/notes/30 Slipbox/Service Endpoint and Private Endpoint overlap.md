@@ -3,6 +3,15 @@
 ---
 
 
+Private Endpoints grant network access to specific resources behind a given service providing granular segmentation. Traffic can reach the service resource from on premises without using public endpoints.
+
+A service endpoint remains a publicly routable IP address. A private endpoint is a private IP in the address space of the virtual network where the private endpoint is configured.
+
+> [!note]  
+> Microsoft recommends use of Azure Private Link for secure and private access to services hosted on Azure platform.
+
+## Troubleshooting
+
 ```mermaid
 flowchart LR
 
