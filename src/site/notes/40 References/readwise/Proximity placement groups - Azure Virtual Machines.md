@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/proximity-placement-groups-azure-virtual-machines/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image.png)
+![40 References/attachments/44982d0c5c08e08c8a1df2cdfefe5013_MD5.jpg](/img/user/40%20References/attachments/44982d0c5c08e08c8a1df2cdfefe5013_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/virtual-machines/co-location
 Author: mattmcinnes

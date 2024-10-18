@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-make-atomic-literature-notes-using-the-zettelkasten-method/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxub3RlJTIwdGFraW5nfGVufDB8fHx8MTY0MDQ3ODUzMA&ixlib=rb-1.2.1&q=80&w=2000)
+![40 References/attachments/903f8c6e9e861454634fbdb6269ed3f1_MD5.jpg](/img/user/40%20References/attachments/903f8c6e9e861454634fbdb6269ed3f1_MD5.jpg)
   
 URL: https://meda.io/how-to-make-atomic-literature-notes/
 Author: Martin Adams

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/configure-azure-ad-tenant-and-settings-for-p2-s-vpn-connections-azure-ad-authentication-open-vpn-azure-vpn-gateway/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
+![40 References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg](/img/user/40%20References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant
 Author: cherylmc

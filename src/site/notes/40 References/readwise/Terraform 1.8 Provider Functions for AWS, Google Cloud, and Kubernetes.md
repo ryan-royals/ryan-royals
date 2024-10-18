@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/terraform-1-8-provider-functions-for-aws-google-cloud-and-kubernetes/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.datocms-assets.com/2885/1712695692-share-terraform-1-8-adds-provider-functions-for-aws-google-cloud-and-kubernetes.png?w=1200&h=630&fit=crop&auto=format)
+![40 References/attachments/b8b4cd65207667b50c9858f2b9618976_MD5.jpg](/img/user/40%20References/attachments/b8b4cd65207667b50c9858f2b9618976_MD5.jpg)
   
 URL: https://www.hashicorp.com/blog/terraform-1-8-adds-provider-functions-for-aws-google-cloud-and-kubernetes
 Author: Aurora Chun

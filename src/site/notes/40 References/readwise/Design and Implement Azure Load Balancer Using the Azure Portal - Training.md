@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/design-and-implement-azure-load-balancer-using-the-azure-portal-training/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
+![40 References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg](/img/user/40%20References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/3-design-implement-azure-load-balancer-using-azure-portal
 Author: wwlpublish

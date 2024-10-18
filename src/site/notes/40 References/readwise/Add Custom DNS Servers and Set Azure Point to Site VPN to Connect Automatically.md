@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/add-custom-dns-servers-and-set-azure-point-to-site-vpn-to-connect-automatically/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://luke.geek.nz/images/iazure-marketplace-banner.png)
+![40 References/attachments/119daed587aafa4d3f2b8d32f71c1461_MD5.jpg](/img/user/40%20References/attachments/119daed587aafa4d3f2b8d32f71c1461_MD5.jpg)
   
 URL: https://luke.geek.nz/azure/add-custom-dns-servers-and-set-azure-point-to-site-vpn-to-connect-automatically/
 Author: Luke Murray

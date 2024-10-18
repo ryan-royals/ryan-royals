@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/about-azure-private-networking-for-git-hub-hosted-runners/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://github.githubassets.com/images/modules/open_graph/github-logo.png)
+![40 References/attachments/e5df60ecacba3bd622c53b58d2d441ff_MD5.jpg](/img/user/40%20References/attachments/e5df60ecacba3bd622c53b58d2d441ff_MD5.jpg)
   
 URL: https://docs.github.com/en/organizations/managing-organization-settings/about-azure-private-networking-for-github-hosted-runners-in-your-organization
 Author: GitHub Docs
@@ -23,7 +23,7 @@ You can connect GitHub-hosted runners to an Azure VNET for more control over net
 >It is recommended to explicitly block all inbound connections to the runners. GitHub will never require inbound connections to these machines. ([View Highlight] (https://read.readwise.io/read/01hty03c6rcs92nwqew6e346x5))
 
 
->![Diagram of the network communication architecture between GitHub networks and your private networks. The diagram describes each step in connecting GitHub-hosted runners to an Azure VNET. Each step is numbered and the numbers correspond to the numbered descriptions of the step listed below the diagram.](https://docs.github.com/assets/cb-275807/images/help/actions/actions-vnet-injected-larger-runners-architecture.png) ([View Highlight] (https://read.readwise.io/read/01hty03z6nf733hw2ea2t8bc1d))
+>![40 References/attachments/ba7cc6aeb3e555d6634faafb4172cc83_MD5.jpg](/img/user/40%20References/attachments/ba7cc6aeb3e555d6634faafb4172cc83_MD5.jpg) ([View Highlight] (https://read.readwise.io/read/01hty03z6nf733hw2ea2t8bc1d))
 
 
 >In order to successfully deploy a NIC and join a NIC to a subnet, the GitHub Actions service maintains the following Azure role-based access control (RBAC) permissions in your Azure subscription ([View Highlight] (https://read.readwise.io/read/01hty05byapbxwtgc03smjg222))

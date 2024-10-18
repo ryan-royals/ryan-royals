@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-i-track-my-tasks-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png)
+![40 References/attachments/3cd2891e3269c152b146790d37f9c2dd_MD5.jpg](/img/user/40%20References/attachments/3cd2891e3269c152b146790d37f9c2dd_MD5.jpg)
   
 URL: https://medium.com/geekculture/how-i-track-my-tasks-in-obsidian-47fd7ad80364
 Author: Ben Newton

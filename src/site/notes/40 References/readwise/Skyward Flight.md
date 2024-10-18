@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/skyward-flight/","tags":["rw/books"]}
 ---
 
-![rw-book-cover](https://m.media-amazon.com/images/I/91AOY6A8F2L._SY160.jpg)
+![40 References/attachments/e75d6851133da6f68bcd4e4a8034c862_MD5.jpg](/img/user/40%20References/attachments/e75d6851133da6f68bcd4e4a8034c862_MD5.jpg)
   
 Author: Brandon Sanderson and Janci Patterson
 

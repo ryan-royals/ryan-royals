@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/my-time-management-setup-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/V3-A6j17KsI/maxresdefault.jpg)
+![40 References/attachments/4930fd3e4f52b153b98e81147b3c1cd5_MD5.jpg](/img/user/40%20References/attachments/4930fd3e4f52b153b98e81147b3c1cd5_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=V3-A6j17KsI
 Author: Nicole van der Hoeven

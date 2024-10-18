@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/organize-your-resources-with-management-groups-azure-governance-azure-governance/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_pyD5ldb.png)
+![40 References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg](/img/user/40%20References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/governance/management-groups/overview
 Author: tfitzmac
@@ -18,7 +18,7 @@ Learn about the management groups, how their permissions work, and how to use th
 >Management groups give you enterprise-grade management at scale no matter what type of subscriptions you might have. However, all subscriptions within a single management group must trust the same Azure Active Directory (Azure AD) tenant. ([View Highlight] (https://read.readwise.io/read/01h181wrrvhwwjwxdgg7gt7s95))
 
 
->![](https://learn.microsoft.com/en-us/azure/governance/media/mg-org.png) ([View Highlight] (https://read.readwise.io/read/01h181wztk3ja7fr7akgtp47tf))
+>![40 References/attachments/c31bfee4338c0bf863309e1d637d346b_MD5.jpg](/img/user/40%20References/attachments/c31bfee4338c0bf863309e1d637d346b_MD5.jpg) ([View Highlight] (https://read.readwise.io/read/01h181wztk3ja7fr7akgtp47tf))
 
 
 >10,000 management groups can be supported in a single directory. ([View Highlight] (https://read.readwise.io/read/01h0hjnmkgya8rb36q3t7kn3ma))

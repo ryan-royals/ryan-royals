@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-web-application-firewall-drs-rule-groups-and-rules/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image_aXYwgYv.png)
+![40 References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg](/img/user/40%20References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs?tabs=drs21#drs99001-21
 Author: vhorne

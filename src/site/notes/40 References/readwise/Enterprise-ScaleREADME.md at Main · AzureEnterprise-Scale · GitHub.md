@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/enterprise-scale-readme-md-at-main-azure-enterprise-scale-git-hub/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://opengraph.githubassets.com/7bcde7485579bd002693f53b69b9e4da52cba826db50fead1ef90a30b2d3dc95/Azure/Enterprise-Scale)
+![40 References/attachments/a797332f0c9f47dd3b28dc94584a8bd5_MD5.jpg](/img/user/40%20References/attachments/a797332f0c9f47dd3b28dc94584a8bd5_MD5.jpg)
   
 URL: https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/README.md
 Author: Azure
@@ -52,6 +52,6 @@ The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive gu
 >• Prevent inbound RDP from internet
 >• Ensure subnets are associated with NSG
 >• Associate private endpoints with Azure Private DNS Zones for Azure PaaS services.
->[![](https://github.com/Azure/Enterprise-Scale/raw/main/docs/reference/adventureworks/media/es-hubspoke.png)](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/media/es-hubspoke.png) ([View Highlight] (https://read.readwise.io/read/01h181b4v0j85wmx4vgk5p1a8d))
+>[![40 References/attachments/b2780fcece815ead5041ea2b5a814168_MD5.jpg](/img/user/40%20References/attachments/b2780fcece815ead5041ea2b5a814168_MD5.jpg)](https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/media/es-hubspoke.png) ([View Highlight] (https://read.readwise.io/read/01h181b4v0j85wmx4vgk5p1a8d))
 
 

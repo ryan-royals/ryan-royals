@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-extract-or-unzip-tar-gz-files-from-linux-command-line/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/extract-unzip-tar-gz-linux.png)
+![40 References/attachments/55431a76001286bdacd19346c7a0beda_MD5.jpg](/img/user/40%20References/attachments/55431a76001286bdacd19346c7a0beda_MD5.jpg)
   
 URL: https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line
 Author: Dejan Tucakov

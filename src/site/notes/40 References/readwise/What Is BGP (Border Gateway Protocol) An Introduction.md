@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-bgp-border-gateway-protocol-an-introduction/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/A1KXPpqlNZ4/maxresdefault.jpg)
+![40 References/attachments/4577c881fbb3843a47220e1218c7efed_MD5.jpg](/img/user/40%20References/attachments/4577c881fbb3843a47220e1218c7efed_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=A1KXPpqlNZ4
 Author: Eye on Tech

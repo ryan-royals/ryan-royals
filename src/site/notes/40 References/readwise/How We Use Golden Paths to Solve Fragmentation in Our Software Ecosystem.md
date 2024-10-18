@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://storage.googleapis.com/production-eng/1/2020/08/8d67f977-golden-paths_01b.png)
+![40 References/attachments/1b0699335b0ac67c228b8caa7f75aaed_MD5.jpg](/img/user/40%20References/attachments/1b0699335b0ac67c228b8caa7f75aaed_MD5.jpg)
   
 URL: https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/
 Author: Gary Niemen
@@ -19,7 +19,7 @@ Author: Gary Niemen
 
 
 >The ‘blessed’ tools — those on the Golden Path — are visualized in the Explore section of our internal developer portal, [Backstage](https://backstage.io/). Filtering is available per discipline.
->![](https://storage.googleapis.com/production-eng/1/2020/08/7c939580-golden-paths_infrastructure-and-tooling.png) ([View Highlight] (https://read.readwise.io/read/01h71882qgm4hgzkjrk6za52p5))
+>![40 References/attachments/4e2d4ac5e8d7a1308b695203f7c6a333_MD5.jpg](/img/user/40%20References/attachments/4e2d4ac5e8d7a1308b695203f7c6a333_MD5.jpg) ([View Highlight] (https://read.readwise.io/read/01h71882qgm4hgzkjrk6za52p5))
 
 
 >Clearly defined audience
@@ -42,6 +42,6 @@ Author: Gary Niemen
 
 
 >As mentioned above, we have one Golden Path tutorial per engineering discipline.
->![](https://storage.googleapis.com/production-eng/1/2020/08/eef8c0dd-golden-path_getting-started.png) ([View Highlight] (https://read.readwise.io/read/01h718q2bxa9e19s3bz8v4cvs9))
+>![40 References/attachments/e6bbb2ad63881f0f6c519d273e64ee62_MD5.jpg](/img/user/40%20References/attachments/e6bbb2ad63881f0f6c519d273e64ee62_MD5.jpg) ([View Highlight] (https://read.readwise.io/read/01h718q2bxa9e19s3bz8v4cvs9))
 
 

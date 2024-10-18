@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/automating-tests-for-terraform/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/oLRtFy6mYSg/maxresdefault.jpg)
+![40 References/attachments/cd57fb57f77b2868e728949f0eb8cb66_MD5.jpg](/img/user/40%20References/attachments/cd57fb57f77b2868e728949f0eb8cb66_MD5.jpg)
   
 URL: https://youtube.com/watch?v=oLRtFy6mYSg&si=8G_U7xu98RVi3x_-
 Author: HashiCorp

@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2023/03/geojango-maps-Z8UgB80_46w-unsplash.jpg)
+![40 References/attachments/4594b77f8860f4e13b4bb2fa2e6cf2b5_MD5.jpg](/img/user/40%20References/attachments/4594b77f8860f4e13b4bb2fa2e6cf2b5_MD5.jpg)
 
   
 

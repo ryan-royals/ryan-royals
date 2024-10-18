@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/getting-things-done-gtd-flowchart-a-complete-guide/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+![40 References/attachments/8e8bf9ab2b4dc11b1e9345d19601261d_MD5.jpg](/img/user/40%20References/attachments/8e8bf9ab2b4dc11b1e9345d19601261d_MD5.jpg)
   
 URL: https://www.zenflowchart.com/guides/gtd-flowchart
 Author: zenflowchart.com

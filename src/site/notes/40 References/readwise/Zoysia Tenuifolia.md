@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/zoysia-tenuifolia/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.bambooland.com.au/assets/full/ZOYTEN.jpg?20210309030943)
+![40 References/attachments/3ad4aa254510024f01843fa6ed69849b_MD5.jpg](/img/user/40%20References/attachments/3ad4aa254510024f01843fa6ed69849b_MD5.jpg)
   
 URL: https://www.bambooland.com.au/zoysia-tenuifolia-no-mow-grass
 Author: Bamboo Land

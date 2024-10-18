@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/cdk-for-terraform/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://developer.hashicorp.com/og-image/terraform.jpg)
+![40 References/attachments/c0fb08bec0d76da667154a80cf2860e7_MD5.jpg](/img/user/40%20References/attachments/c0fb08bec0d76da667154a80cf2860e7_MD5.jpg)
   
 URL: https://developer.hashicorp.com/terraform/cdktf
 Author: CDK for Terraform | Terraform | HashiCorp Developer
@@ -21,7 +21,7 @@ Cloud Development Kit for Terraform (CDKTF) lets you use familiar programming la
 >We support TypeScript, Python, Java, C#, and Go. ([View Highlight] (https://read.readwise.io/read/01h3e7mms5dk5dp16h3dfr9cy6))
 
 
->![](https://developer.hashicorp.com/_next/image?url=https%3A%2F%2Fcontent.hashicorp.com%2Fapi%2Fassets%3Fproduct%3Dterraform-cdk%26version%3Drefs%252Fheads%252Fstable-website%26asset%3Dwebsite%252Fdocs%252Fcdktf%252Fterraform-platform.png%26width%3D1776%26height%3D1317&w=3840&q=75) ([View Highlight] (https://read.readwise.io/read/01h3e7mqnanpambnp3dxphx5dx))
+>![40 References/attachments/f36932751a5f5d5146af0d5cb97173c7_MD5.jpg](/img/user/40%20References/attachments/f36932751a5f5d5146af0d5cb97173c7_MD5.jpg)([View Highlight] (https://read.readwise.io/read/01h3e7mqnanpambnp3dxphx5dx))
 
 
 >At a high level, you will:

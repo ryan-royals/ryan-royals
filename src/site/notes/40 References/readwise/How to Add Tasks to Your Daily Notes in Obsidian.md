@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-add-tasks-to-your-daily-notes-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2022/09/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg)
+![40 References/attachments/4fbe3ca547acb2a3848889d040f564c6_MD5.jpg](/img/user/40%20References/attachments/4fbe3ca547acb2a3848889d040f564c6_MD5.jpg)
   
 URL: https://obsidian.rocks/how-to-add-tasks-to-your-daily-notes/
 Author: Timothy Miller

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/get-in-the-landing-zone-with-terraform-on-azure/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/mXJiVCbWc6g/maxresdefault.jpg)
+![40 References/attachments/77d4717ce49828c01db1fca7e8b12456_MD5.jpg](/img/user/40%20References/attachments/77d4717ce49828c01db1fca7e8b12456_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=mXJiVCbWc6g&t=904s
 Author: HashiCorp

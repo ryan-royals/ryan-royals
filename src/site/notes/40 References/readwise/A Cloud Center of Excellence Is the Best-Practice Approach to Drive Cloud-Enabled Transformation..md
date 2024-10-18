@@ -3,9 +3,7 @@
 ---
 
 
-![rw-book-cover](https://emtemp.gcom.cloud/ngw/eventassets/en/conferences/hub/cloud/images/how-to-build-a-cloud-center-of-excellence-tile.png)
-
-  
+![40 References/attachments/8a0940b14b5655d004041b97e05d966a_MD5.jpg](/img/user/40%20References/attachments/8a0940b14b5655d004041b97e05d966a_MD5.jpg)
 
 URL: <https://www.gartner.com/en/conferences/hub/cloud-conferences/insights/how-to-build-a-cloud-center-of-excellence>  
 Author: Gartner

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/building-a-private-terraform-registry/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
+![40 References/attachments/29c17200cf814392b8089b022f5106b4_MD5.jpg](/img/user/40%20References/attachments/29c17200cf814392b8089b022f5106b4_MD5.jpg)
   
 URL: https://hugomartins.io/essays/2021/01/build-a-terraform-private-registry/
 Author: Hugo Martins

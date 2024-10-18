@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://azure.microsoft.com/svghandler/app-configuration/?width=600&height=315)
+![40 References/attachments/c85a2469c2d0c36bdfd17e7c777dbf89_MD5.jpg](/img/user/40%20References/attachments/c85a2469c2d0c36bdfd17e7c777dbf89_MD5.jpg)
 
   
 

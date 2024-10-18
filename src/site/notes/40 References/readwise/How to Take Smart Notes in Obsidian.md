@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-take-smart-notes-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://substackcdn.com/image/youtube/w_728,c_limit/o_pq43WzeEo)
+![40 References/attachments/645dd2187a6a305fb80111a2e698fb64_MD5.jpg](/img/user/40%20References/attachments/645dd2187a6a305fb80111a2e698fb64_MD5.jpg)
   
 URL: https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian
 Author: Josh Duffney

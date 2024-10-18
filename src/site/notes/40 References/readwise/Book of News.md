@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/book-of-news/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://news.microsoft.com/wp-content/uploads/prod/sites/659/2023/05/build-2023-book-of-news-main_1920x652-1024x348.jpg)
+![40 References/attachments/e794fef0d0bdb38efb378a8bcf721681_MD5.jpg](/img/user/40%20References/attachments/e794fef0d0bdb38efb378a8bcf721681_MD5.jpg)
   
 URL: https://news.microsoft.com/build-2023-book-of-news/
 Author: Microsoft Build 2023 Book of News

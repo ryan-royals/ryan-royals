@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/availability-table/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+![40 References/attachments/5e41027b70a856f01dfaa00a5bf30b56_MD5.jpg](/img/user/40%20References/attachments/5e41027b70a856f01dfaa00a5bf30b56_MD5.jpg)
   
 URL: https://sre.google/sre-book/availability-table/
 Author: sre.google

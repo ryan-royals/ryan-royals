@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/danny-loves-pasta/","tags":["rw/books"]}
 ---
 
-![rw-book-cover](https://books.google.com/books/content?id=PNWOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=public)
+![40 References/attachments/9b62cb97e27513877157acd7cca8af2c_MD5.jpg](/img/user/40%20References/attachments/9b62cb97e27513877157acd7cca8af2c_MD5.jpg)
   
 Author: Danny Freeman
 

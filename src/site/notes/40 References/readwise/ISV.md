@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/isv/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+![40 References/attachments/5e41027b70a856f01dfaa00a5bf30b56_MD5.jpg](/img/user/40%20References/attachments/5e41027b70a856f01dfaa00a5bf30b56_MD5.jpg)
   
 URL: https://www.gartner.com/en/information-technology/glossary/isv-independent-software-vendor
 Author: Gartner

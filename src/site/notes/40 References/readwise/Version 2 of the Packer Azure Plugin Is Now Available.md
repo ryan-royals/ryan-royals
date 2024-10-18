@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/version-2-of-the-packer-azure-plugin-is-now-available/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.datocms-assets.com/2885/1675791969-products-og-img-packer.png)
+![40 References/attachments/d98497902773d03874ea30aa4f285961_MD5.jpg](/img/user/40%20References/attachments/d98497902773d03874ea30aa4f285961_MD5.jpg)
   
 URL: https://www.hashicorp.com/blog/version-2-packer-azure-plugin-now-available
 Author: Jenna Goldstrich

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/a-tool-to-bring-existing-azure-resources-under-terraform-s-management/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://opengraph.githubassets.com/24e399a1761e19aa92edcba30a8f779ec05e98d2750a02336425da5698742e79/Azure/aztfexport)
+![40 References/attachments/92838f0d50e7054b44e963d894f7dd89_MD5.jpg](/img/user/40%20References/attachments/92838f0d50e7054b44e963d894f7dd89_MD5.jpg)
   
 URL: https://github.com/Azure/aztfexport
 Author: Azure

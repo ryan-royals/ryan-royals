@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/a-walkthrough-of-azure-copilot-what-it-is-how-it-works/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/-qZZnwgb2ss/maxresdefault.jpg)
+![40 References/attachments/fc2b724fec7e11ae045359f5b5cac9da_MD5.jpg](/img/user/40%20References/attachments/fc2b724fec7e11ae045359f5b5cac9da_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=-qZZnwgb2ss
 Author: John Savill's Technical Training

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/the-lifecycle-meta-argument/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://developer.hashicorp.com/og-image/terraform.jpg)
+![40 References/attachments/c0fb08bec0d76da667154a80cf2860e7_MD5.jpg](/img/user/40%20References/attachments/c0fb08bec0d76da667154a80cf2860e7_MD5.jpg)
   
 URL: https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle#replace_triggered_by
 Author: The lifecycle Meta-Argument - Configuration Language | Terraform | HashiCorp Developer

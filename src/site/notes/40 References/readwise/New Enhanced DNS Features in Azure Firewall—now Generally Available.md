@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/new-enhanced-dns-features-in-azure-firewall-now-generally-available/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/d944b156-02e4-4e7b-94d3-94e85d72d8c7.webp)
+![40 References/attachments/70d919c17613632c9c3970449fae2bbb_MD5.webp](/img/user/40%20References/attachments/70d919c17613632c9c3970449fae2bbb_MD5.webp)
   
 URL: https://azure.microsoft.com/en-us/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/
 Author: Suren Jamiyanaa

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/design-azure-application-gateway-training/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
+![40 References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg](/img/user/40%20References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/2-design-azure-application-gateway
 Author: wwlpublish

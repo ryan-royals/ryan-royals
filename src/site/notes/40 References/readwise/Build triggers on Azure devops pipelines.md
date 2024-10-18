@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/build-triggers-on-azure-devops-pipelines/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+![40 References/attachments/2b0a8f3c2703db7558980aab1525f701_MD5.jpg](/img/user/40%20References/attachments/2b0a8f3c2703db7558980aab1525f701_MD5.jpg)
   
 URL: https://blog.geralexgr.com/devops/build-triggers-on-azure-devops-pipelines
 Author: geralexgr

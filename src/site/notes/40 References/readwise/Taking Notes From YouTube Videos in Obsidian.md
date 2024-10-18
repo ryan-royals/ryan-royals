@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/taking-notes-from-you-tube-videos-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/qjWq4ck2-0o/maxresdefault.jpg)
+![40 References/attachments/27bb234c59de1ce379e0da7518737854_MD5.jpg](/img/user/40%20References/attachments/27bb234c59de1ce379e0da7518737854_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=qjWq4ck2-0o
 Author: Nicole van der Hoeven

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/cdktf-0-20-improves-implementation-of-iterators-and-enables-hcl-output/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.datocms-assets.com/2885/1704908313-share-cdktf-0-20-improves-implementation-of-iterators-and-enables-hcl-output.png?w=1200&h=630&fit=crop&auto=format)
+![40 References/attachments/e2633778c4d8aa068567a3e5d6bff4c8_MD5.jpg](/img/user/40%20References/attachments/e2633778c4d8aa068567a3e5d6bff4c8_MD5.jpg)
   
 URL: https://www.hashicorp.com/blog/cdktf-0-20-improves-implementation-of-iterators-and-enables-hcl-output
 Author: Mutahhir Ali Hayat

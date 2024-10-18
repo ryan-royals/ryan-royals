@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/sftp-support-for-azure-blob-storage-azure-storage/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_zkXqXDh.png)
+![40 References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg](/img/user/40%20References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support#pricing-and-billing
 Author: normesta

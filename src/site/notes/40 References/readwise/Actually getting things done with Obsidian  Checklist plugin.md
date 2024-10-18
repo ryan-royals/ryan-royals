@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/actually-getting-things-done-with-obsidian-checklist-plugin/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/ODhHTngIMJE/maxresdefault.jpg)
+![40 References/attachments/cd18a21f76722bd28cdb6bae04878a55_MD5.jpg](/img/user/40%20References/attachments/cd18a21f76722bd28cdb6bae04878a55_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=ODhHTngIMJE
 Author: Nicole van der Hoeven

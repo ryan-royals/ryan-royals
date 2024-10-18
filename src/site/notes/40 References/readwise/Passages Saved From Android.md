@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/passages-saved-from-android/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
+![40 References/attachments/00efa9e1a871ba851c1e4492071be440_MD5.jpg](/img/user/40%20References/attachments/00efa9e1a871ba851c1e4492071be440_MD5.jpg)
   
 Author: 
 

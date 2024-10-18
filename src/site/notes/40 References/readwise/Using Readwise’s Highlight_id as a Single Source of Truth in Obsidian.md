@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://miro.medium.com/v2/resize:fit:800/0*HBhv7hIzbYVZv4z-.png)
+![40 References/attachments/291452fbfa5dda6a73598d50c0f62ddc_MD5.jpg](/img/user/40%20References/attachments/291452fbfa5dda6a73598d50c0f62ddc_MD5.jpg)
 
 URL: <https://medium.com/p/b1de98a8b87c>  
 Author: TfTHacker

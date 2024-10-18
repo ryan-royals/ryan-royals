@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/terraform-stacks-explained/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.datocms-assets.com/2885/1696883278-generic-multi-deployment-environment-example-1.png)
+![40 References/attachments/525b9155830b27d1042b09ce0c89a7c4_MD5.jpg](/img/user/40%20References/attachments/525b9155830b27d1042b09ce0c89a7c4_MD5.jpg)
   
 URL: https://www.hashicorp.com/blog/terraform-stacks-explained
 Author: Yushuo Huang
@@ -25,7 +25,7 @@ Terraform stacks simplify provisioning and managing resources at scale, reducing
 >The second part of this configuration layer, which uses a `.tfdeploy.hcl` file extension, tells Terraform where and how many times to deploy the infrastructure in the stack. For each instance of the infrastructure, you add a *deployment* block with the appropriate input values and Terraform will take care of repeating that infrastructure for you. When a new version of the stack configuration is available, plans are initiated for each deployment in the stack. Once the plan is complete, you can approve the change in all, some, or none of the deployments in the stack. ([View Highlight] (https://read.readwise.io/read/01hgc80n3vg9nt94ye1m25r4pb))
 
 
->![](https://www.datocms-assets.com/2885/1700604740-tf-stacks-k8s-example.png)
+>![40 References/attachments/7219aab5ffa539b17f9d8866fead4819_MD5.jpg](/img/user/40%20References/attachments/7219aab5ffa539b17f9d8866fead4819_MD5.jpg)
 >Consider an example of deploying three Kubernetes clusters, each with one or more namespaces, into three different geographies. In a stack, you would use one component to reference a module for deploying the Kubernetes cluster and another component for a module that creates a namespace in it. In order to repeat this Kubernetes cluster across three geographies, you would simply define a deployment for each geography and pass in the appropriate inputs for each, such as region identifiers. ([View Highlight] (https://read.readwise.io/read/01hgc8g9nym3xtxwqv1vm0znmf))
 
 

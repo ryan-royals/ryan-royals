@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/getting-things-done/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://images.ctfassets.net/dm4oa8qtogq0/7AcwkBK9MtQ2dQijSBGlqw/36c2c3da49c526a62498a27b3fa3875e/Getting_Things_Done_GTD.png?w=1200&fm=jpg)
+![40 References/attachments/474d056a40974b527ebaddb1ccc7aa5e_MD5.jpg](/img/user/40%20References/attachments/474d056a40974b527ebaddb1ccc7aa5e_MD5.jpg)
   
 URL: https://todoist.com/productivity-methods/getting-things-done
 Author: Todoist

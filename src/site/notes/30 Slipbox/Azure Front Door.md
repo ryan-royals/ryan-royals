@@ -23,7 +23,7 @@ More information is available [Here]([Pricing - Front Door | Microsoft Azure](ht
 
 Front Door traffic routing takes place over multiple stages. First, traffic is routed from the client to Front Door. Then, Front Door uses your configuration to determine the origin to send the traffic to. The Front Door web application firewall, routing rules, rules engine, and caching configuration all affect the routing process. The following diagram illustrates the routing architecture:
 
-![Azure Front Door traffic routing stages illustrated in eight boxes.](https://learn.microsoft.com/en-us/training/wwl-azure/load-balancing-https-traffic-azure/media/routing-process-standard-premium.png)  
+![40 References/attachments/e0e0ef6de609ada3bfff7cea0437376b_MD5.jpg](/img/user/40%20References/attachments/e0e0ef6de609ada3bfff7cea0437376b_MD5.jpg)  
 [^1]
 
 ## Traffic Routing

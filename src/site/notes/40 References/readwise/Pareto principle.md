@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://upload.wikimedia.org/wikipedia/commons/e/eb/Pareto_principle.png)
+![40 References/attachments/5d1d65546799f6f062fa65326568be3f_MD5.jpg](/img/user/40%20References/attachments/5d1d65546799f6f062fa65326568be3f_MD5.jpg)
 
   
 

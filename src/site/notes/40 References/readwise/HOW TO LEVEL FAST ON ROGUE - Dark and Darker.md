@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-level-fast-on-rogue-dark-and-darker/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/ySVfuHUSmts/maxresdefault.jpg)
+![40 References/attachments/88326f3797ae00e73ab9e296dceeef69_MD5.jpg](/img/user/40%20References/attachments/88326f3797ae00e73ab9e296dceeef69_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=ySVfuHUSmts
 Author: Repoze

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/bringing-enterprise-level-security-and-even-more-power-to-git-hub-hosted-runners/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://github.blog/wp-content/uploads/2024/04/Enterprise-LightMode-3.png)
+![40 References/attachments/e8a6f564bf3e9dc25ac42065c1c19279_MD5.jpg](/img/user/40%20References/attachments/e8a6f564bf3e9dc25ac42065c1c19279_MD5.jpg)
   
 URL: https://github.blog/2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners/
 Author: Tanmayee Kamath

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/hashi-corp-certified-terraform-associate/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png?auto=format&fit=max&w=1200)
+![40 References/attachments/a089b28122c5449b5eb46548866bba7f_MD5.jpg](/img/user/40%20References/attachments/a089b28122c5449b5eb46548866bba7f_MD5.jpg)
   
 URL: https://www.hashicorp.com/certification/terraform-associate
 Author: HashiCorp

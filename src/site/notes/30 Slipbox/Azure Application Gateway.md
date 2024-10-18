@@ -16,7 +16,7 @@ Azure Application Gateway includes the following features:
 - Autoscaling to dynamically adjust capacity as your web traffic load change
 - Connection draining allowing graceful removal of back-end pool members during planned service updates
 
-![Diagram that shows Azure Application Gateway components.](https://learn.microsoft.com/en-us/training/wwl-azure/load-balancing-https-traffic-azure/media/application-gateway-components.png)
+![40 References/attachments/d0df42dd10f4a404737fd2082ea5b2d4_MD5.jpg](/img/user/40%20References/attachments/d0df42dd10f4a404737fd2082ea5b2d4_MD5.jpg)
 
 - **Front-end IP address**: Client requests are received through a front-end IP address. You can configure Application Gateway to have a public IP address, a private IP address, or both. Application Gateway can't have more than one public IP address and one private IP address.
 - **Listeners**: Application Gateway uses one or more listeners to receive incoming requests. A listener accepts traffic arriving on a specified combination of protocol, port, host, and IP address. Each listener routes requests to a back-end pool of servers following routing rules that you specify. A listener can be Basic or Multi-site. A *Basic* listener only routes a request based on the path in the URL. A *Multi-site* listener can also route requests using the hostname element of the URL. Listeners also handle TLS/SSL certificates for securing your application between the user and Application Gateway.
@@ -75,14 +75,14 @@ OWASP defines a set of generic rules for detecting attacks. These rules are refe
 
 Path-based routing sends requests with different URL paths to different pools of back-end servers. For example, you could direct requests with the path /video/* to a back-end pool containing servers that are optimized to handle video streaming, and direct /images/* requests to a pool of servers that handle image retrieval.
 
-![Diagram that depicts path-based routing in Azure Application Gateway.](https://learn.microsoft.com/en-us/training/wwl-azure/load-balancing-https-traffic-azure/media/path-based-routing.png)  
+![40 References/attachments/ec013351c4f74732732f70b25c0112e1_MD5.jpg](/img/user/40%20References/attachments/ec013351c4f74732732f70b25c0112e1_MD5.jpg)  
 [^1]
 
 #### Multiple-site Routing
 
 Multiple-site routing configures more than one web application on the same Application Gateway instance. In a multi-site configuration, you register multiple DNS names (CNAMEs) for the IP address of the application gateway, specifying the name of each site. Application Gateway uses separate listeners to wait for requests for each site. Each listener passes the request to a different rule, which can route the requests to servers in a different back-end pool. For example, you could direct all requests for `http://contoso.com` to servers in one back-end pool, and requests for `http://fabrikam.com` to another back-end pool. The following diagram shows this configuration:
 
-![Diagram that depicts multi-site routing in Azure Application Gateway.](https://learn.microsoft.com/en-us/training/wwl-azure/load-balancing-https-traffic-azure/media/multi-site-routing.png)
+![40 References/attachments/374eeb0eea6f31aeb391a7abf28634b5_MD5.jpg](/img/user/40%20References/attachments/374eeb0eea6f31aeb391a7abf28634b5_MD5.jpg)
 
 Multi-site configurations are useful for supporting multitenant applications, where each tenant has its own set of virtual machines or other resources hosting a web application.
 
@@ -117,7 +117,7 @@ If you need end-to-end encryption, Application Gateway can decrypt the traffic o
 
 Traffic enters the gateway through a front-end port. You can open many ports, and Application Gateway can receive messages on any of these ports. A listener is the first thing that your traffic meets when entering the gateway through a port. The listener is set up to listen for a specific host name, and a specific port on a specific IP address. The listener can use an TLS/SSL certificate to decrypt the traffic that enters the gateway. The listener then uses a rule that you define to direct the incoming requests to a back-end pool.
 
-![Diagram that depicts TLS/SSL termination in Azure Application Gateway.](https://learn.microsoft.com/en-us/training/wwl-azure/load-balancing-https-traffic-azure/media/tls-ssl-termination.png)
+![40 References/attachments/4583844d40a8d349e2540dc5d3d5d0c2_MD5.jpg](/img/user/40%20References/attachments/4583844d40a8d349e2540dc5d3d5d0c2_MD5.jpg)
 
 Exposing your website or web application through the application gateway also means that you don't directly connect your servers to the web. You're exposing only port 80 or port 443 on the application gateway, which is then forwarded to the back-end pool server. In this configuration, your web servers aren't directly accessible from the internet, which reduces the attack surface of your infrastructure.  
 [^1]

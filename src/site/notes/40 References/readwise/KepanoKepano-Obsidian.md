@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/kepano-kepano-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://opengraph.githubassets.com/b1747c987bedd6ab4303b6bcddb52ddedd1de51e0bb360dee02689df0c203b26/kepano/kepano-obsidian)
+![40 References/attachments/569353c1736bd9f29a93768fb336e748_MD5.jpg](/img/user/40%20References/attachments/569353c1736bd9f29a93768fb336e748_MD5.jpg)
   
 URL: https://github.com/kepano/kepano-obsidian
 Author: kepano

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/why-perimeta-for-azure/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](http://static1.squarespace.com/static/63eaf396b7a84d23298711fa/t/6499327458d19e7c601bacbf/1687761524462/Social-share_oobe-logo.jpg?format=1500w)
+![40 References/attachments/2638acf330345712dbe05498e4e1c284_MD5.jpg](/img/user/40%20References/attachments/2638acf330345712dbe05498e4e1c284_MD5.jpg)
   
 URL: https://www.oobe.com.au/products/perimeta-for-azure
 Author: oobe, a Fujitsu company

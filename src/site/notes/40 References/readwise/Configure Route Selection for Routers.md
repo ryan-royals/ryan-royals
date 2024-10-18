@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/configure-route-selection-for-routers/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.cisco.com/c/dam/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21-00.png)
+![40 References/attachments/928a1aa42625f77af296f2e7983848b6_MD5.jpg](/img/user/40%20References/attachments/928a1aa42625f77af296f2e7983848b6_MD5.jpg)
   
 URL: https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21.html
 Author: Cisco

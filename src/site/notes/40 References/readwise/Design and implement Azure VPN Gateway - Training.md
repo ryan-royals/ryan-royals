@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/design-and-implement-azure-vpn-gateway-training/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
+![40 References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg](/img/user/40%20References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/2-design-implement-vpn-gateway
 Author: wwlpublish

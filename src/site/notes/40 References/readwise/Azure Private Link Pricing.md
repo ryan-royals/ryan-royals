@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-private-link-pricing/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://azure.microsoft.com/svghandler/private-link/?width=600&height=315)
+![40 References/attachments/c5669019c88b839951f3d026e05703c1_MD5.jpg](/img/user/40%20References/attachments/c5669019c88b839951f3d026e05703c1_MD5.jpg)
   
 URL: https://azure.microsoft.com/en-au/pricing/details/private-link/
 Author: microsoft.com

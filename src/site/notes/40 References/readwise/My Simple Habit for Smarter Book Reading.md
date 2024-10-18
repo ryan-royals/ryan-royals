@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/my-simple-habit-for-smarter-book-reading/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://www.scotthyoung.com/blog/wp-content/uploads/2024/02/Reading-books-connections.jpg)
+![40 References/attachments/ddcbb9d23f34eeec85f0d9c2560aaafd_MD5.jpg](/img/user/40%20References/attachments/ddcbb9d23f34eeec85f0d9c2560aaafd_MD5.jpg)
   
 URL: https://scotthyoung.com/blog/2024/02/27/smarter-book-reading/
 Author: Scott Young

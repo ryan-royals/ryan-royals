@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/readwisecard.058019f9f4b1.jpg)
+![40 References/attachments/222344ff59dc8fa888db6d3fca00b4fb_MD5.jpg](/img/user/40%20References/attachments/222344ff59dc8fa888db6d3fca00b4fb_MD5.jpg)
 
   
 

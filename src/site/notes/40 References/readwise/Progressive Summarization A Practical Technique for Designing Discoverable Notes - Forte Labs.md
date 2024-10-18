@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-forte-labs/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i0.wp.com/fortelabs.com/wp-content/uploads/2017/12/1vTBT177SuhcgBEdPJwT9lA.jpeg?fit=704%2C282&ssl=1)
+![40 References/attachments/50212a1aa3f5f4c8c3dc30c21d4cc0d8_MD5.jpg](/img/user/40%20References/attachments/50212a1aa3f5f4c8c3dc30c21d4cc0d8_MD5.jpg)
   
 URL: https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/
 Author: fortelabs.com

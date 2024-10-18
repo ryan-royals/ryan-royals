@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-organize-your-notes-in-obsidian-the-latch-method/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/vS-b_RUtL1A/maxresdefault.jpg)
+![40 References/attachments/94a577555f8243bd58d8ee503f092ecc_MD5.jpg](/img/user/40%20References/attachments/94a577555f8243bd58d8ee503f092ecc_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=vS-b_RUtL1A
 Author: Nicole van der Hoeven

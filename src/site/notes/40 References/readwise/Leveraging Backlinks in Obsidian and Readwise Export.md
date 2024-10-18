@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/leveraging-backlinks-in-obsidian-and-readwise-export/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://miro.medium.com/v2/resize:fit:800/0*n8kDQtD_LlS-hVmR.png)
+![40 References/attachments/e84c74b4363254e40b32f9f3eb82ae00_MD5.jpg](/img/user/40%20References/attachments/e84c74b4363254e40b32f9f3eb82ae00_MD5.jpg)
   
 URL: https://medium.com/obsidian-observer/leveraging-backlinks-in-obsidian-and-readwise-export-aebb52ffa9d4
 Author: TfTHacker

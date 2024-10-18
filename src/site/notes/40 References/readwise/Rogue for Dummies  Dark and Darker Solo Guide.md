@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://i.ytimg.com/vi/cLV85uq4U5g/maxresdefault.jpg)
+![40 References/attachments/ac9e09b160053ad278244ef155706202_MD5.jpg](/img/user/40%20References/attachments/ac9e09b160053ad278244ef155706202_MD5.jpg)
 
   
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-take-smart-notes/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/5O46Rqh5zHE/maxresdefault.jpg)
+![40 References/attachments/2c1af7f60bdc1bd27ede5d188666a411_MD5.jpg](/img/user/40%20References/attachments/2c1af7f60bdc1bd27ede5d188666a411_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=5O46Rqh5zHE
 Author: Vicky Zhao [BEEAMP]

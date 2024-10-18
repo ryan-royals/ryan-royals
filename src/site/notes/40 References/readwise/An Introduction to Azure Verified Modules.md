@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/an-introduction-to-azure-verified-modules/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/JbIMrJKW5N0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0tjmFVZA2t1XOUGis8S5B2uZk9g)
+![40 References/attachments/7cbeba1144567ab9a37ce13c33cc5c02_MD5.jpg](/img/user/40%20References/attachments/7cbeba1144567ab9a37ce13c33cc5c02_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=JbIMrJKW5N0
 Author: Customer Architecture & Engineering

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-write-stuff-no-one-else-can/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://content.cardus.ca/assets/uploads/documents/2863.large.jpg)
+![40 References/attachments/b36c0e327f735b839921d82ab335273e_MD5.jpg](/img/user/40%20References/attachments/b36c0e327f735b839921d82ab335273e_MD5.jpg)
   
 URL: https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can
 Author: Ethan

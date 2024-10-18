@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/getting-started-with-the-test-automation-pyramid-browser-stack/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://browserstack.wpenginepowered.com/wp-content/uploads/2022/10/How-to-jumpstart-a-Test-Automation-Pyramid.png)
+![40 References/attachments/78c3c71e96a0449aa063ab36d2bbf605_MD5.jpg](/img/user/40%20References/attachments/78c3c71e96a0449aa063ab36d2bbf605_MD5.jpg)
   
 URL: https://www.browserstack.com/guide/testing-pyramid-for-test-automation
 Author: BrowserStack

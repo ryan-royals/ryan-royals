@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/converting-ip-addresses-into-binary/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://cdn.networkacademy.io/sites/default/files/2022-04/converting-ip-addresses-to-binary.png)
+![40 References/attachments/2f5d29abd4015efbf6958b32168bc817_MD5.jpg](/img/user/40%20References/attachments/2f5d29abd4015efbf6958b32168bc817_MD5.jpg)
   
 URL: https://www.networkacademy.io/ccna/ip-subnetting/converting-ip-addresses-into-binary
 Author: NetworkAcademy.io

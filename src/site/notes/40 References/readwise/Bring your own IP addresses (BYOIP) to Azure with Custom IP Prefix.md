@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://azure.microsoft.com/en-us/blog/wp-content/uploads/2022/03/f216b134-24a6-4a59-bb9a-5e276aa67e77.webp)
+![40 References/attachments/8021582c92835a9f22bce018664f0554_MD5.webp](/img/user/40%20References/attachments/8021582c92835a9f22bce018664f0554_MD5.webp)
   
 URL: https://azure.microsoft.com/en-us/blog/bring-your-own-ip-addresses-byoip-to-azure-with-custom-ip-prefix/
 Author: Brian Lehr

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-api-management-overview-and-key-concepts/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_rUrD9xy.png)
+![40 References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg](/img/user/40%20References/attachments/aed272417ab44a26e6bdcceab03aeb5f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 Author: dlepow

@@ -3,7 +3,7 @@
 ---
 
 
-![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2022/08/estee-janssens-zEqkUMiMxMI-unsplash.jpg)
+![40 References/attachments/4bee88c1721d2eaa17bb16d4b3e04008_MD5.jpg](/img/user/40%20References/attachments/4bee88c1721d2eaa17bb16d4b3e04008_MD5.jpg)
 
   
 

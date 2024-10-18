@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-process-notes-in-obsidian-readwise-official-obsidian-plugin/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/Rw1L5sxlnuU/maxresdefault.jpg)
+![40 References/attachments/c0c2d12618140c93be70fb7595ac1d6f_MD5.jpg](/img/user/40%20References/attachments/c0c2d12618140c93be70fb7595ac1d6f_MD5.jpg)
   
 URL: https://www.youtube.com/watch?v=Rw1L5sxlnuU&t=77s
 Author: Nicole van der Hoeven

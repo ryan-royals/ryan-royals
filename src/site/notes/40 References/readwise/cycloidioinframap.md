@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/cycloidioinframap/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://opengraph.githubassets.com/69ee1e8f6f3b75a0ef333dd0b77e3090dd5b270968c65b3f8ec7acb6e74eff9e/cycloidio/inframap)
+![40 References/attachments/d1f6de1ce795d86c6a510740f8bd366c_MD5.jpg](/img/user/40%20References/attachments/d1f6de1ce795d86c6a510740f8bd366c_MD5.jpg)
   
 URL: https://github.com/cycloidio/inframap
 Author: cycloidio

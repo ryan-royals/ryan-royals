@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/variables-packer-hashi-corp-developer/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://developer.hashicorp.com/og-image/packer.jpg)
+![40 References/attachments/9a22765ab47a38880d034ba15269e5d7_MD5.jpg](/img/user/40%20References/attachments/9a22765ab47a38880d034ba15269e5d7_MD5.jpg)
   
 URL: https://developer.hashicorp.com/packer/tutorials/docker-get-started/docker-get-started-variables
 Author: Build Immutable Infrastructure with Packer in CI/CD | Packer | HashiCorp Developer

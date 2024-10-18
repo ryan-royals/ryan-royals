@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/taking-notes-for-work-with-obsidian/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://i.ytimg.com/vi/0g38K_DtxFI/maxresdefault.jpg)
+![40 References/attachments/9958b85edebb5177762c1b724b23238d_MD5.jpg](/img/user/40%20References/attachments/9958b85edebb5177762c1b724b23238d_MD5.jpg)
   
 URL: https://www.youtube.com/embed/0g38K_DtxFI
 Author: Nicole van der Hoeven

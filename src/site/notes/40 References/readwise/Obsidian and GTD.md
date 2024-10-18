@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/obsidian-and-gtd/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2023/01/jeroen-den-otter-1SA__aN_I2U-unsplash-1.jpeg)
+![40 References/attachments/77ac48a907003b448d5245e168999b8f_MD5.jpg](/img/user/40%20References/attachments/77ac48a907003b448d5245e168999b8f_MD5.jpg)
   
 URL: https://obsidian.rocks/obsidian-and-gtd/
 Author: Timothy Miller

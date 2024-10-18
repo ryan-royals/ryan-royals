@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/before-fortune-telling-the-history-and-structure-of-tarot-cards/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](http://www.metmuseum.org/-/media/images/blogs/in-season/2016/world-in-play/post-6/queen-of-swords.jpg?sc_lang=en)
+![40 References/attachments/33d0af8b7f1f9f6d19b303ea5fa07aee_MD5.jpg](/img/user/40%20References/attachments/33d0af8b7f1f9f6d19b303ea5fa07aee_MD5.jpg)
   
 URL: https://www.metmuseum.org/blogs/in-season/2016/tarot
 Author: The Metropolitan Museum of Art

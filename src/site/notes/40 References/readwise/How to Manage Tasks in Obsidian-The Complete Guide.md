@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-manage-tasks-in-obsidian-the-complete-guide/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2022/09/thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
+![40 References/attachments/103fd0d29b7f43119cf589a0f961012e_MD5.jpg](/img/user/40%20References/attachments/103fd0d29b7f43119cf589a0f961012e_MD5.jpg)
   
 URL: https://obsidian.rocks/how-to-manage-tasks-in-obsidian/
 Author: Timothy Miller

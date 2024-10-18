@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/keep-your-terragrunt-architecture-dry/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://terragrunt.gruntwork.io/assets/img/terragrunt-thumbnail.png)
+![40 References/attachments/28ebf92cae21c1d5609988233f4c0d58_MD5.jpg](/img/user/40%20References/attachments/28ebf92cae21c1d5609988233f4c0d58_MD5.jpg)
   
 URL: https://terragrunt.gruntwork.io/docs/features/keep-your-terragrunt-architecture-dry/
 Author: Terragrunt | Terraform wrapper

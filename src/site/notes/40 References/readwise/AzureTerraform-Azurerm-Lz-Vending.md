@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-terraform-azurerm-lz-vending/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://opengraph.githubassets.com/588cbad93ea6e9e77286f5b7e64ac045a08fd3992a87bbbc6594d14e064c356d/Azure/terraform-azurerm-lz-vending)
+![40 References/attachments/36833e2cc249b8baf7daff99ef080190_MD5.jpg](/img/user/40%20References/attachments/36833e2cc249b8baf7daff99ef080190_MD5.jpg)
   
 URL: https://github.com/Azure/terraform-azurerm-lz-vending
 Author: Azure

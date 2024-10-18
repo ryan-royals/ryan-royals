@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/azure-firewall-faq/","tags":["rw/articles"]}
 ---
 
-![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
+![40 References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg](/img/user/40%20References/attachments/be6ec1dc11499f9537329d089643e21f_MD5.jpg)
   
 URL: https://learn.microsoft.com/en-us/azure/firewall/firewall-faq?WT.mc_id=Portal-Microsoft_Azure_Health#is-forced-tunneling-chaining-to-a-network-virtual-appliance-supported
 Author: vhorne
