@@ -101,6 +101,7 @@
   - [[30 Slipbox/Azure Resource Graph\|Azure Resource Graph]]
   - [[30 Slipbox/Azure Subscription\|Azure Subscription]]
   - [[30 Slipbox/Azure OpenAI Studio\|Azure OpenAI Studio]]
+  - [[99 Inbox/Azure Network Watcher\|Azure Network Watcher]]
 
 ## Tools
 

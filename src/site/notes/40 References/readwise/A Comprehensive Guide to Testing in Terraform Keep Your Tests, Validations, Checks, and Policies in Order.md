@@ -5,8 +5,6 @@
 
 ![rw-book-cover](https://mattias.engineer/img/favicon/blue.png)
 
-  
-
 URL: <https://mattias.engineer/posts/terraform-testing-and-validation/?mkt_tok=ODQ1LVpMRi0xOTEAAAGPci3QK6rMcySFH5kuD1iyw76fNRV2XYgAFnm6ymmeswiTB1sRRSni7ILSh_1pOE8qIzA4b3R48LO9lePo2iZZdt72i0_Bf4Hdztp-kUpwkD6gXmo>  
 Author: mattias.engineer a blog about cloud architecture and development
 

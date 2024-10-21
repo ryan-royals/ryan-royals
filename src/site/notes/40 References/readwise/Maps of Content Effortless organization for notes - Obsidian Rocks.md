@@ -5,8 +5,6 @@
 
 ![40 References/attachments/4594b77f8860f4e13b4bb2fa2e6cf2b5_MD5.jpg](/img/user/40%20References/attachments/4594b77f8860f4e13b4bb2fa2e6cf2b5_MD5.jpg)
 
-  
-
 URL: <https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/>  
 Author: obsidian.rocks
 

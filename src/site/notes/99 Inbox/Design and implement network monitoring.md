@@ -15,4 +15,5 @@ At the end of this module, you are able to:
 
 ## Relevant Resources
 
-[[30 Slipbox/Azure Monitor\|Azure Monitor]]
+[[30 Slipbox/Azure Monitor\|Azure Monitor]]  
+[[99 Inbox/Azure Network Watcher\|Azure Network Watcher]]
