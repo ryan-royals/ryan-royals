@@ -3,8 +3,6 @@
 ---
 
 
-## Azure Virtual Network
-
 Azure Virtual Networks exist on [[30 Slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 of the OSI Networking Model]].  
 Using Virtual Networks, resources to communicate to the internet, communicate between other resources, and communicate on premises.
 

@@ -64,11 +64,21 @@ Microsoft recommendation is to use **Route Based**
 | Generation2                | VpnGw3AZ | Max. 30*                     | Max. 128                 | Max. 1000                         | 2.5 Gbps                           | Supported     | Yes                |
 | Generation2                | VpnGw4AZ | Max. 100*                    | Max. 128                 | Max. 5000                         | 5 Gbps                             | Supported     | Yes                |
 | Generation2                | VpnGw5AZ | Max. 100*                    | Max. 128                 | Max. 10000                        | 10 Gbps                            | Supported     | Yes                |
-|                            |          |                              |                          |                                   |                                    |               |                    |
 
 (\*) Use Virtual WAN if you need more than 30 S2S VPN tunnels.
 
 All the *VPN* SKUs can be actively resized at anytime, but the *Basic* SKU is a legacy SKU, and can not be resized.
+
+### Gateway Features by SKU
+
+| Gateway SKU                   | VPN Gateway and ExpressRoute coexistence | FastPath                        | Max Number of Circuit Connections                                                                 |
+| ----------------------------- | ---------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Standard SKU/ERGw1Az          | Yes                                      | No                              | 4                                                                                                 |
+| High Perf SKU/ERGw2Az         | Yes                                      | No                              | 8                                                                                                 |
+| Ultra Performance SKU/ErGw3Az | Yes                                      | Yes                             | 16                                                                                                |
+| ErGwScale (Preview)           | Yes                                      | Yes - minimum 10 of scale units | 4 - minimum 1 of scale unit  <br>8 - minimum of 2 scale units  <br>16 - minimum of 10 scale units |  
+
+[^1]
 
 ### Local Network Gateway
 
@@ -103,7 +113,7 @@ Azure have a validated list of standard VPN devices from device manufacturers in
 
 
 </div></div>
-F
+
 
 ### High Availability
 
@@ -177,3 +187,7 @@ Use [[30 Slipbox/Azure Monitor\|Azure Monitor]] to analyse the data collected in
 ## Express Route Gateway
 
 An Virtual Network Gateway can be configured as a [[30 Slipbox/Azure ExpressRoute\|Azure ExpressRoute]] Gateway.
+
+## Footnotes
+
+[^1]: [[40 References/readwise/About ExpressRoute Virtual Network Gateways\|About ExpressRoute Virtual Network Gateways]]

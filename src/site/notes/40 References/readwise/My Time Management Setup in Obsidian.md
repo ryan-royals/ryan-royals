@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/my-time-management-setup-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![40 References/attachments/4930fd3e4f52b153b98e81147b3c1cd5_MD5.jpg](/img/user/40%20References/attachments/4930fd3e4f52b153b98e81147b3c1cd5_MD5.jpg)
-  
-URL: https://www.youtube.com/watch?v=V3-A6j17KsI
-Author: Nicole van der Hoeven
+![rw-book-cover](https://i.ytimg.com/vi/V3-A6j17KsI/maxresdefault.jpg)
 
 ## Summary
 
@@ -36,12 +33,13 @@ My Reclaim video: https://youtu.be/cBVjpFDltvQ
 
 If you want to learn more about Obsidian, check out my course for beginners, Ob...
 
-## Highlights added August 30, 2024 at 2:23 PM
->n general, I like to categorize my setup
->into the things that are for the future for the present and for the past. And I start with the future first because that's the essence of planning. Like you're looking ahead and trying to set intentions. So for me, that consists of goals, weekly, monthly, quarterly, and yearly goals. ([View Highlight] (https://read.readwise.io/read/01h8zz722stn4yej1gf4y8a227))
+## Highlights
+
+n general, I like to categorize my setup
+into the things that are for the future for the present and for the past. And I start with the future first because that's the essence of planning. Like you're looking ahead and trying to set intentions. So for me, that consists of goals, weekly, monthly, quarterly, and yearly goals. ([View Highlight] (https://read.readwise.io/read/01h8zz722stn4yej1gf4y8a227))
 
 
->u might have one overarching kind of requirement that says, you know, build this site, but underneath that site there might be, you know, the homepage. And under the homepage it might be, you know get the graphic design underway. So there are different levels of requirements but there's also a best practice called requirements traceability, and that is the practice of making sure that lower level requirements all trace up to the highest one. That's just a tech way of saying that when you work
->on something, you need to be making sure that it is still in line with your overall direction. And that's kind of what I like to do here. So with the core principles, I embed that into the yearly template. I'm gonna show you all of this in a second. And then the yearly into the quarterly. Quarterly into monthly. Monthly into weekly, and then weekly into the daily note. So let me show you how that works in practice. ([View Highlight] (https://read.readwise.io/read/01h8zzbm9psv0gwc9pzt2y93x6))
+u might have one overarching kind of requirement that says, you know, build this site, but underneath that site there might be, you know, the homepage. And under the homepage it might be, you know get the graphic design underway. So there are different levels of requirements but there's also a best practice called requirements traceability, and that is the practice of making sure that lower level requirements all trace up to the highest one. That's just a tech way of saying that when you work
+on something, you need to be making sure that it is still in line with your overall direction. And that's kind of what I like to do here. So with the core principles, I embed that into the yearly template. I'm gonna show you all of this in a second. And then the yearly into the quarterly. Quarterly into monthly. Monthly into weekly, and then weekly into the daily note. So let me show you how that works in practice. ([View Highlight] (https://read.readwise.io/read/01h8zzbm9psv0gwc9pzt2y93x6))
 
 

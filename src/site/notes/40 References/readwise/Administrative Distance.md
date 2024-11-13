@@ -2,27 +2,17 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/administrative-distance/","tags":["rw/articles"]}
 ---
 
-
-![40 References/attachments/e5da0f150fc89b895daa57d481a14d8d_MD5.jpg](/img/user/40%20References/attachments/e5da0f150fc89b895daa57d481a14d8d_MD5.jpg)
-
-  
-
-URL: <https://en.wikipedia.org/wiki/Administrative_distance>  
-Author: wikipedia.org
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Summary
 
 Administrative distance (AD) or route preference[1] is a number of arbitrary unit assigned to dynamic routes, static routes and directly-connected routes.
 
-## Highlights Added August 30, 2024 at 2:23 PM
+## Highlights
 
-> The administrative distance (AD) value is assigned by the [router](https://en.wikipedia.org/wiki/Router_(computing)) on a per-protocol basis. ([View Highlight] (<https://read.readwise.io/read/01h8kb42rh4k6vfdvtxaypzt38>))
+Router vendors typically design their routers to assign a default administrative distance to each kind of route. For example, on Cisco routers, routes issued by the [Open Shortest Path First](https://en.wikipedia.org/wiki/OSPF) routing protocol have a lower default administrative distance than routes issued by the [Routing Information Protocol](https://en.wikipedia.org/wiki/Routing_Information_Protocol). This is because, by default on Cisco routers, OSPF has a default administrative distance of 110 and RIP has a default administrative distance of 120. Administrative distance values can, however, usually be adjusted manually by a [network administrator](https://en.wikipedia.org/wiki/Network_administrator). ([View Highlight] (https://read.readwise.io/read/01jbfygbjxsbvvwrxc6662sf35))
 
-> Default administrative distancesedit](<https://en.wikipedia.org/w/index.php?title=Administrative_distance&action=edit&section=2>)]Ciscoedit](<https://en.wikipedia.org/w/index.php?title=Administrative_distance&action=edit&section=3>)]  
-> The following table lists the default administrative distances for various routing protocols used on [Cisco](https://en.wikipedia.org/wiki/Cisco_Systems) routers.3(<https://en.wikipedia.org/wiki/Administrative_distance#cite_note-cisco-3>)  
-> Routing protocol  
-> Administrative distance  
-> Directly connected interface  
-> 0a(<https://en.wikipedia.org/wiki/Administrative_distance#cite_note-5>)5(<https://en.wikipedia.org/wiki/Administrative_distance#cite_note-Cisco_AD-6>)  
-> Static route  
-> 1 ([View Highlight] (<https://read.readwise.io/read/01h8kb3vtp0jwk3qdtpqznmd8z>))
+
+The administrative distance (AD) value is assigned by the [router](https://en.wikipedia.org/wiki/Router_(computing)) on a per-protocol basis. Routers, by design, should not install multiple routes into the routing table as this has the potential to cause routing loops. ([View Highlight] (https://read.readwise.io/read/01jbfygff4337fx1091f7qnqpy))
+
+

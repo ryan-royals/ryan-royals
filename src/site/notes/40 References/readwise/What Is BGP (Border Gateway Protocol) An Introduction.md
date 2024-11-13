@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/what-is-bgp-border-gateway-protocol-an-introduction/","tags":["rw/articles"]}
 ---
 
-![40 References/attachments/4577c881fbb3843a47220e1218c7efed_MD5.jpg](/img/user/40%20References/attachments/4577c881fbb3843a47220e1218c7efed_MD5.jpg)
-  
-URL: https://www.youtube.com/watch?v=A1KXPpqlNZ4
-Author: Eye on Tech
+![rw-book-cover](https://i.ytimg.com/vi/A1KXPpqlNZ4/maxresdefault.jpg)
 
 ## Summary
 
@@ -23,17 +20,18 @@ Subscribe to Eye on Tech: https://www.youtube.com/EyeOnTech
 Stay up on the latest networking news: https://www.techtarget.com/searchnetworking/
 Follow us on Twitter: ...
 
-## Highlights added August 30, 2024 at 2:23 PM
->Border Gateway Protocol is the routing protocol that connects the entire internet ([View Highlight] (https://read.readwise.io/read/01h7s2b1x5w8stknjkpsxjfbpk))
+## Highlights
+
+Border Gateway Protocol is the routing protocol that connects the entire internet ([View Highlight] (https://read.readwise.io/read/01h7s2b1x5w8stknjkpsxjfbpk))
 
 
->Large organizations and most ISPs manage internet connectivity for multiple network sites and locations. This is called an autonomous system, or AS ([View Highlight] (https://read.readwise.io/read/01h7s2e46ep6qfgs7dh2efpsyh))
+Large organizations and most ISPs manage internet connectivity for multiple network sites and locations. This is called an autonomous system, or AS ([View Highlight] (https://read.readwise.io/read/01h7s2e46ep6qfgs7dh2efpsyh))
 
 
->While networks inside an AS handle
->routing for their own local traffic, a BGP router directs all inbound traffic into the autonomous system, and all outbound traffic going to the internet from inside the AS ([View Highlight] (https://read.readwise.io/read/01h7s2gcw4zaf9gy1dcghnaczf))
+While networks inside an AS handle
+routing for their own local traffic, a BGP router directs all inbound traffic into the autonomous system, and all outbound traffic going to the internet from inside the AS ([View Highlight] (https://read.readwise.io/read/01h7s2gcw4zaf9gy1dcghnaczf))
 
 
->When a BGP router connects to a router in a neighboring AS, it's called external BGP ([View Highlight] (https://read.readwise.io/read/01h7s2g1ffjptg041xzvckkp3t))
+When a BGP router connects to a router in a neighboring AS, it's called external BGP ([View Highlight] (https://read.readwise.io/read/01h7s2g1ffjptg041xzvckkp3t))
 
 

@@ -92,6 +92,7 @@
   - [[30 Slipbox/Azure User Defined Route\|Azure User Defined Route]]
   - [[30 Slipbox/Azure Bastion\|Azure Bastion]]
   - [[30 Slipbox/Azure Network Security Group\|Azure Network Security Group]]
+  - [[30 Slipbox/Azure Service Endpoint\|Azure Service Endpoint]]
 - **Other**
   - [[30 Slipbox/Azure Resource Group\|Azure Resource Group]]
   - [[30 Slipbox/Azure Arc\|Azure Arc]]
@@ -101,7 +102,7 @@
   - [[30 Slipbox/Azure Resource Graph\|Azure Resource Graph]]
   - [[30 Slipbox/Azure Subscription\|Azure Subscription]]
   - [[30 Slipbox/Azure OpenAI Studio\|Azure OpenAI Studio]]
-  - [[99 Inbox/Azure Network Watcher\|Azure Network Watcher]]
+  - [[30 Slipbox/Azure Network Watcher\|Azure Network Watcher]]
 
 ## Tools
 

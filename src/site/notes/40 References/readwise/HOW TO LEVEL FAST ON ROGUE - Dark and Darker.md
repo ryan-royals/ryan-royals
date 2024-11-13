@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-level-fast-on-rogue-dark-and-darker/","tags":["rw/articles"]}
 ---
 
-![40 References/attachments/88326f3797ae00e73ab9e296dceeef69_MD5.jpg](/img/user/40%20References/attachments/88326f3797ae00e73ab9e296dceeef69_MD5.jpg)
-  
-URL: https://www.youtube.com/watch?v=ySVfuHUSmts
-Author: Repoze
+![rw-book-cover](https://i.ytimg.com/vi/ySVfuHUSmts/maxresdefault.jpg)
 
 ## Summary
 
@@ -19,7 +16,8 @@ Business inquiries: repozebusiness@gmail.com
 Dark and Darker Discord: https://discord.gg/darkanddarker
 Dark and Darker Wiki: https://darkanddarker.wiki.spellsandguns.com/Dark_and_Darker_Wiki
 
-## Highlights added August 30, 2024 at 2:23 PM
->HOW TO LEVEL FAST ON ROGUE - Dark and Darker ([View Highlight] (https://read.readwise.io/read/01h8xxdd4wtza9csxspf9q4gxp))
+## Highlights
+
+HOW TO LEVEL FAST ON ROGUE - Dark and Darker ([View Highlight] (https://read.readwise.io/read/01h8xxdd4wtza9csxspf9q4gxp))
 
 

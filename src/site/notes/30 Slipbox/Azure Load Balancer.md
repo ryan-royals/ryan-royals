@@ -51,5 +51,35 @@ Azure Load Balancer can either be **[[30 Slipbox/Zone Redundancy in Azure\|Zone 
 
 ![Azure Load Balancer-1722219304986.png](/img/user/40%20References/attachments/image/Azure%20Load%20Balancer-1722219304986.png)
 
-[^1]:[[40 References/readwise/Design and Implement Azure Load Balancer Using the Azure Portal - Training\|Design and Implement Azure Load Balancer Using the Azure Portal - Training]]raining]]
-[^2]: [[40 References/readwise/Azure Load Balancer Components\|Azure Load Balancer Components]]ponents]]
+## Outbound Connectivity and SNAT Ports
+
+When a VM creates an outbound flow, Azure translates the source IP address to an ephemeral IP address. This translation is done via SNAT.  
+If using SNAT without outbound rules via a public load balancer, SNAT ports are pre-allocated as described in the following default SNAT ports allocation table
+
+To establish an outbound connection, an **ephemeral port** is used to provide the destination with a port on which to communicate and maintain a distinct traffic flow. When these ephemeral ports are used for SNAT, they're called **SNAT ports** ([[Source NAT\|Source NAT]]).
+
+By definition, every IP address has 65,535 ports. Each port can either be used for inbound or outbound connections for TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). When a public IP address is added as a frontend IP to a load balancer, 64,000 ports are eligible for SNAT.
+
+Each port used in a load balancing or inbound NAT rule consumes a range of eight ports from the 64,000 available SNAT ports. This usage reduces the number of ports eligible for SNAT, if the same frontend IP is used for outbound connectivity. If load-balancing or inbound NAT rules consumed ports are in the same block of eight ports consumed by another rule, the rules don't require extra ports.  
+
+When the load-balancing rules are configured to use default port allocation, or when the outbound rules have the **Use the default number of outbound ports** setting configured, SNAT ports are allocated by default based on the backend pool size. The backend will receive the number of ports defined by the table, per frontend IP, up to a maximum of 1,024 ports.  
+[^3]
+
+### Default Port Allocation Table
+
+| Pool size (VM instances) | Default SNAT ports |
+| ------------------------ | ------------------ |
+| 1-50                     | 1,024              |
+| 51-100                   | 512                |
+| 101-200                  | 256                |
+| 201-400                  | 128                |
+| 401-800                  | 64                 |
+| 801-1,000                | 32                 |
+
+[^3]
+
+## References
+
+[^1]:[[40 References/readwise/Design and Implement Azure Load Balancer Using the Azure Portal - Training\|Design and Implement Azure Load Balancer Using the Azure Portal - Training]]
+[^2]: [[40 References/readwise/Azure Load Balancer Components\|Azure Load Balancer Components]]
+[^3]: [[40 References/omnivore/Source Network Address Translation (SNAT) for outbound connections - Azure Load Balancer - Micros...\|Source Network Address Translation (SNAT) for outbound connections - Azure Load Balancer - Micros...]]

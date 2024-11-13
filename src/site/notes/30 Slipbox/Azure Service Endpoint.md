@@ -7,3 +7,5 @@
 Azure Service Endpoints are used to optimize routing on your subnet to the service it has been configured to reach on a subnet in a [[30 Slipbox/Azure Virtual Network\|Azure Virtual Network]].  
 It only only offers this access to devices on the Subnet itself, and can not be used outside of the Subnet (Natively).  
 A key usage is to simplify routing when using [[30 Slipbox/Azure User Defined Route\|UDR's]] to stop traffic routing to a RouteAll.
+
+A Service Endpoint Policy can be configured to restrict access to only the allowed Storage Accounts through the Service Endpoint.

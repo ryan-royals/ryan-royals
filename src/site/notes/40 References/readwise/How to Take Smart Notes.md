@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-take-smart-notes/","tags":["rw/articles"]}
 ---
 
-![40 References/attachments/2c1af7f60bdc1bd27ede5d188666a411_MD5.jpg](/img/user/40%20References/attachments/2c1af7f60bdc1bd27ede5d188666a411_MD5.jpg)
-  
-URL: https://www.youtube.com/watch?v=5O46Rqh5zHE
-Author: Vicky Zhao [BEEAMP]
+![rw-book-cover](https://i.ytimg.com/vi/5O46Rqh5zHE/maxresdefault.jpg)
 
 ## Summary
 
@@ -30,14 +27,15 @@ We'll cover the 3 things that make smart notes smart, and techniques like Q/E/C 
 01:23 1/ active smart notes
 03:14 2/ atomic smart n...
 
-## Highlights added August 30, 2024 at 2:23 PM
->qec stands for question evidence andconclusion ([View Highlight] (https://read.readwise.io/read/01hfwj3v8w7fjqm9wqva5dvxd0))
+## Highlights
+
+qec stands for question evidence andconclusion ([View Highlight] (https://read.readwise.io/read/01hfwj3v8w7fjqm9wqva5dvxd0))
 
 
->when you're reading the questionsthe evidence and the conclusion this wayit doesn't matter what you're readingwhich order the author puts his ideas inyou can always find these three thingsand link them together ([View Highlight] (https://read.readwise.io/read/01hfwj4gcadpkzc563xxx2x8w1))
+when you're reading the questionsthe evidence and the conclusion this wayit doesn't matter what you're readingwhich order the author puts his ideas inyou can always find these three thingsand link them together ([View Highlight] (https://read.readwise.io/read/01hfwj4gcadpkzc563xxx2x8w1))
 
 
->ry the compass ofzerocasting thinking i learned this onefrom my friend faye you take one idea in
->the middle and you think in fourdifferent directions north is where doesthis idea come from west is what'ssimilar to this idea east is whatcompetes with this idea and south iswhere can this idea lead to next ([View Highlight] (https://read.readwise.io/read/01hfwjannw6b57kqsrg88cnfdz))
+ry the compass ofzerocasting thinking i learned this onefrom my friend faye you take one idea in
+the middle and you think in fourdifferent directions north is where doesthis idea come from west is what'ssimilar to this idea east is whatcompetes with this idea and south iswhere can this idea lead to next ([View Highlight] (https://read.readwise.io/read/01hfwjannw6b57kqsrg88cnfdz))
 
 

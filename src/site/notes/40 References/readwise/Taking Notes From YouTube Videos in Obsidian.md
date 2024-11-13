@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/taking-notes-from-you-tube-videos-in-obsidian/","tags":["rw/articles"]}
 ---
 
-![40 References/attachments/27bb234c59de1ce379e0da7518737854_MD5.jpg](/img/user/40%20References/attachments/27bb234c59de1ce379e0da7518737854_MD5.jpg)
-  
-URL: https://www.youtube.com/watch?v=qjWq4ck2-0o
-Author: Nicole van der Hoeven
+![rw-book-cover](https://i.ytimg.com/vi/qjWq4ck2-0o/maxresdefault.jpg)
 
 ## Summary
 
@@ -35,16 +32,17 @@ Site: https://nicolevanderhoeven.com
 Mastodon: https://pkm.social/@nicole
 My travel...
 
-## Highlights added August 30, 2024 at 2:23 PM
->in media extended,I can also get timestampedfrom player and you'll see that I alreadyhad previously saved this to have a hot key of control ([View Highlight] (https://read.readwise.io/read/01gz4xmm76b9vdgrrj2th1s6wg))
+## Highlights
+
+in media extended,I can also get timestampedfrom player and you'll see that I alreadyhad previously saved this to have a hot key of control ([View Highlight] (https://read.readwise.io/read/01gz4xmm76b9vdgrrj2th1s6wg))
 
 
->And Reader just announced an integration with YouTube ([View Highlight] (https://read.readwise.io/read/01gz4xx30py8pw5eqznrp7bp1c))
+And Reader just announced an integration with YouTube ([View Highlight] (https://read.readwise.io/read/01gz4xx30py8pw5eqznrp7bp1c))
 
 
->Commander Control K in Reader. ([View Highlight] (https://read.readwise.io/read/01gz4xv4h2ehaavyn0fxdkew59))
+Commander Control K in Reader. ([View Highlight] (https://read.readwise.io/read/01gz4xv4h2ehaavyn0fxdkew59))
 
 
->ghost Reader.It's shift G. ([View Highlight] (https://read.readwise.io/read/01gz4xvhec0dbn17v8x9k2yfda))
+ghost Reader.It's shift G. ([View Highlight] (https://read.readwise.io/read/01gz4xvhec0dbn17v8x9k2yfda))
 
 

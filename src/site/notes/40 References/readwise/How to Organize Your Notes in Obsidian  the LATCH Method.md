@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/how-to-organize-your-notes-in-obsidian-the-latch-method/","tags":["rw/articles"]}
 ---
 
-![40 References/attachments/94a577555f8243bd58d8ee503f092ecc_MD5.jpg](/img/user/40%20References/attachments/94a577555f8243bd58d8ee503f092ecc_MD5.jpg)
-  
-URL: https://www.youtube.com/watch?v=vS-b_RUtL1A
-Author: Nicole van der Hoeven
+![rw-book-cover](https://i.ytimg.com/vi/vS-b_RUtL1A/maxresdefault.jpg)
 
 ## Summary
 
@@ -31,7 +28,8 @@ Zsolt Viczián's introduction of the LATCH method: https://www.youtube.com/watch
 
 If you want to learn more about Obs...
 
-## Highlights added August 30, 2024 at 2:23 PM
->LATCH stands for five things,Location, Alphabet,Time, Categoryand Hierarchy. ([View Highlight] (https://read.readwise.io/read/01gx7tvyn85z495sk3dt4j9yhg))
+## Highlights
+
+LATCH stands for five things,Location, Alphabet,Time, Categoryand Hierarchy. ([View Highlight] (https://read.readwise.io/read/01gx7tvyn85z495sk3dt4j9yhg))
 
 

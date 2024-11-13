@@ -37,6 +37,10 @@ Azure creates the following default rules in each network security group that yo
 
 ## NSG Assignment and Precedence
 
-Network Security Groups can be assigned to [[30 Slipbox/Azure Subnet\|Subnets]] and [[30 Slipbox/Azure Network Interface Card\|NICs]]. If both a NIC is mounted to a Subnet, and both have NSG's attached, the Subnet NSG rules are applied first for Ingress traffic, and the opposite is applied for Egress.
+Network Security Groups can only be assigned to Subnets and NICs in the same region.
+
+Network Security Groups can be assigned to [[30 Slipbox/Azure Subnet\|Subnets]] and [[30 Slipbox/Azure Network Interface Card\|NICs]].  
+If both a NIC is mounted to a Subnet, and both have NSG's attached, the Subnet NSG rules are applied first for Ingress traffic, and the opposite is applied for Egress.  
+When both the Subnet and NIC have NSG's attached, only rules that exist in both NSG's will work.
 
 [^1]: [[40 References/readwise/Deploy Network Security Groups by Using the Azure Portal - Training\|Deploy Network Security Groups by Using the Azure Portal - Training]]

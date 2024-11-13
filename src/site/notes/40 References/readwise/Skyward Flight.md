@@ -2,21 +2,20 @@
 {"dg-publish":true,"permalink":"/40-references/readwise/skyward-flight/","tags":["rw/books"]}
 ---
 
-![40 References/attachments/e75d6851133da6f68bcd4e4a8034c862_MD5.jpg](/img/user/40%20References/attachments/e75d6851133da6f68bcd4e4a8034c862_MD5.jpg)
-  
-Author: Brandon Sanderson and Janci Patterson
+![rw-book-cover](https://m.media-amazon.com/images/I/91AOY6A8F2L._SY160.jpg)
 
 ## Summary
 
 None
 
-## Highlights added August 30, 2024 at 2:23 PM
->The day the delver came, I stood staring up at the stars. ([Location 54] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=54))
+## Highlights
+
+The day the delver came, I stood staring up at the stars. ([Location 54] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=54))
 
 
->I stood at the edge of a balcony on one of the branches of the Stadium tree, watching the games play out in the enormous hollow below. ([Location 2533] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=2533))
+I stood at the edge of a balcony on one of the branches of the Stadium tree, watching the games play out in the enormous hollow below. ([Location 2533] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=2533))
 
 
->“Jorgen, are you ready?” my father asked, standing in the doorway to the parlor. ([Location 5730] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=5730))
+“Jorgen, are you ready?” my father asked, standing in the doorway to the parlor. ([Location 5730] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=5730))
 
 

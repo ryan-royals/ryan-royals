@@ -88,7 +88,7 @@ Multi-site configurations are useful for supporting multitenant applications, wh
 
 Application Gateway routing also includes these features:
 
-- **Redirection**. Redirection can be used to another site, or from HTTP to HTTPS.
+- **Redirection**. Redirection can be used to another site, or from HTTP to HTTPS using Global Redirection.
 - **Rewrite HTTP headers**. HTTP headers allow the client and server to pass parameter information with the request or the response.
 - **Custom error pages**. Application Gateway allows you to create custom error pages instead of displaying default error pages. You can use your own branding and layout using a custom error page.  
 [^1]
@@ -165,6 +165,10 @@ Application Gateway supports autoscaling, and can scale up or down based on chan
 Application Gateway provides native support for the WebSocket and HTTP/2 protocols. The WebSocket and HTTP/2 protocols enable full duplex communication between a server and a client over a long-running TCP connection. This type of communication is more interactive between the web server and the client, and can be bidirectional without the need for polling as required in HTTP-based implementations. These protocols have low overhead (unlike HTTP) and can reuse the same TCP connection for multiple request/responses resulting in a more efficient resource utilization. These protocols are designed to work over traditional HTTP ports of 80 and 443.  
 [^1]
 
+## Differences to V1
+
+A notable change from V1 to V2 is that V1 does not support URL rewrites with rewrite sets, but v2 does. [^3]
+
 ## Troubleshooting and Notes
 
 - App gateway works with something like last known good config. If you make a bad change (Like it can not read a key vault secret), any further updates will fail until this issue is resolved.
@@ -178,3 +182,4 @@ Application Gateway provides native support for the WebSocket and HTTP/2 protoco
 
 [^1]: [[40 References/readwise/Design Azure Application Gateway - Training\|Design Azure Application Gateway - Training]]
 [^2]: [[40 References/readwise/Configure Azure Application Gateway - Training\|Configure Azure Application Gateway - Training]]
+[^3]: [[40 References/omnivore/Rewrite URL and query string with Azure Application Gateway - Azure portal - Microsoft Learn\|Rewrite URL and query string with Azure Application Gateway - Azure portal - Microsoft Learn]]
