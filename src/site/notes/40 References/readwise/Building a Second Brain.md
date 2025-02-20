@@ -4,12 +4,7 @@
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/71-C-CsboJL._SY160.jpg)
 
-## Summary
-
-None
-
 ## Highlights
-
 To be able to make use of information we value, we need a way to package it up and send it through time to our future self. We need a way to cultivate a body of knowledge that is uniquely our own, so when the opportunity arises—whether changing jobs, giving a big presentation, launching a new product, or starting a business or a family—we will have access to the wisdom we need to make good decisions and take the most effective action. It all begins with the simple act of writing things down. ([Location 60] (https://readwise.io/to_kindle?action=open&asin=B09MDNDYYF&location=60))
 
 

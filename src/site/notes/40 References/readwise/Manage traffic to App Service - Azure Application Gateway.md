@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-This article provides guidance on how to configure Application Gateway with Azure App Service
+## Full Document
+[[40 References/readwise/Full Document Contents/Manage traffic to App Service - Azure Application Gateway\|Readwise/Full Document Contents/Manage traffic to App Service - Azure Application Gateway.md]]
 
 ## Highlights
-
 Configuring DNS
 In the context of this scenario, DNS is relevant in two places:
 • The DNS name, which the user or client is using towards Application Gateway and what is shown in a browser

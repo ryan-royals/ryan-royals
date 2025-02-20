@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://www.hashicorp.com/favicon.svg)
 
-## Summary
-
-These guidelines can help organizations mature their use of HashiCorp Terraform modules for scale and a faster release cadence.
+## Full Document
+[[40 References/readwise/Full Document Contents/Maturing Your Terraform Workflow\|Readwise/Full Document Contents/Maturing Your Terraform Workflow.md]]
 
 ## Highlights
-
 Two anti-patterns often arise as organizations increase the use of their platform and start to scale: first module proliferation, then mega-modules. ([View Highlight] (https://read.readwise.io/read/01h717a5dcxqgncrd74hz1drcj))
 
 

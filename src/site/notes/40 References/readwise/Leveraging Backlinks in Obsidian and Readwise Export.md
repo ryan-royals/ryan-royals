@@ -4,12 +4,7 @@
 
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:800/0*n8kDQtD_LlS-hVmR.png)
 
-## Summary
-
-None
-
 ## Highlights
-
 Notice how for each set of highlights exported to your vault, we get the date and the file name. While this is very similar to the previous sync notification, we have enriched the linking by directly linking each line of the sync log to the date and the document file name. Here is what the Sync Notification configuration should look like to make this happen: ([View Highlight] (https://read.readwise.io/read/01h6jyc5msmnceyd8xzqy5ne0d))
 
 

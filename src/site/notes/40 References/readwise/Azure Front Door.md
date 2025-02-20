@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_iGQZ1il.png)
 
-## Summary
-
-This article provides an overview of Azure Front Door.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Front Door\|Readwise/Full Document Contents/Azure Front Door.md]]
 
 ## Highlights
-
 Whether you’re delivering content and files or building global apps and APIs, Azure Front Door can help you deliver higher availability, lower latency, greater scale, and more secure experiences to your users wherever they are. ([View Highlight] (https://read.readwise.io/read/01h3vb7dmsv04w5012r4t88gkv))
 
 

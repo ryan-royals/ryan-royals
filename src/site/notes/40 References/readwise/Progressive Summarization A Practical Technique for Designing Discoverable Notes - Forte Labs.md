@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://i0.wp.com/fortelabs.com/wp-content/uploads/2017/12/1vTBT177SuhcgBEdPJwT9lA.jpeg?fit=704%2C282&ssl=1)
 
-## Summary
-
-None
+## Full Document
+[[40 References/readwise/Full Document Contents/Progressive Summarization A Practical Technique for Designing Discoverable Notes - Forte Labs\|Readwise/Full Document Contents/Progressive Summarization A Practical Technique for Designing Discoverable Notes - Forte Labs.md]]
 
 ## Highlights
-
 Modern digital tools make it easy to “capture” information from a wide variety of sources. We know how to snap a picture, type out some notes, record a video, or scan a document. Getting this content from the outside world into the digital world is trivial. ([View Highlight] (https://read.readwise.io/read/01h90e5qdgm9407zkrtwq4fwjv))
 
 

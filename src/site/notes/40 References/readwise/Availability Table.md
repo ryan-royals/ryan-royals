@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
-## Summary
-
-The availability of a service is measured by how long it is unavailable over time. A table shows the allowed downtime for different availability levels, ranging from 90% to 99.999%. For services with partial availability, it's better to use an aggregate unavailability metric instead of just outage lengths.
+## Full Document
+[[40 References/readwise/Full Document Contents/Availability Table\|Readwise/Full Document Contents/Availability Table.md]]
 
 ## Highlights
-
 **Availability level** **Allowed unavailability window**
 **per year**
 **per quarter**

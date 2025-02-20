@@ -4,17 +4,10 @@
 
 ![rw-book-cover](https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded)
 
-## Summary
-
-I love vim, but one common gotcha is:
-yank a line
-go to where you would like to paste it
-delete what's there
-paste your yank, only to discover that it pastes what you just deleted
-Obviously the 
+## Full Document
+[[40 References/readwise/Full Document Contents/Any Way to Delete in Vim Without Overwriting Your Last Yank [Duplicate]\|Readwise/Full Document Contents/Any Way to Delete in Vim Without Overwriting Your Last Yank [Duplicate].md]]
 
 ## Highlights
-
 Pass to the `_` register, the black hole.
 To delete a line without sticking it in the registers:
 "_dd ([View Highlight] (https://read.readwise.io/read/01gy9fz8mm8rxty0rrajmhz2xm))

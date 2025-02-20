@@ -43,3 +43,14 @@
 | 2        | Destructive Aethertide (B) |
 | 2        | Eternal Inferno (R)        |
 | 2        | Looking for a scrap        |
+|          |                            |
+| 1        | Mask of Deceit             |
+| 1        | Blood Splattered Vest      |
+| 2        | Hunters Klaive             |
+| 1        | kiss of death              |
+| 1        | mask of the funnel web (r) |
+| 3        | orb weaver spinneret (r)   |
+| 2        | stains of the redback (r)  |
+| 2        | tarantula toxin            |
+| 1        | Up sticks and run (r)      |
+|          |                            |

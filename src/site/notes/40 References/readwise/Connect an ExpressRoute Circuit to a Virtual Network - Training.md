@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-This text provides training on connecting an ExpressRoute circuit to an Azure virtual network. It explains the requirements for creating this connection, including the need for an active circuit and proper peering configurations. Additionally, it covers how to establish secure VPN tunnels over ExpressRoute for encrypted data exchange between on-premises networks and Azure.
+## Full Document
+[[40 References/readwise/Full Document Contents/Connect an ExpressRoute Circuit to a Virtual Network - Training\|Readwise/Full Document Contents/Connect an ExpressRoute Circuit to a Virtual Network - Training.md]]
 
 ## Highlights
-
 You can link up to 10 virtual networks to a standard ExpressRoute circuit. All virtual networks must be in the same geopolitical region when using a standard ExpressRoute circuit. ([View Highlight] (https://read.readwise.io/read/01j3bx7bdbrr7xprwpfm7gx6vg))
 
 

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Learn about Azure Private Endpoint DNS configuration.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Private Endpoint DNS Configuration\|Readwise/Full Document Contents/Azure Private Endpoint DNS Configuration.md]]
 
 ## Highlights
-
 It's important to correctly configure your DNS settings to resolve the private endpoint IP address to the fully qualified domain name (FQDN) of the connection string. ([View Highlight] (https://read.readwise.io/read/01h0efwbchgkh9gdka5xxf2p7g))
 
 

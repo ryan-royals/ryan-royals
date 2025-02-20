@@ -4,12 +4,7 @@
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/91AOY6A8F2L._SY160.jpg)
 
-## Summary
-
-None
-
 ## Highlights
-
 The day the delver came, I stood staring up at the stars. ([Location 54] (https://readwise.io/to_kindle?action=open&asin=B09LCVTC11&location=54))
 
 

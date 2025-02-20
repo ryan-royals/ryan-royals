@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://developer.hashicorp.com/og-image/terraform.jpg)
 
-## Summary
-
-The meta-arguments in a lifecycle block allow you to customize resource behavior.
+## Full Document
+[[40 References/readwise/Full Document Contents/The Lifecycle Meta-Argument\|Readwise/Full Document Contents/The Lifecycle Meta-Argument.md]]
 
 ## Highlights
-
 [`replace_triggered_by`](https://developer.hashicorp.com/terraform/language/meta-arguments/lifecycle#replace_triggered_by) (list of resource or attribute references) - *Added in Terraform 1.2.* Replaces the resource when any of the referenced items change. Supply a list of expressions referencing managed resources, instances, or instance attributes. When used in a resource that uses `count` or `for_each`, you can use `count.index` or `each.key` in the expression to reference specific instances of other resources that are configured with the same count or collection. ([View Highlight] (https://read.readwise.io/read/01h4nbddr97ast4wzmz7n3wcvt))
 
 

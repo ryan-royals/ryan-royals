@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-The Azure Application Gateway routes requests to web servers and monitors their health. It uses health probes to check if servers are functioning, automatically stopping requests to unhealthy servers. Listeners and request routing rules help manage incoming traffic and direct it to the appropriate backend servers.
+## Full Document
+[[40 References/readwise/Full Document Contents/Configure Azure Application Gateway - Training\|Readwise/Full Document Contents/Configure Azure Application Gateway - Training.md]]
 
 ## Highlights
-
 **Probe property** **Value** **Description** Probe URL `<protocol>://127.0.0.1:<port>/` The protocol and port are inherited from the backend HTTP settings to which the probe is associated Interval 30 The amount of time in seconds to wait before the next health probe is sent. Time-out 30 The amount of time in seconds the application gateway waits for a probe response before marking the probe as unhealthy. If a probe returns as healthy, the corresponding backend is immediately marked as healthy. Unhealthy threshold 3 Governs how many probes to send in case there's a failure of the regular health probe. In v1 SKU, these additional health probes are sent in quick succession to determine the health of the backend quickly and don't wait for the probe interval. In the case of v2 SKU, the health probes wait the interval. The back-end server is marked down after the consecutive probe failure count reaches the unhealthy threshold. ([View Highlight] (https://read.readwise.io/read/01j8nthp20x4zmej5gx81tjzp6))
 
 

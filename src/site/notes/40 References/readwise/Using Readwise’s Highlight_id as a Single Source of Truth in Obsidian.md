@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:800/0*HBhv7hIzbYVZv4z-.png)
 
-## Summary
-
-The Readwise service allows you to export your highlights to various tools like Obsidian, Roam, Notion, and more. The export can be…
+## Full Document
+[[40 References/readwise/Full Document Contents/Using Readwise’s Highlight_id as a Single Source of Truth in Obsidian\|Readwise/Full Document Contents/Using Readwise’s Highlight_id as a Single Source of Truth in Obsidian.md]]
 
 ## Highlights
-
 It is hard to see in all the goo and spaghetti of the code the configuration, but notice **^rw{{highlight_id}}**. This is the Obsidian block reference. The format is as follows:
 • Obsidian requires that a block (a paragraph or highlight) ends with a space and then the **^** character. This tells Obsidian that this is a block that can be referenced elsewhere in the vault.
 • The next 2 characters are **rw**. I choose to export the **rw** as a prefix for the identifier as a way of telling myself that this block reference originates with Readwise, but it is not necessary, you don’t have to include it if you don’t want it.

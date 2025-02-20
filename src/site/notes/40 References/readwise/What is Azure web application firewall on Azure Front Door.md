@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_OuOwLI6.png)
 
-## Summary
-
-Learn how Azure web application firewall on Azure Front Door service protects your web applications from malicious attacks.
+## Full Document
+[[40 References/readwise/Full Document Contents/What is Azure web application firewall on Azure Front Door\|Readwise/Full Document Contents/What is Azure web application firewall on Azure Front Door.md]]
 
 ## Highlights
-
 Azure Web Application Firewall (WAF) on Azure Front Door provides centralized protection for your web applications. WAF defends your web services against common exploits and vulnerabilities. It keeps your service highly available for your users and helps you meet compliance requirements. ([View Highlight] (https://read.readwise.io/read/01h3bg4c8aysrqxytje5pq3nq2))
 
 

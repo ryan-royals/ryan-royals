@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://opengraph.githubassets.com/24e399a1761e19aa92edcba30a8f779ec05e98d2750a02336425da5698742e79/Azure/aztfexport)
 
-## Summary
-
-A tool to bring existing Azure resources under Terraform's management - Azure/aztfexport: A tool to bring existing Azure resources under Terraform's management
+## Full Document
+[[40 References/readwise/Full Document Contents/Azureaztfexport A tool to bring existing Azure resources under Terraform's management\|Readwise/Full Document Contents/Azureaztfexport A tool to bring existing Azure resources under Terraform's management.md]]
 
 ## Highlights
-
 A tool to bring your existing Azure resources under the management of Terraform. ([View Highlight] (https://read.readwise.io/read/01h181cchza6ptb3pj8w4sf47y))
 
 

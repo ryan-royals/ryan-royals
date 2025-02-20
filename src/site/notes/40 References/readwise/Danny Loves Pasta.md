@@ -4,12 +4,7 @@
 
 ![rw-book-cover](https://books.google.com/books/content?id=PNWOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=public)
 
-## Summary
-
-None
-
 ## Highlights
-
 1. Combine the flours in a pile on a flat work surface or in a large bowl. Make a deep well in the middle.
 2. Crack the eggs into the well and use a fork to scramble them. Pull in a little bit of flour from the bottom of the well and mix it with the eggs until most of the lumps are gone.
 3. Drag in flour from the edges of your well and incorporate with the Keep incorporating more and more of the flour and eggs until the mixture becomes difficult to stir with a fork.

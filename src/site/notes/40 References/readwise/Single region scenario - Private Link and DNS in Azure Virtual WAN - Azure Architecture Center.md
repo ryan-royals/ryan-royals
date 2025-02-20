@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_7lYYhOX.png)
 
-## Summary
-
-This article provides guidance on implementing DNS to support private endpoints in a Virtual WAN network in a single region where the virtual hub has a Firewall with DNS Proxy enabled. The solution includes implementing a virtual WAN hub extension for DNS.
+## Full Document
+[[40 References/readwise/Full Document Contents/Single region scenario - Private Link and DNS in Azure Virtual WAN - Azure Architecture Center\|Readwise/Full Document Contents/Single region scenario - Private Link and DNS in Azure Virtual WAN - Azure Architecture Center.md]]
 
 ## Highlights
-
 Successful outcome
 The Azure Virtual Machine client can connect to the Azure Storage account via the storage account's private endpoint that is in the same virtual network, and all other access to the storage account is blocked. ([View Highlight] (https://read.readwise.io/read/01h06jkw0kc9jjjtfp3ebgef49))
 

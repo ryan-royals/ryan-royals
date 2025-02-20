@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://www.datocms-assets.com/2885/1696883278-generic-multi-deployment-environment-example-1.png)
 
-## Summary
-
-Terraform stacks simplify provisioning and managing resources at scale, reducing the time and overhead of managing infrastructure.
+## Full Document
+[[40 References/readwise/Full Document Contents/Terraform Stacks, Explained\|Readwise/Full Document Contents/Terraform Stacks, Explained.md]]
 
 ## Highlights
-
 Here are the common use cases for stacks, out of the box:
 • **Deploy an entire application with components like networking, storage, and compute as a single unit without worrying about dependencies**. A stack configuration describes a full unit of infrastructure as code and can be handed to users who don’t have advanced Terraform experience, allowing them to easily stand up a complex infrastructure deployment with a single action.
 • **Deploy across multiple regions, availability zones, and cloud provider accounts without duplicating effort/code**. *Deployments* in a stack let you define multiple instances of the same configuration without needing to copy and paste configurations, or manage configurations separately. When a change is made to the stack configuration, it can be rolled out across all, some, or none of the deployments in a stack. ([View Highlight] (https://read.readwise.io/read/01hgc8fer3h18mv82edp2mzy7c))

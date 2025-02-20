@@ -1,0 +1,111 @@
+---
+{"dg-publish":true,"permalink":"/40-references/readwise/full-document-contents/big-dromai-deck-tech-ian-tcg/","tags":["rw/articles"]}
+---
+
+![rw-book-cover](https://i.ytimg.com/vi/TLK9cXf3dLY/maxresdefault.jpg)
+
+[Music]hello everybody and welcome back toArsenal pass today we have a dremod decktack with Ian I think better known asentcg one of my favorite players on thepro pro circuit did have the pleasure ofcasting one of your matches at Pro TourBaltimore I genuinely thought that youwere at a winning in for top eight bothBrian Brian Gottlieb and I thought that
+
+that's why we had your match on StreamSo that that ninth was prettysoul-crushing for me as well I was likeokay he's definitely we're gonna see athird Jeremiahum but yeah basically tldr on that youwent to Pro Tour Baltimore performedreally well unfortunately did get ninthbut we saw we got to see on streamparticularly a master class of Jeremiahinto that old-time matchup which I wasparticularly impressed with and that'sthe deck we're going to be looking attoday just want to ask you a fewquestions about your mind the history ofJapan is kind of interesting becauseit's a it's a deck that I think that has
+
+gone under the radar for a long time isa bit hated on by some a vocal group ofpeople in flesh and blood and I thinknotoriously has a very bad conversionrate on the aggregate right that is justabsolutely not the case for a certainnumber of players who have taken thestack to top finishes consistently andhave shown Mastery over the deck uh whydo you think it is that Jeremiah despitenow being a popular hero sort of in thegeneral populace's hands is having that
+
+bad conversion rate do you think thatpeople are building the deck wrong arethey playing the deck wrong or someother fundamental issueit's very hard to say because likeumI feel like draw my isnot that strong if you know how to playagainst her but there's some people thatare just very good at playing againstuh to like outplaying her and and thenyou have to go like a level further thanthat to outplayed their outplace so it's
+
+it's a really weird situation and youreally you really need to know againwhat kind of game plan you're supposedto have and so what matchups and stuffyeah absolutely it's definitely a verytechnical deck and a deck that reallysort of puts puts it forward that youneed to have a game plan in terms of howto win um especially against these moregrinding matchups like Ultima I think inthe finals we saw uh you know Michaelthing pick apart uh not in the finalsbut in the top eight pick a part part
+
+his dramat opponent in the form ofU-Haul but then circling back it's likethere was potentially ways for for youhow to win that game if you havepotentially changed his his early gamestrategy use it total multi differentlyplay the remembrances differently it'svery very technical because I remembermy postmortem after that match was sortof okay Michael Michael Fang had thatlock there was no way that U-Haul couldwin just based off the pitch tag basedoff the poppers Etc but had people talkto me after and there's there's just somany layers to Jeremiah which makes itsuper interesting but you're totally
+
+right you have to there's people thatcan outplay you ride they can maybecounter your ghostly touch strategycounter this sort of predictable endgame but you as a Jeremiah player can goanother layer deep and counter uh sortof counter their strategy to try andbeat youum what made you play Jeremiah at thepro tourum so first of all uh I just reallyenjoy playing an Illusionist I've beenplaying prison for a long time anduh when prism got banned I basicallywent over to dramai and Icelander for a
+
+bitum and yeah second I thought drama wasjust in a really good positionum LexiI was expecting basically Lexi all themdromae and Azalea pretty much and I feltlike I could get a pretty favorablematchup into all of them by justtweaking my deck a little bit and makingit so that yeah that it's that it winsso you felt like it was a meta pick forthe Pro Tour specifically
+
+um what what did anything happen at thepro tour that you didn't expect or didThe Meta sort of play out exactly howyou did with Lexi being the most populardeck um and old him not being as popularas maybe we had expected but stillperforming very well in the hands of youknow the eventual Pro Tour Champion didyour ex was that sort of the meta thatyou were predicting when you picked upthis listyeah pretty muchum I expected there to be a bit moreAzalea because of the battle hardenedresults uh but everyone kind of pivoted
+
+to Lexi they started learning Lexiwe've actually got very hard to playagainst against certain deck lists evenas dromaisothat was a little bit scary for mebut for the rest yeah also I was afraidof anathos Aldenum because there was a very novel thingat that timeum still is I thinkand I didn't have enough practiceagainst it but for a rest yeah it waspretty much as I expected
+
+what do you think are the strengths andweaknesses of Jeremiah and we can evensort of hone that into your particularJeremiah list in that meta becauseJeremiah's one of these polarizingHeroes where we talk about these 90-90matchups or both sides of the matchupthink that it's almost unusable you knowthe old teams think they can beat yourmind the Germans think they can beat oldhim do you where do you think thestrengths are are you fundamentallyfavored into decks like old him withthis list are you strong into decks likelike Lexi uh like what are the potentialweaknesses of this deck outside of what
+
+you mentioned being potentially anathosultimum so for example uh Lexiumisn't as favorite as you might or mightnot thinkumwhat I really noticed again when playingagainst Lexi is that like it's reallyhard to find a spot where you canactually develop a dragon and then alsogets attack with the dragon without likefearing getting popped because like apop is just it loses all the tempo and
+
+like you throw everything away basicallyat onceso I had to find a playstyle tokind ofplay around that it's very hardum like fatiguing also isn'tit is it works sometimes but if theirdeck is built properly it doesn't reallyworkumyeah anatos Autumn is likea deck that can both play aggro and uhand play control in the matchup and gets
+
+a leak a lot of damage because of thefan brace being just just being annoyingyeahI want to I want to go ahead and hopinto the list hereum so to start off let's go ahead andtalk about the equipment just from thetop here there's there's a particularfew pieces equipment I want you toexpand uponum first off ghostly touch then MageMaster boots Seekers leggings and thenthe wave of reality I know ghostly touchis generally used for the end game thata lot of people will be familiar with
+
+with Drumline stacking up those counterscreating the passing mirages coming inwith maybe multiple swings of thatghostly touch is there anything inaddition to that or is that is that isthat going to be your primary end gameplan against a deck like old him or doyou have multiple game plans and that isjust one of themit's one of the biggest ones at the veryleast because likeanother one is just pray that they endup with a zero popper hand that happensit's not a game plan you can rely on butit definitely happens as you could have
+
+seen in around seven in round 14.umanother one is actually grinding themout of poppers so uhfor example by having an OVR stickaround on board a lot they're going tobe forced to pop ashwings continuouslyand maybe if you manage to get like achrome wire mirror guy thing next to itit's very annoying because you forcethem to pop two ashwings every turn andthen somehow swing backum there's also burn them all as a
+
+potential win con if you somehow manageto blow up their crown and all of theirneuron you can just kill them withArcane sometimesum but most of the times it just ends upbeing like you just finished them offwith you just get them low with like allof those smaller strategies and thenfinish them off with a big Booky fistsand correct me if I'm wrong the MageMaster boots is generally used forautomatic turns and to potentially playsomething like two passing mirages on asingle turn
+
+um two passing Mirage is almost barelyhappens to be honest it's mostly likejust play the passing rash with go againand then hit them with the ghostly touchum but for the rest yeah what aboutthese Seekers equipment I know thatSecrets equipment is kind of a there's aduality of thought in terms of if youshould play Seekers or if not inJeremiah what is the use case for it inthis listso Seekers uh has been quite uh one ofmy own uh inventions kind of just a
+
+friend of mine asked me if I wanted toplay fembras to create Ash and draw myandI suddenly got to the realization thatlike wait I can I can just use Seekersto get my turn zero Ash and that's likea huge deal for drama it's like so muchTempo that likethe amount of games where you have tothrow away your first turn just togenerate Ash it's just huge it's like anentire turn just changes the entire pace
+
+of the game yeah so most of the times Ijust use on turn zero or turn onewhat about the wave of reality what isthat used forwave of reality seems it's kind of anunassuming card but we use it mostly forthe Lexi matchup so we use the secretleggings and the wave of realityso that we can first get a lot of Tempoby having that Ash on turn zero which isreally huge against them you get thisstart developing dragon's starting turn
+
+oneand wave of reality just makes it sothat you get to block the breakpointsvery well so it usually blocks forlike six in total because you you uhyou line up your word with an interacton their infection shotblocking one plus the blood rodand then maybe a searing shot with athree blockblocking like a five in total with the
+
+spectral Shield afterward so stoppingthose key on hit triggersum definitely well looking at the maindeck here let's take it from the toptalk to me about the ratios I know youknow looking at Mara ferris's list shein particular had I think more Reds ingeneral you do have access to threeremembrance I know some dramas hadaccess to two remembrance but theremembrance those are yellows plus twotimes three Ember ma Center pies asblues three passing Mirage one time snap
+
+and three sweeping blow talk to me sortof about the ratios of the stack and whyyou have as many Blues as you doum so one of the strength of this deckis basically the big dragons and that isum dominia and in a way uhnecria but the biggest parts aresimultaneous Dominionso multi is very big againstum Lexi and Alden especially
+
+somulti is basically one of your win consagainst all them I'm not too sure howMera episode uh what Mara's game plan isagainst all them butit feels like it's a lot harder withoutsome outside than widthum and Lexi some are just yeah fallsapart if she doesn't have a New Horizonso if you manage to get to set it upyeah yeah it's just uh smooth sailinghopefully pretty good yeah so in regards
+
+to the tomatai we talked about it assort of being a win con against old Timuh when playing total time against oldhim are you generally hitting the crownof seeds or are you hitting the nullroom boots firstit depends butum 90 of the time I go for crown ofseedsum this is just to make it harder tomake it easier for all them to makemistakesum sometimes they end up Arsenal in blueandit becomes very hard for them to play
+
+after they do thatand even if you're not taking themistakes into account uh just makingthem Force forcing them to play likeall of their cardsor keeping the card extra in hand isalready annoying enough for them sothat's why it's kind of seats over noroom for me and it's also the blindpitch stacking that's you you can youcan start tracking that pitch a littlebit if there's no Crown if there is it'sreally hard and another win condition
+
+with the stack I assume is burn them allcan you talk to me about how you utilizethat card in this list in general andmaybe against those longer fatigueoriented matchups like Oldenum so in general Bruno Mars just uh itjustit's just a very good card it's a threeblock let's go again for zero cost so itexcavates the go again on Mario dragonsumagainst Lexi I actually use it a lotum because you can just block with three
+
+cards then hit them with your entireboard with dragons and also slowly getto stack up the the one Arcane damageevery turn so over time it will deallike six damage in totalum it also vanishes your attack actionsin case they want the Codex appril toyouumgranted we do have six uh blue attackactions that we can never banish so ifone of those is in your grave it doesn'tmatter but sometimes it matters
+
+umand versus all the specifically it'slike it forces them to either leakdamage or to lose another cardum we I usually use it after I destroyedcrown of seedsbecauseit's a lot less efficient for them tostart blocking the Arcane then they needto picture bluethey can prevent the one Arcane they canuse one resource for the shieldbut don't get the free cycle with the
+
+crown of seas which is really bigso usually the game Flow is like youyou generate Ash you put a you go righton board with Ash wingsthen you play tomotai you destroy thecrown of seeds and then you startpressuring them with burn them allmakes sense andyeah can you talk to me a little bitabout the defensive package in this deckI'm not sure if this is very standardfor jamalis I know some of this I saw
+
+definitely did not have quite anextensive defensive package of the listbut you have three fade for Scene ThreeOasis or spy two seven cover three syncbelowum three sigil Solace and two unmovablein the deck what's sort of the thesisbehind that that robust of a defensivepackageum it's mostly to solidify the the ordermatchupum pretty much all of the directs go inagainst the olden
+
+umit also is good against uh Azaleaumit's usually a decently good matchupoverall but being able to coverdominates and such makes it so that allthe pretty much all the proper matchupsand all the and Azalea become very goodand those are actually one of yourbiggest fears ninja and drum blade were
+
+a little bit low profile for producer soum we just kind of hope to get throughthatumand against Lexi uh you can see that twocent covers are also going inthose are just also they help a lot withsurvivability in that matchup for thisdeck sort of General game plan and howit tries to win games I know it's veryDynamic and it depends matchup to matchup but what are some key dragons you'rereally looking to get out early across
+
+most matchupsumrecently I've actually been likinggender Ayala interesting umyeah it's not one of the Dragons you'dexpect probably but umfor some reason uh it's very hard forRangers to remove the under eyeandI just really likedeveloping a Yen Drive placing a passinga Russian exit and just saying like OkayI Vlog I Vlog with my whole hand and I
+
+hit you for three no fantastic it's justvery satisfying to meumbut that's the thing for Rangersbasicallyum yeah for all them it's mostly just uhdevelop a lot of ashwinks and thencomboing with mirror guyumand againstmost yeahhmm
+
+yeah overall yandere is just a prettysafe car to develop it's because it'svery hard to remove for them yeah Ithink notably against some of the oldlike the older matchups in particular wesee that the power of of the mirror guysand the Chrome eyes when there is acritical mass of ashwings on the boardjust becomes very hard for them to dealwithseems like drawing The Rake The Embersearly in the matchup or at least inclose proximity of each other I can'tput the ultimate a pretty tough spot atsome point in the gameum talk to me about the threeremembrance I saw multiple of your mind
+
+decks at the pro tour opt to play tworemembrance do you think it's imperativeto play three uh in a deck like this andto beat Oldenimperative not specifically but it doesmake the game plan a lot morestraightforward and more easy especiallyuh in very long dragged out gamesum you expect the reach overtime almostand you would think that remembrancewould make the game longerbut by removing the
+
+basically like removing your limits andbeing able to say like okay yeah you canjust play out your mirror guys withoutthinking it saves a lot of time in thatsense and it saves a lot of brain poweras wellyeah what uh what are some key tips andsort of I know heuristics for successwith the deck that you think someplayers might not immediately realizewhen picking up the deck for the first
+
+timeumthe biggest thing is uhit's often not correct to play the funthingso for example if you have a big Tomotie handthumbs up against like a prior orsomethingit's often not worth it to take like 18damage to play the tumble side outum
+
+and there's a lot of these kinds ofplays that are like oh yeah yeah youcould do this but you take a lot of riskin doing thisandit's it's really you have toyeahyou have to be disciplineddon't don't take unnecessary risk youmight win without taking them yeah justI think that's sort of the like ageneral a general guide to flesh andblood in general sorry in general it's a
+
+lot of me saying that word but you wantto take the highest value play andsometimes not the shiniest player themost attractive player which might betaking a lot of damage from an opposingaggregate to play on a tumble tide takea piece of equipment but yeah I thinkespecially with Jeremiah just stayingstrict to your game plan understandingyour role in the matchup is critical towinningum to winning against a lot of thesedecks looking towards the future the TheMeta landscape is going to change so wehead into road to Nationals we head intosome of these callings or just hiredtier events and then of course you know
+
+moving into Worlds which is much lateror Nationals probably uh which is asooner event how do you think that thisStacks position in the meta changes andwhat cards do you think you might besubbing in and outum So currently I'mslightly afraid of seeing more katsusum and maybe Kardashian fights becauseI've also seen that's happening in arecent earthianum one of the things I'm currently
+
+considering is adding a second Seekersequipment so that would be secretSchmitzum so combined with Mage Master boots sothat you have secret myths smidge Masterboots and tome in those matchupsor even double Seekers into for exampleto draw my mirror is also going to behuge or umdouble secret into katsu so that you canalways keep one Seekers back forwhenever the braking skills youum that's one of the ideas I've been
+
+playing with a little bitumI've been playing around with footstepsand celexi a little bit so that you cangenerate Ash while you're blocking theirForceumyeah I've mostly been playing aroundwith the equipment slotsumI haven't really been feeling the needto change anything else so far do youthink the meta you know looking forwardin a couple weeks or even at thisupcoming calling is going to be morehostile towards this year my deck than
+
+the pro tour do you think the meta isgoing to be in a better position forsome a deck like this to succeedumdrama always has a problem with metasthat are too wide I thinkit's not too easy to have a consistentwin rate against everythingbut she can have a consistent win rateagainst most thingsum so for exampleback when Phi was one of the biggestdecks when it was like fire or them
+
+Icelanderit waskind of doable to make a deck that canbeat Phi at least like or around 50 ofthe timesbutnot if uh but the current configurationprobably wouldn't be able to it probablyhas like a 30 40 win rate against itmaybe lower depending on the pilot ofcourse yeah one thing I forgot to ask
+
+and I think it's important as Jeremiahyou know comes off of its PT performanceand becomes a more popular deck just ingeneral how does this list dospecifically into the mirror I know themirror is that that's kind of anopen-ended question because a lot ofdifferent Jeremiah decks floating aroundbut let's take two of the most populardecks um So Into You you host deck orinto Mars deck two kind of differentDramatics how do you feel about thislist into those matchups specificallyso one of the biggest difference in uhbetween my list and your host list is
+
+the third remembrance and I think that'sgoing to be a big rule in going to beplaying a big role in that matchupuh because it basically means that Ihave access to 12 regulars and he onlyhas access to nine of them andthat's that's a huge difference makerit means I canbasically compress my deckwith more break the Embers earlier thanhe can and if he can't out my board uh
+
+I should basically beum be winning the matchupregarding Empress I haven't testedagainst it much yetso I'm not too sure about itumbut I have tried playing it into a copyof my deckandEmpress orI managed to get a lot of Advantage
+
+playing empressso I could see how that deck wins andthat matchupum but I'll have to see I have to testit myself to be sure yeah definitelyawesome well Ian we thank you so muchfor coming on uh it's great to haveplayers like yourself specialists in thespecific Heroes off of GreatPerformances like you have the pro tourcome and talk to us about the decksum that you played for those listening
+
+what are you are you up to any projectsright now and just ultimately where canthey where can they find youumI'm currently not specifically doingmuchI mightyeah I'm currently working on Douglasfor the calling it'll be in three daysas of this recording somaybe you'll see me on stream thereyeah and what about where to find you uh
+
+Twitter is not the best placeyep Twitter at encg underscore Ian thatwould probably be the be the best placefor meum you can check out orformer Flesh and Blood store entcg.comwe're currently don't sell flashingphoto anymore because we were in thebrick and mortar but we still sell othertrading card games such asuh Welsh words Final Fantasy TCGand yeah some other newer games
+
+awesome well again thank you so much forcoming on for those interested Ian haswritten an additional sideboard guideand guide with decks and tips on how topick up the deck be successful with itum up on the Arsenal pass patreon socheck that out if you're not already amember that'll be coming as soon as thisvideo is dropped again thank you so muchagain and good luck in the calling inthe next three daysyep thanks for having me here man cheers[Music]

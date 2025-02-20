@@ -4,12 +4,7 @@
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/61n2ppUc1AL._SY160.jpg)
 
-## Summary
-
-None
-
 ## Highlights
-
 PROJECTS Short-term efforts in your work or life that you’re working on now AREAS Long-term responsibilities you want to manage over time RESOURCES Topics or interests that may be useful in the future ARCHIVES Inactive items from the other three categories ([Location 117] (https://readwise.io/to_kindle?action=open&asin=B0BZ1GNCZG&location=117))
 
 

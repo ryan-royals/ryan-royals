@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["notes","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["notes","gardenEntry"]}
 ---
 
 
@@ -30,7 +30,7 @@ When I'm not doing that, I'm probably playing or otherwise obsessing over a Trad
 
 This is my [Digital Garden](https://maggieappleton.com/garden-history)! Basically this is my personal wiki that I manage with [[30 Slipbox/Obsidian\|Obsidian]], and the [Digital Garden Plugin](https://dg-docs.ole.dev/).  
 Overall the intent is this is a bit of a experiment in [Learning in Public](https://medium.com/my-learning-journal/why-you-should-learn-in-public-4fd3a6239549), which to me is a practise in treating you, the reader, as a rubber ducky that helps me guide the content on my notes, more than them just being a random collection of words.  
-I love note taking, and I currently have 1130 Notes in my vault, with that number climbing daily. This garden is a mildly curated list of topics that I'm happy to share.
+I love note taking, and I currently have 641 Notes in my vault, with that number climbing daily. This garden is a mildly curated list of topics that I'm happy to share.
 
 This content is as much a brain dump as anything else. Something things will lack detail, not be updated, all that compromise.  
 As a general rule, anything in the vault you find is something I care about, so feel free to reach out if you have questions, or find something wrong like a missing link.

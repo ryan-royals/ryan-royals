@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://www.datocms-assets.com/2885/1712695692-share-terraform-1-8-adds-provider-functions-for-aws-google-cloud-and-kubernetes.png?w=1200&h=630&fit=crop&auto=format)
 
-## Summary
-
-Provider-defined functions are now available in AWS, Google Cloud, and Kubernetes providers with Terraform 1.8. These custom functions enhance Terraform's capabilities and simplify complex tasks like ARN manipulation and Kubernetes manifest decoding. Users can now easily extend Terraform configurations using these new functions for diverse tasks.
+## Full Document
+[[40 References/readwise/Full Document Contents/Terraform 1.8 Provider Functions for AWS, Google Cloud, and Kubernetes\|Readwise/Full Document Contents/Terraform 1.8 Provider Functions for AWS, Google Cloud, and Kubernetes.md]]
 
 ## Highlights
-
 To access a provider-defined function, reference the `provider::` namespace with the local name of the Terraform Provider. For example, you can use the `direxists` function by including `provider::local::direxists()` in your Terraform configuration. ([View Highlight] (https://read.readwise.io/read/01hv544brw8rew2wjg508bwz0j))
 
 

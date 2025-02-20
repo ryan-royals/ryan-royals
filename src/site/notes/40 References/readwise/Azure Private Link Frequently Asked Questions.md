@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Learn about Azure Private Link.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Private Link Frequently Asked Questions\|Readwise/Full Document Contents/Azure Private Link Frequently Asked Questions.md]]
 
 ## Highlights
-
 Private Endpoints grant network access to specific resources behind a given service providing granular segmentation. Traffic can reach the service resource from on premises without using public endpoints. ([View Highlight] (https://read.readwise.io/read/01h06mqbxn8damhefartzzhx8n))
 
 

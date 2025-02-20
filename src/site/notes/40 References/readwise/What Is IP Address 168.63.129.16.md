@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Learn about IP address 168.63.129.16, specifically that it's used to facilitate a communication channel to Azure platform resources.
+## Full Document
+[[40 References/readwise/Full Document Contents/What Is IP Address 168.63.129.16\|Readwise/Full Document Contents/What Is IP Address 168.63.129.16.md]]
 
 ## Highlights
-
 Enables the VM Agent to communicate with the Azure platform to signal that it is in a "Ready" state. ([View Highlight] (https://read.readwise.io/read/01gx5cyx333ztdywp9zvn8spnx))
 
 

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
-## Summary
-
-Administrative distance (AD) or route preference[1] is a number of arbitrary unit assigned to dynamic routes, static routes and directly-connected routes.
+## Full Document
+[[40 References/readwise/Full Document Contents/Administrative Distance\|Readwise/Full Document Contents/Administrative Distance.md]]
 
 ## Highlights
-
 Router vendors typically design their routers to assign a default administrative distance to each kind of route. For example, on Cisco routers, routes issued by the [Open Shortest Path First](https://en.wikipedia.org/wiki/OSPF) routing protocol have a lower default administrative distance than routes issued by the [Routing Information Protocol](https://en.wikipedia.org/wiki/Routing_Information_Protocol). This is because, by default on Cisco routers, OSPF has a default administrative distance of 110 and RIP has a default administrative distance of 120. Administrative distance values can, however, usually be adjusted manually by a [network administrator](https://en.wikipedia.org/wiki/Network_administrator). ([View Highlight] (https://read.readwise.io/read/01jbfygbjxsbvvwrxc6662sf35))
 
 

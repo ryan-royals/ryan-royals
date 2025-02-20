@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Azure.md","permalink":"/azure/","tags":["software"]}
+{"dg-publish":true,"dg-path":"Azure.md","permalink":"/azure/","tags":["notes"]}
 ---
 
 
-## Azure
-
-### Resource Providers
+## Resource Providers
 
 - **Microsoft.AAD**
   - [[30 Slipbox/Entra Domain Services\|Entra Domain Services]]

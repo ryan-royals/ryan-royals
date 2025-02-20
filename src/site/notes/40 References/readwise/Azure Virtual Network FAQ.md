@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image_N8DFaO4.png)
 
-## Summary
-
-Answers to the most frequently asked questions about Microsoft Azure virtual networks.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Virtual Network FAQ\|Readwise/Full Document Contents/Azure Virtual Network FAQ.md]]
 
 ## Highlights
-
 Yes. Azure reserves the first four and last IP address for a total of 5 IP addresses within each subnet.
 For example, the IP address range of 192.168.1.0/24 has the following reserved addresses:
 • 192.168.1.0 : Network address

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Understand the functions of a cloud center of excellence (CCoE), including the source, scope, and deliverables.
+## Full Document
+[[40 References/readwise/Full Document Contents/Cloud center of excellence (CCoE) functions - Cloud Adoption Framework\|Readwise/Full Document Contents/Cloud center of excellence (CCoE) functions - Cloud Adoption Framework.md]]
 
 ## Highlights
-
 A cloud center of excellence (CCoE) is a function that helps organizations balance speed and stability while they pursue this objective. ([View Highlight] (https://read.readwise.io/read/01gy9vxqkytwmhfe8q728480jh))
 
 

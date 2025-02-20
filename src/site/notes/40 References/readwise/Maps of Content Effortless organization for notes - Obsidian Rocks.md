@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2023/03/geojango-maps-Z8UgB80_46w-unsplash.jpg)
 
-## Summary
-
-None
+## Full Document
+[[40 References/readwise/Full Document Contents/Maps of Content Effortless organization for notes - Obsidian Rocks\|Readwise/Full Document Contents/Maps of Content Effortless organization for notes - Obsidian Rocks.md]]
 
 ## Highlights
-
 One of the biggest hurdles that you must overcome in order to take good notes is *organization*. The more notes you take, the harder it is to find things when you need them. ([View Highlight] (https://read.readwise.io/read/01gydvnexb5h3wb9nbqmykj4h8))
 
 

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-ExpressRoute Global Reach allows organizations to connect their geographically dispersed networks through Microsoft's global network, enabling communication between branch offices worldwide. It provides a private and resilient way to access Microsoft cloud services, with options for local, national, and global connectivity. Users can configure Global Reach via the Azure portal, ensuring their ExpressRoute circuits are set up correctly for seamless data exchange.
+## Full Document
+[[40 References/readwise/Full Document Contents/Connect Geographically Dispersed Networks With ExpressRoute Global Reach - Training\|Readwise/Full Document Contents/Connect Geographically Dispersed Networks With ExpressRoute Global Reach - Training.md]]
 
 ## Highlights
-
 You can connect to Microsoft in one of the peering locations and access regions within the geopolitical region.
 For example, if you connect to Microsoft in Amsterdam through ExpressRoute, you will have access to all Microsoft cloud services hosted in Northern and Western Europe. ([View Highlight] (https://read.readwise.io/read/01j3bxg6j2ab5aq631ngt1j0hg))
 

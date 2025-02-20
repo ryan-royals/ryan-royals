@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Overview of a private DNS zone
+## Full Document
+[[40 References/readwise/Full Document Contents/What is an Azure DNS private zone\|Readwise/Full Document Contents/What is an Azure DNS private zone.md]]
 
 ## Highlights
-
 Azure Private DNS provides a reliable, secure DNS service to manage and resolve domain names in a virtual network without the need to add a custom DNS solution ([View Highlight] (https://read.readwise.io/read/01h0efv199revzvccvem4h4ppn))
 
 

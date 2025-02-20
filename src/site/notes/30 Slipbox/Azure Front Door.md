@@ -5,7 +5,7 @@
 
 ## Overview
 
-Azure Front Door is a [[30 Slipbox/CDN\|CDN]] and [[30 Slipbox/WAF\|WAF]] solution for delivering content, files, apps or APIs.  
+Azure Front Door is a [[CDN\|CDN]] and [[30 Slipbox/WAF\|WAF]] solution for delivering content, files, apps or APIs.  
 Front Door is not directly tied to a Azure Region, and instead leverages over 118 Edge Locations.  
 ![Azure Front Door-1727310193305.png](/img/user/40%20References/attachments/image/Azure%20Front%20Door-1727310193305.png)
 
@@ -15,7 +15,7 @@ Azure Front Door is available in 2 different SKU's: **Standard** and **Premium**
 Each SKU has a base cost, and additional fee's for Ingress and Egress data.  
 More information is available [Here]([Pricing - Front Door | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/frontdoor/))
 
-**Standard** starts at $54 AUD a month, and has enough features to get a full [[30 Slipbox/CDN\|CDN]] experience from the Resource, but the WAF only has support for Custom Rule Sets
+**Standard** starts at $54 AUD a month, and has enough features to get a full [[CDN\|CDN]] experience from the Resource, but the WAF only has support for Custom Rule Sets
 
 **Premium** starts at $510 AUD a month, but has Microsoft managed rulesets in the WAF, and for the Front Door to connect to [[30 Slipbox/Azure Private Endpoint\|Private Endpoints]]
 

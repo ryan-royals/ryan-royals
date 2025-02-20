@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_pyD5ldb.png)
 
-## Summary
-
-Learn about the management groups, how their permissions work, and how to use them.
+## Full Document
+[[40 References/readwise/Full Document Contents/Organize your resources with management groups - Azure Governance - Azure governance\|Readwise/Full Document Contents/Organize your resources with management groups - Azure Governance - Azure governance.md]]
 
 ## Highlights
-
 *Management groups* provide a governance scope above subscriptions. ([View Highlight] (https://read.readwise.io/read/01h181whwptgbh9fzkq0tj56pt))
 
 

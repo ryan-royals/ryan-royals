@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-This article provides a high-level overview of Azure Service Bus, a fully managed enterprise integration serverless message broker.
+## Full Document
+[[40 References/readwise/Full Document Contents/Introduction to Azure Service Bus, an enterprise message broker - Azure Service Bus\|Readwise/Full Document Contents/Introduction to Azure Service Bus, an enterprise message broker - Azure Service Bus.md]]
 
 ## Highlights
-
 Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics (in a namespace). ([View Highlight] (https://read.readwise.io/read/01gzcs16p3ekmwy4mej3m4bxpj))
 
 

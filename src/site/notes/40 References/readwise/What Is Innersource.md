@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://images.ctfassets.net/wfutmusr1t3h/5jO5xoTHWrzpFmvqQr8aYD/a928ca5e9fbd17256b0939e6aff7898b/1200x640ader.png)
 
-## Summary
-
-Getting started with using open source practices within your internal software engineering organization
+## Full Document
+[[40 References/readwise/Full Document Contents/What Is Innersource\|Readwise/Full Document Contents/What Is Innersource.md]]
 
 ## Highlights
-
 By enabling a collaborative community, innersource creates a better developer experience, where devs can harness their collective knowledge, innovate, and do their best work. ([View Highlight] (https://read.readwise.io/read/01gz4xd824j6wg37jfky1kv41g))
 
 

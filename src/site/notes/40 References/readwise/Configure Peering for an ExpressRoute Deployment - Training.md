@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-This text explains how to configure peering for an Azure ExpressRoute deployment, focusing on private and Microsoft peering options. Each peering must be set up individually on an active ExpressRoute circuit, allowing connectivity to virtual networks or Microsoft services. Route filters can be used to manage the services accessed through Microsoft peering, reducing the size of route tables.
+## Full Document
+[[40 References/readwise/Full Document Contents/Configure Peering for an ExpressRoute Deployment - Training\|Readwise/Full Document Contents/Configure Peering for an ExpressRoute Deployment - Training.md]]
 
 ## Highlights
-
 Azure compute services, namely virtual machines (IaaS) and cloud services (PaaS), that are deployed within a virtual network can be connected through the private peering domain. The private peering domain is a trusted extension of your core network into Microsoft Azure. You can set up bi-directional connectivity between your core network and Azure virtual networks (VNets). This peering lets you connect to virtual machines and cloud services directly on their private IP addresses. ([View Highlight] (https://read.readwise.io/read/01j3bvadzzrrm92mdpkxqrd0q9))
 
 

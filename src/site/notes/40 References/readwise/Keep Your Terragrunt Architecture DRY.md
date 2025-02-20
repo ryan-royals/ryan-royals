@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://terragrunt.gruntwork.io/assets/img/terragrunt-thumbnail.png)
 
-## Summary
-
-Learn how to use multiple terragrunt configurations to DRY up your architecture.
+## Full Document
+[[40 References/readwise/Full Document Contents/Keep Your Terragrunt Architecture DRY\|Readwise/Full Document Contents/Keep Your Terragrunt Architecture DRY.md]]
 
 ## Highlights
-
 To do this, we will introduce a new `env.hcl` configuration in each environment:
 └── live
 ├── terragrunt.hcl

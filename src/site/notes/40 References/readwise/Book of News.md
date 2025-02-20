@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://news.microsoft.com/wp-content/uploads/prod/sites/659/2023/05/build-2023-book-of-news-main_1920x652-1024x348.jpg)
 
-## Summary
-
-The Book of News is your guide to all key items being announced at Microsoft Build.
+## Full Document
+[[40 References/readwise/Full Document Contents/Book of News\|Readwise/Full Document Contents/Book of News.md]]
 
 ## Highlights
-
 Microsoft is announcing that it will adopt the same open plugin standard that OpenAI introduced for ChatGPT, enabling interoperability across ChatGPT and the breadth of Microsoft’s copilot offerings. ([View Highlight] (https://read.readwise.io/read/01h2543th1s2q60h1ezeaxk6qa))
 
 

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-In this article, you learn how to use the Private Endpoint feature of Azure Private Link.
+## Full Document
+[[40 References/readwise/Full Document Contents/What is a private endpoint - Azure Private Link\|Readwise/Full Document Contents/What is a private endpoint - Azure Private Link.md]]
 
 ## Highlights
-
 A private endpoint is a network interface that uses a private IP address from your virtual network. This network interface connects you privately and securely to a service that's powered by Azure Private Link. ([View Highlight] (https://read.readwise.io/read/01h06jsfbnf0tjfs9v6afk5pbe))
 
 

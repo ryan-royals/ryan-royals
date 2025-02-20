@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image_jupSUv2.png)
 
-## Summary
-
-Overview of Azure Private Link features, architecture, and implementation. Learn how Azure Private Endpoints and Azure Private Link service works and how to use them.
+## Full Document
+[[40 References/readwise/Full Document Contents/What is Azure Private Link\|Readwise/Full Document Contents/What is Azure Private Link.md]]
 
 ## Highlights
-
 Azure Private Link enables you to access Azure PaaS Services (for example, Azure Storage and SQL Database) and Azure hosted customer-owned/partner services over a [private endpoint](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview) in your virtual network. ([View Highlight] (https://read.readwise.io/read/01h0eep2jpjf00amgq9scar0ta))
 
 

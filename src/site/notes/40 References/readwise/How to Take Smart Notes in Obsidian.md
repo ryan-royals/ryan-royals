@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://substackcdn.com/image/youtube/w_728,c_limit/o_pq43WzeEo)
 
-## Summary
-
-A Zettelkasten Tutorial
+## Full Document
+[[40 References/readwise/Full Document Contents/How to Take Smart Notes in Obsidian\|Readwise/Full Document Contents/How to Take Smart Notes in Obsidian.md]]
 
 ## Highlights
-
 **Writing is The Only Thing that Matters**: Thinking through the medium of writing will improve your reading, thinking, and other intellectual skills. And so this principle implies you must consume information with the purpose of writing about it. ([View Highlight] (https://read.readwise.io/read/01gydvanc43005bztcf6rnzy9f))
 
 

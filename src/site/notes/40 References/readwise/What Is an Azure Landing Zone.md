@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image_2cWYLoJ.png)
 
-## Summary
-
-Learn how a landing zone provides the basic building block of any cloud adoption environment.
+## Full Document
+[[40 References/readwise/Full Document Contents/What Is an Azure Landing Zone\|Readwise/Full Document Contents/What Is an Azure Landing Zone.md]]
 
 ## Highlights
-
 Azure landing zone conceptual architecture below represents the destination in their cloud adoption journey. ([View Highlight] (https://read.readwise.io/read/01gz4yagt5zmw6wykdhhag4355))
 
 

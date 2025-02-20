@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-An Overview of Azure Synapse Analytics
+## Full Document
+[[40 References/readwise/Full Document Contents/What is Azure Synapse Analytics - Azure Synapse Analytics\|Readwise/Full Document Contents/What is Azure Synapse Analytics - Azure Synapse Analytics.md]]
 
 ## Highlights
-
 **Azure Synapse** is an enterprise analytics service that accelerates time to insight across data warehouses and big data systems. ([View Highlight] (https://read.readwise.io/read/01h03ya03ef40p3pxdkv0q9qzr))
 
 

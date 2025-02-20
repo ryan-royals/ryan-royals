@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_rUrD9xy.png)
 
-## Summary
-
-Introduction to key scenarios, capabilities, and concepts of the Azure API Management service. API Management supports the full API lifecycle.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure API Management - Overview and key concepts\|Readwise/Full Document Contents/Azure API Management - Overview and key concepts.md]]
 
 ## Highlights
-
 nt. Azure API Management is a hybrid, multicloud management platform for APIs across all environments. As a platform-as-a-service, API Management supports the complete API lifecycle. ([View Highlight] (https://read.readwise.io/read/01h1b27n5h5xxr8gdbt12smp8x))
 
 

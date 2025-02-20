@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/open-graph-image_LeISKTK.png)
 
-## Summary
-
-Learn how Azure Functions can help build robust serverless apps.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Functions Overview\|Readwise/Full Document Contents/Azure Functions Overview.md]]
 
 ## Highlights
-
 Azure Functions is a serverless solution ([View Highlight] (https://read.readwise.io/read/01gzwxtdk1nwf4mkxwpa0htjy1))
 
 

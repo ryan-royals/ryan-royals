@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://www.cisco.com/c/dam/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21-00.png)
 
-## Summary
-
-This document describes how routers work, are configured, and how to select a route for them.
+## Full Document
+[[40 References/readwise/Full Document Contents/Configure Route Selection for Routers\|Readwise/Full Document Contents/Configure Route Selection for Routers.md]]
 
 ## Highlights
-
 Build the Routing Table
 The main considerations when you build the routing table are:
 • **Administrative distance**- This is the measure of trustworthiness of the source of the route. If a router learns about a destination from more than one routing protocol, the administrative distance is compared and the preference is given to the routes with lower administrative distance. 

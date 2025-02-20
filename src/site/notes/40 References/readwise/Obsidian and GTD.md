@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2023/01/jeroen-den-otter-1SA__aN_I2U-unsplash-1.jpeg)
 
-## Summary
-
-Obsidian and GTD. At first glance, it may seem like these two systems have nothing in common. One is a tool for taking notes, the other is a system for tracking and completing tasks. Two different things, right? GTD is a controversial subject in its own right. For some GTD is too complex, for others, […]
+## Full Document
+[[40 References/readwise/Full Document Contents/Obsidian and GTD\|Readwise/Full Document Contents/Obsidian and GTD.md]]
 
 ## Highlights
-
 There are five core steps to GTD:
 • Collect
 • Process

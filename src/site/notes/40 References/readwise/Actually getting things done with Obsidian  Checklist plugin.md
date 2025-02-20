@@ -4,27 +4,10 @@
 
 ![rw-book-cover](https://i.ytimg.com/vi/ODhHTngIMJE/maxresdefault.jpg)
 
-## Summary
-
-The Getting Things Done methodology is showing its age now, but there are still some parts of it that can be updated and used in the digital age. In this video, I talk about how to actually get things done with Obsidian using the Obsidian community plugin called Checklist.
-
-How to process notes in Obsidian // Readwise Official Obsidian plugin: https://www.youtube.com/watch?v=Rw1L5sxlnuU
-How to set goals in Obsidian for 2022: https://www.youtube.com/watch?v=T2Aeaq4sk7M
-
-Getting Things Done: https://amzn.to/3KxuXpn
-Forbes on GTD copies sold: https://www.forbes.com/sites/erincarlyle/2014/04/15/getting-things-done-productivity-guru-david-allen-selling-office/
-Gadgets 360: When Yahoo Refused to Buy Google for $1M: https://gadgets360.com/internet/news/when-yahoo-refused-to-buy-google-for-1-million-865458
-Checklist plugin: https://github.com/delashum/obsidian-checklist-plugin
-
-// TIMESTAMPS
-
-0:00 Intro
-1:09 The best ideas from GTD
-3:59 Installing and setting up the Obsidian Checklist plugin
-4:48 Primer on GTD task mana...
+## Full Document
+[[40 References/readwise/Full Document Contents/Actually getting things done with Obsidian  Checklist plugin\|Readwise/Full Document Contents/Actually getting things done with Obsidian  Checklist plugin.md]]
 
 ## Highlights
-
 is Next Action, Waiting For,and Some Day Maybe ([View Highlight] (https://read.readwise.io/read/01gy66ayh9j26hcxekdtqyjy6s))
 
 

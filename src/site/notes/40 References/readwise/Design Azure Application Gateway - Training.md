@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-Azure Application Gateway is a service that manages and balances web traffic for applications, ensuring secure connections with features like load balancing and a web application firewall. It routes requests to backend servers using defined rules and supports session stickiness for consistent user experiences. Additionally, it includes health probes to monitor server availability and can automatically scale based on traffic demands.
+## Full Document
+[[40 References/readwise/Full Document Contents/Design Azure Application Gateway - Training\|Readwise/Full Document Contents/Design Azure Application Gateway - Training.md]]
 
 ## Highlights
-
 Azure Application Gateway includes the following features:
 • Support for the HTTP, HTTPS, HTTP/2, and WebSocket protocols
 • A web application firewall to protect against web application vulnerabilities

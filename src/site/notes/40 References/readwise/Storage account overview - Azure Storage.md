@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Learn about the different types of storage accounts in Azure Storage. Review account naming, performance tiers, access tiers, redundancy, encryption, endpoints, and more.
+## Full Document
+[[40 References/readwise/Full Document Contents/Storage account overview - Azure Storage\|Readwise/Full Document Contents/Storage account overview - Azure Storage.md]]
 
 ## Highlights
-
 An Azure storage account contains all of your Azure Storage data objects, including blobs, file shares, queues, tables, and disks. The storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable. ([View Highlight] (https://read.readwise.io/read/01gznacz5j1vz94pxpx9wkw0fr))
 
 

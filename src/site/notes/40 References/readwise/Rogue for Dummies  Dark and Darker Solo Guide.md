@@ -4,21 +4,10 @@
 
 ![rw-book-cover](https://i.ytimg.com/vi/cLV85uq4U5g/maxresdefault.jpg)
 
-## Summary
-
-#darkanddarker 
-Should I do a guide for the ruins next? Thanks for the 300 subs! You guys are crazy! Livestreams soon?
-Socials below:
-https://www.twitch.tv/bradquackson
-https://twitter.com/BradQuackson
-
-For best stats and more information 
-EA GUIDE: https://youtu.be/tWWyPiV3h1w
-More map information: https://youtu.be/4rXvsBpw6n0
-More commentary with more pvp: https://youtu.be/-cNuLDxCzTI
+## Full Document
+[[40 References/readwise/Full Document Contents/Rogue for Dummies  Dark and Darker Solo Guide\|Readwise/Full Document Contents/Rogue for Dummies  Dark and Darker Solo Guide.md]]
 
 ## Highlights
-
 hey guys this is my real guide for dummies explaining the Bare Essentials for you guys especiall ([View Highlight] (https://read.readwise.io/read/01h8dtaz7arhnzdy3sqmnfggwn))
 
 

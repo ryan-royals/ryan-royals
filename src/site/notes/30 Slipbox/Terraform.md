@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Terraform.md","permalink":"/terraform/","tags":["#software"]}
+{"dg-publish":true,"dg-path":"Terraform.md","permalink":"/terraform/","tags":["#notes"]}
 ---
 
 
@@ -59,3 +59,9 @@ This includes using a `data` block to reference a Azure Key Vault secret. the co
 [[30 Slipbox/How CAF TF module works\|How CAF TF module works]]  
 [[30 Slipbox/Conditional where Key is not known\|Conditional where Key is not known]]  
 [[30 Slipbox/Types in Terraform\|Types in Terraform]]
+
+## Terraform Stacks
+
+Worked through configuring a demo repo.  
+Found that still can not use any calculations in module source, even if it is a `configuration`  
+<https://github.com/ryan-royals/tf-stacks-playground>

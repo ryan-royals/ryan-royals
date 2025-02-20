@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Learn how to enable direct access to Azure resources from a virtual network using service endpoints.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure virtual network service endpoints\|Readwise/Full Document Contents/Azure virtual network service endpoints.md]]
 
 ## Highlights
-
 Virtual Network (VNet) service endpoint provides secure and direct connectivity to Azure services over an optimized route over the Azure backbone network ([View Highlight] (https://read.readwise.io/read/01h0eer4keb2kaax541418mkxf))
 
 

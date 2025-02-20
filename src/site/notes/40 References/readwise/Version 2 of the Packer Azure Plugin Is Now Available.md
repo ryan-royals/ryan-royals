@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://www.datocms-assets.com/2885/1675791969-products-og-img-packer.png)
 
-## Summary
-
-Version 2.0.0 of the Packer Azure plugin has been released, offering users the ability to create Azure virtual hard disks, managed images, and Compute Gallery images. This updated version addresses upcoming Azure SDK deprecations by migrating to the Terraform tested HashiCorp Go Azure SDK, providing new features and stability. Notably, the plugin now supports using an OIDC provider for Azure authentication and only accepts PKCS#12 bundles for client certificate authentication, while also removing the deprecation warning on VHD builds. Additionally, improvements have been made for quicker failure notifications and WinRM expiration time support.
+## Full Document
+[[40 References/readwise/Full Document Contents/Version 2 of the Packer Azure Plugin Is Now Available\|Readwise/Full Document Contents/Version 2 of the Packer Azure Plugin Is Now Available.md]]
 
 ## Highlights
-
 Many users want to bring their own authentication provider when connecting to Azure, and some organizations have policies requiring this. Version 2 of the Packer Azure plugin supports using an OIDC provider to authenticate to Azure using the `client_jwt` field in the builder configuration. You can follow [this guide](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-azure) to setting up GitHub as your OIDC Provider and adding its federated credentials to Azure. For example, configuring a GitHub action like this: ([View Highlight] (https://read.readwise.io/read/01hrdp6kf3gcn5z0ajp05s6yj5))
 
 
