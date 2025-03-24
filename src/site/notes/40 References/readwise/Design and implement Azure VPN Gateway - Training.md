@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Azure VPN Gateways provide secure encrypted connections between Azure virtual networks and on-premises locations over the public Internet. When planning a VPN gateway deployment, consider factors like throughput, VPN type, and gateway SKU. Different VPN types, such as RouteBased and PolicyBased, have specific configuration requirements and limitations for establishing connections.
+## Full Document
+[[40 References/readwise/Full Document Contents/Design and implement Azure VPN Gateway - Training\|Readwise/Full Document Contents/Design and implement Azure VPN Gateway - Training.md]]
 
 ## Highlights
-
 The local network gateway typically refers to the on-premises location. You give the site a name by which Azure can refer to it, then specify the IP address or FQDN of the on-premises VPN device for the connection. You also specify the IP address prefixes that will be routed through the VPN gateway to the VPN device. The address prefixes you specify are the prefixes located in the on-premises network. ([View Highlight] (https://read.readwise.io/read/01hx5m9cdpkf5denb32tabpf8z))
 
 

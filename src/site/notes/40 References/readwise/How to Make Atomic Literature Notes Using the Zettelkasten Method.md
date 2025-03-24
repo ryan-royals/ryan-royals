@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxub3RlJTIwdGFraW5nfGVufDB8fHx8MTY0MDQ3ODUzMA&ixlib=rb-1.2.1&q=80&w=2000)
 
-## Summary
-
-Find out how to make your Zettelkasten literature notes a single idea when the book you’re reading contains many different ideas.
+## Full Document
+[[40 References/readwise/Full Document Contents/How to Make Atomic Literature Notes Using the Zettelkasten Method\|Readwise/Full Document Contents/How to Make Atomic Literature Notes Using the Zettelkasten Method.md]]
 
 ## Highlights
-
 Literature notes
 A literature note is where you take individual concepts from your fleeting note and extract the core idea of one of those concepts into a single note. It is written in your own words and that shows you have understood of the idea conveyed. You will end up creating many literature notes from a single fleeting note.
 It is important that a literature note follows these simple rules:

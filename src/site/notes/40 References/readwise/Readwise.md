@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/readwisecard.058019f9f4b1.jpg)
 
-## Summary
-
-Grow wiser and retain books better: Readwise sends you a daily email resurfacing your best highlights from Kindle, Instapaper, iBooks, and more.
+## Full Document
+[[40 References/readwise/Full Document Contents/Readwise\|Readwise/Full Document Contents/Readwise.md]]
 
 ## Highlights
-
 Monthly price (billed annually) ([View Highlight] (https://read.readwise.io/read/01gx5acckq5tbngkvkh9z2eb6y))
 
 

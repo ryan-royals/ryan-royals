@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-Azure Firewall is a managed network security service that protects Azure Virtual Network resources with high availability and scalability. It includes features like application filtering, threat intelligence, and logging, allowing centralized management of network traffic rules. Deployment can be enhanced with Availability Zones for increased uptime, and it supports both inbound and outbound traffic filtering.
+## Full Document
+[[40 References/readwise/Full Document Contents/Design and Implement Azure Firewall - Training\|Readwise/Full Document Contents/Design and Implement Azure Firewall - Training.md]]
 
 ## Highlights
-
 Azure Firewall includes the following features:
 • **Built-in high availability** - High availability is built in, so no extra load balancers are required and there's nothing you need to configure.
 • **Unrestricted cloud scalability** - Azure Firewall can scale out as much as you need to accommodate changing network traffic flows, so you do not need to budget for your peak traffic.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian.md","permalink":"/obsidian/","tags":["software"]}
+{"dg-publish":true,"dg-path":"Obsidian.md","permalink":"/obsidian/","tags":["notes"]}
 ---
 
 

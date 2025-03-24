@@ -44,7 +44,7 @@ these are not things that you would putin the same category.But you can create a
 connection between themjust to be able to trigger your memory,so when you go to one,maybe you can think about
 using it in a different contextand that's when I would
 put a link to the other.The next one is tags,in Obsidian you can
-create tags on the fly,just by typing a #and then the word.I use tags for system-related things,like when two notes don't necessarily haveany connection semantically,
+create tags on the fly,just by typing a and then the word.I use tags for system-related things,like when two notes don't necessarily haveany connection semantically,
 
 but I still want to process
 them in a certain way.For example, I have a TVZ tagthat I use to mark all of the notesthat I still need to process.Metadata is pretty vague,but in this case,I'm referring specifically

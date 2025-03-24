@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Azure Virtual WAN is a networking service that connects resources for distributed workforces. It combines various networking features like VPNs and routing functionalities. Virtual hubs play a key role in connecting different networks and enabling secure communication.
+## Full Document
+[[40 References/readwise/Full Document Contents/Connect remote resources by using Azure Virtual WANs - Training\|Readwise/Full Document Contents/Connect remote resources by using Azure Virtual WANs - Training.md]]
 
 ## Highlights
-
 What is Azure Virtual WAN?
 Azure Virtual WAN is a networking service that brings many networking, security, and routing functionalities together to provide a single operational interface. Some of the main features include:
 • Branch connectivity (via connectivity automation from Virtual WAN Partner devices such as SD-WAN or VPN CPE).

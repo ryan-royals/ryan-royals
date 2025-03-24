@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://johnnydecimal.com/icons/icon-192x192.png)
 
-## Summary
-
-A system to organise projects.
+## Full Document
+[[40 References/readwise/Full Document Contents/Johnny•Decimal\|Readwise/Full Document Contents/Johnny•Decimal.md]]
 
 ## Highlights
-
 A system to 
 organise projects ([View Highlight] (https://read.readwise.io/read/01gydvjcr86y8hbs146phn7x85))
 

@@ -35,7 +35,7 @@ We met to discuss his elaborate system for remembering what he reads using [Read
 
 Let’s dive in.
 
-#### **Simon introduces himself**
+ **Simon introduces himself**
 
 I grew up in Denmark, but I left home at the ripe age of 18 to pursue an opportunity at a company called Shopify in Canada.
 
@@ -47,7 +47,7 @@ But I ended up interviewing again in Ottawa, and then decided to join for a gap 
 
 Back then, Shopify had tens of thousands of merchants. Today there are over 1 million. I work on building the infrastructure to make the site scale.
 
-#### How he started reading
+ How he started reading
 
 I began taking reading seriously when I started at Shopify in 2013. It was primarily driven by the fact that I became a manager very early in my career.
 
@@ -59,7 +59,7 @@ As I started to read more, the question was whether to go deep or wide. I am cur
 
 I read [30-50 books each year](https://sirupsen.com/books) on topics ranging from the history of transistors to ancient philosophy. My girlfriend jokes that because I never went to university, I still enjoy studying. I’m not sure. I think I’d love university.
 
-#### How he selects books
+ How he selects books
 
 I used to have an extremely rigid process to decide which books to read, but I don’t anymore.
 
@@ -71,7 +71,7 @@ For example, last year I became fascinated with the middle of the 19th century. 
 
 I pick books by browsing Amazon and sending samples to my Kindle. Then I check out the samples to decide what I want to actually read cover to cover. I learned this from [my friend Dan Doyon](https://twitter.com/deadly_onion?lang=en).
 
-#### How he reads books
+ How he reads books
 
 Once I started to read more books, I realized that I didn’t really remember much from them. That bothered me. So I went down the rabbit hole of building a bunch of systems to help me remember what I read.
 
@@ -83,7 +83,7 @@ My learning system itself has two components: a flashcard system and a custom-bu
 
 *Want to learn how to build a Zettelkasten for yourself? Check out our post “*[*Forget Forgetting. Build a Zettelkasten*](https://every.to/superorganizers/forget-forgetting-build-a-zettelkasten-299960)*.”*
 
-#### How he uses flash cards to remember facts
+ How he uses flash cards to remember facts
 
 When I come across something in a book that seems useful to understand and [remember](https://every.to/c/learning-&-memorizing), I will highlight it on my Kindle and add a note to it with the text: *“.flash”*.
 
@@ -105,7 +105,7 @@ They’re there to trigger a concept you’ve already learned, but want to make 
 
 I am creeping up on 10,000 cards in Anki, and I’ve been doing this for over four years. It’s probably the most impactful habit I have in terms of impact over time invested.
 
-#### He stores large concepts in his custom-made Zettelkasten system
+ He stores large concepts in his custom-made Zettelkasten system
 
 When I highlight something from a book that contains an idea, concept, metaphor, or generally something more abstract, I’ll put it into my [Zettelkasten](https://every.to/c/zettelkasten) instead of my flashcard system. These highlights aren’t to be remembered—they are to be connected.
 
@@ -117,7 +117,7 @@ Keeping a physical system started to get out of hand, so I tried a bunch of soft
 
 So I engineered my own.
 
-It’s just text files on my computer written in Markdown and edited using a plaintext editor. I’ve also written a lot of small, auxiliary tooling for [searching](https://github.com/sirupsen/dotfiles/blob/8d232bab79c0032af1b827ad523d77f0f8959037/home/.bash/04_aliases.bash#L153-L193), [browsing related notes](https://gist.github.com/sirupsen/03fb05cc7efa6a63c8d5c9737fb0686f), [editor integration,](https://github.com/sirupsen/dotfiles/blob/8d232bab79c0032af1b827ad523d77f0f8959037/home/.vimrc#L484-L522) and so on. The [main repo where I keep all of it is on](https://github.com/sirupsen/zk) [Github](https://every.to/c/github).
+It’s just text files on my computer written in Markdown and edited using a plaintext editor. I’ve also written a lot of small, auxiliary tooling for [searching](https://github.com/sirupsen/dotfiles/blob/8d232bab79c0032af1b827ad523d77f0f8959037/home/.bash/04_aliases.bashL153-L193), [browsing related notes](https://gist.github.com/sirupsen/03fb05cc7efa6a63c8d5c9737fb0686f), [editor integration,](https://github.com/sirupsen/dotfiles/blob/8d232bab79c0032af1b827ad523d77f0f8959037/home/.vimrcL484-L522) and so on. The [main repo where I keep all of it is on](https://github.com/sirupsen/zk) [Github](https://every.to/c/github).
 
 Notes get into my Zettelkasten from the highlights in my Readwise. Readwise has a feature called Daily Review, which shows me about 15 of my book highlights every day.
 
@@ -127,7 +127,7 @@ If I think a highlight is important, I’ll create a new note in my Zettelkasten
 [![](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2825/optimized_Screenshot%202023-10-25%20at%209.59.19%20AM.png)](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2825/optimized_Screenshot%202023-10-25%20at%209.59.19%20AM.png)
 You’ll see in my Zettelkasten I put in the original quote and the source, and then write a short commentary on it.
 
-Then I’ll start connecting this to other notes. One way to do that is with tags, and you’ll see that I added a #pessimism tag to the note.
+Then I’ll start connecting this to other notes. One way to do that is with tags, and you’ll see that I added a pessimism tag to the note.
 
 But my system also lets me create links directly to other [notes](https://every.to/c/note-taking) as well.
 
@@ -151,7 +151,7 @@ I have about 700-800 notes, and have been doing it for about two years. I’ll l
 
 My engagement with it ebbs and flows over time, too
 
-#### Why he spends so much time memorizing things
+ Why he spends so much time memorizing things
 
 I think memory is underrated.
 
@@ -165,7 +165,7 @@ So that’s what I find helpful—knowing all of these facts becomes a kind of m
 
 It gives you this web of facts for you to put new information into context, and answer questions with deduction without having to go look something up.
 
-#### He uses Things for GTD
+ He uses Things for GTD
 
 I do fairly standard GTD with [Things](https://every.to/c/things). I use it to organize things into [time](https://every.to/c/time-management) buckets, decide what to work on at the beginning of the day, and use tags to organize tasks. It’s nothing crazy. Here’s an example from a very real non-work day:
 
@@ -185,7 +185,7 @@ But I have many other projects, like [reviewing the Vital Articles](https://en.w
 
 I expect most of these projects to take years, if not decades, and some of them I’ll be working on for the rest of my life. I run [a script](https://github.com/sirupsen/dotfiles/blob/master/home/.bin/open-productive) when I have a few minutes that helps make little bursts of progress by choosing a random one of these areas.
 
-#### He’s trying to master the cooking of every country in the world
+ He’s trying to master the cooking of every country in the world
 
 Another project I work on is called “Around the World Cuisine.” For the past four or five years, I’ve challenged myself to cook a dish from every single country.
 
@@ -197,7 +197,7 @@ A few years ago I made a traditional Iranian beef stew. A co-worker of mine was 
 We also get my friends involved. We pick a random country by going to [random.country](http://random.country/), look up the traditional meals, and then have a potluck where everyone brings a different dish. We’ve done Hong Kong, Mongolia, Bangladesh, Brazil, Spain, and many others.
 
 [![](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2825/optimized_Screenshot%202023-10-25%20at%2010.06.59%20AM.png)](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2825/optimized_Screenshot%202023-10-25%20at%2010.06.59%20AM.png)
-#### He’s even automated his language learning
+ He’s even automated his language learning
 
 Another project I have is a system to help me build my vocabulary.
 
@@ -214,7 +214,7 @@ So I had to add another piece to the system to sort the words by how often they�
 That way I end up learning vocabulary that’s actually useful, and I don’t accidentally learn words that native speakers don’t even know.
 
 [![](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2825/optimized_Screenshot%202023-10-25%20at%2010.09.01%20AM.png)](https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/2825/optimized_Screenshot%202023-10-25%20at%2010.09.01%20AM.png)
-#### He uses a reMarkable tablet to read long documents and emails
+ He uses a reMarkable tablet to read long documents and emails
 
 Over the years, I’ve found that reading dense PDFs or Google Docs isn’t very good on a laptop or on a Kindle.
 
@@ -228,6 +228,6 @@ The reMarkable gives great space to think, but because of its limitations I woul
 
 Surprisingly, I’ve also found that it works very well for making presentations with. Drawing slides is much more fun—I get frustrated when I’m in Keynote for too long.
 
-#### A book recommendation
+ A book recommendation
 
 [*Where Good Ideas Come From*](https://www.amazon.com/Where-Good-Ideas-Come-Innovation/dp/1594485380/ref=sr_1_1?keywords=where+good+idea+comes+from&qid=1583206430&sr=8-1) by Steven Johnson. This [book](https://every.to/c/books) is studded with good observations by someone who has spent a lot of time reading and thinking about scientific history. As an engineer—and fellow student of science—I [loved](https://every.to/c/book-recommendations) it. I wrote a [short review](https://sirupsen.com/books/where-good-ideas-come-from).

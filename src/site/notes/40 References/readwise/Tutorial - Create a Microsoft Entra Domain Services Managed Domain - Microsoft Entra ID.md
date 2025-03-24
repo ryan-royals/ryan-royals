@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-This tutorial explains how to create a managed domain using Microsoft Entra Domain Services, which offers various domain services compatible with Windows Server Active Directory. You can set up the managed domain with default networking options or define settings manually, ensuring DNS compatibility and proper deployment within your Azure subscription. It's important to follow the steps carefully to enable user accounts for Domain Services and configure DNS settings for your Azure virtual network to ensure smooth authentication and connectivity.
+## Full Document
+[[40 References/readwise/Full Document Contents/Tutorial - Create a Microsoft Entra Domain Services Managed Domain - Microsoft Entra ID\|Readwise/Full Document Contents/Tutorial - Create a Microsoft Entra Domain Services Managed Domain - Microsoft Entra ID.md]]
 
 ## Highlights
-
 Microsoft Entra Domain Services provides managed domain services such as domain join, group policy, LDAP, Kerberos/NTLM authentication that is fully compatible with Windows Server Active Directory. You consume these domain services without deploying, managing, and patching domain controllers yourself. Domain Services integrates with your existing Microsoft Entra tenant. This integration lets users sign in using their corporate credentials, and you can use existing groups and user accounts to secure access to resources. ([View Highlight] (https://read.readwise.io/read/01j2ae493msz5tc9ng1c71jhxc))
 
 

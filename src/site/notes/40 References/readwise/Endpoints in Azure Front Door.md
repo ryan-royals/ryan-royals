@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Learn about endpoints when using Azure Front Door.
+## Full Document
+[[40 References/readwise/Full Document Contents/Endpoints in Azure Front Door\|Readwise/Full Document Contents/Endpoints in Azure Front Door.md]]
 
 ## Highlights
-
 In Azure Front Door Standard/Premium, an *endpoint* is a logical grouping of one or more routes that are associated with domain names. Each endpoint is [assigned a domain name](https://learn.microsoft.com/en-us/azure/frontdoor/endpoint?tabs=azurecli#endpoint-domain-names) by Front Door, and you can associate your own custom domains by using routes. ([View Highlight] (https://read.readwise.io/read/01h4fw1ntnh99pfvpg5rhn0xhr))
 
 

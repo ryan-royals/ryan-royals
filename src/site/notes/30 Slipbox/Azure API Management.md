@@ -26,7 +26,5 @@ Key tooling includes:
 
 - Internal VNET mode is only available on Dev and Premium SKU's
 - API's can have a whitelist / blacklist of calling IP's on the inbound processing for each API
-
 - The latest version of API Management lets you have workspaces, which allows you to split the service into different workspaces, which are their own RBAC domain that have their own products and such underneath
-
 - Named Values are Secrets that can be called used throughout the configuration, and can be a link to KeyVault secrets

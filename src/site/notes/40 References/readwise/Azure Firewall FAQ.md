@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-FAQ for Azure Firewall. A managed, cloud-based network security service that protects your Azure Virtual Network resources.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Firewall FAQ\|Readwise/Full Document Contents/Azure Firewall FAQ.md]]
 
 ## Highlights
-
 Is forced tunneling/chaining to a Network Virtual Appliance supported?
 Forced tunneling is supported when you create a new firewall. You can't configure an existing firewall for forced tunneling. For more information, see [Azure Firewall forced tunneling](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq?WT.mc_id=Portal-Microsoft_Azure_Health/forced-tunneling).
 Azure Firewall must have direct Internet connectivity. If your AzureFirewallSubnet learns a default route to your on-premises network via BGP, you must override this with a 0.0.0.0/0 UDR with the **NextHopType** value set as **Internet** to maintain direct Internet connectivity.

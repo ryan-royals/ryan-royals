@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://www.scotthyoung.com/blog/wp-content/uploads/2024/02/Reading-books-connections.jpg)
 
-## Summary
-
-The author describes a habit that has improved the quality of their book reading - reading rebuttals. They explain that reading big-idea books can lead to confusion and cynicism, and the classic advice of becoming a better critical thinker is not a cure-all for wrong thinking. Instead, seeking out the best counterarguments available, typically made by competing experts within the same field, can often bolster appreciation of the original idea. The author suggests finding scholarly book reviews and using academic terms to find critiques of the ideas in the book.
+## Full Document
+[[40 References/readwise/Full Document Contents/My Simple Habit for Smarter Book Reading\|Readwise/Full Document Contents/My Simple Habit for Smarter Book Reading.md]]
 
 ## Highlights
-
 I don’t believe critical thinking is a skill at all. Instead, most of what we refer to as critical thinking is simply knowing more about the topic being discussed. Experts can spot the fallacies in certain arguments because they’ve steeped themselves in the history of ideas and debates in the field for years. Newcomers have not, and therefore cannot. ([View Highlight] (https://read.readwise.io/read/01hr4rne7dcjar5472dk3fbyzf))
 
 

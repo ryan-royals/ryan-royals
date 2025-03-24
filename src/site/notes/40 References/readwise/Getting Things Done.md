@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://images.ctfassets.net/dm4oa8qtogq0/7AcwkBK9MtQ2dQijSBGlqw/36c2c3da49c526a62498a27b3fa3875e/Getting_Things_Done_GTD.png?w=1200&fm=jpg)
 
-## Summary
-
-This is the last GTD guide you'll ever have to read. Learn the task management system used by millions of people to organize their work and lives. 
+## Full Document
+[[40 References/readwise/Full Document Contents/Getting Things Done\|Readwise/Full Document Contents/Getting Things Done.md]]
 
 ## Highlights
-
 The more information bouncing around inside your head, the harder it is to decide what needs attention ([View Highlight] (https://read.readwise.io/read/01h5sn0mbcxfh23bd1h4889dc2))
 
 

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-ExpressRoute is an Azure service for creating private connections between Microsoft datacenters and on-premises infrastructure. Using ExpressRoute can lead to cost savings compared to transferring data over the public Internet. You can have multiple ExpressRoute circuits with different service providers to increase connectivity options.
+## Full Document
+[[40 References/readwise/Full Document Contents/FAQ - Azure ExpressRoute\|Readwise/Full Document Contents/FAQ - Azure ExpressRoute.md]]
 
 ## Highlights
-
 ExpressRoute premium is a collection of the following features:
 • Increased routing table limit from 4000 routes to 10,000 routes for private peering.
 • Increased number of VNets and ExpressRoute Global Reach connections that can be enabled on an ExpressRoute circuit (default is 10). For more information, see the [ExpressRoute Limits](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-faqs#limits) table.

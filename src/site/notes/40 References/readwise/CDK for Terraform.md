@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://developer.hashicorp.com/og-image/terraform.jpg)
 
-## Summary
-
-Cloud Development Kit for Terraform (CDKTF) lets you use familiar programming languages to define and provision infrastructure.
+## Full Document
+[[40 References/readwise/Full Document Contents/CDK for Terraform\|Readwise/Full Document Contents/CDK for Terraform.md]]
 
 ## Highlights
-
 Cloud Development Kit for Terraform (CDKTF) lets you use familiar programming languages to define and provision infrastructure ([View Highlight] (https://read.readwise.io/read/01h3e7kws5yn9yds704yhj0jmw))
 
 

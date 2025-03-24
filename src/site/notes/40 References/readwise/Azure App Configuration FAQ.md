@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-Read answers to frequently asked questions (FAQ) about Azure App Configuration, such as how it's different from Azure Key Vault.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure App Configuration FAQ\|Readwise/Full Document Contents/Azure App Configuration FAQ.md]]
 
 ## Highlights
-
 App Configuration helps developers manage application settings and control feature availability. It aims to simplify many of the tasks of working with complex configuration data.
 App Configuration supports:
 • Hierarchical namespaces

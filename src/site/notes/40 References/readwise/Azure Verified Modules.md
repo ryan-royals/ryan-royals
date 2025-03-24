@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
-## Summary
-
-Azure Verified Modules offers two types of modules: Resource modules and Pattern modules. These modules are used to deploy Azure resources and their extensions, as well as reusable architectural patterns. The modules serve as building blocks that encapsulate groups of resources dedicated to specific tasks. Azure Verified Modules aims to improve code quality and provide a unified customer experience.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure Verified Modules\|Readwise/Full Document Contents/Azure Verified Modules.md]]
 
 ## Highlights
-
 Azure Verified Modules provides two types of modules: Resource and Pattern modules.
 AVM modules are used to deploy Azure resources and their extensions, as well as reusable architectural patterns consistently.
 Modules are composable building blocks that encapsulate groups of resources dedicated to one task.

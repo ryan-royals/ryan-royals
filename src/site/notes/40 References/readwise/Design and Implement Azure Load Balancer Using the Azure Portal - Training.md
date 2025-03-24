@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-The Azure Load Balancer distributes incoming traffic to backend pool instances, which can be Azure Virtual Machines. You can create both public and internal load balancers depending on your needs, and they can be configured for high availability across different zones. To set up a load balancer, you must create it in the Azure portal, add a backend pool, set health probes, and establish load balancing rules.
+## Full Document
+[[40 References/readwise/Full Document Contents/Design and Implement Azure Load Balancer Using the Azure Portal - Training\|Readwise/Full Document Contents/Design and Implement Azure Load Balancer Using the Azure Portal - Training.md]]
 
 ## Highlights
-
 **Azure Load Balancer** operates at layer 4 of the Open Systems Interconnection (OSI) model. It's the single point of contact for clients. Azure Load Balancer distributes inbound flows that arrive at the load balancer's front end to backend pool instances. These flows are according to configured load-balancing rules and health probes. The backend pool instances can be Azure Virtual Machines or instances in a virtual machine scale set. ([View Highlight] (https://read.readwise.io/read/01j3ps7skya9jwt79g94q2084k))
 
 

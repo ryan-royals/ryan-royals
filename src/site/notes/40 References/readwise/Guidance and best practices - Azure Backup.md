@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png)
 
-## Summary
-
-Discover the best practices and guidance for backing up cloud and on-premises workload to the cloud
+## Full Document
+[[40 References/readwise/Full Document Contents/Guidance and best practices - Azure Backup\|Readwise/Full Document Contents/Guidance and best practices - Azure Backup.md]]
 
 ## Highlights
-
 Azure Backup comprehensively protects your data assets in Azure through a simple, secure, and cost-effective solution that requires zero-infrastructure. ([View Highlight] (https://read.readwise.io/read/01gzmtbbskctan5keyztrmmdj3))
 
 

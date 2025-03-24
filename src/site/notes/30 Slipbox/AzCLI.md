@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"AzCLI.md","permalink":"/az-cli/","tags":["#software","notes"]}
+{"dg-publish":true,"dg-path":"AzCLI.md","permalink":"/az-cli/","tags":["#notes","notes"]}
 ---
-
-
-## AzCLI
-
-### Overview
-
-Multi Platform Tool used to Manage Azure
 
 ### Common Commands
 
@@ -34,4 +27,11 @@ az login --tenant $tenant
 
 ```bash
 az account list
+```
+
+#### Print all policies at all management groups to file
+```bash
+az account management-group list --query "[].{id:id,name:name}" -o tsv | while read -r mgid name; do 
+	az policy assignment list --scope "$mgid" >> $name
+done
 ```

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-Learn about the use of application security groups.
+## Full Document
+[[40 References/readwise/Full Document Contents/Azure application security groups overview\|Readwise/Full Document Contents/Azure application security groups overview.md]]
 
 ## Highlights
-
 ![](https://learn.microsoft.com/en-us/azure/virtual-network/media/security-groups/application-security-groups.png) ([View Highlight] (https://read.readwise.io/read/01h9ktj9gskch896x3rx4w9cr5))
 
 

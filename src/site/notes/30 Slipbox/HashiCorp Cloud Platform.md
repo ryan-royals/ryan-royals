@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"HashiCorp Cloud Platform.md","permalink":"/hashi-corp-cloud-platform/","tags":["software"]}
+{"dg-publish":true,"dg-path":"HashiCorp Cloud Platform.md","permalink":"/hashi-corp-cloud-platform/","tags":["notes"]}
 ---
 
 

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_921743/logo-ms-social_6v5YQH3.png)
 
-## Summary
-
-This article is an overview of the Application Gateway end to end TLS support.
+## Full Document
+[[40 References/readwise/Full Document Contents/Enabling end to end TLS on Azure Application Gateway\|Readwise/Full Document Contents/Enabling end to end TLS on Azure Application Gateway.md]]
 
 ## Highlights
-
 Transport Layer Security (TLS), previously known as Secure Sockets Layer (SSL), is the standard security technology for establishing an encrypted link between a web server and a browser. This link ensures that all data passed between the web server and browsers remain private and encrypted. Application gateway supports both TLS termination at the gateway as well as end to end TLS encryption. ([View Highlight] (https://read.readwise.io/read/01h1ncwptetcnygfv7jrt9qf25))
 
 

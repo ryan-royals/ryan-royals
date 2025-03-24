@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 
-## Summary
-
-Getting things done (GTD) flowchart helps you plan for your tasks and handle things more quickly and productively. Learn 5 steps to get started.
+## Full Document
+[[40 References/readwise/Full Document Contents/Getting Things Done (GTD) Flowchart A Complete Guide\|Readwise/Full Document Contents/Getting Things Done (GTD) Flowchart A Complete Guide.md]]
 
 ## Highlights
-
 **Main Principles**
 • Break complex projects down into clear and concrete action steps
 • Consolidate all jobs into one system, eliminating unnecessary or ambiguous tasks

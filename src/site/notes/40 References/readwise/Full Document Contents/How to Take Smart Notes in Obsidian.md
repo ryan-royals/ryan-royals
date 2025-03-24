@@ -4,7 +4,7 @@
 
 ![rw-book-cover](https://substackcdn.com/image/youtube/w_728,c_limit/o_pq43WzeEo)
 
-##### A Zettelkasten Tutorial
+ A Zettelkasten Tutorial
 
 Having the ability to rediscover, catalog, and connect ideas is what the most modern note-taking systems and apps lack, but Obsidian and a note-taking method from the early 1900s offers exactly that.
 
@@ -13,7 +13,7 @@ In this article, you’ll learn how to start taking Smart Notes with Obsidian.
 Some content could not be imported from the original document. [View content ↗](https://www.youtube-nocookie.com/embed/o_pq43WzeEo?rel=0&autoplay=0&showinfo=0&enablejsapi=0) 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7fd45683-c1a4-40df-ad16-ef33d4f1e7cd_338x112.png)](https://joshduffney.gumroad.com/l/take-smart-notes-obsidian)
-#### What are Smart Notes?
+ What are Smart Notes?
 
 "How to Take Smart Notes” written by Sönke Ahrens, resurrected a note-taking philosophy called The Zettelkasten Method.
 
@@ -30,7 +30,7 @@ In order to create a Zettelkasten in Obsidian, you must follow *The Four Underly
 3. **Nobody Ever Starts from Scratch**: The system must build trust by surfacing insight, connecting different lines of thought, and improving one’s thinking. As it’s used, thinking and writing should become easier and more valuable.
 4. **Let the Work Carry You Forward**: It must have a workflow that generates its own momentum through positive experiences and at the same time improve the learning process.
 
-#### Take Smart Notes in Obsidian
+ Take Smart Notes in Obsidian
 
 Having a learning system will continuously improve your thinking through the feedback of deliberate practice.
 
@@ -52,7 +52,7 @@ Both Obsidian and the Zettelkasten method encourage non-hierarchical structures 
 
 **Project Folders** 🗂️: - for project-specific notes such as reminders, to-do lists, outlines, drafts, etc…
 
-#### How to Take Fleeting Notes in Obsidian
+ How to Take Fleeting Notes in Obsidian
 
 Unfortunately, you cannot immediately distinguish a good idea from a bad idea.
 
@@ -60,11 +60,11 @@ So, capture as many ideas as possible instead. That’s the purpose of a fleetin
 
 You need a place to capture these ideas, and the best place is a daily note.
 
-##### Create the Daily notes folder
+ Create the Daily notes folder
 
 Open Obsidian and create a folder named *daily notes*.
 
-###### Enable and configure the daily notes plugin:
+ Enable and configure the daily notes plugin:
 
 1. Open the Settings, (the gear ⚙️ icon on the bottom left).
 2. Under OPTIONS select Core plugins and toggle on the Daily notes plugin.
@@ -73,7 +73,7 @@ Open Obsidian and create a folder named *daily notes*.
 5. (Optional) Toggle on Open daily note on startup
 6. Close Settings menu
 
-##### Create a Fleeting Note
+ Create a Fleeting Note
 
 Click the Open **today’s daily note** button on the left toolbar.
 
@@ -83,7 +83,7 @@ Taking them should never distract you from your main work.
 
 Fleeting notes also need an inbox to be reviewed. Left unprocessed, fleeting notes will become useless as their context is lost.
 
-##### Create an inbox 📥
+ Create an inbox 📥
 
 Click the **New folder** icon, and name the folder ***inbox**. Adding an underscore makes it easier to find by moving it to the top.*
 
@@ -93,7 +93,7 @@ Move any project-related notes to their designated folder and create permanent n
 
 Once processed, archive the daily note by moving it back to the daily notes folder.
 
-#### How to Take Literature Notes in Obsidian
+ How to Take Literature Notes in Obsidian
 
 Read, listen, and watch with a pen in hand or a keyboard under your fingertips.
 
@@ -101,7 +101,7 @@ Literature notes are meant to abstract interesting ideas. They’re how you’ll
 
 Next time you watch a video, listen to a podcast or read a chapter in a book, start a literature note.
 
-##### Create a Literature Note
+ Create a Literature Note
 
 In Obsidian, **create** a new note and **move** it in your Inbox.
 
@@ -119,7 +119,7 @@ URL:
 Tags:`**
 ```
 
-Fill out the metadata by providing the creator or author’s name as a link, add the URL of the resource, apply tags for the type, and label it as a #literature-note. Keep literature notes very short. Be extremely selective in what's written down. Put it in your own words and never copy unless it’s a direct quote or a reference.
+Fill out the metadata by providing the creator or author’s name as a link, add the URL of the resource, apply tags for the type, and label it as a literature-note. Keep literature notes very short. Be extremely selective in what's written down. Put it in your own words and never copy unless it’s a direct quote or a reference.
 
 Taking these notes should not become a chore, their primary purpose is to help with writing permanent notes for the slip-box, anything else is a distraction.
 
@@ -127,14 +127,14 @@ Eventually, literature notes will be archived.
 
 That means the ideas they contain will be lost unless something is done with them, which is why they start in your Inbox. However, once translated into permanent notes, literature notes are placed in the reference system and forgotten.
 
-##### Create a Reference System 🗄️
+ Create a Reference System 🗄️
 
 In Obsidian, create a new folder named *reference*.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff058c0f-bbdb-447a-ab07-011845bf8f97_1456x665.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff058c0f-bbdb-447a-ab07-011845bf8f97_1456x665.png)
 Move your literature note into the reference folder to archive it in the reference system.
 
-#### How to Take Permanent Notes in Obsidian
+ How to Take Permanent Notes in Obsidian
 
 Once-daily (ideally), go through your fleeting and literature notes and translate them into permanent notes, using the following process:
 
@@ -146,7 +146,7 @@ Once-daily (ideally), go through your fleeting and literature notes and translat
 > 
 > 
 
-##### Create a Permanent Slip-box Note
+ Create a Permanent Slip-box Note
 
 Within the slip-box, notes are organized by a unique ID, called a ZettelkatenID.
 
@@ -174,7 +174,7 @@ Luhmann, using pen and paper, constrained permanent notes to a single side of an
 
 Aim to have it no shorter than a tweet (180 characters) and no longer than an atomic essay (300-500 words).
 
-##### Choose the note’s keyword(s)
+ Choose the note’s keyword(s)
 
 ZettelkastenIDs give notes their position, but a unique ID isn’t very memorable.
 
@@ -195,12 +195,12 @@ Choose your keywords carefully and always assign them with an eye towards the to
 
 As a general rule, good keywords are normally not already mentioned as words within a note.
 
-##### Create a Slip-box 🗃️
+ Create a Slip-box 🗃️
 
 In Obsidian, create a new folder named slip-box. Then Move the permanent note into the slip-box folder.
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b371f9a-5cb7-47c9-a0e6-11651b198018_338x416.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b371f9a-5cb7-47c9-a0e6-11651b198018_338x416.png)
-##### Adding notes to the slip-box
+ Adding notes to the slip-box
 
 Notes in the slip-box are stored in a flat (non-hierarchical) structure and are connected rather than filed neatly away in isolation.
 
@@ -217,7 +217,7 @@ The digital Zettelkasten in Obsidian also benefits from the use of ZettelkastenI
 
 By using the ID as part of the note’s name, notes visually cluster together inside the non-hierarchical slip-box. And because the numbering is handled by the Zettelkasten prefixer plugin, which uses a date to generate the uniqueID, new permanent notes will also be filed behind previous notes.
 
-##### Make note-to-note connections
+ Make note-to-note connections
 
 Note-to-note links are the weak ties that exist within the slip-box that yield powerful results.
 
@@ -230,7 +230,7 @@ In short, note-to-note connections help you weave interesting stories between se
 1. In Obsidian, add the following metadata to your permanent note:
 
 ```
-**`topic:links:`** `tags:` *`#permanent-note`*  `---` 1234
+**`topic:links:`** `tags:` *`permanent-note`*  `---` 1234
 ```
 
 2. Add links (connections) to existing notes in the slip-box or links on existing notes to the new note.
@@ -242,13 +242,13 @@ When making note-to-note connections, ask if these two notes could be strung tog
 > 
 > 
 
-##### Add the note to the index
+ Add the note to the index
 
 Connections between notes are much more important than the connection from the index to a single note, but it’s the index that ensures notes aren’t forgotten.
 
 Make sure the note can be found again by adding it to an index.
 
-###### Create an index note
+ Create an index note
 
 An overview of the entire slip-box is never the goal, just as you certainly won’t ever get an overview of your internal memory as a whole.
 
@@ -260,7 +260,7 @@ What is required, however, is an overview of a specific topic. Within the slip-b
 4. Add the following information:
 
 ```
-`tags: #index-note ### Key Topics --- [[permanent note]]` 12345678910
+`tags: index-note  Key Topics --- [[permanent note]]` 12345678910
 ```
 
 Replace `[[permanent note]]` with a link to your permanent note in the slip-box.
@@ -275,7 +275,7 @@ Placing permanent notes directly in the index provides them with a staging area.
 
 As you continue to take notes, topics and sub-topics will emerge and the link to the permanent notes will be moved there instead of the index, and a link to the topic will replace them in the index under Key Topics.
 
-##### Start a sequence
+ Start a sequence
 
 Ideally, every note is written with explicit reference to existing notes already in the slip-box.
 
@@ -311,7 +311,7 @@ There is no single linear path to taking permanent notes. New follow-up notes ca
 > 
 > 
 
-##### Develop a topic
+ Develop a topic
 
 Eventually, note sequences develop to the point at which an overview is needed or becomes useful.
 
@@ -321,7 +321,7 @@ Luhmann would add, at most, 25 links to each of his topic notes. He’d also inc
 
 Developing a topic bottom-up requires you to start on both sides and work towards the middle.
 
-###### Create a topic note
+ Create a topic note
 
 In Obsidian, expand your slip-box folder and review the existing notes and note sequences.
 
@@ -334,7 +334,7 @@ In Obsidian, expand your slip-box folder and review the existing notes and note 
 7. Add the following metadata to the note:
 
 ```
-`index: [[indexName]] tags: #topic-note` *`---`*12345
+`index: [[indexName]] tags: topic-note` *`---`*12345
 ```
 
 Replace `[[indexName]]` with a link to the appropriate index note.

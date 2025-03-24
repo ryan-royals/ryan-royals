@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://learn.microsoft.com/en-us/media/open-graph-image.png)
 
-## Summary
-
-Explore load balancing
+## Full Document
+[[40 References/readwise/Full Document Contents/Explore Load Balancing - Training\|Readwise/Full Document Contents/Explore Load Balancing - Training.md]]
 
 ## Highlights
-
 Azure provides various load balancing services that you can use to distribute your workloads across multiple computing resources, but the following are the main services:
 • **Azure Load Balancer** - high-performance, ultra-low-latency Layer 4 load-balancing service (inbound and outbound) for all UDP and TCP protocols. It's built to handle millions of requests per second while ensuring your solution is highly available. Azure Load Balancer is zone-redundant, ensuring high availability across Availability Zones.
 • **Traffic Manager** - DNS-based traffic load balancer that enables you to distribute traffic optimally to services across global Azure regions, while providing high availability and responsiveness. Because Traffic Manager is a DNS-based load-balancing service, it load-balances only at the domain level. For that reason, it can't fail over as quickly as Front Door, because of common challenges around DNS caching and systems not honoring DNS time-to-live values (TTLs).

@@ -4,20 +4,10 @@
 
 ![rw-book-cover](https://i.ytimg.com/vi/mXJiVCbWc6g/maxresdefault.jpg)
 
-## Summary
-
-Join us for an immersive journey into the world of Azure Landing Zones and Terraform, where you'll transform from novice to virtuoso. Our session, led by the Azure Landing Zones product group at Microsoft, is your gateway to crafting a streamlined, developer-friendly Azure environment. Discover the art of tenant bootstrapping and the magic of empowering your development teams with a pre-configured coding haven. With the perfect blend of Azure, GitHub, Terraform, and Terraform Cloud, we'll unveil the secrets to supercharging your Azure deployment process. Get ready to explore the cutting-edge AzAPI provider and an array of other game-changing modules and providers that we've developed. Dive into our community initiatives and learn how to stay closely connected with our latest developments.
-
-Speakers: Matt White, Bilal Amjad
-
-Subscribe to our YouTube Channel → https://www.youtube.com/c/HashiCorp?sub_confirmation=1
-
-For hands-on interactive labs, visit HashiCorp Developer → https://developer.hashicorp.com/
-
-HashiCo...
+## Full Document
+[[40 References/readwise/Full Document Contents/Get in the (Landing) Zone With Terraform on Azure\|Readwise/Full Document Contents/Get in the (Landing) Zone With Terraform on Azure.md]]
 
 ## Highlights
-
 available uh not just in terraform but bicep and click Ops ([View Highlight] (https://read.readwise.io/read/01hdq58ybyc0c5d5e0v7a2pjsh))
 
 

@@ -11,6 +11,6 @@ Provides a conversation AI, the capability of a software "Agent" to participate 
 
 ---
 
-Links: , [[30 Slipbox/AI\|AI]], [[30 Slipbox/Natural language processing resources in Microsoft Azure\|Natural language processing resources in Microsoft Azure]]  
+Links: , [[AI\|AI]], [[30 Slipbox/Natural language processing resources in Microsoft Azure\|Natural language processing resources in Microsoft Azure]]  
 Tags:  
 Reference:

@@ -4,12 +4,10 @@
 
 ![rw-book-cover](https://obsidian.rocks/wp-content/uploads/2022/09/thomas-bormans-pcpsVsyFp_s-unsplash.jpg)
 
-## Summary
-
-Managing tasks in Obsidian may seem odd. But you'll be hard pressed to find a more flexible tool. Once you try it, you may never go back.
+## Full Document
+[[40 References/readwise/Full Document Contents/How to Manage Tasks in Obsidian-The Complete Guide\|Readwise/Full Document Contents/How to Manage Tasks in Obsidian-The Complete Guide.md]]
 
 ## Highlights
-
 • You can embed tasks in any note, allowing you to organize projects however you like
 • You can link related notes together, allowing you to keep things clean but still accessible
 • You can keep track of your progress via custom dashboards or Daily Notes
