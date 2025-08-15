@@ -4,7 +4,6 @@ Check this out:
 
 <!--START_SECTION:badges-->
 
-[<img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" height="110" width="110">](http://www.credly.com/badges/f1f794c2-79bc-442f-b63d-dec981f8e7a3 "HashiCorp Certified: Terraform Associate (003)")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/d9c792ee-9b7f-41ad-90c4-b632db13df92 "Microsoft Certified: Azure Solutions Architect Expert")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/597e14e9-f6ad-4f81-82b5-72e17759e736 "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/5d5ae3a0-38ee-49ef-8154-1c662a9f03fc "Microsoft Certified: Azure Administrator Associate")
@@ -19,3 +18,5 @@ Check this out:
 [![MCSA: Office 365 - Certified 2018](https://images.credly.com/size/110x110/images/bbabe2f8-5871-4263-b0e8-79f53b3280ad/MCSA-Office-365-2018.png)](http://www.credly.com/badges/cd7ab84a-1972-44fb-a334-499f1e9d1017 "MCSA: Office 365 - Certified 2018")
 
 <!--END_SECTION:badges-->
+
+<!---Expired [<img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" height="110" width="110">](http://www.credly.com/badges/f1f794c2-79bc-442f-b63d-dec981f8e7a3 "HashiCorp Certified: Terraform Associate (003)") -->
