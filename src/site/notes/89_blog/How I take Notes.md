@@ -18,23 +18,24 @@ An Object is a semi rigid template of a file that has known quantity frontmatter
 
 #### Object Types
 
-| Tag               | Description                                                                      |
-| ----------------- | -------------------------------------------------------------------------------- |
-| `#accommodations` | Accommodation reviews of places I have stayed before                             |
-| `#assets`         | Items I own, with historic information around it.                                |
-| `#boardgames`     | Board game Reviews and notes for things like 'Saves'                             |
-| `#books`          | Book notes and reviews. Probably to be archived.                                 |
-| `#companies`      | Metadata MOC for Companies I have worked with.                                   |
-| `#daily`          | Daily Notes, the backbone of the vault and where ideas start.                    |
-| `#events`         | Metadata MOC for events I have attended.                                         |
-| `#meetings`       | Meeting notes that link dates, projects, people etc.                             |
-| `#notes`          | My catchall Object type that has technical documentation, more complex thoughts. |
-| `#people`         | Metadata MOC for People I have worked with.                                      |
-| `#projects`       | Metadata MOC for Projects I have worked on, either Work or Personal              |
-| `#recipes`        | My own little recipe book.                                                       |
-| `#restaurants`    | Restaurant reviews for places I have eaten.                                      |
-| `#trips`          | Diary of my trips.                                                               |
-| `#workbooks`      | Technical problem-solving journals as a place to think.                          |
+| Tag               | Description                                                                           |
+| ----------------- | ------------------------------------------------------------------------------------- |
+| `#accommodations` | Accommodation reviews of places I have stayed before                                  |
+| `#assets`         | Items I own, with historic information around it.                                     |
+| `#boardgames`     | Board game Reviews and notes for things like 'Saves'                                  |
+| `#books`          | Book notes and reviews. Probably to be archived.                                      |
+| `#blogs`          | Blog posts... for my blog                                                             |
+| `#companies`      | Metadata MOC for Companies I have worked with.                                        |
+| `#daily`          | Daily Notes, metadata backbone.                                                       |
+| `#events`         | Metadata MOC for events I have attended.                                              |
+| `#meetings`       | Meeting notes that link dates, projects, people etc.                                  |
+| `#notes`          | My catchall Object type that has technical documentation, more complex thoughts.      |
+| `#people`         | Metadata MOC for People I have worked with.                                           |
+| `#projects`       | Metadata MOC for Projects I have worked on, either Work or Personal                   |
+| `#recipes`        | My own little recipe book.                                                            |
+| `#restaurants`    | Restaurant reviews for places I have eaten.                                           |
+| `#trips`          | Diary of my trips.                                                                    |
+| `#workbooks`      | Technical problem-solving journals as a place to think, usually related to a Project. |
 
 ### Template System
 
@@ -42,6 +43,8 @@ Each object type has a corresponding template in the `00_templates/` folder that
 
 - Templates define required frontmatter fields for each object type
 - Template names follow the pattern: `[object type] template.md`
+
+In the root of my vault I have a Base for each object type, making them easily indexable as I can have columns for metadata and filtering.
 
 ### Frontmatter System
 
@@ -66,6 +69,10 @@ Fields are shared across different Object types to enable auto fill
 | role       | A job definition for the person                                                                             |
 | type       | A text field used to show if the topic is Work (Arkahna) or Personal                                        |
 | status     | A text field used to show if the project or workbook is Ongoing or archived                                 |
+| created    | A date field of when the file was created                                                                   |
+| modified   | A date field of when the file last changed                                                                  |
+| date       | A date field statically set (For a meeting for instance. Useful when created does not equal day of meeting) |
+| pronounced | A helper to remind me how to pronounce peoples names (I'm not perfect!)                                     |
 
 > [!note]  
 > Don't use the `people` field on the companies object, instead it is inferred by the `people` object and its `orgs` field.  
