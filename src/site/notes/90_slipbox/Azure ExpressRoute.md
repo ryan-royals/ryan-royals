@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure ExpressRoute.md","permalink":"/slipbox-notes/azure-express-route/","tags":["notes"],"created":"2024-05-15","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure ExpressRoute.md","permalink":"/slipbox-notes/azure-express-route/","tags":["notes"],"created":"2024-05-15","updated":"2025-11-28"}
 ---
 
 
@@ -36,7 +36,7 @@ Billing is based on a few configuration options:
 
 ## Types of Express Route
 
-Express Route can be configured as either **Private** or **Microsoft Peering**. **Private** is configured to extend your on premises network directly into a [[90_slipbox/Azure Virtual Network\|Virtual Network]] in Azure. **Microsoft Peering** is used to connect to Microsoft Services like [[90_slipbox/Office 365\|Office 365]], and the Public IP Ranges for Azure Regions.  
+Express Route can be configured as either **Private** or **Microsoft Peering**. **Private** is configured to extend your on premises network directly into a [[90_slipbox/Azure Virtual Network\|Virtual Network]] in Azure. **Microsoft Peering** is used to connect to Microsoft Services like Office 365, and the Public IP Ranges for Azure Regions.  
 ![Azure ExpressRoute-1721605786884.png](/img/user/10_attachments/Azure%20ExpressRoute-1721605786884.png)
 
 | **Features**                          | **Private Peering**                                                                        | **Microsoft Peering**                                                                    |
@@ -98,7 +98,7 @@ ExpressRoute is a [[90_slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 C
 
 ## Bidirectional Forwarding Detection
 
-> ExpressRoute supports [[Bidirectional Forwarding Detection\|Bidirectional Forwarding Detection]] (BFD) both over private and Microsoft peering. When you enable BFD over ExpressRoute, you can speed up the link failure detection between Microsoft Enterprise edge (MSEE) devices and the routers that your ExpressRoute circuit gets configured (CE/PE). You can configure ExpressRoute over your edge routing devices or your Partner Edge routing devices (if you went with managed Layer 3 connection service).[^1]
+> ExpressRoute supports Bidirectional Forwarding Detection (BFD) both over private and Microsoft peering. When you enable BFD over ExpressRoute, you can speed up the link failure detection between Microsoft Enterprise edge (MSEE) devices and the routers that your ExpressRoute circuit gets configured (CE/PE). You can configure ExpressRoute over your edge routing devices or your Partner Edge routing devices (if you went with managed Layer 3 connection service).[^1]
 
 > You can enable ExpressRoute circuit either by Layer 2 connections or managed Layer 3 connections. In both cases, if there are more than one Layer-2 devices in the ExpressRoute connection path, the responsibility of detecting any link failures in the path lies with the overlying BGP session.[^1]  
 ![Azure ExpressRoute-1721181158814.png](/img/user/10_attachments/Azure%20ExpressRoute-1721181158814.png)
