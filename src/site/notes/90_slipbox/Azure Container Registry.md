@@ -5,7 +5,7 @@
 
 ## Push Containers to ACR
 
-Utilizing [[90_slipbox/Docker\|Docker]] login you Tag the Container on your local machine that you wish to push to ACR.  
+Utilizing [[Docker\|Docker]] login you Tag the Container on your local machine that you wish to push to ACR.  
 This tag represents the path URL that will be used in future to pull it.
 
 Reference: [Push & pull container image - Azure Container Registry | Microsoft Learn](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli?tabs=azure-cli)

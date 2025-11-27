@@ -15,10 +15,8 @@ Sorted by [Resource providers by Azure services - Azure Resource Manager | Micro
   - [[90_slipbox/Azure Container Apps\|Azure Container Apps]]
 - **Microsoft.AppConfiguration**
   - [[90_slipbox/Azure App Configuration\|Azure App Configuration]]
-- **Microsoft.BotService**
-  - [[90_slipbox/Azure Bot\|Azure Bot]]
 - **Microsoft.CognitiveServices**
-  - [[90_slipbox/Azure Cognitive Services\|Azure Cognitive Services]]
+  - [[Azure Cognitive Services\|Azure Cognitive Services]]
 - **Microsoft.Compute**
   - [[90_slipbox/Azure Virtual Machine\|Azure Virtual Machine]]
   - [[90_slipbox/Azure Virtual Machine Scale Set\|Azure Virtual Machine Scale Set]]
@@ -82,6 +80,8 @@ Sorted by [Resource providers by Azure services - Azure Resource Manager | Micro
 ## Additional Information
 
 - [[90_slipbox/SoC 2 Compliance\|SoC 2 Compliance]]
+- [[90_slipbox/Computer Vision services in Azure\|Computer Vision services in Azure]]
+- [[90_slipbox/Natural language processing resources in Microsoft Azure\|Natural language processing resources in Microsoft Azure]]
 - [[90_slipbox/Azure Magic IP\|Azure Magic IP]]
 - [[90_slipbox/Cloud Center of Excellence\|Cloud Center of Excellence]]
 - [[90_slipbox/Azure Cloud Adoption Framework\|Azure Cloud Adoption Framework]]

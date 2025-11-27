@@ -9,7 +9,7 @@
 [[90_slipbox/Johnny Decimal System\|Johnny Decimal System]]  
 [[90_slipbox/Taking Smart Notes in Obsidian\|Taking Smart Notes in Obsidian]]  
 [[90_slipbox/Literature Notes\|Literature Notes]]  
-[[90_slipbox/How I process documents\|How I process documents]]  
+[[How I process documents\|How I process documents]]  
 [[90_slipbox/Tasks\|Tasks]]  
 [[90_slipbox/Get Things Done Method\|Get Things Done Method]]  
 [[90_slipbox/The PARA Method\|The PARA Method]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Private Endpoint.md","permalink":"/slipbox-notes/azure-private-endpoint/","tags":["notes"],"created":"2023-05-15","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Private Endpoint.md","permalink":"/slipbox-notes/azure-private-endpoint/","tags":["notes"],"created":"2023-05-15","updated":"2025-11-28"}
 ---
 
 
@@ -22,7 +22,27 @@ They are used on services such as:
 
 A [[90_slipbox/Azure Service Endpoint\|Azure Service Endpoint]] is used to establish a least cost path to the destination resource from a subnet. Service Endpoints do not deploy a Private IP Address to connect to the Resource. They also can not be accessed past their allocated Subnet, and therefore can not be reached from on-premises.
 
-## [[90_slipbox/Connecting to a Private Endpoint\|Connecting to a Private Endpoint]]
+## Connecting to a Private Endpoint
+
+In order to reach the Private Endpoint, the client has to be able to do a DNS lookup to find the [[90_slipbox/Azure Private DNS Zone\|Azure Private DNS Zones]]. In order to reach the Private DNS zone, you have to be on a Virtual Network that is connected to the Private DNS Zone.
+
+Azure does this by using the [[90_slipbox/Azure Magic IP\|Azure Magic IP]] (168.63.129.16) to confirm what Virtual Network you are coming from, and then supply you the correct records.
+
+### Connect From Virtual Network
+
+![Pasted image 20230512124425.png](/img/user/10_attachments/Pasted%20image%2020230512124425.png)
+
+### Connect From On-premises
+
+![Pasted image 20230512124536.png](/img/user/10_attachments/Pasted%20image%2020230512124536.png)  
+![Connecting to a Private Endpoint-1693544625288.png](/img/user/10_attachments/Connecting%20to%20a%20Private%20Endpoint-1693544625288.png)  
+Using Server level forwarders in [[Active Directory\|Active Directory]] will not work, as it will always be able to resolve the Public IP of the resource you are trying to reach.  
+Conditional Forwarders are used in this situation to forward a whole domain to a different DNS resolver.
+
+### Connect Using Azure Firewall DNS
+
+*Uses [[90_slipbox/Azure DNS Private Resolver\|Azure DNS Private Resolver]] and [[90_slipbox/Azure Firewall\|Azure Firewall]]*  
+![Pasted image 20230515095640.png](/img/user/10_attachments/Pasted%20image%2020230515095640.png)
 
 ## FAQ
 

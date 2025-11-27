@@ -19,7 +19,7 @@ Container Apps abstracts away Kubernetes complexity while retaining container be
 - Internal ingress and service discovery
 - Run containers from any registry
 - Connects into [[90_slipbox/Azure Virtual Network\|Azure Virtual Network]]
-- Monitor with [[90_slipbox/Azure Log Analytics Workspace\|Azure Log Analytics Workspace]]
+- Monitor with [[Azure Log Analytics Workspace\|Azure Log Analytics Workspace]]
 - Can auto scale based on:
   - HTTP traffic
   - Event-driven processing

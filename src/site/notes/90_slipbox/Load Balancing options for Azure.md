@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"dg-path":"Slipbox Notes/Load Balancing options for Azure.md","permalink":"/slipbox-notes/load-balancing-options-for-azure/","tags":["notes"],"created":"2024-07-23","updated":"2025-11-28"}
+---
+
+
+Azure provides various load balancing services that you can use to distribute your workloads across multiple computing resources, but the following are the main services:
+
+- **[[90_slipbox/Azure Load Balancer\|Azure Load Balancer]]** - high-performance, ultra-low-latency [[90_slipbox/OSI Networking Model#Layer 4 - Transport\|Layer 4]] load-balancing service (inbound and outbound) for all UDP and TCP protocols. It's built to handle millions of requests per second while ensuring your solution is highly available. Azure Load Balancer is zone-redundant, ensuring high availability across Availability Zones.
+- **[[90_slipbox/Azure Traffic Manager\|Azure Traffic Manager]]** - DNS-based traffic load balancer that enables you to distribute traffic optimally to services across global Azure regions, while providing high availability and responsiveness. Because Traffic Manager is a DNS-based load-balancing service, it load-balances only at the domain level. For that reason, it can't fail over as quickly as Front Door, because of common challenges around DNS caching and systems not honouring DNS time-to-live values (TTLs).
+- **[[90_slipbox/Azure Application Gateway\|Azure Application Gateway]]** - provides application delivery controller (ADC) as a service, offering various [[90_slipbox/OSI Networking Model#Layer 7 - Application\|Layer 7]] load-balancing capabilities. Use it to optimize web farm productivity by offloading CPU-intensive SSL termination to the gateway.
+- **[[90_slipbox/Azure Front Door\|Azure Front Door]]** - application delivery network that provides global load balancing and site acceleration service for web applications. It offers [[90_slipbox/OSI Networking Model#Layer 7 - Application\|Layer 7]] capabilities for your application like SSL offload, path-based routing, fast failover, caching, etc. to improve performance and high-availability of your applications.[^1]
+
+![Load Balancing options for Azure-1721690987028.png](/img/user/10_attachments/Load%20Balancing%20options%20for%20Azure-1721690987028.png)
+
+| Service             | Global/regional    | Recommended traffic |
+| ------------------- | ------------------ | ------------------- |
+| Azure Front Door    | Global             | HTTP(S)             |
+| Traffic Manager     | Global             | non-HTTP(S)         |
+| Application Gateway | Regional           | HTTP(S)             |
+| Azure Load Balancer | Regional or Global | non-HTTP(S)         |
+
+[^1]: [Explore Load Balancing - Training](https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/2-explore)raining]]
