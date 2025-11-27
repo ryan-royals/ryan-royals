@@ -4,6 +4,7 @@
 
 
 ## Resource Providers
+
 Sorted by [Resource providers by Azure services - Azure Resource Manager | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-services-resource-providers)
 
 - **Microsoft.AAD**
