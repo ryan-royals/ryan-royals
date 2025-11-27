@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"index.md","permalink":"/index/","tags":["notes","gardenEntry"],"created":"2024-05-03","updated":"2025-10-27"}
+{"dg-publish":true,"dg-path":"","permalink":"/","tags":["notes","gardenEntry"],"created":"2024-05-03","updated":"2025-10-27"}
 ---
 
 ## Welcome

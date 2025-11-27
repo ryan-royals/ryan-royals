@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How I take Notes.md","permalink":"/how-i-take-notes/","tags":["blogs"],"created":"2025-06-11","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Blog Posts/How I take Notes.md","permalink":"/blog-posts/how-i-take-notes/","tags":["blogs"],"created":"2025-06-11","updated":"2025-11-27"}
 ---
 
 This vault serves as my **Digital Garden** and **Personal Knowledge Management System**. Each file represents a distinct object with specific purposes, relationships, and metadata. The system is designed around the principle that **everything is connected** and **context is king**.
