@@ -24,7 +24,7 @@ Please, reach out!
 You are not a bother, I'm at the part of my journey where I'd be excited for someone to say they seen my site!
 
 [Ryan Royals | LinkedIn](https://www.linkedin.com/in/ryan-royals-17785b148/)
-me@ryanroyals.cloud
+[me@ryanroyals.cloud](mailto:me@ryanroyals.cloud)
 [GitHub](https://github.com/ryan-royals/)
 
 [Arkahna: Cloud-native, Outcome-driven, Future-ready](https://arkahna.io/)  
