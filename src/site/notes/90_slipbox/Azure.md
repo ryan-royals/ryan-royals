@@ -15,8 +15,6 @@ Sorted by [Resource providers by Azure services - Azure Resource Manager | Micro
   - [[90_slipbox/Azure Container Apps\|Azure Container Apps]]
 - **Microsoft.AppConfiguration**
   - [[90_slipbox/Azure App Configuration\|Azure App Configuration]]
-- **Microsoft.CognitiveServices**
-  - [[Azure Cognitive Services\|Azure Cognitive Services]]
 - **Microsoft.Compute**
   - [[90_slipbox/Azure Virtual Machine\|Azure Virtual Machine]]
   - [[90_slipbox/Azure Virtual Machine Scale Set\|Azure Virtual Machine Scale Set]]
