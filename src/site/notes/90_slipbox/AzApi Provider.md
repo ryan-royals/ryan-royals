@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/az-api-provider/","tags":["notes"]}
+{"dg-publish":true,"permalink":"/90-slipbox/az-api-provider/","tags":["notes"],"created":"2023-08-29","updated":"2025-11-27"}
 ---
 
 
