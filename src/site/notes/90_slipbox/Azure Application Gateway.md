@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Gateway.md","permalink":"/slipbox-notes/azure-application-gateway/","tags":["notes"],"created":"2023-05-30","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-application-gateway/","tags":["notes"]}
 ---
 
 Azure Application Gateway is a [[90_slipbox/OSI Networking Model#Layer 7 - Application\|Layer 7]] web traffic load balancer used to balance and separate traffic to route to its most ideal destination.  

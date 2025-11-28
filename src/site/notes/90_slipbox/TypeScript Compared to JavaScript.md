@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/TypeScript Compared to JavaScript.md","permalink":"/slipbox-notes/type-script-compared-to-java-script/","tags":["notes"],"created":"2023-08-22","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/type-script-compared-to-java-script/","tags":["notes"]}
 ---
 
 

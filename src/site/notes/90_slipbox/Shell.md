@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Shell.md","permalink":"/slipbox-notes/shell/","tags":["notes"],"created":"2025-07-30","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/shell/","tags":["notes"]}
 ---
 
 

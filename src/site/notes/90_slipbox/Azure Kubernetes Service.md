@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Kubernetes Service.md","permalink":"/slipbox-notes/azure-kubernetes-service/","tags":["notes","claude"],"created":"2024-07-12","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-kubernetes-service/","tags":["notes","claude"]}
 ---
 
 
@@ -201,3 +201,62 @@
 - **Log Analytics**: Centralized logging and querying
 
 AKS bridges the gap between Kubernetes complexity and Azure cloud-native services, providing enterprise-grade container orchestration with reduced operational overhead compared to self-managed Kubernetes.
+
+## Troubleshooting
+
+### Azure Files NFS Shares Fail to Mount in AKS when "Secure Transfer Required" is Enabled on the Storage Account
+
+This leads to `Access Denied` errors.
+
+#### Solution
+
+Disable "Secure Transfer Required" setting on the Storage Account.[^1]
+
+#### Technical Explanation
+
+NFS protocol operates over plain TCP (port 2049) without support for:
+- HTTPS encryption
+- SMB encryption
+- TLS handshakes
+
+This is a **protocol-level limitation**, not a misconfiguration. NFS was designed before modern encryption standards.
+
+#### Security Mitigations
+
+Despite disabling secure transfer, maintain security through:
+
+#### Network-Level Controls (Required)
+
+- **Private endpoints** (recommended) - provides static IP within VNet
+- **Service endpoints** with VNet restrictions - alternative if static IP not needed
+- Both prevent public internet access to NFS shares
+
+#### Additional Security
+
+- Firewall rules on storage account
+- Network Security Groups (NSGs) on subnets
+- NFS shares only accessible from restricted networks by design
+
+#### Comparison: SMB Vs NFS
+
+| Protocol | Secure Transfer Support | Encryption Method             | Supports POSIX |
+| -------- | ----------------------- | ----------------------------- | -------------- |
+| SMB      | Yes                     | SMB 3.x with AES encryption   | No             |
+| NFS      | No                      | None (uses network isolation) | Yes            |
+
+#### Practical Considerations
+
+- For mixed workloads, consider separate storage accounts for SMB vs NFS
+- Always use network-level security for NFS shares
+- Port 2049 must be open between client and storage account
+
+#### Documentation Gap
+
+Microsoft documentation confirms this requirement across multiple articles but doesn't consolidate the explanation in FAQs where users expect to find it.
+
+#### Future State
+
+Using the `AzNFS` Mount Helper package on Linux machines, it creates a Tunnel to the Azure Files that effectively wraps the HTTP NFS traffic in the HTTPS tunnel, as a workaround for the protocol limitations.[^2]
+
+[^1]: <https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/field-tips-for-aks-storage-provisioning/ba-p/3761105>
+[^2]: <https://learn.microsoft.com/en-us/azure/storage/files/encryption-in-transit-for-nfs-shares>

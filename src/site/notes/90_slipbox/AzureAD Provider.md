@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/AzureAD Provider.md","permalink":"/slipbox-notes/azure-ad-provider/","tags":["notes"],"created":"2023-09-06","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-ad-provider/","tags":["notes"]}
 ---
 
 

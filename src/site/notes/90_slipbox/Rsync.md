@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Rsync.md","permalink":"/slipbox-notes/rsync/","tags":["notes"],"created":"2025-08-12","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/rsync/","tags":["notes"]}
 ---
 
 

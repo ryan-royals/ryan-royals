@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Style Guide.md","permalink":"/slipbox-notes/terraform-style-guide/","tags":["notes"],"created":"2023-11-12","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform-style-guide/","tags":["notes"]}
 ---
 
 

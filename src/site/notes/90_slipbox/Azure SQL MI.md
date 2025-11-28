@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure SQL MI.md","permalink":"/slipbox-notes/azure-sql-mi/","tags":["notes"],"created":"2023-04-19","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-sql-mi/","tags":["notes"]}
 ---
 
 

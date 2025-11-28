@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Get Things Done Method.md","permalink":"/slipbox-notes/get-things-done-method/","tags":["notes"],"created":"2023-07-24","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/get-things-done-method/","tags":["notes"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/Can't resolve Storage Account DNS from VNET, but can from Internet.md","permalink":"/blog-posts/can-t-resolve-storage-account-dns-from-vnet-but-can-from-internet/","tags":["blogs"],"created":"2024-06-06","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Can't resolve Storage Account DNS from VNET, but can from Internet.md","permalink":"/can-t-resolve-storage-account-dns-from-vnet-but-can-from-internet/","tags":["blogs"]}
 ---
 
 

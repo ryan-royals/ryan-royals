@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/Getting Started with Terraform.md","permalink":"/blog-posts/getting-started-with-terraform/","tags":["blogs"],"created":"2023-12-22","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Getting Started with Terraform.md","permalink":"/getting-started-with-terraform/","tags":["blogs"]}
 ---
 
 

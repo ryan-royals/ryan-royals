@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Computer Vision services in Azure.md","permalink":"/slipbox-notes/computer-vision-services-in-azure/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/computer-vision-services-in-azure/","tags":["notes"]}
 ---
 
 

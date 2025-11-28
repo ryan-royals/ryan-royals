@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Tips and Tricks.md","permalink":"/slipbox-notes/terraform-tips-and-tricks/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform-tips-and-tricks/","tags":["notes"]}
 ---
 
 

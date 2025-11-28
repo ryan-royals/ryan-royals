@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure NAT Gateway.md","permalink":"/slipbox-notes/azure-nat-gateway/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-nat-gateway/","tags":["notes"]}
 ---
 
 

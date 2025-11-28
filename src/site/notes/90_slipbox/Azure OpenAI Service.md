@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure OpenAI Service.md","permalink":"/slipbox-notes/azure-open-ai-service/","tags":["notes"],"created":"2025-01-20","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-open-ai-service/","tags":["notes"]}
 ---
 
 Created in partnership with Microsoft and [[90_slipbox/OpenAI\|OpenAI]], a service is supplied to provide 4 key components:
@@ -41,7 +41,7 @@ Embeddings are trained to give a [[90_slipbox/Data Vector\|Data Vector]] respons
 This involves the processing of data using something like [[90_slipbox/Azure Data Factory\|Azure Data Factory]]  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/slipbox-notes/data-vector/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/90-slipbox/data-vector/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

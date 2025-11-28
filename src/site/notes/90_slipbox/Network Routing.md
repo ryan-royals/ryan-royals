@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Network Routing.md","permalink":"/slipbox-notes/network-routing/","tags":["notes"],"created":"2023-08-02","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/network-routing/","tags":["notes"]}
 ---
 
 Routing rules are how traffic navigates on the [[90_slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 of the OSI Networking Model]], by directing certain traffic to next hops to further along the network, when the traffic would leave the Subnet the device is on.

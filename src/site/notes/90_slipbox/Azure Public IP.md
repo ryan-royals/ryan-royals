@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Public IP.md","permalink":"/slipbox-notes/azure-public-ip/","tags":["notes"],"created":"2024-05-02","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-public-ip/","tags":["notes"]}
 ---
 
 Public networks like the Internet communicate by using public IP addresses. Private networks like your Azure Virtual Network use private IP addresses, which aren't routable on public networks. To support a network that exists both in Azure and on-premises, you must configure IP addressing for both types of networks.

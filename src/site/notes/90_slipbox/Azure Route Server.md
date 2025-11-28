@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Route Server.md","permalink":"/slipbox-notes/azure-route-server/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-route-server/","tags":["notes"]}
 ---
 
 

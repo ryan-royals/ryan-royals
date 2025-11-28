@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Model Context Protocol.md","permalink":"/slipbox-notes/model-context-protocol/","tags":["notes"],"created":"2025-04-01","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/model-context-protocol/","tags":["notes"]}
 ---
 
 > [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.  

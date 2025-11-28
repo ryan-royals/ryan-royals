@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Network Administration.md","permalink":"/slipbox-notes/network-administration/","tags":["notes"],"created":"2024-05-06","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/network-administration/","tags":["notes"]}
 ---
 
 

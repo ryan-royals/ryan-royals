@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Service Level Agreement.md","permalink":"/slipbox-notes/service-level-agreement/","tags":["notes"],"created":"2024-07-29","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/service-level-agreement/","tags":["notes"]}
 ---
 
 

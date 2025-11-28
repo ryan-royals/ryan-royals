@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Magic IP.md","permalink":"/slipbox-notes/azure-magic-ip/","tags":["notes"],"created":"2023-03-20","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-magic-ip/","tags":["notes"]}
 ---
 
 

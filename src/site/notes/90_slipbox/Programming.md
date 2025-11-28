@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Programming.md","permalink":"/slipbox-notes/programming/","tags":["notes"],"created":"2023-09-26","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/programming/","tags":["notes"]}
 ---
 
 

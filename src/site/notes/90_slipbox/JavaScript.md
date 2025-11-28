@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/JavaScript.md","permalink":"/slipbox-notes/java-script/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/java-script/","tags":["notes"]}
 ---
 
 

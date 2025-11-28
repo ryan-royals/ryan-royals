@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Testing Pyramid.md","permalink":"/slipbox-notes/testing-pyramid/","tags":["notes"],"created":"2024-07-08","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/testing-pyramid/","tags":["notes"]}
 ---
 
 ![Testing Pyramid-1720401944908.png](/img/user/10_attachments/Testing%20Pyramid-1720401944908.png)

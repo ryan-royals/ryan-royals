@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure App Service.md","permalink":"/slipbox-notes/azure-app-service/","tags":["notes"],"created":"2023-03-08","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-app-service/","tags":["notes"]}
 ---
 
 

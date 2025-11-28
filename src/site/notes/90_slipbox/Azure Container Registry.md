@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Container Registry.md","permalink":"/slipbox-notes/azure-container-registry/","tags":["notes"],"created":"2023-03-24","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-container-registry/","tags":["notes"]}
 ---
 
 

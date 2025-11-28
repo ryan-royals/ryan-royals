@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/API vs WebHook.md","permalink":"/slipbox-notes/api-vs-web-hook/","tags":["notes"],"created":"2025-03-18","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/api-vs-web-hook/","tags":["notes"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/SoC 2 Compliance.md","permalink":"/slipbox-notes/so-c-2-compliance/","tags":["notes"],"created":"2023-03-20","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/so-c-2-compliance/","tags":["notes"]}
 ---
 
 

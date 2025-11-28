@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform.md","permalink":"/slipbox-notes/terraform/","tags":["notes"],"created":"2023-05-08","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform/","tags":["notes"]}
 ---
 
 Terraform is a Declarative, Domain Specific Language, [[90_slipbox/Infrastructure as code\|Infrastructure as code]] tool by [[90_slipbox/HashiCorp\|HashiCorp]] used to manage public cloud platforms like [[90_slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].

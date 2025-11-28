@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Trivy.md","permalink":"/slipbox-notes/trivy/","tags":["notes"],"created":"2023-12-21","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/trivy/","tags":["notes"]}
 ---
 
 

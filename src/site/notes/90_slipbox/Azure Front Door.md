@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Front Door.md","permalink":"/slipbox-notes/azure-front-door/","tags":["notes"],"created":"2023-03-08","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-front-door/","tags":["notes"]}
 ---
 
 

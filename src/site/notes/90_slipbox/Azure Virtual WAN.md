@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual WAN.md","permalink":"/slipbox-notes/azure-virtual-wan/","tags":["notes"],"created":"2024-02-08","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-wan/","tags":["notes"]}
 ---
 
 

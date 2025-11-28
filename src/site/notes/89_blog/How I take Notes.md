@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/How I take Notes.md","permalink":"/blog-posts/how-i-take-notes/","tags":["blogs"],"created":"2025-06-11","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"How I take Notes.md","permalink":"/how-i-take-notes/","tags":["blogs"]}
 ---
 
 This vault serves as my **Digital Garden** and **Personal Knowledge Management System**. Each file represents a distinct object with specific purposes, relationships, and metadata. The system is designed around the principle that **everything is connected** and **context is king**.
@@ -31,6 +31,7 @@ An Object is a semi rigid template of a file that has known quantity frontmatter
 | `#meetings`       | Meeting notes that link dates, projects, people etc.                                  |
 | `#notes`          | My catchall Object type that has technical documentation, more complex thoughts.      |
 | `#people`         | Metadata MOC for People I have worked with.                                           |
+| `#presentation`   | Notes related to a presentation I attended, could be a webinar or a conference talk.  |
 | `#projects`       | Metadata MOC for Projects I have worked on, either Work or Personal                   |
 | `#recipes`        | My own little recipe book.                                                            |
 | `#restaurants`    | Restaurant reviews for places I have eaten.                                           |

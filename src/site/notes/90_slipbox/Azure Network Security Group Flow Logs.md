@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Network Security Group Flow Logs.md","permalink":"/slipbox-notes/azure-network-security-group-flow-logs/","tags":["notes"],"created":"2024-10-21","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-network-security-group-flow-logs/","tags":["notes"]}
 ---
 
 

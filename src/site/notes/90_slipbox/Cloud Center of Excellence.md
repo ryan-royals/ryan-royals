@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Cloud Center of Excellence.md","permalink":"/slipbox-notes/cloud-center-of-excellence/","tags":["notes"],"created":"2023-04-19","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/cloud-center-of-excellence/","tags":["notes"]}
 ---
 
 
@@ -11,5 +11,4 @@ The true magic to this approach is it allows for other teams to consume the plat
 
 It is important to note that this is not a single implementation, but is a change to business approach and can take a long time to view results, and requires constant attention to keep working correctly.
 
-Links: [[90_slipbox/Azure Cloud Adoption Framework\|Azure Cloud Adoption Framework]]  
 Reference: [Cloud center of excellence (CCoE) functions - Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-center-of-excellence), [A Cloud Center of Excellence Is the Best-Practice Approach to Drive Cloud-Enabled Transformation.](https://www.gartner.com/en/conferences/hub/cloud-conferences/insights/how-to-build-a-cloud-center-of-excellence)

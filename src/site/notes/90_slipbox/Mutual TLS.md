@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Mutual TLS.md","permalink":"/slipbox-notes/mutual-tls/","tags":["notes"],"created":"2025-03-06","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/mutual-tls/","tags":["notes"]}
 ---
 
 

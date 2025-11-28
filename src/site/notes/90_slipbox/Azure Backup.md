@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Backup.md","permalink":"/slipbox-notes/azure-backup/","tags":["notes"],"created":"2024-06-25","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-backup/","tags":["notes"]}
 ---
 
 

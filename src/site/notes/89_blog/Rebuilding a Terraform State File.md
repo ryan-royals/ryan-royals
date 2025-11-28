@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/Rebuilding a Terraform State File.md","permalink":"/blog-posts/rebuilding-a-terraform-state-file/","tags":["blogs"],"created":"2025-07-16","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Rebuilding a Terraform State File.md","permalink":"/rebuilding-a-terraform-state-file/","tags":["blogs"]}
 ---
 
 

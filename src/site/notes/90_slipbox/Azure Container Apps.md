@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Container Apps.md","permalink":"/slipbox-notes/azure-container-apps/","tags":["notes","claude"],"created":"2023-03-31","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-container-apps/","tags":["notes","claude"]}
 ---
 
 

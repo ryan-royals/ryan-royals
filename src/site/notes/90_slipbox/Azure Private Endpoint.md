@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Private Endpoint.md","permalink":"/slipbox-notes/azure-private-endpoint/","tags":["notes"],"created":"2023-05-15","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-private-endpoint/","tags":["notes"]}
 ---
 
 

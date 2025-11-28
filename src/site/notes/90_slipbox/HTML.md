@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/HTML.md","permalink":"/slipbox-notes/html/","tags":["notes"],"created":"2023-09-25","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/html/","tags":["notes"]}
 ---
 
 

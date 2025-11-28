@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/AzApi Provider.md","permalink":"/slipbox-notes/az-api-provider/","tags":["notes"],"created":"2023-08-29","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/az-api-provider/","tags":["notes"]}
 ---
 
 

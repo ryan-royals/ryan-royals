@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Load balance HTTP(S) traffic in Azure.md","permalink":"/slipbox-notes/load-balance-http-s-traffic-in-azure/","tags":["notes"],"created":"2024-09-24","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/load-balance-http-s-traffic-in-azure/","tags":["notes"]}
 ---
 
 

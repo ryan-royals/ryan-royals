@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Cognitive Search.md","permalink":"/slipbox-notes/azure-cognitive-search/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-cognitive-search/","tags":["notes"]}
 ---
 
 

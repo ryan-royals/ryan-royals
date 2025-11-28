@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure FrontDoor Managed Rules blocking Auth0.md","permalink":"/slipbox-notes/azure-front-door-managed-rules-blocking-auth0/","tags":["notes"],"created":"2024-02-18","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-front-door-managed-rules-blocking-auth0/","tags":["notes"]}
 ---
 
 

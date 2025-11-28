@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Network Addressing.md","permalink":"/slipbox-notes/network-addressing/","tags":["notes"],"created":"2023-09-20","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/network-addressing/","tags":["notes"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Stacks preview.md","permalink":"/slipbox-notes/terraform-stacks-preview/","tags":["notes"],"created":"2023-11-29","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform-stacks-preview/","tags":["notes"]}
 ---
 
 Terraform Stacks looks to be a answer to [[90_slipbox/Terragrunt\|Terragrunt]], and the ability to turn your one terraform project into bite sized chunks that are easier to maintain from a blast radius perspective.

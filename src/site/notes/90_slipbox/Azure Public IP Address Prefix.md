@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Public IP Address Prefix.md","permalink":"/slipbox-notes/azure-public-ip-address-prefix/","tags":["notes"],"created":"2024-05-02","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-public-ip-address-prefix/","tags":["notes"]}
 ---
 
  A Public IP Address Prefix is a contiguous range of standard SKU public IP addresses. When you create a public IP address resource, you can assign a static public IP from the prefix and associate the address to Azure resources.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Policy.md","permalink":"/slipbox-notes/azure-policy/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-policy/","tags":["notes"]}
 ---
 
 I have lots to say about Azure Policy.. not all of it great, but I use it extensively every day.

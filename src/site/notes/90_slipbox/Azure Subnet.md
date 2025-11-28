@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Subnet.md","permalink":"/slipbox-notes/azure-subnet/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-subnet/","tags":["notes"]}
 ---
 
 

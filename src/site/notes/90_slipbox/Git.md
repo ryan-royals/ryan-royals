@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Git.md","permalink":"/slipbox-notes/git/","tags":["notes"],"created":"2023-06-05","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/git/","tags":["notes"]}
 ---
 
 

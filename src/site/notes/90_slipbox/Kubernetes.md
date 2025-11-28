@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Kubernetes.md","permalink":"/slipbox-notes/kubernetes/","tags":["notes","claude"],"created":"2024-09-06","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/kubernetes/","tags":["notes","claude"]}
 ---
 
 

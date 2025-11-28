@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/How CAF TF module works.md","permalink":"/slipbox-notes/how-caf-tf-module-works/","tags":["notes"],"created":"2023-08-31","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/how-caf-tf-module-works/","tags":["notes"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/How to design Network Spaces and Blocks.md","permalink":"/blog-posts/how-to-design-network-spaces-and-blocks/","tags":["blogs"],"created":"2024-06-25","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"How to design Network Spaces and Blocks.md","permalink":"/how-to-design-network-spaces-and-blocks/","tags":["blogs"]}
 ---
 
 2025-11-28:  

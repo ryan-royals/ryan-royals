@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Data Lake Storage Gen2.md","permalink":"/slipbox-notes/azure-data-lake-storage-gen2/","tags":["notes"],"created":"2025-06-11","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-data-lake-storage-gen2/","tags":["notes"]}
 ---
 
 

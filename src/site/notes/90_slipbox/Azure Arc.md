@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Arc.md","permalink":"/slipbox-notes/azure-arc/","tags":["notes"],"created":"2023-03-24","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-arc/","tags":["notes"]}
 ---
 
 Azure Arc is a unified management tool use to offer a single pane of glass over your other cloud like platforms, either on prem or on competing clouds  

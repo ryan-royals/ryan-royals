@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Design and implement network monitoring.md","permalink":"/slipbox-notes/design-and-implement-network-monitoring/","tags":["notes"],"created":"2024-10-17","updated":"2025-11-28"}
+{"dg-publish":true,"permalink":"/90-slipbox/design-and-implement-network-monitoring/","tags":["notes"]}
 ---
 
 
