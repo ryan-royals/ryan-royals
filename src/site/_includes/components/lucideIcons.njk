@@ -4,4 +4,15 @@ lucide.createIcons({
                 class: ["svg-icon"]
             }
         });
+
+// Re-create icons after Alpine.js initializes (for icons in x-show elements)
+document.addEventListener('alpine:init', () => {
+    setTimeout(() => {
+        lucide.createIcons({
+            attrs: {
+                class: ["svg-icon"]
+            }
+        });
+    }, 100);
+});
 </script>
