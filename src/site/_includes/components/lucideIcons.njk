@@ -1,18 +1,17 @@
 <script>
-lucide.createIcons({
-            attrs: {
-                class: ["svg-icon"]
-            }
-        });
+const lucideConfig = {
+    attrs: {
+        class: ["svg-icon"]
+    }
+};
+
+lucide.createIcons(lucideConfig);
 
 // Re-create icons after Alpine.js initializes (for icons in x-show elements)
 document.addEventListener('alpine:init', () => {
+    // Small delay to ensure Alpine has finished showing/hiding elements
     setTimeout(() => {
-        lucide.createIcons({
-            attrs: {
-                class: ["svg-icon"]
-            }
-        });
+        lucide.createIcons(lucideConfig);
     }, 100);
 });
 </script>
