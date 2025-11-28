@@ -55,16 +55,35 @@ body {
     gap: 10px;
 }
 
-/* Mobile Filetree Contact Buttons */
-.filetree-contact-buttons {
+/* Filetree Top Buttons Container */
+.filetree-top-buttons {
     display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin: 15px 0;
+}
+
+/* Filetree Contact Buttons - Top (Desktop) */
+.filetree-contact-buttons-top {
+    display: flex;
+    justify-content: center;
+    
+    @media (max-width: 1400px) {
+        display: none;
+    }
+}
+
+/* Filetree Contact Buttons - Bottom (Mobile) */
+.filetree-contact-buttons-bottom {
+    display: none;
     justify-content: center;
     padding: 20px 0;
     margin-top: auto;
     border-top: 1px solid var(--text-normal);
     
-    @media (min-width: 1400px) {
-        display: none;
+    @media (max-width: 1400px) {
+        display: flex;
     }
 }
 

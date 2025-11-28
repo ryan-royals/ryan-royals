@@ -42,17 +42,22 @@
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
         {% endfor %}
-        {% if settings.dgEnableSearch === true%}
-            <div style="display: flex; justify-content: center;">
-                {% include "components/searchButton.njk" %}
+        <div class="filetree-top-buttons">
+            <div class="filetree-contact-buttons-top">
+                {% include "components/contactButtons.njk" %}
             </div>
-        {%endif%}
+            {% if settings.dgEnableSearch === true%}
+                <div style="display: flex; justify-content: center;">
+                    {% include "components/searchButton.njk" %}
+                </div>
+            {%endif%}
+        </div>
          <div class="folder" x-data="{isOpen: true}">
                {%- for fileOrFolderName, fileOrFolder in filetree -%}
                   {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
                {%- endfor -%}
          </div>
-         <div class="filetree-contact-buttons">
+         <div class="filetree-contact-buttons-bottom">
             {% include "components/contactButtons.njk" %}
          </div>
       </nav>
