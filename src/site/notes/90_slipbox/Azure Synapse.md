@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-synapse/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Synapse.md","permalink":"/slipbox-notes/azure-synapse/","tags":["notes"],"created":"2023-05-02","updated":"2025-11-27"}
 ---
 
 Azure synapse is a enterprise analytics tool for managing multiple data warehouses and big data systems.  

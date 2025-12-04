@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-connection-monitor/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Connection Monitor.md","permalink":"/slipbox-notes/azure-connection-monitor/","tags":["notes"],"created":"2024-10-21","updated":"2025-11-28"}
 ---
 
 

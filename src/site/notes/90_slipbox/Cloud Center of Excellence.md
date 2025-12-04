@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/cloud-center-of-excellence/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Cloud Center of Excellence.md","permalink":"/slipbox-notes/cloud-center-of-excellence/","tags":["notes"],"created":"2023-04-19","updated":"2025-11-28"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/az-cli/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/AzCLI.md","permalink":"/slipbox-notes/az-cli/","tags":["notes"],"created":"2023-06-14","updated":"2025-11-28"}
 ---
 
 

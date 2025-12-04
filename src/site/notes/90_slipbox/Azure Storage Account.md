@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-storage-account/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Storage Account.md","permalink":"/slipbox-notes/azure-storage-account/","tags":["notes"],"created":"2023-05-05","updated":"2025-11-27"}
 ---
 
 

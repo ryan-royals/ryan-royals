@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terragrunt/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terragrunt.md","permalink":"/slipbox-notes/terragrunt/","tags":["notes"],"created":"2023-05-30","updated":"2025-11-28"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-network-security-group/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Network Security Group.md","permalink":"/slipbox-notes/azure-network-security-group/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-28"}
 ---
 
 

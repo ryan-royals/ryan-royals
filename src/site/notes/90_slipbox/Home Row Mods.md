@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/home-row-mods/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Home Row Mods.md","permalink":"/slipbox-notes/home-row-mods/","tags":["notes"],"created":"2025-01-15","updated":"2025-11-28"}
 ---
 
 

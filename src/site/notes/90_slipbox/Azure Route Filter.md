@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-route-filter/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Route Filter.md","permalink":"/slipbox-notes/azure-route-filter/","tags":["notes"],"created":"2024-07-22","updated":"2025-11-28"}
 ---
 
 > When Microsoft peering gets configured on your ExpressRoute circuit, the Microsoft Edge routers establish a pair of BGP sessions with your edge routers through your connectivity provider. No routes are advertised to your network. To enable route advertisements to your network, you must associate a route filter.

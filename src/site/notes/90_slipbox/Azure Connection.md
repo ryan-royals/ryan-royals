@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-connection/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Connection.md","permalink":"/slipbox-notes/azure-connection/","tags":["notes"],"created":"2024-05-06","updated":"2025-11-27"}
 ---
 
 

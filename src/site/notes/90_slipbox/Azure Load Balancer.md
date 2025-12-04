@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-load-balancer/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Load Balancer.md","permalink":"/slipbox-notes/azure-load-balancer/","tags":["notes"],"created":"2024-07-25","updated":"2025-11-28"}
 ---
 
 **Azure Load Balancer** operates at [[90_slipbox/OSI Networking Model#Layer 4 - Transport\|Layer 4 of the Open Systems Interconnnection (OSI) model]]. It's the single point of contact for clients. Azure Load Balancer distributes inbound flows that arrive at the load balancer's front end to backend pool instances. These flows are according to configured load-balancing rules and health probes. The backend pool instances can be [[90_slipbox/Azure Virtual Machine\|Azure Virtual Machines]] or instances in a [[90_slipbox/Azure Virtual Machine Scale Set\|Azure Virtual Machine Scale Set]].[^1]

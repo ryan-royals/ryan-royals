@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/hashi-corp-cloud-platform/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/HashiCorp Cloud Platform.md","permalink":"/slipbox-notes/hashi-corp-cloud-platform/","tags":["notes"],"created":"2024-08-30","updated":"2025-11-28"}
 ---
 
 

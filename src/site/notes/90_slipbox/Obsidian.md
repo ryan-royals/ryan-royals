@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/obsidian/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Obsidian.md","permalink":"/slipbox-notes/obsidian/","tags":["notes"],"created":"2023-08-28","updated":"2025-11-28"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terraform-parallelism-investigation/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Parallelism investigation.md","permalink":"/slipbox-notes/terraform-parallelism-investigation/","tags":["notes"],"created":"2023-12-12","updated":"2025-11-28"}
 ---
 
 

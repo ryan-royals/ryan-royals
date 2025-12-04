@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/infrastructure-as-code/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Infrastructure as code.md","permalink":"/slipbox-notes/infrastructure-as-code/","tags":["notes"],"created":"2023-10-15","updated":"2025-11-27"}
 ---
 
 

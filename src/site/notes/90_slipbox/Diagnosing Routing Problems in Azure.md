@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/diagnosing-routing-problems-in-azure/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Diagnosing Routing Problems in Azure.md","permalink":"/slipbox-notes/diagnosing-routing-problems-in-azure/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-28"}
 ---
 
 

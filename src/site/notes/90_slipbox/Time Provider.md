@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/time-provider/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Time Provider.md","permalink":"/slipbox-notes/time-provider/","tags":["notes"],"created":"2023-12-08","updated":"2025-11-28"}
 ---
 
 

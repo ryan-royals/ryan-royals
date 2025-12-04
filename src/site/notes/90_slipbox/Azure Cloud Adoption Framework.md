@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-cloud-adoption-framework/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Cloud Adoption Framework.md","permalink":"/slipbox-notes/azure-cloud-adoption-framework/","tags":["notes"],"created":"2023-04-20","updated":"2025-11-28"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/outllook-google-calendar-sync/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Outllook Google Calendar Sync.md","permalink":"/slipbox-notes/outllook-google-calendar-sync/","tags":["notes"],"created":"2023-08-30","updated":"2025-11-28"}
 ---
 
 [phw198/OutlookGoogleCalendarSync: Sync your Outlook and Google calendars (github.com)](https://github.com/phw198/OutlookGoogleCalendarSync)

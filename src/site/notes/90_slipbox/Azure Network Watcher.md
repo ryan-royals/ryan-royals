@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-network-watcher/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Network Watcher.md","permalink":"/slipbox-notes/azure-network-watcher/","tags":["notes"],"created":"2024-10-21","updated":"2025-11-28"}
 ---
 
 

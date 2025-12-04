@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/neo-vim/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/NeoVim.md","permalink":"/slipbox-notes/neo-vim/","tags":["notes"],"created":"2025-02-27","updated":"2025-11-28"}
 ---
 
 

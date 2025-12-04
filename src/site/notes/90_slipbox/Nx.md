@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/nx/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Nx.md","permalink":"/slipbox-notes/nx/","tags":["notes"],"created":"2025-10-15","updated":"2025-11-28"}
 ---
 
 

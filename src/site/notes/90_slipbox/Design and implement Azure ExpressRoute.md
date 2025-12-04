@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/design-and-implement-azure-express-route/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Design and implement Azure ExpressRoute.md","permalink":"/slipbox-notes/design-and-implement-azure-express-route/","tags":["notes"],"created":"2024-07-16","updated":"2025-11-28"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network-manager/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network Manager.md","permalink":"/slipbox-notes/azure-virtual-network-manager/","tags":["notes"],"created":"2025-06-11","updated":"2025-11-28"}
 ---
 
 > Significantly reduce your operational overhead with Azure Virtual Network Manager, a central management service for your virtual network resources. Easily manage your virtual network infrastructure while scaling your cloud-based workloads. Use the centralized solution to create and manage complex network topologies and network security rules globally across subscriptions.

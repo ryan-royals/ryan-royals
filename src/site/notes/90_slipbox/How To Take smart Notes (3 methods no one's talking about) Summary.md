@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/how-to-take-smart-notes-3-methods-no-one-s-talking-about-summary/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/How To Take smart Notes (3 methods no one's talking about) Summary.md","permalink":"/slipbox-notes/how-to-take-smart-notes-3-methods-no-one-s-talking-about-summary/","tags":["notes"],"created":"2023-11-23","updated":"2025-11-28"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-kubernetes-service/","tags":["notes","claude"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Kubernetes Service.md","permalink":"/slipbox-notes/azure-kubernetes-service/","tags":["notes","claude"],"created":"2025-08-15","updated":"2025-11-28"}
 ---
 
 

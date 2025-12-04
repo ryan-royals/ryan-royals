@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-application-insights/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Insights.md","permalink":"/slipbox-notes/azure-application-insights/","tags":["notes"],"created":"2023-03-20","updated":"2025-11-28"}
 ---
 
 

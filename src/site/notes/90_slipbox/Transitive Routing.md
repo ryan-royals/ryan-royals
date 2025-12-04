@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/transitive-routing/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Transitive Routing.md","permalink":"/slipbox-notes/transitive-routing/","tags":["notes"],"created":"2024-05-02","updated":"2025-11-27"}
 ---
 
 

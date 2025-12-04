@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/inframap/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Inframap.md","permalink":"/slipbox-notes/inframap/","tags":["notes"],"created":"2023-05-25","updated":"2025-11-28"}
 ---
 
 

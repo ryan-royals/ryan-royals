@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/building-a-second-brain-summary/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Building a Second Brain Summary.md","permalink":"/slipbox-notes/building-a-second-brain-summary/","tags":["notes"],"created":"2023-09-14","updated":"2025-11-28"}
 ---
 
 

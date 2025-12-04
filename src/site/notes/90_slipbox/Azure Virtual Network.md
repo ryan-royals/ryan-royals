@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network.md","permalink":"/slipbox-notes/azure-virtual-network/","tags":["notes"],"created":"2023-08-21","updated":"2025-11-27"}
 ---
 
 Azure Virtual Networks exist on [[90_slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 of the OSI Networking Model]].  

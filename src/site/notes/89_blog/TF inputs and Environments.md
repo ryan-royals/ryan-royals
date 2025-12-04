@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"TF inputs and Environments.md","permalink":"/tf-inputs-and-environments/","tags":["blogs"]}
+{"dg-publish":true,"dg-path":"Blog Posts/TF inputs and Environments.md","permalink":"/blog-posts/tf-inputs-and-environments/","tags":["blogs"],"created":"2024-05-22","updated":"2025-11-28"}
 ---
 
 
@@ -66,7 +66,7 @@ When declaring a `variable` block, you also give it a label that is used later i
 `Optional()` is a default for a specific *value* on a *key*, so when using a Collection or Structure, the input can define other values without supplying the key that has the `optional()` value, and the default supplied by the optional will be used.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/90-slipbox/types-in-terraform/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/slipbox-notes/types-in-terraform/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

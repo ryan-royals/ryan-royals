@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-machine-learning/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Machine Learning.md","permalink":"/slipbox-notes/azure-machine-learning/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-27"}
 ---
 
 

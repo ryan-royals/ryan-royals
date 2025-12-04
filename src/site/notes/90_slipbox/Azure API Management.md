@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-api-management/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure API Management.md","permalink":"/slipbox-notes/azure-api-management/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-27"}
 ---
 
 

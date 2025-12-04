@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/progressive-summarization/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Progressive Summarization.md","permalink":"/slipbox-notes/progressive-summarization/","tags":["notes"],"created":"2023-09-14","updated":"2025-11-28"}
 ---
 
 The process of Progressive Summarization is to help make notes in your Second Brain more discoverable.

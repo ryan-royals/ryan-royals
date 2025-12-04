@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-dev-ops-pipeline-issue-interacting-with-azure-storage/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure DevOps Pipeline issue interacting with Azure Storage.md","permalink":"/slipbox-notes/azure-dev-ops-pipeline-issue-interacting-with-azure-storage/","tags":["notes"],"created":"2024-01-18","updated":"2025-11-28"}
 ---
 
 There is a known issue with Azure DevOps, that when interacting with Azure Services deployed in the same region as the ADO instance, it uses a private ip to interact, and will not be allowed through Azure Storage Account whitelist.  

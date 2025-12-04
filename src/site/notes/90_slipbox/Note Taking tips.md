@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/note-taking-tips/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Note Taking tips.md","permalink":"/slipbox-notes/note-taking-tips/","tags":["notes"],"created":"2023-09-06","updated":"2025-11-28"}
 ---
 
 - Its easy to understand when to make a new note if you feel like you want to link it to 2 different Ideas

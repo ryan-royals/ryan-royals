@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-local-network-gateway/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Local Network Gateway.md","permalink":"/slipbox-notes/azure-local-network-gateway/","tags":["notes"],"created":"2024-05-06","updated":"2025-11-27"}
 ---
 
 A Local Network Gateway is a sub resource of a [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]], that represents a on-premises location for the used in tandem with a [[90_slipbox/Azure Connection\|Azure Connection]] resource in the creation of a [[90_slipbox/Virtual Private Network\|Virtual Private Network]] or [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] Connection.

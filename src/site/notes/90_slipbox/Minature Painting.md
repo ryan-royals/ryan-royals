@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/minature-painting/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Minature Painting.md","permalink":"/slipbox-notes/minature-painting/","tags":["notes"],"created":"2025-06-11","updated":"2025-11-28"}
 ---
 
 

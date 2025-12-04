@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/service-endpoint-and-private-endpoint-overlap/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Service Endpoint and Private Endpoint overlap.md","permalink":"/slipbox-notes/service-endpoint-and-private-endpoint-overlap/","tags":["notes"],"created":"2024-05-13","updated":"2025-11-28"}
 ---
 
 

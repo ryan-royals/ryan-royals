@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/bootstrap/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Bootstrap.md","permalink":"/slipbox-notes/bootstrap/","tags":["notes"],"created":"2023-09-25","updated":"2025-11-28"}
 ---
 
 Bootstrap is a free and [[Open Source Software\|Open Source Software]] web development framework, consisting of [[90_slipbox/HTML\|HTML]], [[90_slipbox/CSS\|CSS]] and [[90_slipbox/JavaScript\|JavaScript]] based scripts. Using Bootstrap offers reasonable styling defaults, premade classes for different assets (Cards, Pills, Images), as well as a 12 Column grid system that adaptively scales to the viewport dimensions based on breakpoints.

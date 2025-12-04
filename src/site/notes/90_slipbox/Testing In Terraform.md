@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/testing-in-terraform/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Testing In Terraform.md","permalink":"/slipbox-notes/testing-in-terraform/","tags":["notes"],"created":"2024-07-08","updated":"2025-11-28"}
 ---
 
 A [[90_slipbox/Testing Pyramid\|Testing Pyramid]] is a concept used to build tests for your application at different scopes.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/border-gateway-protocol/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Border Gateway Protocol.md","permalink":"/slipbox-notes/border-gateway-protocol/","tags":["notes"],"created":"2023-08-11","updated":"2025-11-27"}
 ---
 
 Border Gateway Protocol is used to span routes across multiple networks, through Routers. To function, devices co ordinate traffic using a ASN (Autonomous System Number).  

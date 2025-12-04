@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/virtual-private-network/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Virtual Private Network.md","permalink":"/slipbox-notes/virtual-private-network/","tags":["notes"],"created":"2024-05-06","updated":"2025-11-28"}
 ---
 
 

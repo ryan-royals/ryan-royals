@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/taking-smart-notes-in-obsidian/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Taking Smart Notes in Obsidian.md","permalink":"/slipbox-notes/taking-smart-notes-in-obsidian/","tags":["notes"],"created":"2023-03-20","updated":"2025-11-28"}
 ---
 
 

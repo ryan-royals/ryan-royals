@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-machine/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Machine.md","permalink":"/slipbox-notes/azure-virtual-machine/","tags":["notes"],"created":"2023-08-22","updated":"2025-11-27"}
 ---
 
 

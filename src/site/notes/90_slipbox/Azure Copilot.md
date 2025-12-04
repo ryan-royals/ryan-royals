@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-copilot/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Copilot.md","permalink":"/slipbox-notes/azure-copilot/","tags":["notes"],"created":"2023-12-05","updated":"2025-11-28"}
 ---
 
 Azure Copliot is powered by LLM, to send your prompt and context to the LLM and uses data sources such as Microsoft Docs, Azure Resource Manager, Azure Resource Graph to create a Retrieval Augmented Generation response.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-private-dns-zone/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Private DNS Zone.md","permalink":"/slipbox-notes/azure-private-dns-zone/","tags":["notes"],"created":"2023-05-15","updated":"2025-11-27"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/alz-accelerator/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/ALZ Accelerator.md","permalink":"/slipbox-notes/alz-accelerator/","tags":["notes"],"created":"2023-10-27","updated":"2025-11-28"}
 ---
 
 Azure Landing Zones Accelerator is a Powershell Module used to provision the Platform of the [[90_slipbox/Azure Landing Zones\|Azure Landing Zones]], as well as a Github repo & pipeline, and Managed Identities.  

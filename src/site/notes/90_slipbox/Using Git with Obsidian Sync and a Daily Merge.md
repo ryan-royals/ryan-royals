@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/using-git-with-obsidian-sync-and-a-daily-merge/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Using Git with Obsidian Sync and a Daily Merge.md","permalink":"/slipbox-notes/using-git-with-obsidian-sync-and-a-daily-merge/","tags":["notes"],"created":"2023-10-17","updated":"2025-11-28"}
 ---
 
 

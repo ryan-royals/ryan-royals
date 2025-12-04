@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terraform-enterprise/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Enterprise.md","permalink":"/slipbox-notes/terraform-enterprise/","tags":["notes"],"created":"2024-08-30","updated":"2025-11-28"}
 ---
 
 

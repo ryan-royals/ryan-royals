@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-logic-apps/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Logic Apps.md","permalink":"/slipbox-notes/azure-logic-apps/","tags":["notes"],"created":"2023-12-11","updated":"2025-11-28"}
 ---
 
 

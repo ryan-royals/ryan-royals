@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-firewall/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Firewall.md","permalink":"/slipbox-notes/azure-firewall/","tags":["notes"],"created":"2023-07-25","updated":"2025-11-27"}
 ---
 
 

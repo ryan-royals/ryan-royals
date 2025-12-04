@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/kubernetes-vs-container-apps-technical-comparison/","tags":["notes","claude"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Kubernetes vs Container Apps - Technical Comparison.md","permalink":"/slipbox-notes/kubernetes-vs-container-apps-technical-comparison/","tags":["notes","claude"],"created":"2025-01-09","updated":"2025-11-28"}
 ---
 
 

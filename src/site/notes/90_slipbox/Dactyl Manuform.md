@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/dactyl-manuform/","tags":["assets"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Dactyl Manuform.md","permalink":"/slipbox-notes/dactyl-manuform/","tags":["assets"],"created":"2025-01-15","updated":"2025-11-28"}
 ---
 
 

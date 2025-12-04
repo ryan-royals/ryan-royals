@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/use-azure-dns-private-resolver-over-azure-vpn/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Use Azure DNS Private Resolver over Azure VPN.md","permalink":"/slipbox-notes/use-azure-dns-private-resolver-over-azure-vpn/","tags":["notes"],"created":"2023-06-14","updated":"2025-11-28"}
 ---
 
 

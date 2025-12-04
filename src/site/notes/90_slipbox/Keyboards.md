@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/keyboards/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Keyboards.md","permalink":"/slipbox-notes/keyboards/","tags":["notes"],"created":"2025-01-15","updated":"2025-11-28"}
 ---
 
 

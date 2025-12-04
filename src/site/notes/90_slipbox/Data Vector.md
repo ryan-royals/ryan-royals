@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/data-vector/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Data Vector.md","permalink":"/slipbox-notes/data-vector/","tags":["notes"],"created":"2023-12-01","updated":"2025-11-28"}
 ---
 
 

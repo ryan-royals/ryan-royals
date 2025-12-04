@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-functions-apps/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Functions Apps.md","permalink":"/slipbox-notes/azure-functions-apps/","tags":["notes"],"created":"2023-03-08","updated":"2025-11-27"}
 ---
 
 

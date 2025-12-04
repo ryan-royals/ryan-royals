@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-service-endpoint/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Service Endpoint.md","permalink":"/slipbox-notes/azure-service-endpoint/","tags":["notes"],"created":"2023-05-15","updated":"2025-11-27"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-app-configuration/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure App Configuration.md","permalink":"/slipbox-notes/azure-app-configuration/","tags":["notes"],"created":"2024-09-26","updated":"2025-11-27"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/open-api-specification/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/OpenAPI Specification.md","permalink":"/slipbox-notes/open-api-specification/","tags":["notes"],"created":"2023-11-22","updated":"2025-11-28"}
 ---
 
 > The OpenAPI Specification is a specification language for HTTP APIs that provides a standardized means to define your API to others. You can quickly discover how an API works, configure infrastructure, generate client code, and create test cases for your APIs. Read more about how you can get control of your APIs now, understand the full API lifecycle and communicate with developer communities inside and outside your organization.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/enterprise-scale-landing-zone/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Enterprise Scale Landing Zone.md","permalink":"/slipbox-notes/enterprise-scale-landing-zone/","tags":["notes"],"created":"2023-04-20","updated":"2025-11-28"}
 ---
 
 

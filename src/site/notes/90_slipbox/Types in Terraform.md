@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/types-in-terraform/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Types in Terraform.md","permalink":"/slipbox-notes/types-in-terraform/","tags":["notes"],"created":"2024-07-26","updated":"2025-11-28"}
 ---
 
 

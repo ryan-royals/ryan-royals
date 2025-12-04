@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-service-bus/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Service Bus.md","permalink":"/slipbox-notes/azure-service-bus/","tags":["notes"],"created":"2023-04-27","updated":"2025-11-27"}
 ---
 
 

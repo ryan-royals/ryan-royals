@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terraform-cloud-development-kit/","tags":["notes"]}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Cloud Development Kit.md","permalink":"/slipbox-notes/terraform-cloud-development-kit/","tags":["notes"],"created":"2023-06-26","updated":"2025-11-28"}
 ---
 
 
