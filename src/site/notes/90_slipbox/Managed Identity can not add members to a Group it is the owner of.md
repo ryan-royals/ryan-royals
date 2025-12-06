@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Slipbox Notes/Managed Identity can not add members to a Group it is the owner of.md","permalink":"/slipbox-notes/managed-identity-can-not-add-members-to-a-group-it-is-the-owner-of/","tags":["notes"],"created":"2025-12-04","updated":"2025-12-04"}
 ---
 
-When using Terraform's `azuread_group_member` resource to add managed identities to Azure AD groups, you may encounter a 403 Authorization_RequestDenied error even when the principal running Terraform is an owner of the target group.
+When using Terraform's [[90_slipbox/AzureAD Provider\|AzureAD Provider]] `azuread_group_member` resource to add managed identities to Azure AD groups, you may encounter a 403 Authorization_RequestDenied error even when the principal running Terraform is an owner of the target group.
 
 ``` bash
 Error: Retrieving member "<member-id>" for group with object ID: "<group-id>"
