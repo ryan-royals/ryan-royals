@@ -11,3 +11,85 @@ body {
     //   color: black;
     //  }
 }
+
+/* Contact Buttons Styling */
+.contact-buttons {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.contact-button {
+    background-color: var(--background-primary);
+    border: 1px solid var(--text-normal);
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    i {
+        width: 20px;
+        height: 20px;
+        color: var(--text-normal);
+    }
+
+    &:hover {
+        border-color: var(--text-accent);
+        background-color: var(--background-secondary);
+        
+        i {
+            color: var(--text-accent);
+        }
+    }
+}
+
+/* Navbar Right Section */
+.navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Filetree Top Buttons Container */
+.filetree-top-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin: 15px 0;
+}
+
+/* Filetree Contact Buttons - Top (Desktop) */
+.filetree-contact-buttons-top {
+    display: flex;
+    justify-content: center;
+    
+    @media (max-width: 1400px) {
+        display: none;
+    }
+}
+
+/* Filetree Contact Buttons - Bottom (Mobile) */
+.filetree-contact-buttons-bottom {
+    display: none;
+    justify-content: center;
+    padding: 20px 0;
+    margin-top: auto;
+    border-top: 1px solid var(--text-normal);
+    
+    @media (max-width: 1400px) {
+        display: flex;
+    }
+}
+
+/* Hide contact buttons on mobile navbar, show only in filetree flyout */
+@media (max-width: 1400px) {
+    .navbar .contact-buttons {
+        display: none;
+    }
+}

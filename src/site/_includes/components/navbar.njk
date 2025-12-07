@@ -5,14 +5,20 @@
                 <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
             </a>
         </div>
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
+        <div class="navbar-right">
+            {% include "components/contactButtons.njk" %}
+            {% if settings.dgEnableSearch === true%}
+                {% include "components/searchButton.njk" %}
+            {%endif%}
+        </div>
     </nav>
     {%else%}
     <div class="empty-navbar" >
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
+        <div class="navbar-right">
+            {% include "components/contactButtons.njk" %}
+            {% if settings.dgEnableSearch === true%}
+                {% include "components/searchButton.njk" %}
+            {%endif%}
+        </div>
     </div>
 {%endif%}
