@@ -139,6 +139,7 @@ async function getGraph(data) {
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
       outBound: extractLinks(content),
+      relatedLinks: [],
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
@@ -149,7 +150,10 @@ async function getGraph(data) {
     related
       .filter((val) => typeof val === "string")
       .flatMap((val) => extractLinks(val))
-      .forEach((link) => nodes[v.url].outBound.push(link));
+      .forEach((link) => {
+        nodes[v.url].outBound.push(link);
+        nodes[v.url].relatedLinks.push(link);
+      });
     stemURLs[fpath] = v.url;
     // Also index by just the filename slug for resolving short-form [[Note Name]] links
     const slug = parts[parts.length - 1];
@@ -170,6 +174,16 @@ async function getGraph(data) {
       outBound.add(link);
     });
     node.outBound = Array.from(outBound);
+
+    // Resolve relatedLinks to URLs using the same lookup
+    node.relatedLinks = [
+      ...new Set(
+        node.relatedLinks
+          .map((olink) => (stemURLs[olink] || slugURLs[olink] || olink).split("#")[0])
+          .filter((link) => nodes[link]) // only keep links that resolve to a known node
+      ),
+    ];
+
     node.outBound.forEach((link) => {
       let n = nodes[link];
       if (n) {

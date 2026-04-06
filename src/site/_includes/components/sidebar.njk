@@ -73,6 +73,21 @@
                                     </div>
                               </div>
                         {%endif%}
+                        {%- set currentNode = graph.nodes[page.url] or graph.nodes[graph.homeAlias] -%}
+                        {%- if currentNode and currentNode.relatedLinks and currentNode.relatedLinks.length > 0 -%}
+                              <div class="backlinks">
+                                    <div class="backlink-title">Related Pages</div>
+                                    <div class="backlink-list">
+                                          {%- for relatedUrl in currentNode.relatedLinks -%}
+                                                {%- if graph.nodes[relatedUrl] -%}
+                                                <div class="backlink-card">
+                                                      {%- if not meta.noteIconsSettings.backlinks -%}<i data-lucide="link"></i> {%- endif -%}<a href="{{graph.nodes[relatedUrl].url}}" data-note-icon="{{graph.nodes[relatedUrl].noteIcon}}" class="backlink">{{graph.nodes[relatedUrl].title}}</a>
+                                                </div>
+                                                {%- endif -%}
+                                          {%- endfor -%}
+                                    </div>
+                              </div>
+                        {%- endif -%}
                   {%endif%}
                   {% for imp in dynamics.sidebar.bottom %}
                         {% include imp %}
