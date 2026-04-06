@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Network Watcher.md","permalink":"/slipbox-notes/azure-network-watcher/","tags":["notes"],"created":"2024-10-21","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-10-21","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-network-watcher/","tags":["notes"],"created":"2024-10-21","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-10-21","modified":"2026-03-03"}}
 ---
 
 

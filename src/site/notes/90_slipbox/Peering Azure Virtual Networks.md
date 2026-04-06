@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Peering Azure Virtual Networks.md","permalink":"/slipbox-notes/peering-azure-virtual-networks/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-09-04","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/peering-azure-virtual-networks/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-09-04","modified":"2026-03-03"}}
 ---
 
 

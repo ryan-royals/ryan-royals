@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network Gateway.md","permalink":"/slipbox-notes/azure-virtual-network-gateway/","tags":["notes"],"created":"2023-08-11","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[90_slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]]","[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways"],"created":"2023-08-11","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network-gateway/","tags":["notes"],"created":"2023-08-11","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[90_slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]]","[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways"],"created":"2023-08-11","modified":"2026-03-03"}}
 ---
 
 
@@ -83,7 +83,7 @@ All the *VPN* SKUs can be actively resized at anytime, but the *Basic* SKU is a 
 ### Local Network Gateway
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/slipbox-notes/azure-local-network-gateway/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/90-slipbox/azure-local-network-gateway/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -100,7 +100,7 @@ The Address Space declared can be one or more [[90_slipbox/Network Addressing#Wh
 ### Connection
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/slipbox-notes/azure-connection/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/90-slipbox/azure-connection/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

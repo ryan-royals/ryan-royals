@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Zone Redundancy in Azure.md","permalink":"/slipbox-notes/zone-redundancy-in-azure/","tags":["notes"],"created":"2024-07-29","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-29","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/zone-redundancy-in-azure/","tags":["notes"],"created":"2024-07-29","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-29","modified":"2026-03-03"}}
 ---
 
 

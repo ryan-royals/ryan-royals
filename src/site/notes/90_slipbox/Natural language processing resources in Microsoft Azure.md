@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Natural language processing resources in Microsoft Azure.md","permalink":"/slipbox-notes/natural-language-processing-resources-in-microsoft-azure/","tags":["notes"],"created":"2023-05-26","updated":"2026-03-03","dg-note-properties":{"aliases":null,"created":"2023-05-26","modified":"2026-03-03","tags":"notes","references":null,"related":["[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/natural-language-processing-resources-in-microsoft-azure/","tags":["notes"],"created":"2023-05-26","updated":"2026-03-03","dg-note-properties":{"aliases":null,"created":"2023-05-26","modified":"2026-03-03","tags":"notes","references":null,"related":["[[Azure]]"]}}
 ---
 
 

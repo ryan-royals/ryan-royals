@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/How I take Notes.md","permalink":"/blog-posts/how-i-take-notes/","tags":["blogs"],"created":"2025-06-11","updated":"2026-03-03","dg-note-properties":{"created":"2025-06-11","tags":"blogs","modified":"2026-03-03","related":null}}
+{"dg-publish":true,"permalink":"/80-blog/how-i-take-notes/","tags":["blogs"],"created":"2025-06-11","updated":"2026-03-03","dg-note-properties":{"created":"2025-06-11","tags":"blogs","modified":"2026-03-03","related":null}}
 ---
 
 

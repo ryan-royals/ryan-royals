@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Firewall.md","permalink":"/slipbox-notes/azure-firewall/","tags":["notes"],"created":"2023-07-25","updated":"2026-03-03","dg-note-properties":{"aliases":"AZFW","created":"2023-07-25","modified":"2026-03-03","related":["[[Azure]]"],"tags":"notes","references":[]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-firewall/","tags":["notes"],"created":"2023-07-25","updated":"2026-03-03","dg-note-properties":{"aliases":"AZFW","created":"2023-07-25","modified":"2026-03-03","related":["[[Azure]]"],"tags":"notes","references":[]}}
 ---
 
 

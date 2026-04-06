@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Subnet.md","permalink":"/slipbox-notes/azure-subnet/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"created":"2023-09-04","modified":"2026-03-03","related":["[[Azure Virtual Network]]","[[Network Addressing]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-subnet/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"created":"2023-09-04","modified":"2026-03-03","related":["[[Azure Virtual Network]]","[[Network Addressing]]"],"tags":"notes"}}
 ---
 
 

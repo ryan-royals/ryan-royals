@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Squid Proxy.md","permalink":"/slipbox-notes/squid-proxy/","tags":["notes"],"created":"2025-02-07","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2025-02-07","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/squid-proxy/","tags":["notes"],"created":"2025-02-07","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2025-02-07","modified":"2026-03-03"}}
 ---
 
 

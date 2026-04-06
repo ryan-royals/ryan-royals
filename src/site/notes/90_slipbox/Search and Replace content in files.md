@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Search and Replace content in files.md","permalink":"/slipbox-notes/search-and-replace-content-in-files/","tags":["how-tos"],"created":"2026-02-24","updated":"2026-03-03","dg-note-properties":{"tags":"how-tos","related":["[[RipGrep]]","[[sed]]","[[Shell|Bash]]","[[xargs]]"],"created":"2026-02-24","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/search-and-replace-content-in-files/","tags":["how-tos"],"created":"2026-02-24","updated":"2026-03-03","dg-note-properties":{"tags":"how-tos","related":["[[RipGrep]]","[[sed]]","[[Shell|Bash]]","[[xargs]]"],"created":"2026-02-24","modified":"2026-03-03"}}
 ---
 
 

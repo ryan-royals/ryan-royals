@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Enterprise Scale Landing Zone.md","permalink":"/slipbox-notes/enterprise-scale-landing-zone/","tags":["notes"],"created":"2023-04-20","updated":"2026-03-03","dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","references":["https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/README.md"],"related":["[[Azure Cloud Adoption Framework]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/enterprise-scale-landing-zone/","tags":["notes"],"created":"2023-04-20","updated":"2026-03-03","dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","references":["https://github.com/Azure/Enterprise-Scale/blob/main/docs/reference/adventureworks/README.md"],"related":["[[Azure Cloud Adoption Framework]]"]}}
 ---
 
 

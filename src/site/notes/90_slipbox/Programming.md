@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Programming.md","permalink":"/slipbox-notes/programming/","tags":["mocs"],"created":"2025-12-08","updated":"2026-03-03","dg-note-properties":{"created":"2025-12-08","references":null,"tags":"mocs","related":null,"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/programming/","tags":["mocs"],"created":"2025-12-08","updated":"2026-03-03","dg-note-properties":{"created":"2025-12-08","references":null,"tags":"mocs","related":null,"modified":"2026-03-03"}}
 ---
 
 

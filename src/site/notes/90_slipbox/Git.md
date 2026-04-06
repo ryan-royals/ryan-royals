@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Git.md","permalink":"/slipbox-notes/git/","tags":["notes"],"created":"2023-06-05","updated":"2026-03-05","dg-note-properties":{"created":"2023-06-05","modified":"2026-03-05","tags":"notes","related":["[[Programming]]"],"aliases":"Git Tips"}}
+{"dg-publish":true,"permalink":"/90-slipbox/git/","tags":["notes"],"created":"2023-06-05","updated":"2026-03-05","dg-note-properties":{"created":"2023-06-05","modified":"2026-03-05","tags":"notes","related":["[[Programming]]"],"aliases":"Git Tips"}}
 ---
 
 

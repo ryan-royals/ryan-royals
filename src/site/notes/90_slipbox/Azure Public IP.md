@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Public IP.md","permalink":"/slipbox-notes/azure-public-ip/","tags":["notes"],"created":"2024-05-02","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure Public IP Address Prefix]]","[[Azure]]"],"references":["https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/3-configure-public-ip-services"],"created":"2024-05-02","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-public-ip/","tags":["notes"],"created":"2024-05-02","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure Public IP Address Prefix]]","[[Azure]]"],"references":["https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/3-configure-public-ip-services"],"created":"2024-05-02","modified":"2026-03-03"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Proximity Placement Group.md","permalink":"/slipbox-notes/azure-proximity-placement-group/","tags":["notes"],"created":"2023-08-22","updated":"2026-03-03","dg-note-properties":{"created":"2023-08-22","modified":"2026-03-03","tags":"notes","references":null,"related":["[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-proximity-placement-group/","tags":["notes"],"created":"2023-08-22","updated":"2026-03-03","dg-note-properties":{"created":"2023-08-22","modified":"2026-03-03","tags":"notes","references":null,"related":["[[Azure]]"]}}
 ---
 
 

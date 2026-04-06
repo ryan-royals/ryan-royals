@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Nx.md","permalink":"/slipbox-notes/nx/","tags":["notes"],"created":"2025-10-15","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Programming]]"],"created":"2025-10-15","modified":"2026-03-03","aliases":"NX Tips"}}
+{"dg-publish":true,"permalink":"/90-slipbox/nx/","tags":["notes"],"created":"2025-10-15","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Programming]]"],"created":"2025-10-15","modified":"2026-03-03","aliases":"NX Tips"}}
 ---
 
 

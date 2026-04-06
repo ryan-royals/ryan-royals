@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Use Azure DNS Private Resolver over Azure VPN.md","permalink":"/slipbox-notes/use-azure-dns-private-resolver-over-azure-vpn/","tags":["notes"],"created":"2023-06-14","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure DNS Private Resolver]]","[[Azure Private DNS Zone]]","[[Azure Virtual Network Gateway]]"],"references":null}}
+{"dg-publish":true,"permalink":"/90-slipbox/use-azure-dns-private-resolver-over-azure-vpn/","tags":["notes"],"created":"2023-06-14","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure DNS Private Resolver]]","[[Azure Private DNS Zone]]","[[Azure Virtual Network Gateway]]"],"references":null}}
 ---
 
 

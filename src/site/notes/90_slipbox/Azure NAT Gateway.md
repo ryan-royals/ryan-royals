@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure NAT Gateway.md","permalink":"/slipbox-notes/azure-nat-gateway/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-09-04","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-nat-gateway/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-09-04","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview"]}}
 ---
 
 

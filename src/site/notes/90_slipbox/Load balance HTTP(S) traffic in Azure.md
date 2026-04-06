@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Load balance HTTP(S) traffic in Azure.md","permalink":"/slipbox-notes/load-balance-http-s-traffic-in-azure/","tags":["notes"],"created":"2024-09-24","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"created":"2024-09-24","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/load-balance-http-s-traffic-in-azure/","tags":["notes"],"created":"2024-09-24","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"created":"2024-09-24","modified":"2026-03-03"}}
 ---
 
 

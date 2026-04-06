@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Functions Apps.md","permalink":"/slipbox-notes/azure-functions-apps/","tags":["notes"],"created":"2023-03-08","updated":"2026-03-03","dg-note-properties":{"created":"2023-03-08","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-functions-apps/","tags":["notes"],"created":"2023-03-08","updated":"2026-03-03","dg-note-properties":{"created":"2023-03-08","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
 ---
 
 

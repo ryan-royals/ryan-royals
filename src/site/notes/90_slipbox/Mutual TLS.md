@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Mutual TLS.md","permalink":"/slipbox-notes/mutual-tls/","tags":["notes"],"created":"2025-03-06","updated":"2026-03-26","dg-note-properties":{"tags":"notes","related":["[[TLS]]"],"created":"2025-03-06","aliases":"mTLS","modified":"2026-03-26","pageId":"1540325390","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1540325390/Mutual+TLS"}}
+{"dg-publish":true,"permalink":"/90-slipbox/mutual-tls/","tags":["notes"],"created":"2025-03-06","updated":"2026-03-26","dg-note-properties":{"tags":"notes","related":["[[TLS]]"],"created":"2025-03-06","aliases":"mTLS","modified":"2026-03-26","pageId":"1540325390","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1540325390/Mutual+TLS"}}
 ---
 
 

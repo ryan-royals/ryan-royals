@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/The PARA Method.md","permalink":"/slipbox-notes/the-para-method/","tags":["notes"],"created":"2023-08-30","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"created":"2023-08-30","modified":"2026-03-03","references":[]}}
+{"dg-publish":true,"permalink":"/90-slipbox/the-para-method/","tags":["notes"],"created":"2023-08-30","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"created":"2023-08-30","modified":"2026-03-03","references":[]}}
 ---
 
 

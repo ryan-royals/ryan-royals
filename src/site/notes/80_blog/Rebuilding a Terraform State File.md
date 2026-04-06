@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/Rebuilding a Terraform State File.md","permalink":"/blog-posts/rebuilding-a-terraform-state-file/","tags":["blogs"],"created":"2025-07-16","updated":"2026-03-29","dg-note-properties":{"tags":"blogs","related":["[[Brownes State file rebuild workbook]]"],"created":"2025-07-16","pageId":1175453712,"spaceId":517439712,"confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/CWPHA/pages/1175453712/Arkahna+Blog+-+Rebuilding+a+Terraform+State+File","modified":"2026-03-29"}}
+{"dg-publish":true,"permalink":"/80-blog/rebuilding-a-terraform-state-file/","tags":["blogs"],"created":"2025-07-16","updated":"2026-03-29","dg-note-properties":{"tags":"blogs","related":["[[Brownes State file rebuild workbook]]"],"created":"2025-07-16","pageId":1175453712,"spaceId":517439712,"confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/CWPHA/pages/1175453712/Arkahna+Blog+-+Rebuilding+a+Terraform+State+File","modified":"2026-03-29"}}
 ---
 
 

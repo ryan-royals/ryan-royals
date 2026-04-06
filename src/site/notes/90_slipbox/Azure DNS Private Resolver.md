@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure DNS Private Resolver.md","permalink":"/slipbox-notes/azure-dns-private-resolver/","tags":["notes"],"created":"2023-06-14","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-dns-private-resolver/","tags":["notes"],"created":"2023-06-14","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview"]}}
 ---
 
 
@@ -14,7 +14,7 @@ Azure Private DNS Resolver is used to act as a Conditional Forwarder for DNS tra
 ## Use Azure DNS Private Resolver over Azure VPN
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/slipbox-notes/use-azure-dns-private-resolver-over-azure-vpn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/90-slipbox/use-azure-dns-private-resolver-over-azure-vpn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

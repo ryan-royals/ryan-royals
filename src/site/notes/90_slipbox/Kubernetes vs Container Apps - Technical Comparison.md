@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Kubernetes vs Container Apps - Technical Comparison.md","permalink":"/slipbox-notes/kubernetes-vs-container-apps-technical-comparison/","tags":["notes"],"created":"2025-01-09","updated":"2026-03-12","dg-note-properties":{"tags":"notes","created":"2025-01-09","related":["[[Azure Container Apps]]","[[Azure Kubernetes Service]]","[[Kubernetes]]"],"pageId":"1308491777","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1308491777/Kubernetes+vs+Container+Apps+-+Technical+Comparison","modified":"2026-03-12"}}
+{"dg-publish":true,"permalink":"/90-slipbox/kubernetes-vs-container-apps-technical-comparison/","tags":["notes"],"created":"2025-01-09","updated":"2026-03-12","dg-note-properties":{"tags":"notes","created":"2025-01-09","related":["[[Azure Container Apps]]","[[Azure Kubernetes Service]]","[[Kubernetes]]"],"pageId":"1308491777","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1308491777/Kubernetes+vs+Container+Apps+-+Technical+Comparison","modified":"2026-03-12"}}
 ---
 
 

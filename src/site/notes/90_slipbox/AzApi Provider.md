@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/AzApi Provider.md","permalink":"/slipbox-notes/az-api-provider/","tags":["notes"],"created":"2023-08-29","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]","[[90_slipbox/Terraform\|Terraform]]"],"created":"2023-08-29","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/az-api-provider/","tags":["notes"],"created":"2023-08-29","updated":"2026-04-06","dg-note-properties":{"tags":"notes","related":["[[Azure]]","[[90_slipbox/Terraform\|Terraform]]"],"created":"2023-08-29","modified":"2026-04-06"}}
 ---
 
 

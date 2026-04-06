@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Transitive Routing.md","permalink":"/slipbox-notes/transitive-routing/","tags":["notes"],"created":"2024-05-02","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]","[[Network Routing]]"],"references":[],"created":"2024-05-02","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/transitive-routing/","tags":["notes"],"created":"2024-05-02","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]","[[Network Routing]]"],"references":[],"created":"2024-05-02","modified":"2026-03-03"}}
 ---
 
 

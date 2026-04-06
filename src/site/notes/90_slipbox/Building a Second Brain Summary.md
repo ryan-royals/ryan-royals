@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Building a Second Brain Summary.md","permalink":"/slipbox-notes/building-a-second-brain-summary/","tags":["notes"],"created":"2023-09-14","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"created":"2023-09-14","modified":"2026-03-03","references":["[[Building a Second Brain]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/building-a-second-brain-summary/","tags":["notes"],"created":"2023-09-14","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"created":"2023-09-14","modified":"2026-03-03","references":["[[Building a Second Brain]]"]}}
 ---
 
 

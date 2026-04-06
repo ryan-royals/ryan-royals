@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure ExpressRoute.md","permalink":"/slipbox-notes/azure-express-route/","tags":["notes"],"created":"2024-05-15","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-05-15","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-express-route/","tags":["notes"],"created":"2024-05-15","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-05-15","modified":"2026-03-03"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Use Git to Check out Files from Another Branch.md","permalink":"/slipbox-notes/use-git-to-check-out-files-from-another-branch/","tags":["how-tos"],"created":"2026-03-05","updated":"2026-03-05","dg-note-properties":{"tags":"how-tos","related":["[[Git]]"],"created":"2026-03-05","modified":"2026-03-05"}}
+{"dg-publish":true,"permalink":"/90-slipbox/use-git-to-check-out-files-from-another-branch/","tags":["how-tos"],"created":"2026-03-05","updated":"2026-03-05","dg-note-properties":{"tags":"how-tos","related":["[[Git]]"],"created":"2026-03-05","modified":"2026-03-05"}}
 ---
 
 

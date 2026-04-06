@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Kubernetes.md","permalink":"/slipbox-notes/kubernetes/","tags":["notes"],"created":"2024-09-06","updated":"2026-03-12","dg-note-properties":{"tags":"notes","orgs":null,"related":null,"created":"2024-09-06","modified":"2026-03-12"}}
+{"dg-publish":true,"permalink":"/90-slipbox/kubernetes/","tags":["notes"],"created":"2024-09-06","updated":"2026-03-12","dg-note-properties":{"tags":"notes","orgs":null,"related":null,"created":"2024-09-06","modified":"2026-03-12"}}
 ---
 
 

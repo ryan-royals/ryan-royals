@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Multi line copy from a file.md","permalink":"/slipbox-notes/multi-line-copy-from-a-file/","tags":["how-tos"],"created":"2026-03-11","updated":"2026-03-11","dg-note-properties":{"tags":"how-tos","related":["[[RipGrep]]","[[Shell|Bash]]"],"created":"2026-03-11","modified":"2026-03-11"}}
+{"dg-publish":true,"permalink":"/90-slipbox/multi-line-copy-from-a-file/","tags":["how-tos"],"created":"2026-03-11","updated":"2026-03-11","dg-note-properties":{"tags":"how-tos","related":["[[RipGrep]]","[[Shell|Bash]]"],"created":"2026-03-11","modified":"2026-03-11"}}
 ---
 
 

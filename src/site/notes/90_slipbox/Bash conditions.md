@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Bash conditions.md","permalink":"/slipbox-notes/bash-conditions/","tags":["how-tos"],"created":"2026-03-06","updated":"2026-03-12","dg-note-properties":{"tags":"how-tos","related":["[[Shell|Bash]]"],"references":["https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs"],"created":"2026-03-06","modified":"2026-03-12"}}
+{"dg-publish":true,"permalink":"/90-slipbox/bash-conditions/","tags":["how-tos"],"created":"2026-03-06","updated":"2026-03-12","dg-note-properties":{"tags":"how-tos","related":["[[Shell|Bash]]"],"references":["https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs"],"created":"2026-03-06","modified":"2026-03-12"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Note Taking tips.md","permalink":"/slipbox-notes/note-taking-tips/","tags":["notes"],"created":"2023-09-06","updated":"2026-03-03","dg-note-properties":{"created":"2023-09-06","modified":"2026-03-03","tags":"notes","related":["[[Note Taking and Productivity]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/note-taking-tips/","tags":["notes"],"created":"2023-09-06","updated":"2026-03-03","dg-note-properties":{"created":"2023-09-06","modified":"2026-03-03","tags":"notes","related":["[[Note Taking and Productivity]]"]}}
 ---
 
 

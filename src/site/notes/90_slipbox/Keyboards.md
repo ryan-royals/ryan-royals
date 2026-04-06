@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Keyboards.md","permalink":"/slipbox-notes/keyboards/","tags":["mocs"],"created":"2025-12-08","updated":"2026-03-03","dg-note-properties":{"tags":"mocs","related":["[[Hobbies]]"],"created":"2025-12-08","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/keyboards/","tags":["mocs"],"created":"2025-12-08","updated":"2026-03-03","dg-note-properties":{"tags":"mocs","related":["[[Hobbies]]"],"created":"2025-12-08","modified":"2026-03-03"}}
 ---
 
 
