@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/exam-az-700-designing-and-implementing-microsoft-azure-networking-solutions/","tags":["workbooks"],"created":"2023-08-29","updated":"2026-03-03","dg-note-properties":{"created":"2023-08-29","modified":"2026-03-03","tags":"workbooks","related":["[[Azure]]"],"archived":true}}
+{"dg-publish":true,"permalink":"/90-slipbox/exam-az-700-designing-and-implementing-microsoft-azure-networking-solutions/","tags":["workbooks"],"created":"2026-03-27T09:57:51.537+10:30","updated":"2026-03-27T09:57:51.537+10:30","dg-note-properties":{"created":"2023-08-29","modified":"2026-03-03","tags":"workbooks","related":["[[Azure]]"],"archived":true}}
 ---
 
 

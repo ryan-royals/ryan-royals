@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/microsoft-build-azure-ai-challenge/","tags":["workbooks"],"created":"2023-05-26","updated":"2026-03-03","dg-note-properties":{"created":"2023-05-26","modified":"2026-03-03","tags":"workbooks","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/users/cloudskillschallenge/collections/e6kjawo10x63?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"],"archived":true}}
+{"dg-publish":true,"permalink":"/90-slipbox/microsoft-build-azure-ai-challenge/","tags":["workbooks"],"created":"2026-03-27T09:57:51.528+10:30","updated":"2026-03-27T09:57:51.528+10:30","dg-note-properties":{"created":"2023-05-26","modified":"2026-03-03","tags":"workbooks","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/users/cloudskillschallenge/collections/e6kjawo10x63?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"],"archived":true}}
 ---
 
 

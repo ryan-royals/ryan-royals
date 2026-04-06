@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/ephemeral-in-terraform/","tags":["notes"],"created":"2023-11-18","updated":"2026-03-03","dg-note-properties":{"created":"2023-11-18","tags":"notes","related":["[[Terraform]]"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/ephemeral-in-terraform/","tags":["notes"],"created":"2026-03-27T09:57:51.496+10:30","updated":"2026-03-27T09:57:51.496+10:30","dg-note-properties":{"created":"2023-11-18","tags":"notes","related":["[[Terraform]]"],"modified":"2026-03-03"}}
 ---
 
 

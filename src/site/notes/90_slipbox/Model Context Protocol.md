@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/model-context-protocol/","tags":["notes"],"created":"2025-04-01","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":null,"created":"2025-04-01","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/model-context-protocol/","tags":["notes"],"created":"2026-03-27T09:57:51.496+10:30","updated":"2026-03-27T09:57:51.496+10:30","dg-note-properties":{"tags":"notes","related":null,"created":"2025-04-01","modified":"2026-03-03"}}
 ---
 
 

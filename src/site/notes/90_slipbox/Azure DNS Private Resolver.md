@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-dns-private-resolver/","tags":["notes"],"created":"2023-06-14","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-dns-private-resolver/","tags":["notes"],"created":"2026-03-27T09:57:51.489+10:30","updated":"2026-03-27T09:57:51.489+10:30","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview"]}}
 ---
 
 

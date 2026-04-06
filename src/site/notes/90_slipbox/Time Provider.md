@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/time-provider/","tags":["notes"],"created":"2023-12-08","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["https://registry.terraform.io/providers/hashicorp/time/latest/docs/resources/sleep"],"created":"2023-12-08","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/time-provider/","tags":["notes"],"created":"2026-03-27T09:57:51.497+10:30","updated":"2026-03-27T09:57:51.497+10:30","dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["https://registry.terraform.io/providers/hashicorp/time/latest/docs/resources/sleep"],"created":"2023-12-08","modified":"2026-03-03"}}
 ---
 
 

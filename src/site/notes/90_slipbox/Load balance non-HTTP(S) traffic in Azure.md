@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/load-balance-non-http-s-traffic-in-azure/","tags":["notes"],"created":"2024-07-23","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"created":"2024-07-23","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/load-balance-non-http-s-traffic-in-azure/","tags":["notes"],"created":"2026-03-27T09:57:51.495+10:30","updated":"2026-03-27T09:57:51.496+10:30","dg-note-properties":{"tags":"notes","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"created":"2024-07-23","modified":"2026-03-03"}}
 ---
 
 

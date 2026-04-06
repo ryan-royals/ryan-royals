@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/az-cli/","tags":["notes"],"created":"2023-06-14","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
+{"dg-publish":true,"permalink":"/90-slipbox/az-cli/","tags":["notes"],"created":"2026-03-27T09:57:51.491+10:30","updated":"2026-03-27T09:57:51.492+10:30","dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
 ---
 
 

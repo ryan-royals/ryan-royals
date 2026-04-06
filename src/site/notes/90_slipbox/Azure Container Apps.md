@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-container-apps/","tags":["notes"],"created":"2023-03-31","updated":"2026-03-12","dg-note-properties":{"created":"2023-03-31","modified":"2026-03-12","tags":"notes","related":["[[90_slipbox/Azure Kubernetes Service\|Azure Kubernetes Service]]","[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-container-apps/","tags":["notes"],"created":"2026-03-27T09:57:51.519+10:30","updated":"2026-03-27T09:57:51.519+10:30","dg-note-properties":{"created":"2023-03-31","modified":"2026-03-12","tags":"notes","related":["[[90_slipbox/Azure Kubernetes Service\|Azure Kubernetes Service]]","[[Azure]]"]}}
 ---
 
 

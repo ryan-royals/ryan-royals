@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/working-through-a-git-rebase/","tags":["how-tos"],"created":"2026-03-05","updated":"2026-03-12","dg-note-properties":{"tags":"how-tos","related":["[[Git]]"],"created":"2026-03-05","modified":"2026-03-12"}}
+{"dg-publish":true,"permalink":"/90-slipbox/working-through-a-git-rebase/","tags":["how-tos"],"created":"2026-03-27T09:57:51.396+10:30","updated":"2026-03-27T09:57:51.396+10:30","dg-note-properties":{"tags":"how-tos","related":["[[Git]]"],"created":"2026-03-05","modified":"2026-03-12"}}
 ---
 
 

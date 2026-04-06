@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/computer-vision-services-in-azure/","tags":["notes"],"created":"2023-05-26","updated":"2026-03-03","dg-note-properties":{"aliases":null,"created":"2023-05-26","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/computer-vision-services-in-azure/","tags":["notes"],"created":"2026-03-27T09:57:51.494+10:30","updated":"2026-03-27T09:57:51.494+10:30","dg-note-properties":{"aliases":null,"created":"2023-05-26","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"]}}
 ---
 
 

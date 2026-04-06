@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/gsd-claude-workstyle-thoughts/","tags":["notes"],"created":"2025-08-29","updated":"2026-03-03","dg-note-properties":{"created":"2025-08-29","tags":"notes","related":["[[90_slipbox/Claude|Claude]]"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/gsd-claude-workstyle-thoughts/","tags":["notes"],"created":"2026-03-27T09:57:51.498+10:30","updated":"2026-03-27T09:57:51.498+10:30","dg-note-properties":{"created":"2025-08-29","tags":"notes","related":["[[90_slipbox/Claude|Claude]]"],"modified":"2026-03-03"}}
 ---
 
 

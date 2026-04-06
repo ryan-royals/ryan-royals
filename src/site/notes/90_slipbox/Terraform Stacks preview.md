@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terraform-stacks-preview/","tags":["notes"],"created":"2023-11-29","updated":"2026-03-03","dg-note-properties":{"created":"2023-11-29","tags":"notes","related":["[[Terraform]]"],"references":["https://www.hashicorp.com/blog/terraform-stacks-explained"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform-stacks-preview/","tags":["notes"],"created":"2026-03-27T09:57:51.497+10:30","updated":"2026-03-27T09:57:51.497+10:30","dg-note-properties":{"created":"2023-11-29","tags":"notes","related":["[[Terraform]]"],"references":["https://www.hashicorp.com/blog/terraform-stacks-explained"],"modified":"2026-03-03"}}
 ---
 
 

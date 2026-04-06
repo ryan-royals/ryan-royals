@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-logic-apps/","tags":["notes"],"created":"2023-12-11","updated":"2026-03-03","dg-note-properties":{"created":"2023-12-11","tags":"notes","related":["[[Azure]]"],"references":null,"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-logic-apps/","tags":["notes"],"created":"2026-03-27T09:57:51.494+10:30","updated":"2026-03-27T09:57:51.494+10:30","dg-note-properties":{"created":"2023-12-11","tags":"notes","related":["[[Azure]]"],"references":null,"modified":"2026-03-03"}}
 ---
 
 

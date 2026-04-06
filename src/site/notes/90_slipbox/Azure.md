@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure/","tags":["mocs"],"created":"2023-03-22","updated":"2026-03-03","dg-note-properties":{"created":"2023-03-22","modified":"2026-03-03","tags":"mocs","orgs":["[[Microsoft]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure/","tags":["mocs"],"created":"2026-03-27T09:57:51.512+10:30","updated":"2026-03-27T09:57:51.512+10:30","dg-note-properties":{"created":"2023-03-22","modified":"2026-03-03","tags":"mocs","orgs":["[[Microsoft]]"]}}
 ---
 
 

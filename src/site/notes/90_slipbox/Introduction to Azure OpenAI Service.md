@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/introduction-to-azure-open-ai-service/","tags":["notes"],"created":"2023-05-29","updated":"2026-03-03","dg-note-properties":{"created":"2023-05-29","modified":"2026-03-03","tags":"notes","related":["[[Azure]]","[[Microsoft Build Azure AI Challenge]]"],"references":["https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/introduction-to-azure-open-ai-service/","tags":["notes"],"created":"2026-03-27T09:57:51.503+10:30","updated":"2026-03-27T09:57:51.503+10:30","dg-note-properties":{"created":"2023-05-29","modified":"2026-03-03","tags":"notes","related":["[[Azure]]","[[Microsoft Build Azure AI Challenge]]"],"references":["https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"]}}
 ---
 
 

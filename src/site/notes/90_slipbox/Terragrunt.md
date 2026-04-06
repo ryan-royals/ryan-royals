@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terragrunt/","tags":["notes"],"created":"2023-05-30","updated":"2026-03-03","dg-note-properties":{"created":"2023-05-30","modified":"2026-03-03","tags":"notes","related":["[[Infrastructure as code]]","[[Terraform]]"],"references":["https://terragrunt.gruntwork.io/docs/features/execute-terraform-commands-on-multiple-modules-at-once/#dependencies-between-modules","https://terragrunt.gruntwork.io/docs/features/keep-your-terragrunt-architecture-dry/"],"orgs":["[[Gruntworks]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/terragrunt/","tags":["notes"],"created":"2026-03-27T09:57:51.491+10:30","updated":"2026-03-27T09:57:51.491+10:30","dg-note-properties":{"created":"2023-05-30","modified":"2026-03-03","tags":"notes","related":["[[Infrastructure as code]]","[[Terraform]]"],"references":["https://terragrunt.gruntwork.io/docs/features/execute-terraform-commands-on-multiple-modules-at-once/#dependencies-between-modules","https://terragrunt.gruntwork.io/docs/features/keep-your-terragrunt-architecture-dry/"],"orgs":["[[Gruntworks]]"]}}
 ---
 
 

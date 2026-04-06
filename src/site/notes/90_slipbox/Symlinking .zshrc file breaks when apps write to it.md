@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/symlinking-zshrc-file-breaks-when-apps-write-to-it/","tags":["today-i-learns"],"created":"2026-03-05","updated":"2026-03-12","dg-note-properties":{"created":"2026-03-05","modified":"2026-03-12","tags":"today-i-learns","related":["[[Kachow]]","[[ln]]","[[Shell|Bash]]","[[Shell|Zsh]]","[[Stow]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/symlinking-zshrc-file-breaks-when-apps-write-to-it/","tags":["today-i-learns"],"created":"2026-03-27T09:57:51.396+10:30","updated":"2026-03-27T09:57:51.396+10:30","dg-note-properties":{"created":"2026-03-05","modified":"2026-03-12","tags":"today-i-learns","related":["[[Kachow]]","[[ln]]","[[Shell|Bash]]","[[Shell|Zsh]]","[[Stow]]"]}}
 ---
 
 

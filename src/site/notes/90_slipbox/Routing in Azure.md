@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/routing-in-azure/","tags":["notes"],"created":"2023-08-02","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure Virtual Network]]","[[Azure]]","[[Network Administration]]"],"created":"2023-08-02","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/routing-in-azure/","tags":["notes"],"created":"2026-03-27T09:57:51.487+10:30","updated":"2026-03-27T09:57:51.487+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure Virtual Network]]","[[Azure]]","[[Network Administration]]"],"created":"2023-08-02","modified":"2026-03-03"}}
 ---
 
 
