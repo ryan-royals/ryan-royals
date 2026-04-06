@@ -1,4 +1,4 @@
-const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
+const wikiLinkRegex = /\[\[([^\]]+\|[^\]]+)\]\]/g;
 const simpleLinkRegex = /\[\[([^\]|]+)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 // Match iframe src for canvas embedded files (internal links only, not external URLs)
