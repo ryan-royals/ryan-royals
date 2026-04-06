@@ -105,6 +105,7 @@ async function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
+  let slugURLs = {};
   let homeAlias = "/";
 
   const notes = data.collections.note || [];
@@ -150,6 +151,9 @@ async function getGraph(data) {
       .flatMap((val) => extractLinks(val))
       .forEach((link) => nodes[v.url].outBound.push(link));
     stemURLs[fpath] = v.url;
+    // Also index by just the filename slug for resolving short-form [[Note Name]] links
+    const slug = parts[parts.length - 1];
+    if (slug) slugURLs[slug] = v.url;
     if (
       v.data["dg-home"] ||
       (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
@@ -162,7 +166,7 @@ async function getGraph(data) {
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
-      let link = (stemURLs[olink] || olink).split("#")[0];
+      let link = (stemURLs[olink] || slugURLs[olink] || olink).split("#")[0];
       outBound.add(link);
     });
     node.outBound = Array.from(outBound);
