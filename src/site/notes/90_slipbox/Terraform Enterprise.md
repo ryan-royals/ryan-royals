@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Enterprise.md","permalink":"/slipbox-notes/terraform-enterprise/","tags":["notes"],"created":"2024-08-30","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Enterprise.md","permalink":"/slipbox-notes/terraform-enterprise/","tags":["notes"],"dg-note-properties":{"tags":"notes","orgs":["[[HashiCorp]]"],"related":["[[Infrastructure as code]]","[[Terraform]]"],"created":"2024-08-30","modified":"2026-03-03"}}
 ---
 
 

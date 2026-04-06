@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Load Balancer.md","permalink":"/slipbox-notes/azure-load-balancer/","tags":["notes"],"created":"2024-07-25","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Load Balancer.md","permalink":"/slipbox-notes/azure-load-balancer/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-25","modified":"2026-03-03"}}
 ---
+
 
 **Azure Load Balancer** operates at [[90_slipbox/OSI Networking Model#Layer 4 - Transport\|Layer 4 of the Open Systems Interconnnection (OSI) model]]. It's the single point of contact for clients. Azure Load Balancer distributes inbound flows that arrive at the load balancer's front end to backend pool instances. These flows are according to configured load-balancing rules and health probes. The backend pool instances can be [[90_slipbox/Azure Virtual Machine\|Azure Virtual Machines]] or instances in a [[90_slipbox/Azure Virtual Machine Scale Set\|Azure Virtual Machine Scale Set]].[^1]
 
@@ -81,5 +82,7 @@ When the load-balancing rules are configured to use default port allocation, or 
 ## References
 
 [^1]:[Design and Implement Azure Load Balancer Using the Azure Portal - Training](https://learn.microsoft.com/en-us/training/modules/load-balancing-non-https-traffic-azure/3-design-implement-azure-load-balancer-using-azure-portal)
+
 [^2]: [Azure Load Balancer Components](https://learn.microsoft.com/en-us/azure/load-balancer/components)
+
 [^3]: [Source Network Address Translation (SNAT) for outbound connections - Azure Load Balancer - Micros...](https://learn.microsoft.com/en-gb/azure/load-balancer/load-balancer-outbound-connections)

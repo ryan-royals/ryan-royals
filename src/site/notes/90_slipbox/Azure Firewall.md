@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Firewall.md","permalink":"/slipbox-notes/azure-firewall/","tags":["notes"],"created":"2023-07-25","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Firewall.md","permalink":"/slipbox-notes/azure-firewall/","tags":["notes"],"dg-note-properties":{"aliases":"AZFW","created":"2023-07-25","modified":"2026-03-03","related":["[[Azure]]"],"tags":"notes","references":[]}}
 ---
 
 
@@ -54,4 +54,5 @@ This feature requires **Standard** SKU.
 [^2]
 
 [^1]: [Design and Implement Azure Firewall - Training](https://learn.microsoft.com/en-us/training/modules/design-implement-network-security-monitoring/6-azure-firewall)
+
 [^2]: [New Enhanced DNS Features in Azure Firewall—now Generally Available](https://azure.microsoft.com/en-us/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/)

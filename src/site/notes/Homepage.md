@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["notes","gardenEntry"],"created":"2024-05-03","updated":"2025-11-27"}
+{"dg-publish":true,"permalink":"/homepage/","tags":["notes","gardenEntry"],"dg-note-properties":{"tags":"notes","created":"2024-05-03","modified":"2026-03-03"}}
 ---
 
 
@@ -8,10 +8,10 @@
 Howdy!  
 Welcome to my site, please enjoy your stay.
 
-I'm a Lead (Backend) Engineer, leaning more towards the networking, infrastructure, cloud (Mostly Azure) side of backend, but I have a deep passion for programming and always slipping further into that rabbit hole every day.  
+I'm a Lead (Backend) Engineer, leaning more towards the networking, infrastructure, cloud (Mostly [[90_slipbox/Azure\|Azure]]) side of backend, but I have a deep passion for programming and always slipping further into that rabbit hole every day.  
 I am not the sort of person that clicks in portals, so I'm all [[90_slipbox/Terraform\|Terraform]], all CLI, all automation 24/7.
 
-Beyond professional guff, I love note taking (As seen in [[89_blog/How I take Notes\|How I take Notes]]), trading card games (Flesh and Blood is the king right now), painting minis, playing board games (Dominion is such a comfy place, but I also go deep into Kingdom Death: Monster), exercising (Running, downhill bike riding, moving heavy objects), and overusing brackets (and sometimes I think I'm funny).
+Beyond professional guff, I love note taking (As seen in [[80_blog/How I take Notes\|How I take Notes]]), trading card games (Flesh and Blood is the king right now), Miniature Painting, playing board games (Dominion is such a comfy place, but I also go deep into Kingdom Death Monster), exercising (Running, downhill bike riding, moving heavy objects), and overusing brackets (and sometimes I think I'm funny).
 
 If you found me, it might be at one of the conferences or meetups I have presented at, or even at [DDD Adelaide](https://www.dddadelaide.com) where I am a organiser.
 

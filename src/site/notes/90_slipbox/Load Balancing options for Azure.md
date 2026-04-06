@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Load Balancing options for Azure.md","permalink":"/slipbox-notes/load-balancing-options-for-azure/","tags":["notes"],"created":"2024-07-23","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Load Balancing options for Azure.md","permalink":"/slipbox-notes/load-balancing-options-for-azure/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-23","modified":"2026-03-03"}}
 ---
 
 

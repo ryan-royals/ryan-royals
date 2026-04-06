@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Style Guide.md","permalink":"/slipbox-notes/terraform-style-guide/","tags":["notes"],"created":"2023-11-12","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Style Guide.md","permalink":"/slipbox-notes/terraform-style-guide/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["[[Terraform Tips and Tricks]]"],"created":"2023-11-12","modified":"2026-03-03"}}
 ---
 
 

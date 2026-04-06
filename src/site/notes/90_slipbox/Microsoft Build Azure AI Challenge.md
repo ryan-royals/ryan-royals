@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Microsoft Build Azure AI Challenge.md","permalink":"/slipbox-notes/microsoft-build-azure-ai-challenge/","tags":["projects"],"created":"2023-05-26","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Microsoft Build Azure AI Challenge.md","permalink":"/slipbox-notes/microsoft-build-azure-ai-challenge/","tags":["workbooks"],"dg-note-properties":{"created":"2023-05-26","modified":"2026-03-03","tags":"workbooks","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/users/cloudskillschallenge/collections/e6kjawo10x63?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"],"archived":true}}
 ---
 
 
@@ -293,6 +293,7 @@ Where OpenAI models fit into AI landscape:
 
 
 
+
 Created in partnership with Microsoft and [[90_slipbox/OpenAI\|OpenAI]], a service is supplied to provide 4 key components:
 
 - Pre trained generative AI models
@@ -356,7 +357,7 @@ Generative pre-trained transformer (GPT) models are excellent at understanding a
 
 #### Example
 
-```
+```shell
 Write a recipe based on these ingredients and instructions:
 
 Fruit Pie
@@ -371,7 +372,7 @@ Milk
 
 Here's an example of the OpenAI API generated response:
 
-```
+```shell
 Instructions:
 
 1. Preheat your oven to 350 degrees Fahrenheit.
@@ -396,7 +397,7 @@ Codex is based off of GPT-3
 
 #### Example
 
-```
+```shell
 # Python 3
 def mult_numbers(a, b):
   return a * b
@@ -407,7 +408,7 @@ def
 
 Codex builds out unit tests for our function:
 
-```
+```shell
 # Python 3
 def mult_numbers(a, b):
   return a * b

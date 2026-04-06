@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Rsync.md","permalink":"/slipbox-notes/rsync/","tags":["notes"],"created":"2025-08-12","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Rsync.md","permalink":"/slipbox-notes/rsync/","tags":["notes"],"dg-note-properties":{"created":"2025-08-12","tags":"notes","related":["[[Shell]]","[[Shell|Bash Tips]]"],"aliases":"Rsync Tips","modified":"2026-03-03"}}
 ---
 
 

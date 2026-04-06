@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual WAN.md","permalink":"/slipbox-notes/azure-virtual-wan/","tags":["notes"],"created":"2024-02-08","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual WAN.md","permalink":"/slipbox-notes/azure-virtual-wan/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"references":["[[2024-02-07 Meeting with Matt White]]","https://github.com/Azure/terraform-azurerm-avm-ptn-virtualwan"],"created":"2024-02-08","modified":"2026-03-03"}}
 ---
 
 
@@ -25,7 +25,7 @@ Azure Virtual WAN is a networking service that brings many networking, security,
 ## Virtual Hubs
 
 The Virtual Hub is a Microsoft-managed virtual network. It is a minimum size address space of a /24. As the user, you do not have to provision subnets, as the VWAN creates the appropriate subnets in the virtual hub as it requires for VPN Gateways, Express Routes , VPNS, Firewalls etc. Routing within a virtual hub is managed by [[90_slipbox/Border Gateway Protocol\|Border Gateway Protocol]], but you can also apply your own [[Azure Route Table\|Azure Route Table]] to a Virtual Hub.  
-A Virtual Hub is deployed to a region with its own name, its own Address Space, and a capacity measured in [[#Routing Infrastructure units]].
+A Virtual Hub is deployed to a region with its own name, its own Address Space, and a capacity measured in [[90_slipbox/Azure Virtual WAN#Routing Infrastructure units\|#Routing Infrastructure units]].
 
 ### Routing Infrastructure Units
 

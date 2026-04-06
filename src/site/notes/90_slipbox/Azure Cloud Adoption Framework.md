@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Cloud Adoption Framework.md","permalink":"/slipbox-notes/azure-cloud-adoption-framework/","tags":["notes"],"created":"2023-04-20","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Cloud Adoption Framework.md","permalink":"/slipbox-notes/azure-cloud-adoption-framework/","tags":["notes"],"dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","related":["[[Azure]]","[[Enterprise Scale Landing Zone]]"],"references":[]}}
 ---
 
 
-[[Caf & Devops.pdf]]  
+[Caf & Devops.pdf](/img/user/10_attachments/Caf%20&%20Devops.pdf)  
 Azure Cloud Adoption Framework is a lifecycle management framework that helps accelerate the usage of cloud. It is used to guide all decision making for implementing Azure.
 
 The lifecycle is can be grouped into several topics:

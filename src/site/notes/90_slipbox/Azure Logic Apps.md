@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Logic Apps.md","permalink":"/slipbox-notes/azure-logic-apps/","tags":["notes"],"created":"2023-12-11","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Logic Apps.md","permalink":"/slipbox-notes/azure-logic-apps/","tags":["notes"],"dg-note-properties":{"created":"2023-12-11","tags":"notes","related":["[[Azure]]"],"references":null,"modified":"2026-03-03"}}
 ---
 
 
@@ -8,7 +8,7 @@
 Logic Apps Standard under the hood is just [[90_slipbox/Azure Functions Apps\|Azure Functions Apps]].  
 Files are stored under `/wwwroot` :
 
-```
+```shell
 .
 └── wwwroot/
     ├── example_workflow/

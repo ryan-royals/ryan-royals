@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Routing in Azure.md","permalink":"/slipbox-notes/routing-in-azure/","tags":["notes"],"created":"2023-08-02","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Routing in Azure.md","permalink":"/slipbox-notes/routing-in-azure/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure Virtual Network]]","[[Azure]]","[[Network Administration]]"],"created":"2023-08-02","modified":"2026-03-03"}}
 ---
 
 
@@ -105,4 +105,5 @@ When using a Azure Virtual Network Gateway to advertise routes for on premises, 
 ## References
 
 [^1]: [Azure virtual network traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+
 [^2]: [Azure virtual network traffic routing](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)

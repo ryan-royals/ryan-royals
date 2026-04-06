@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Traffic Manager.md","permalink":"/slipbox-notes/azure-traffic-manager/","tags":["notes"],"created":"2024-07-29","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Traffic Manager.md","permalink":"/slipbox-notes/azure-traffic-manager/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-29","modified":"2026-03-03"}}
 ---
 
 

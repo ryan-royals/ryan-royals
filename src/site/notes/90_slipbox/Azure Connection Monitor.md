@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Connection Monitor.md","permalink":"/slipbox-notes/azure-connection-monitor/","tags":["notes"],"created":"2024-10-21","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Connection Monitor.md","permalink":"/slipbox-notes/azure-connection-monitor/","tags":["notes"],"dg-note-properties":{"created":"2024-10-21","tags":"notes","related":["[[90_slipbox/Azure Network Watcher\|Azure Network Watcher]]"],"modified":"2026-03-03"}}
 ---
 
 
-Connection Monitor provides unified end-to-end connection monitoring in [[90_slipbox/Azure Network Watcher\|Azure Network Watcher]]. The Connection Monitor feature supports hybrid and Azure cloud deployments. Network Watcher provides tools to monitor, diagnose, and view connectivity-related metrics for your Azure deployments.
+Connection Monitor provides unified end-to-end connection monitoring in [[Azure Network Watcher]]. The Connection Monitor feature supports hybrid and Azure cloud deployments. Network Watcher provides tools to monitor, diagnose, and view connectivity-related metrics for your Azure deployments.
 
 ![aefd434494c23d7a51217d35cab6563d_MD5.jpg](/img/user/10_attachments/aefd434494c23d7a51217d35cab6563d_MD5.jpg)
 

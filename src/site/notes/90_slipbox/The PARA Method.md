@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/The PARA Method.md","permalink":"/slipbox-notes/the-para-method/","tags":["notes"],"created":"2023-08-30","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/The PARA Method.md","permalink":"/slipbox-notes/the-para-method/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"created":"2023-08-30","modified":"2026-03-03","references":[]}}
 ---
+
 
 The PARA method is a file organization system , that has a focus on keeping files in relevant folders (or classifications if using links/tags) in a effort to make them as actionable as possible.
 

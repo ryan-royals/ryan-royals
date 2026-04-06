@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure OpenAI Service.md","permalink":"/slipbox-notes/azure-open-ai-service/","tags":["notes"],"created":"2025-01-20","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure OpenAI Service.md","permalink":"/slipbox-notes/azure-open-ai-service/","tags":["notes"],"dg-note-properties":{"aliases":null,"created":"2025-01-20","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/understand-embeddings"]}}
 ---
+
 
 Created in partnership with Microsoft and [[90_slipbox/OpenAI\|OpenAI]], a service is supplied to provide 4 key components:
 

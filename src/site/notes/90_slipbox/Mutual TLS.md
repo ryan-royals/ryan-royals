@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Mutual TLS.md","permalink":"/slipbox-notes/mutual-tls/","tags":["notes"],"created":"2025-03-06","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Mutual TLS.md","permalink":"/slipbox-notes/mutual-tls/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[TLS]]"],"created":"2025-03-06","aliases":"mTLS","modified":"2026-03-26","pageId":"1540325390","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1540325390/Mutual+TLS"}}
 ---
 
 
@@ -14,7 +14,7 @@ In mTLS, however, both the client and server have a certificate, and both sides 
 5. **Server verifies the client's certificate**
 6. **Server grants access**
 7. Client and server exchange information over encrypted TLS connection  
-![how_mtls_works-what_is_mutual_tls.png|The basic steps in a mutual TLS (mTLS) handshake](/img/user/10_attachments/how_mtls_works-what_is_mutual_tls.png)  
+![how_mtls_works-what_is_mutual_tls.png\|The basic steps in a mutual TLS (mTLS) handshake](/img/user/10_attachments/how_mtls_works-what_is_mutual_tls.png)  
 [^1]
 
 ## Certificate Authorities in mTLS

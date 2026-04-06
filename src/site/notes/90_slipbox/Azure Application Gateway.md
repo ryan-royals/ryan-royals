@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Gateway.md","permalink":"/slipbox-notes/azure-application-gateway/","tags":["notes"],"created":"2023-05-30","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Gateway.md","permalink":"/slipbox-notes/azure-application-gateway/","tags":["notes"],"dg-note-properties":{"created":"2023-05-30","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/application-gateway/overview"],"tags":"notes","related":["[[Azure]]"]}}
 ---
+
 
 Azure Application Gateway is a [[90_slipbox/OSI Networking Model#Layer 7 - Application\|Layer 7]] web traffic load balancer used to balance and separate traffic to route to its most ideal destination.  
 Application Gateways are tied to a region, which is a key difference to [[90_slipbox/Azure Front Door\|Azure Front Door]].  
@@ -178,5 +179,7 @@ A notable change from V1 to V2 is that V1 does not support URL rewrites with rew
 - Certificate can not be Managed by App Service, it has to be supplied from a Key Vault.
 
 [^1]: [Design Azure Application Gateway - Training](https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/2-design-azure-application-gateway)
+
 [^2]: [Configure Azure Application Gateway - Training](https://learn.microsoft.com/en-us/training/modules/load-balancing-https-traffic-azure/3-configure-azure-application-gateway)
+
 [^3]: [Rewrite URL and query string with Azure Application Gateway - Azure portal - Microsoft Learn](https://learn.microsoft.com/en-gb/azure/application-gateway/rewrite-url-portal)

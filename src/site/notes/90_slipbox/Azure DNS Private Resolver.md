@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure DNS Private Resolver.md","permalink":"/slipbox-notes/azure-dns-private-resolver/","tags":["notes"],"created":"2023-06-14","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure DNS Private Resolver.md","permalink":"/slipbox-notes/azure-dns-private-resolver/","tags":["notes"],"dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-overview"]}}
 ---
+
 
 Azure DNS Private Resolver is used to communicate with [[90_slipbox/Azure Private DNS Zone\|Azure Private DNS Zone]] and the [[90_slipbox/Azure Magic IP\|Azure Magic IP]] without managing a virtual machine on the network.
 

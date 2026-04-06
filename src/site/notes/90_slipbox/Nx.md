@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Nx.md","permalink":"/slipbox-notes/nx/","tags":["notes"],"created":"2025-10-15","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Nx.md","permalink":"/slipbox-notes/nx/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Programming]]"],"created":"2025-10-15","modified":"2026-03-03","aliases":"NX Tips"}}
 ---
 
 
@@ -49,7 +49,7 @@ nx g @nx/react:component --help
 # Show all Projects
 nx show projects
 
-# Show all targets for a specific project 
+# Show Project Tasks and Graph (Opens in browser)
 nx show project <project-name> 
 # See the project graph visually (opens in browser) 
 nx graph 
@@ -57,4 +57,10 @@ nx graph
 nx show projects --with-target build 
 nx show projects --with-target test
 nx show projects --with-target apply
+```
+
+### Show Affected
+
+```shell
+nx show projects --affected
 ```

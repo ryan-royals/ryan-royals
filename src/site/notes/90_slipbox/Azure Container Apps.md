@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Container Apps.md","permalink":"/slipbox-notes/azure-container-apps/","tags":["notes","claude"],"created":"2023-03-31","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Container Apps.md","permalink":"/slipbox-notes/azure-container-apps/","tags":["notes"],"dg-note-properties":{"created":"2023-03-31","modified":"2026-03-12","tags":"notes","related":["[[90_slipbox/Azure Kubernetes Service\|Azure Kubernetes Service]]","[[Azure]]"]}}
 ---
 
 
 ## Overview
 
-Container Apps are fully managed environment that allows you to run microservices and containers on a serverless platform. Runs on [[90_slipbox/Azure Kubernetes Service\|Azure Kubernetes Service]] in the backend, but does not expose this.
+Container Apps are fully managed environment that allows you to run microservices and containers on a serverless platform. Runs on [[Azure Kubernetes Service]] in the backend, but does not expose this.
 
 Container Apps abstracts away Kubernetes complexity while retaining container benefits. Perfect for teams wanting modern deployment patterns without operational overhead.
 
@@ -169,7 +169,7 @@ scale:
 
 **Example Cost Calculation**:
 
-```
+```shell
 Normal operations: 2 vCPU × 8 hours × $0.000024 = $0.38/day
 Flash traffic: 20 vCPU × 2 hours × $0.000024 = $0.96/event
 Annual: ~$140 + event costs

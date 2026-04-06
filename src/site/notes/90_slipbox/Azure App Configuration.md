@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure App Configuration.md","permalink":"/slipbox-notes/azure-app-configuration/","tags":["notes"],"created":"2024-09-26","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure App Configuration.md","permalink":"/slipbox-notes/azure-app-configuration/","tags":["notes"],"dg-note-properties":{"created":"2024-09-26","tags":"notes","related":["[[Azure]]"],"modified":"2026-03-03"}}
 ---
 
 
@@ -35,4 +35,5 @@ Access to App Configuration is either by Access key or RBAC with the *App Config
 [^2]
 
 [^1]: [Azure App Configuration FAQ](https://learn.microsoft.com/en-us/azure/azure-app-configuration/faq)
+
 [^2]: [App Configuration Pricing](https://azure.microsoft.com/en-us/pricing/details/app-configuration/)

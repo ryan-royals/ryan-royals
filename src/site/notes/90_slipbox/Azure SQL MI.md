@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure SQL MI.md","permalink":"/slipbox-notes/azure-sql-mi/","tags":["notes"],"created":"2023-04-19","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure SQL MI.md","permalink":"/slipbox-notes/azure-sql-mi/","tags":["notes"],"dg-note-properties":{"created":"2023-04-19","modified":"2026-03-03","tags":"notes","related":["[[90_slipbox/Azure\|Azure]]"],"references":null}}
 ---
 
 
@@ -17,6 +17,6 @@ Azure SQL MI is a middle ground [[SQL\|SQL]] deployment that is close to a full 
 
 ---
 
-Links: [[90_slipbox/Azure\|Azure]]  
+Links: [[Azure]]  
 Tags:  
 Reference:

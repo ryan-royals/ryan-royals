@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Kubernetes Service.md","permalink":"/slipbox-notes/azure-kubernetes-service/","tags":["notes","claude"],"created":"2025-08-15","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Kubernetes Service.md","permalink":"/slipbox-notes/azure-kubernetes-service/","tags":["notes"],"dg-note-properties":{"tags":"notes","created":"2025-08-15","related":["[[Azure Container Apps]]","[[Azure]]","[[Kubernetes]]"],"references":null,"modified":"2026-03-12"}}
 ---
 
 
@@ -259,4 +259,5 @@ Microsoft documentation confirms this requirement across multiple articles but d
 Using the `AzNFS` Mount Helper package on Linux machines, it creates a Tunnel to the Azure Files that effectively wraps the HTTP NFS traffic in the HTTPS tunnel, as a workaround for the protocol limitations.[^2]
 
 [^1]: <https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/field-tips-for-aks-storage-provisioning/ba-p/3761105>
+
 [^2]: <https://learn.microsoft.com/en-us/azure/storage/files/encryption-in-transit-for-nfs-shares>

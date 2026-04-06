@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure DevOps Pipeline issue interacting with Azure Storage.md","permalink":"/slipbox-notes/azure-dev-ops-pipeline-issue-interacting-with-azure-storage/","tags":["notes"],"created":"2024-01-18","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure DevOps Pipeline issue interacting with Azure Storage.md","permalink":"/slipbox-notes/azure-dev-ops-pipeline-issue-interacting-with-azure-storage/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure Storage Account]]","[[Terraform]]"],"references":["https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security-limitations#restrictions-for-ip-network-rules"],"created":"2024-01-18","modified":"2026-03-03"}}
 ---
+
 
 There is a known issue with Azure DevOps, that when interacting with Azure Services deployed in the same region as the ADO instance, it uses a private ip to interact, and will not be allowed through Azure Storage Account whitelist.  
 This is problematic with Terraform, as we can not start the pipeline to interact with the state file.  

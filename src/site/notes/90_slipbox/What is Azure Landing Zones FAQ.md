@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/What is Azure Landing Zones FAQ.md","permalink":"/slipbox-notes/what-is-azure-landing-zones-faq/","tags":["notes"],"created":"2025-02-21","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/What is Azure Landing Zones FAQ.md","permalink":"/slipbox-notes/what-is-azure-landing-zones-faq/","tags":["notes"],"dg-note-properties":{"created":"2025-02-21","tags":"notes","related":["[[Azure Landing Zones]]"],"modified":"2026-03-03"}}
 ---
 
 

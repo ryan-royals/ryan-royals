@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Data Vector.md","permalink":"/slipbox-notes/data-vector/","tags":["notes"],"created":"2023-12-01","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Data Vector.md","permalink":"/slipbox-notes/data-vector/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":null,"references":["[[2023-12-1 Overview of Azure Open AI]]"],"created":"2023-12-01","modified":"2026-03-03"}}
 ---
 
 

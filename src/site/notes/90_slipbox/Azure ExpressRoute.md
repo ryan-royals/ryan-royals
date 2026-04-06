@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure ExpressRoute.md","permalink":"/slipbox-notes/azure-express-route/","tags":["notes"],"created":"2024-05-15","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure ExpressRoute.md","permalink":"/slipbox-notes/azure-express-route/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-05-15","modified":"2026-03-03"}}
 ---
 
 
@@ -144,8 +144,13 @@ FastPath is available on all ExpressRoute circuits, and requires a [[90_slipbox/
 > - Private Link: If you connect to a private endpoint in your virtual network from your on-premises network, the connection will go through the virtual network gateway.[^6]
 
 [^1]: [Explore Azure ExpressRoute - Training](https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/2-explore)
+
 [^2]: [FAQ - Azure ExpressRoute](https://learn.microsoft.com/en-us/azure/expressroute/expressroute-faqs#what-is-expressroute-local)
+
 [^3]: [Connect Geographically Dispersed Networks With ExpressRoute Global Reach - Training](https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/8-connect-geographically-dispersed-networks-expressroute-global-reach)
+
 [^4]: [Configure Peering for an ExpressRoute Deployment - Training](https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/6-configure-peering-for-expressroute-deployment)
+
 [^5]: [Connect an ExpressRoute Circuit to a Virtual Network - Training](https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/7-connect-expressroute-circuit-virtual-network)
+
 [^6]: [Improve Data Path Performance Between Networks With ExpressRoute FastPath - Training](https://learn.microsoft.com/en-us/training/modules/design-implement-azure-expressroute/9-improve-data-path-performance-between-networks-expressroute-fastpath)

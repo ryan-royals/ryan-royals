@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Dactyl Manuform.md","permalink":"/slipbox-notes/dactyl-manuform/","tags":["assets"],"created":"2025-01-15","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Dactyl Manuform.md","permalink":"/slipbox-notes/dactyl-manuform/","tags":["assets"],"dg-note-properties":{"tags":"assets","related":["[[Keyboards]]"],"date":"2025-01-15","created":"2025-01-15","modified":"2026-03-03"}}
 ---
 
 

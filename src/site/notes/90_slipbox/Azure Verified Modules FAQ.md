@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Verified Modules FAQ.md","permalink":"/slipbox-notes/azure-verified-modules-faq/","tags":["notes"],"created":"2025-02-21","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Verified Modules FAQ.md","permalink":"/slipbox-notes/azure-verified-modules-faq/","tags":["notes"],"dg-note-properties":{"created":"2025-02-21","tags":"notes","related":["[[Azure Verified Modules|Azure Verified Modules]]"],"modified":"2026-03-03"}}
 ---
 
 

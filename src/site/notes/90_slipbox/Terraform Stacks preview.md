@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Stacks preview.md","permalink":"/slipbox-notes/terraform-stacks-preview/","tags":["notes"],"created":"2023-11-29","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Stacks preview.md","permalink":"/slipbox-notes/terraform-stacks-preview/","tags":["notes"],"dg-note-properties":{"created":"2023-11-29","tags":"notes","related":["[[Terraform]]"],"references":["https://www.hashicorp.com/blog/terraform-stacks-explained"],"modified":"2026-03-03"}}
 ---
+
 
 Terraform Stacks looks to be a answer to [[90_slipbox/Terragrunt\|Terragrunt]], and the ability to turn your one terraform project into bite sized chunks that are easier to maintain from a blast radius perspective.
 

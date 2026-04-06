@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Taking Smart Notes in Obsidian.md","permalink":"/slipbox-notes/taking-smart-notes-in-obsidian/","tags":["notes"],"created":"2023-03-20","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Taking Smart Notes in Obsidian.md","permalink":"/slipbox-notes/taking-smart-notes-in-obsidian/","tags":["notes"],"dg-note-properties":{"aliases":null,"created":"2023-03-20","modified":"2026-03-03","tags":"notes","related":["[[How I take Notes]]","[[Note Taking and Productivity]]"],"references":null}}
 ---
 
 
@@ -39,4 +39,5 @@ Other context is added to the note via linking in line to what matters.
 New notes work best when they link ideas or topics together. If a meeting is related to a specific project, just leave it on the project page.
 
 [^1]: [How to Take Smart Notes in Obsidian](https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian)
+
 [^2]: [How to Make Atomic Literature Notes Using the Zettelkasten Method](https://meda.io/how-to-make-atomic-literature-notes/)

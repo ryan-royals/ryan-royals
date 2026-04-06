@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Introduction to Azure Virtual Networks.md","permalink":"/slipbox-notes/introduction-to-azure-virtual-networks/","tags":["notes"],"created":"2023-09-04","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Introduction to Azure Virtual Networks.md","permalink":"/slipbox-notes/introduction-to-azure-virtual-networks/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]","[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"created":"2023-09-04","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/"]}}
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Data Factory.md","permalink":"/slipbox-notes/azure-data-factory/","tags":["notes"],"created":"2023-05-02","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Data Factory.md","permalink":"/slipbox-notes/azure-data-factory/","tags":["notes"],"dg-note-properties":{"created":"2023-05-02","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
 ---
+
 
 Azure Data Factory is a cloud based Extract-Transform-Load and Extract-Load-Transform tool used to manage data within Azure
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Get started with AI on Azure.md","permalink":"/slipbox-notes/get-started-with-ai-on-azure/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Get started with AI on Azure.md","permalink":"/slipbox-notes/get-started-with-ai-on-azure/","tags":["notes"],"dg-note-properties":{"aliases":null,"created":"2023-05-26","modified":"2026-03-03","tags":"notes"}}
 ---
 
 

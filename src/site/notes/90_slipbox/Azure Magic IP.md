@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Magic IP.md","permalink":"/slipbox-notes/azure-magic-ip/","tags":["notes"],"created":"2023-03-20","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Magic IP.md","permalink":"/slipbox-notes/azure-magic-ip/","tags":["notes"],"dg-note-properties":{"aliases":"168.63.129.16","created":"2023-03-20","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
 ---
 
 

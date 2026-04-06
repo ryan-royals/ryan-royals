@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Infrastructure as code.md","permalink":"/slipbox-notes/infrastructure-as-code/","tags":["notes"],"created":"2023-10-15","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Infrastructure as code.md","permalink":"/slipbox-notes/infrastructure-as-code/","tags":["notes"],"dg-note-properties":{"created":"2023-10-15","tags":"notes","related":null,"references":"https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code","aliases":"IaC","modified":"2025-11-27"}}
 ---
 
 

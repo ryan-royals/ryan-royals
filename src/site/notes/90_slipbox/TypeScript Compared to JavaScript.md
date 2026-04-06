@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/TypeScript Compared to JavaScript.md","permalink":"/slipbox-notes/type-script-compared-to-java-script/","tags":["notes"],"created":"2023-08-22","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/TypeScript Compared to JavaScript.md","permalink":"/slipbox-notes/type-script-compared-to-java-script/","tags":["notes"],"dg-note-properties":{"tags":"notes","references":["https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"],"related":["[[JavaScript\|JavaScript]]"],"created":"2023-08-22","modified":"2026-03-03"}}
 ---
 
 
-Typescript is a ***typed*** *superset* of [[90_slipbox/JavaScript\|JavaScript]] that adds a Static Type Checker functionality that checks for nonsensical operations among other errors.
+Typescript is a ***typed*** *superset* of [[JavaScript]] that adds a Static Type Checker functionality that checks for nonsensical operations among other errors.
 
 ```run-js
 if ("" == 0) {

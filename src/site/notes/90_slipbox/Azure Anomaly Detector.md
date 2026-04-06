@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Anomaly Detector.md","permalink":"/slipbox-notes/azure-anomaly-detector/","tags":["notes"],"created":"2023-05-26","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Anomaly Detector.md","permalink":"/slipbox-notes/azure-anomaly-detector/","tags":["notes"],"dg-note-properties":{"created":"2023-05-26","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"]}}
 ---
 
 

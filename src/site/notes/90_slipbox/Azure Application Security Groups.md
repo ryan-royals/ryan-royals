@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Security Groups.md","permalink":"/slipbox-notes/azure-application-security-groups/","tags":["notes"],"created":"2023-09-06","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Security Groups.md","permalink":"/slipbox-notes/azure-application-security-groups/","tags":["notes"],"dg-note-properties":{"created":"2023-09-06","modified":"2026-03-03","references":[],"related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 

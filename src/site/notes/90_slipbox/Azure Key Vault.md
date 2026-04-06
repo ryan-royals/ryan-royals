@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Key Vault.md","permalink":"/slipbox-notes/azure-key-vault/","tags":["notes"],"created":"2023-07-25","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Key Vault.md","permalink":"/slipbox-notes/azure-key-vault/","tags":["notes"],"dg-note-properties":{"created":"2023-07-25","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
 ---
 
 

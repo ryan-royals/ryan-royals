@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/GSD Claude workstyle thoughts.md","permalink":"/slipbox-notes/gsd-claude-workstyle-thoughts/","tags":["notes"],"created":"2025-08-29","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/GSD Claude workstyle thoughts.md","permalink":"/slipbox-notes/gsd-claude-workstyle-thoughts/","tags":["notes"],"dg-note-properties":{"created":"2025-08-29","tags":"notes","related":["[[90_slipbox/Claude|Claude]]"],"modified":"2026-03-03"}}
 ---
+
 
 - Its like magic getting it to update the page as you are looking at it.
     - Remove this icon, change this font size, etc

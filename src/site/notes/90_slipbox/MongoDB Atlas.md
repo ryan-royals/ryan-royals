@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/MongoDB Atlas.md","permalink":"/slipbox-notes/mongo-db-atlas/","tags":["notes"],"created":"2023-03-24","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/MongoDB Atlas.md","permalink":"/slipbox-notes/mongo-db-atlas/","tags":["notes"],"dg-note-properties":{"created":"2023-03-24","modified":"2026-03-03","tags":"notes","related":null,"references":null}}
 ---
+
 
 MongoDB Atlas is the multi-cloud database service offered by MongoDB that spans across clouds and regions, without being tied into a specific Cloud Provider
 

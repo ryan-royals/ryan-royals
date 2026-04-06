@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Inframap.md","permalink":"/slipbox-notes/inframap/","tags":["notes"],"created":"2023-05-25","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Inframap.md","permalink":"/slipbox-notes/inframap/","tags":["notes"],"dg-note-properties":{"created":"2023-05-25","modified":"2026-03-03","tags":"notes","related":["[[Terraform]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Ephemeral in Terraform.md","permalink":"/slipbox-notes/ephemeral-in-terraform/","tags":["notes"],"created":"2023-11-18","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Ephemeral in Terraform.md","permalink":"/slipbox-notes/ephemeral-in-terraform/","tags":["notes"],"dg-note-properties":{"created":"2023-11-18","tags":"notes","related":["[[Terraform]]"],"modified":"2026-03-03"}}
 ---
 
 

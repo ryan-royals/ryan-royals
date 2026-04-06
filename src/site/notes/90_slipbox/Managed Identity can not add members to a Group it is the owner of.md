@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Managed Identity can not add members to a Group it is the owner of.md","permalink":"/slipbox-notes/managed-identity-can-not-add-members-to-a-group-it-is-the-owner-of/","tags":["notes"],"created":"2025-12-04","updated":"2025-12-04"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Managed Identity can not add members to a Group it is the owner of.md","permalink":"/slipbox-notes/managed-identity-can-not-add-members-to-a-group-it-is-the-owner-of/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure User Assigned Managed Identity\|Azure User Assigned Managed Identity]]","[[90_slipbox/AzureAD Provider\|AzureAD Provider]]","[[Entra ID]]"],"created":"2025-12-04","modified":"2026-03-29"}}
 ---
 
-When using Terraform's [[90_slipbox/AzureAD Provider\|AzureAD Provider]] `azuread_group_member` resource to add managed identities to Azure AD groups, you may encounter a 403 Authorization_RequestDenied error even when the principal running Terraform is an owner of the target group.
+
+When using Terraform's [[AzureAD Provider]] `azuread_group_member` resource to add managed identities to Azure AD groups, you may encounter a 403 Authorization_RequestDenied error even when the principal running Terraform is an owner of the target group.
 
 ``` bash
 Error: Retrieving member "<member-id>" for group with object ID: "<group-id>"
@@ -13,7 +14,7 @@ Authorization_RequestDenied: Insufficient privileges to complete the operation.
 
 ## Why This Happens
 
-The `azuread_group_member` resource calls the Microsoft Graph API to manage group memberships. When adding [[Azure User Assigned Managed Identity\|Azure User Assigned Managed Identity]]'s (or service principals) to groups, the API requires additional permissions beyond group ownership:
+The `azuread_group_member` resource calls the Microsoft Graph API to manage group memberships. When adding [[Azure User Assigned Managed Identity]]'s (or service principals) to groups, the API requires additional permissions beyond group ownership:
 
 - **Group ownership** is sufficient for adding regular users
 - **Adding managed identities/service principals** requires the ability to read Application objects, which needs explicit Graph API permissions

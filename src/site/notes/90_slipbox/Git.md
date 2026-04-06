@@ -1,25 +1,53 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Git.md","permalink":"/slipbox-notes/git/","tags":["notes"],"created":"2023-06-05","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Git.md","permalink":"/slipbox-notes/git/","tags":["notes"],"dg-note-properties":{"created":"2023-06-05","modified":"2026-03-05","tags":"notes","related":["[[Programming]]"],"aliases":"Git Tips"}}
 ---
 
-
-Its Git!
 
 ## Handy Tools
 
 [Oh Shit, Git!?! (ohshitgit.com)](https://ohshitgit.com/) - Get out of the shit quick tips!
 
-## Neato Tricks
 
-- Use `.git/info/exclude` as a local `.gitignore` that does not update the gitignore.
+```base
+filters:
+  and:
+    - file.hasLink(this)
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: file.tags
+      direction: DESC
+    order:
+      - file.name
+      - tags
+      - related
+    sort:
+      - property: tags
+        direction: ASC
+  - type: table
+    name: Meetings
+    filters:
+      and:
+        - file.tags.contains("meetings")
+    groupBy:
+      property: file.tags
+      direction: DESC
+    order:
+      - file.name
+      - people
+      - orgs
+      - related
+    columnSize:
+      note.tags: 126
+  - type: table
+    name: Workbooks
+    filters:
+      and:
+        - file.tags.contains("workbooks")
+    order:
+      - file.name
+      - archived
 
-## Prune and Remove 'Gone' Using Git
-
-```powershell
-git fetch -p
-git branch --v | ? { $_ -match "\[gone\]" } | % { -split $_ | select -First 1 } | % { git branch -D $_ }
 ```
 
-```Bash
-git fetch -p && git branch -vv | awk '/: gone]/{print $1}' | xargs git branch -d
-```

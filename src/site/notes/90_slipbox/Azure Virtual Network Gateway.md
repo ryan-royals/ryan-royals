@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network Gateway.md","permalink":"/slipbox-notes/azure-virtual-network-gateway/","tags":["notes"],"created":"2023-08-11","updated":"2025-11-27"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network Gateway.md","permalink":"/slipbox-notes/azure-virtual-network-gateway/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[90_slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]]","[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways"],"created":"2023-08-11","modified":"2026-03-03"}}
 ---
+
 
 Azure Virtual Network Gateway is the parent resource that can be configured to become a **ExpressRoute Gateway**, or **VPN Gateway**.
 
 Both types of gateways require that a specific [[90_slipbox/Azure Subnet\|Azure Subnet]] must be deployed to the [[90_slipbox/Azure Virtual Network\|Azure Virtual Network]], with the **Exact Name** of `GatewaySubnet`.  
 This subnet can be as small as /29, but it is recommended to be a /27 or larger to account for more ExpressRoute / VPN Connections.
 
-When configuring a connection, a [[#Local Network Gateway]] and a [[#Connection]] are configured to represent a on-premises location.
+When configuring a connection, a [[90_slipbox/Azure Virtual Network Gateway#Local Network Gateway\|#Local Network Gateway]] and a [[90_slipbox/Azure Virtual Network Gateway#Connection\|#Connection]] are configured to represent a on-premises location.
 
 ## VPN Gateway
 
@@ -87,6 +88,7 @@ All the *VPN* SKUs can be actively resized at anytime, but the *Basic* SKU is a 
 
 
 
+
 A Local Network Gateway is a sub resource of a [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]], that represents a on-premises location for the used in tandem with a [[90_slipbox/Azure Connection\|Azure Connection]] resource in the creation of a [[90_slipbox/Virtual Private Network\|Virtual Private Network]] or [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] Connection.
 
 The Address Space declared can be one or more [[90_slipbox/Network Addressing#What is CIDR Notation\|CIDR]] formatted subnets. If you plan to use this Local Network Gateway in a BGP-enabled connection, the minimum prefix to declare is the host address of your BP Peer IP address on your BPN device.
@@ -104,7 +106,7 @@ The Address Space declared can be one or more [[90_slipbox/Network Addressing#Wh
 
 
 
-A Azure Connection is a sub resource of a [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] that represents the association of a [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] and a [[90_slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]].  
+A Azure Connection is a sub resource of a [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] that represents the association of a [[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]] and a [[Azure Local Network Gateway]].  
 This resource holds the configuration information for the connection, including Pre Shared Key and Public IP of the On-premises router.
 
 Azure have a validated list of standard VPN devices from device manufacturers including Cisco, Juniper, Ubiquiti, and Barracuda Networks.
@@ -117,9 +119,9 @@ Azure have a validated list of standard VPN devices from device manufacturers in
 
 To provide better availability for your VPN connections, there are a few options available:
 
-- [[#VPN Gateway Redundancy]]
-- [[#Multiple on-premises VPN devices]]
-- [[#Active-active Azure VPN gateway]]
+- [[90_slipbox/Azure Virtual Network Gateway#VPN Gateway Redundancy\|#VPN Gateway Redundancy]]
+- [[90_slipbox/Azure Virtual Network Gateway#Multiple on-premises VPN devices\|#Multiple on-premises VPN devices]]
+- [[90_slipbox/Azure Virtual Network Gateway#Active-active Azure VPN gateway\|#Active-active Azure VPN gateway]]
 - Combination of both
 
 #### VPN Gateway Redundancy
@@ -132,7 +134,7 @@ Planned maintenance connectivity should typically be restored within 10-15 secon
 
 ![Azure Virtual Network Gateway-1714955592079.png](/img/user/10_attachments/Azure%20Virtual%20Network%20Gateway-1714955592079.png)
 
-This solution is used to create redundancy on the on-premises side of the configuration, but follows the same constraints as the [[#VPN Gateway Redundancy]] on the Azure side.  
+This solution is used to create redundancy on the on-premises side of the configuration, but follows the same constraints as the [[90_slipbox/Azure Virtual Network Gateway#VPN Gateway Redundancy\|#VPN Gateway Redundancy]] on the Azure side.  
 There are some requirements and constraints:
 
 1. You need to create multiple S2S VPN connections from your VPN devices to Azure. When you connect multiple VPN devices from the same on-premises network to Azure, you need to create one local network gateway for each VPN device, and one connection from your Azure VPN gateway to each local network gateway.

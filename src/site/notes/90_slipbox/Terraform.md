@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform.md","permalink":"/slipbox-notes/terraform/","tags":["notes"],"created":"2023-05-08","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform.md","permalink":"/slipbox-notes/terraform/","tags":["notes"],"dg-note-properties":{"created":"2023-05-08","modified":"2026-03-03","references":null,"tags":"notes","related":["[[90_slipbox/Infrastructure as code\|Infrastructure as code]]","[[Programming]]"],"orgs":["[[90_slipbox/HashiCorp\|HashiCorp]]"]}}
 ---
 
-Terraform is a Declarative, Domain Specific Language, [[90_slipbox/Infrastructure as code\|Infrastructure as code]] tool by [[90_slipbox/HashiCorp\|HashiCorp]] used to manage public cloud platforms like [[90_slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].
+
+Terraform is a Declarative, Domain Specific Language, [[Infrastructure as code]] tool by [[HashiCorp]] used to manage public cloud platforms like [[90_slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].
 
 Terraform uses a simple built upon individual blocks called Resources to build a Dependency Graph by linking items together.
 
@@ -27,58 +28,33 @@ This includes using a `data` block to reference a Azure Key Vault secret. the co
 [[90_slipbox/Terragrunt\|Terragrunt]]  
 [[90_slipbox/Terraform Cloud Development Kit\|Terraform Cloud Development Kit]]
 
-### Snippets
-
-#### Locals for Empty Values
-
-### Locals for Empty Values
-
-``` go
-# The following block of locals are used to avoid using
-# empty object types in the code
-locals {
-  empty_list   = []
-  empty_map    = tomap({})
-  empty_string = ""
-}
-```
-
-```go
-locals {
-  base_module_tags = {
-    deployedBy = "terraform/azure/caf-enterprise-scale"
-  }
-  connectivity_resources_tags = merge(
-    local.disable_base_module_tags ? local.empty_map : local.base_module_tags,
-    local.default_tags,
-    local.configure_connectivity_resources.tags,
-  )
-  management_resources_tags = merge(
-    local.disable_base_module_tags ? local.empty_map : local.base_module_tags,
-    local.default_tags,
-    local.configure_management_resources.tags,
-  )
-}
-
-```
-
-### Referencing Key Vault Secrets in Azure Web Apps
-
-````
-@Microsoft.KeyVault(SecretUri=${azurerm_key_vault.app_vault.vault_uri}secrets/app-insights-connection-string/)```
-````
-
-```
-"@Microsoft.KeyVault(VaultName=${azurerm_key_vault.app_vault.name};SecretName=${azurerm_key_vault_secret.stytch_secret_key.name};SecretVersion=${azurerm_key_vault_secret.stytch_secret_key.version})"
-```
-
-```
-“@Microsoft.KeyVault(VaultName=myvault;SecretName=mysecret)”
-```
-
 ### Other
 
 [[90_slipbox/Terraform Tips and Tricks\|Terraform Tips and Tricks]]  
-[[terraform-cheat-sheet.pdf]]  
+[terraform-cheat-sheet.pdf](/img/user/10_attachments/terraform-cheat-sheet.pdf)  
 [[90_slipbox/How CAF TF module works\|How CAF TF module works]]  
 [[90_slipbox/Types in Terraform\|Types in Terraform]]
+
+## Tips
+
+### `_override.tf` File
+
+Using a file name that ends with `_override.tf` makes a special file that merges with other blocks, in a way that overrides config. This includes working for module sources.
+
+```go
+# main.tf
+module "some_module"{
+    source = "./node_modules/@arkahna-elements/some_module
+    var_1 = true
+    var_2 = {}
+}
+
+######
+# _override.tf
+
+module "some_module" {
+    source = "../a_different_path"
+}
+```
+
+Any over lapping declarations on the blocks are merged, with the `_override.tf` taking priority.

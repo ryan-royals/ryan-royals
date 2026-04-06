@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Network Routing.md","permalink":"/slipbox-notes/network-routing/","tags":["notes"],"created":"2023-08-02","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Network Routing.md","permalink":"/slipbox-notes/network-routing/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2023-08-02","modified":"2026-03-03","references":["https://en.wikipedia.org/wiki/Administrative_distance","https://en.wikipedia.org/wiki/Metrics_(networking)","https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21.html"]}}
 ---
+
 
 Routing rules are how traffic navigates on the [[90_slipbox/OSI Networking Model#Layer 3 - Network\|Layer 3 of the OSI Networking Model]], by directing certain traffic to next hops to further along the network, when the traffic would leave the Subnet the device is on.
 
@@ -44,5 +45,7 @@ This number is assigned per defaults set on the router such as:
 ## Footnotes
 
 [^1]: [Configure Route Selection for Routers](https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21.html)
+
 [^2]: [Metrics](https://en.wikipedia.org/wiki/Metrics_(networking))
+
 [^3]: [Administrative Distance](https://en.wikipedia.org/wiki/Administrative_distance)

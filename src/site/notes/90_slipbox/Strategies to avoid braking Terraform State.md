@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Strategies to avoid braking Terraform State.md","permalink":"/slipbox-notes/strategies-to-avoid-braking-terraform-state/","tags":["notes"],"created":"2023-11-29","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Strategies to avoid braking Terraform State.md","permalink":"/slipbox-notes/strategies-to-avoid-braking-terraform-state/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":null,"created":"2023-11-29","modified":"2026-03-03"}}
 ---
 
 

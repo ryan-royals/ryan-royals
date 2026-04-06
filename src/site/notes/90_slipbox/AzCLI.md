@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/AzCLI.md","permalink":"/slipbox-notes/az-cli/","tags":["notes"],"created":"2023-06-14","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/AzCLI.md","permalink":"/slipbox-notes/az-cli/","tags":["notes"],"dg-note-properties":{"created":"2023-06-14","modified":"2026-03-03","tags":"notes","related":["[[Azure]]"],"references":null}}
 ---
 
 

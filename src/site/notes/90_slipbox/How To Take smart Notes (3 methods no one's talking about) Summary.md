@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/How To Take smart Notes (3 methods no one's talking about) Summary.md","permalink":"/slipbox-notes/how-to-take-smart-notes-3-methods-no-one-s-talking-about-summary/","tags":["notes"],"created":"2023-11-23","updated":"2025-11-28"}
+{"dg-publish":true,"dg-path":"Slipbox Notes/How To Take smart Notes (3 methods no one's talking about) Summary.md","permalink":"/slipbox-notes/how-to-take-smart-notes-3-methods-no-one-s-talking-about-summary/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"references":["https://www.youtube.com/watch?v=5O46Rqh5zHE"],"created":"2023-11-23","modified":"2026-03-03"}}
 ---
 
 
