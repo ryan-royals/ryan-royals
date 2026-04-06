@@ -75,7 +75,7 @@
                         {%endif%}
                         {%- set currentNode = graph.nodes[page.url] or graph.nodes[graph.homeAlias] -%}
                         {%- if currentNode and currentNode.relatedLinks and currentNode.relatedLinks.length > 0 -%}
-                              <div class="backlinks">
+                              <div class="backlinks backlinks--related">
                                     <div class="backlink-title">Related Pages</div>
                                     <div class="backlink-list">
                                           {%- for relatedUrl in currentNode.relatedLinks -%}

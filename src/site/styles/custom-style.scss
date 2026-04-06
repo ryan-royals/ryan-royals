@@ -11,3 +11,14 @@ body {
     //   color: black;
     //  }
 }
+
+// Prevent backlinks sections from stretching to fill sidebar height.
+// The backlink-list already has max-height/scroll, so flex: 1 just creates dead space.
+.backlinks {
+    flex: 0 0 auto;
+}
+
+// Related Pages section sits snugly below backlinks
+.backlinks--related {
+    margin-top: 4px;
+}
