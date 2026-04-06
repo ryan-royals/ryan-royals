@@ -1,4 +1,5 @@
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
+const simpleLinkRegex = /\[\[([^\]|]+)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 // Match iframe src for canvas embedded files (internal links only, not external URLs)
 // Format: <iframe src="/path/" class="canvas-file-iframe" ...>
@@ -33,6 +34,15 @@ function extractLinks(content) {
         link
           .slice(2, -2)
           .split("|")[0]
+          .replace(/\.(md|markdown)\s?$/i, "")
+          .replace("\\", "")
+          .trim()
+          .split("#")[0]
+    ),
+    ...(content.match(simpleLinkRegex) || []).map(
+      (link) =>
+        link
+          .slice(2, -2)
           .replace(/\.(md|markdown)\s?$/i, "")
           .replace("\\", "")
           .trim()
@@ -133,6 +143,12 @@ async function getGraph(data) {
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
       hide: v.data.hideInGraph || false,
     };
+    // Extract links from the related: frontmatter field (stored in dg-note-properties)
+    const related = v.data?.["dg-note-properties"]?.related || [];
+    related
+      .filter((val) => typeof val === "string")
+      .flatMap((val) => extractLinks(val))
+      .forEach((link) => nodes[v.url].outBound.push(link));
     stemURLs[fpath] = v.url;
     if (
       v.data["dg-home"] ||
