@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network.md","permalink":"/slipbox-notes/azure-virtual-network/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-08-21","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#are-there-any-restrictions-on-using-ip-addresses-within-these-subnets"],"aliases":"Virtual Network"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Virtual Network.md","permalink":"/slipbox-notes/azure-virtual-network/","tags":["notes"],"created":"2023-08-21","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-08-21","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#are-there-any-restrictions-on-using-ip-addresses-within-these-subnets"],"aliases":"Virtual Network"}}
 ---
 
 

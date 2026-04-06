@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/GitHub responds to `pnpm view {package}` with nothing.md","permalink":"/slipbox-notes/git-hub-responds-to-pnpm-view-package-with-nothing/","tags":["how-tos"],"dg-note-properties":{"tags":"how-tos","related":["[[Github Packages]]","[[PNPM]]"],"created":"2025-12-18","modified":"2026-03-03","pageId":"1645838354","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1645838354/GitHub+responds+to+pnpm+view+package+with+nothing"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/GitHub responds to `pnpm view {package}` with nothing.md","permalink":"/slipbox-notes/git-hub-responds-to-pnpm-view-package-with-nothing/","tags":["how-tos"],"created":"2025-12-18","updated":"2026-03-03","dg-note-properties":{"tags":"how-tos","related":["[[Github Packages]]","[[PNPM]]"],"created":"2025-12-18","modified":"2026-03-03","pageId":"1645838354","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1645838354/GitHub+responds+to+pnpm+view+package+with+nothing"}}
 ---
 
 

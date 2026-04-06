@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Get Things Done Method.md","permalink":"/slipbox-notes/get-things-done-method/","tags":["notes"],"dg-note-properties":{"created":"2023-07-24","modified":"2026-03-03","tags":"notes","references":["https://obsidian.rocks/obsidian-and-gtd/","https://todoist.com/productivity-methods/getting-things-done","https://www.zenflowchart.com/guides/gtd-flowchart"],"related":["[[Note Taking and Productivity]]"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Get Things Done Method.md","permalink":"/slipbox-notes/get-things-done-method/","tags":["notes"],"created":"2023-07-24","updated":"2026-03-03","dg-note-properties":{"created":"2023-07-24","modified":"2026-03-03","tags":"notes","references":["https://obsidian.rocks/obsidian-and-gtd/","https://todoist.com/productivity-methods/getting-things-done","https://www.zenflowchart.com/guides/gtd-flowchart"],"related":["[[Note Taking and Productivity]]"]}}
 ---
 
 

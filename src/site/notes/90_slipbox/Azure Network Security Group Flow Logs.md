@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Network Security Group Flow Logs.md","permalink":"/slipbox-notes/azure-network-security-group-flow-logs/","tags":["notes"],"dg-note-properties":{"created":"2024-10-21","tags":"notes","related":["[[90_slipbox/Azure Network Watcher\|Azure Network Watcher]]"],"modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Network Security Group Flow Logs.md","permalink":"/slipbox-notes/azure-network-security-group-flow-logs/","tags":["notes"],"created":"2024-10-21","updated":"2026-03-03","dg-note-properties":{"created":"2024-10-21","tags":"notes","related":["[[90_slipbox/Azure Network Watcher\|Azure Network Watcher]]"],"modified":"2026-03-03"}}
 ---
 
 

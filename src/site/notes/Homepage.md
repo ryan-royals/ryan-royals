@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["notes","gardenEntry"],"dg-note-properties":{"tags":"notes","created":"2024-05-03","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/homepage/","tags":["notes","gardenEntry"],"created":"2024-05-03","updated":"2026-03-03","dg-note-properties":{"tags":"notes","created":"2024-05-03","modified":"2026-03-03"}}
 ---
 
 

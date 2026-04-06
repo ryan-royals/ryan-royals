@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/contains(keys()) in Terraform can reference a non real var.md","permalink":"/slipbox-notes/contains-keys-in-terraform-can-reference-a-non-real-var/","tags":["today-i-learns"],"dg-note-properties":{"tags":"today-i-learns","related":["[[Terraform]]"],"created":"2026-03-12","modified":"2026-03-12","pageId":"1788444673","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1788444673/contains+keys+in+Terraform+can+reference+a+non+real+var"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/contains(keys()) in Terraform can reference a non real var.md","permalink":"/slipbox-notes/contains-keys-in-terraform-can-reference-a-non-real-var/","tags":["today-i-learns"],"created":"2026-03-12","updated":"2026-03-12","dg-note-properties":{"tags":"today-i-learns","related":["[[Terraform]]"],"created":"2026-03-12","modified":"2026-03-12","pageId":"1788444673","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1788444673/contains+keys+in+Terraform+can+reference+a+non+real+var"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog Posts/TF inputs and Environments.md","permalink":"/blog-posts/tf-inputs-and-environments/","tags":["blogs"],"dg-note-properties":{"created":"2024-05-22","tags":"blogs","related":["[[Arkahna - Blog]]","[[Terraform]]"],"references":[],"modified":"2026-03-29"}}
+{"dg-publish":true,"dg-path":"Blog Posts/TF inputs and Environments.md","permalink":"/blog-posts/tf-inputs-and-environments/","tags":["blogs"],"created":"2024-05-22","updated":"2026-03-29","dg-note-properties":{"created":"2024-05-22","tags":"blogs","related":["[[Arkahna - Blog]]","[[Terraform]]"],"references":[],"modified":"2026-03-29"}}
 ---
 
 

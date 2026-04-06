@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Insights.md","permalink":"/slipbox-notes/azure-application-insights/","tags":["notes"],"dg-note-properties":{"created":"2023-03-20","modified":"2026-03-03","tags":"notes","related":["[[Azure Monitor]]","[[Azure]]"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Application Insights.md","permalink":"/slipbox-notes/azure-application-insights/","tags":["notes"],"created":"2023-03-20","updated":"2026-03-03","dg-note-properties":{"created":"2023-03-20","modified":"2026-03-03","tags":"notes","related":["[[Azure Monitor]]","[[Azure]]"]}}
 ---
 
 

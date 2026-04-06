@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Landing Zones.md","permalink":"/slipbox-notes/azure-landing-zones/","tags":["notes"],"dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","references":["https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/"],"related":["[[Azure]]"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Landing Zones.md","permalink":"/slipbox-notes/azure-landing-zones/","tags":["notes"],"created":"2023-04-20","updated":"2026-03-03","dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","references":["https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/"],"related":["[[Azure]]"]}}
 ---
 
 

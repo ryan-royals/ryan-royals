@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Public DNS Zone.md","permalink":"/slipbox-notes/azure-public-dns-zone/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-overview"],"created":"2024-05-02","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Public DNS Zone.md","permalink":"/slipbox-notes/azure-public-dns-zone/","tags":["notes"],"created":"2024-05-02","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/dns/dns-overview"],"created":"2024-05-02","modified":"2026-03-03"}}
 ---
 
 

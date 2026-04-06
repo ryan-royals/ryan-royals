@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Importing Cloudflare DNS to Terraform.md","permalink":"/slipbox-notes/importing-cloudflare-dns-to-terraform/","tags":["how-tos"],"dg-note-properties":{"tags":"how-tos","related":["[[Cloudflare]]","[[Terraform]]"],"created":"2026-02-24","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Importing Cloudflare DNS to Terraform.md","permalink":"/slipbox-notes/importing-cloudflare-dns-to-terraform/","tags":["how-tos"],"created":"2026-02-24","updated":"2026-03-03","dg-note-properties":{"tags":"how-tos","related":["[[Cloudflare]]","[[Terraform]]"],"created":"2026-02-24","modified":"2026-03-03"}}
 ---
 
 

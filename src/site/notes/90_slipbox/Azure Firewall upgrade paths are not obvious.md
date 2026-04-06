@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Firewall upgrade paths are not obvious.md","permalink":"/slipbox-notes/azure-firewall-upgrade-paths-are-not-obvious/","tags":["today-i-learns"],"dg-note-properties":{"tags":"today-i-learns","related":["[[Azure Firewall]]"],"created":"2026-03-17","modified":"2026-03-17"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Firewall upgrade paths are not obvious.md","permalink":"/slipbox-notes/azure-firewall-upgrade-paths-are-not-obvious/","tags":["today-i-learns"],"created":"2026-03-17","updated":"2026-03-17","dg-note-properties":{"tags":"today-i-learns","related":["[[Azure Firewall]]"],"created":"2026-03-17","modified":"2026-03-17"}}
 ---
 
 

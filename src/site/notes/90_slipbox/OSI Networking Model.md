@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/OSI Networking Model.md","permalink":"/slipbox-notes/osi-networking-model/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2023-09-04","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/OSI Networking Model.md","permalink":"/slipbox-notes/osi-networking-model/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2023-09-04","modified":"2026-03-03"}}
 ---
 
 

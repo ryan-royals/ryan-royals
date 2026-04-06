@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Kubernetes Service.md","permalink":"/slipbox-notes/azure-kubernetes-service/","tags":["notes"],"dg-note-properties":{"tags":"notes","created":"2025-08-15","related":["[[Azure Container Apps]]","[[Azure]]","[[Kubernetes]]"],"references":null,"modified":"2026-03-12"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Kubernetes Service.md","permalink":"/slipbox-notes/azure-kubernetes-service/","tags":["notes"],"created":"2025-08-15","updated":"2026-03-12","dg-note-properties":{"tags":"notes","created":"2025-08-15","related":["[[Azure Container Apps]]","[[Azure]]","[[Kubernetes]]"],"references":null,"modified":"2026-03-12"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Cloud Adoption Framework.md","permalink":"/slipbox-notes/azure-cloud-adoption-framework/","tags":["notes"],"dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","related":["[[Azure]]","[[Enterprise Scale Landing Zone]]"],"references":[]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Cloud Adoption Framework.md","permalink":"/slipbox-notes/azure-cloud-adoption-framework/","tags":["notes"],"created":"2023-04-20","updated":"2026-03-03","dg-note-properties":{"created":"2023-04-20","modified":"2026-03-03","tags":"notes","related":["[[Azure]]","[[Enterprise Scale Landing Zone]]"],"references":[]}}
 ---
 
 

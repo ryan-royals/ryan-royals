@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Outllook Google Calendar Sync.md","permalink":"/slipbox-notes/outllook-google-calendar-sync/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":null,"created":"2023-08-30","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Outllook Google Calendar Sync.md","permalink":"/slipbox-notes/outllook-google-calendar-sync/","tags":["notes"],"created":"2023-08-30","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":null,"created":"2023-08-30","modified":"2026-03-03"}}
 ---
 
 

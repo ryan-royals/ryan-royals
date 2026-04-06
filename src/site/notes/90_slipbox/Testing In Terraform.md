@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Testing In Terraform.md","permalink":"/slipbox-notes/testing-in-terraform/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["https://youtube.com/watch?v=oLRtFy6mYSg&si=8G_U7xu98RVi3x_-"],"created":"2024-07-08","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Testing In Terraform.md","permalink":"/slipbox-notes/testing-in-terraform/","tags":["notes"],"created":"2024-07-08","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["https://youtube.com/watch?v=oLRtFy6mYSg&si=8G_U7xu98RVi3x_-"],"created":"2024-07-08","modified":"2026-03-03"}}
 ---
 
 

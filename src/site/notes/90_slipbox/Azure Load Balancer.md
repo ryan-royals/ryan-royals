@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Load Balancer.md","permalink":"/slipbox-notes/azure-load-balancer/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-25","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Load Balancer.md","permalink":"/slipbox-notes/azure-load-balancer/","tags":["notes"],"created":"2024-07-25","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-25","modified":"2026-03-03"}}
 ---
 
 

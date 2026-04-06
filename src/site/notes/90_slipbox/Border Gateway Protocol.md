@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Border Gateway Protocol.md","permalink":"/slipbox-notes/border-gateway-protocol/","tags":["notes"],"dg-note-properties":{"tags":"notes","created":"2023-08-11","modified":"2026-03-03","references":["https://www.youtube.com/watch?v=A1KXPpqlNZ4"],"related":["[[Network Administration]]"],"aliases":"BGP"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Border Gateway Protocol.md","permalink":"/slipbox-notes/border-gateway-protocol/","tags":["notes"],"created":"2023-08-11","updated":"2026-03-03","dg-note-properties":{"tags":"notes","created":"2023-08-11","modified":"2026-03-03","references":["https://www.youtube.com/watch?v=A1KXPpqlNZ4"],"related":["[[Network Administration]]"],"aliases":"BGP"}}
 ---
 
 

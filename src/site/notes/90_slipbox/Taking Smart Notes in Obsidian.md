@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Taking Smart Notes in Obsidian.md","permalink":"/slipbox-notes/taking-smart-notes-in-obsidian/","tags":["notes"],"dg-note-properties":{"aliases":null,"created":"2023-03-20","modified":"2026-03-03","tags":"notes","related":["[[How I take Notes]]","[[Note Taking and Productivity]]"],"references":null}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Taking Smart Notes in Obsidian.md","permalink":"/slipbox-notes/taking-smart-notes-in-obsidian/","tags":["notes"],"created":"2023-03-20","updated":"2026-03-03","dg-note-properties":{"aliases":null,"created":"2023-03-20","modified":"2026-03-03","tags":"notes","related":["[[How I take Notes]]","[[Note Taking and Productivity]]"],"references":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Cant install npm packages from Azure DevOps.md","permalink":"/slipbox-notes/cant-install-npm-packages-from-azure-dev-ops/","tags":["how-tos"],"dg-note-properties":{"tags":"how-tos","related":["[[Azure DevOps]]","[[PNPM]]"],"created":"2026-03-06","modified":"2026-03-06","pageId":"1783496705","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1783496705/Cant+install+npm+packages+from+Azure+DevOps"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Cant install npm packages from Azure DevOps.md","permalink":"/slipbox-notes/cant-install-npm-packages-from-azure-dev-ops/","tags":["how-tos"],"created":"2026-03-06","updated":"2026-03-06","dg-note-properties":{"tags":"how-tos","related":["[[Azure DevOps]]","[[PNPM]]"],"created":"2026-03-06","modified":"2026-03-06","pageId":"1783496705","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1783496705/Cant+install+npm+packages+from+Azure+DevOps"}}
 ---
 
 

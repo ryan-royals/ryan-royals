@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Shell.md","permalink":"/slipbox-notes/shell/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Programming]]"],"aliases":["Bash","Bash Tips","Shell","Shell Tips","Zsh","Zsh Tips"],"created":"2025-07-30","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Shell.md","permalink":"/slipbox-notes/shell/","tags":["notes"],"created":"2025-07-30","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Programming]]"],"aliases":["Bash","Bash Tips","Shell","Shell Tips","Zsh","Zsh Tips"],"created":"2025-07-30","modified":"2026-03-03"}}
 ---
 
 

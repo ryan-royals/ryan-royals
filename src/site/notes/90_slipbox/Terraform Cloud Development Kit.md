@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Cloud Development Kit.md","permalink":"/slipbox-notes/terraform-cloud-development-kit/","tags":["notes"],"dg-note-properties":{"created":"2023-06-26","modified":"2026-03-03","tags":"notes","related":["[[Infrastructure as code]]","[[Terraform]]"],"references":["https://developer.hashicorp.com/terraform/cdktf"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Terraform Cloud Development Kit.md","permalink":"/slipbox-notes/terraform-cloud-development-kit/","tags":["notes"],"created":"2023-06-26","updated":"2026-03-03","dg-note-properties":{"created":"2023-06-26","modified":"2026-03-03","tags":"notes","related":["[[Infrastructure as code]]","[[Terraform]]"],"references":["https://developer.hashicorp.com/terraform/cdktf"]}}
 ---
 
 

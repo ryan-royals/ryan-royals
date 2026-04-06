@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure.md","permalink":"/slipbox-notes/azure/","tags":["mocs"],"dg-note-properties":{"created":"2023-03-22","modified":"2026-03-03","tags":"mocs","orgs":["[[Microsoft]]"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure.md","permalink":"/slipbox-notes/azure/","tags":["mocs"],"created":"2023-03-22","updated":"2026-03-03","dg-note-properties":{"created":"2023-03-22","modified":"2026-03-03","tags":"mocs","orgs":["[[Microsoft]]"]}}
 ---
 
 

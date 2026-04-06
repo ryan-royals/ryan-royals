@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/TypeScript Compared to JavaScript.md","permalink":"/slipbox-notes/type-script-compared-to-java-script/","tags":["notes"],"dg-note-properties":{"tags":"notes","references":["https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"],"related":["[[JavaScript\|JavaScript]]"],"created":"2023-08-22","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/TypeScript Compared to JavaScript.md","permalink":"/slipbox-notes/type-script-compared-to-java-script/","tags":["notes"],"created":"2023-08-22","updated":"2026-03-03","dg-note-properties":{"tags":"notes","references":["https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html"],"related":["[[JavaScript\|JavaScript]]"],"created":"2023-08-22","modified":"2026-03-03"}}
 ---
 
 

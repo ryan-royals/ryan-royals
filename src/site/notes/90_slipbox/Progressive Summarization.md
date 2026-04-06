@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Progressive Summarization.md","permalink":"/slipbox-notes/progressive-summarization/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"references":["https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/"],"created":"2023-09-14","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Progressive Summarization.md","permalink":"/slipbox-notes/progressive-summarization/","tags":["notes"],"created":"2023-09-14","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"references":["https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/"],"created":"2023-09-14","modified":"2026-03-03"}}
 ---
 
 

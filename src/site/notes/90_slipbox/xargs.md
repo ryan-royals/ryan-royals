@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/xargs.md","permalink":"/slipbox-notes/xargs/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":null,"created":"2026-02-24","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/xargs.md","permalink":"/slipbox-notes/xargs/","tags":["notes"],"created":"2026-02-24","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":null,"created":"2026-02-24","modified":"2026-03-03"}}
 ---
 
 

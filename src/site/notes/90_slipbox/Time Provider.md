@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Time Provider.md","permalink":"/slipbox-notes/time-provider/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["https://registry.terraform.io/providers/hashicorp/time/latest/docs/resources/sleep"],"created":"2023-12-08","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Time Provider.md","permalink":"/slipbox-notes/time-provider/","tags":["notes"],"created":"2023-12-08","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Terraform]]"],"references":["https://registry.terraform.io/providers/hashicorp/time/latest/docs/resources/sleep"],"created":"2023-12-08","modified":"2026-03-03"}}
 ---
 
 

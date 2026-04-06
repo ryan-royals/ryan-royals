@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure App Configuration.md","permalink":"/slipbox-notes/azure-app-configuration/","tags":["notes"],"dg-note-properties":{"created":"2024-09-26","tags":"notes","related":["[[Azure]]"],"modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure App Configuration.md","permalink":"/slipbox-notes/azure-app-configuration/","tags":["notes"],"created":"2024-09-26","updated":"2026-03-03","dg-note-properties":{"created":"2024-09-26","tags":"notes","related":["[[Azure]]"],"modified":"2026-03-03"}}
 ---
 
 

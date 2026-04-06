@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Using Git with Obsidian Sync and a Daily Merge.md","permalink":"/slipbox-notes/using-git-with-obsidian-sync-and-a-daily-merge/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Git]]"],"references":null,"created":"2023-10-17","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Using Git with Obsidian Sync and a Daily Merge.md","permalink":"/slipbox-notes/using-git-with-obsidian-sync-and-a-daily-merge/","tags":["notes"],"created":"2023-10-17","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Git]]"],"references":null,"created":"2023-10-17","modified":"2026-03-03"}}
 ---
 
 

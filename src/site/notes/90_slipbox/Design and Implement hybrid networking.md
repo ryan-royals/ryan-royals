@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Design and Implement hybrid networking.md","permalink":"/slipbox-notes/design-and-implement-hybrid-networking/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"references":null,"created":"2024-05-06","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Design and Implement hybrid networking.md","permalink":"/slipbox-notes/design-and-implement-hybrid-networking/","tags":["notes"],"created":"2024-05-06","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"references":null,"created":"2024-05-06","modified":"2026-03-03"}}
 ---
 
 

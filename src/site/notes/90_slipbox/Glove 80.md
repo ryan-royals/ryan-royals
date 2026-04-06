@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Glove 80.md","permalink":"/slipbox-notes/glove-80/","tags":["assets"],"dg-note-properties":{"tags":"assets","related":["[[Keyboards]]"],"created":"2025-12-08","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Glove 80.md","permalink":"/slipbox-notes/glove-80/","tags":["assets"],"created":"2025-12-08","updated":"2026-03-03","dg-note-properties":{"tags":"assets","related":["[[Keyboards]]"],"created":"2025-12-08","modified":"2026-03-03"}}
 ---
 
 

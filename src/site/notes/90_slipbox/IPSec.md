@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/IPSec.md","permalink":"/slipbox-notes/ip-sec/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Virtual Private Network]]"],"references":null,"created":"2024-05-20","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/IPSec.md","permalink":"/slipbox-notes/ip-sec/","tags":["notes"],"created":"2024-05-20","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Virtual Private Network]]"],"references":null,"created":"2024-05-20","modified":"2026-03-03"}}
 ---
 
 

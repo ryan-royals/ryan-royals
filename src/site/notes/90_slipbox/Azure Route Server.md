@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Route Server.md","permalink":"/slipbox-notes/azure-route-server/","tags":["notes"],"dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-09-04","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/route-server/overview"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Route Server.md","permalink":"/slipbox-notes/azure-route-server/","tags":["notes"],"created":"2023-09-04","updated":"2026-03-03","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2023-09-04","modified":"2026-03-03","references":["https://learn.microsoft.com/en-us/azure/route-server/overview"]}}
 ---
 
 

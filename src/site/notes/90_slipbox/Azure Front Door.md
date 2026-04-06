@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Front Door.md","permalink":"/slipbox-notes/azure-front-door/","tags":["notes"],"dg-note-properties":{"created":"2023-03-08","modified":"2026-03-03","tags":"notes","references":["https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door","https://learn.microsoft.com/en-us/azure/frontdoor/endpoint?tabs=azurecli","https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview","https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits","https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview"],"related":["[[Azure]]"]}}
+{"dg-publish":true,"dg-path":"Slipbox Notes/Azure Front Door.md","permalink":"/slipbox-notes/azure-front-door/","tags":["notes"],"created":"2023-03-08","updated":"2026-03-03","dg-note-properties":{"created":"2023-03-08","modified":"2026-03-03","tags":"notes","references":["https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door","https://learn.microsoft.com/en-us/azure/frontdoor/endpoint?tabs=azurecli","https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview","https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits","https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview"],"related":["[[Azure]]"]}}
 ---
 
 
