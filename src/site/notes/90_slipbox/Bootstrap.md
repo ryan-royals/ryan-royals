@@ -3,11 +3,11 @@
 ---
 
 
-Bootstrap is a free and [[Open Source Software\|Open Source Software]] web development framework, consisting of [[HTML]], [[90_slipbox/CSS\|CSS]] and [[JavaScript\|JavaScript]] based scripts. Using Bootstrap offers reasonable styling defaults, premade classes for different assets (Cards, Pills, Images), as well as a 12 Column grid system that adaptively scales to the viewport dimensions based on breakpoints.
+Bootstrap is a free and [[Open Source Software\|Open Source Software]] web development framework, consisting of [[90_slipbox/HTML\|HTML]], [[90_slipbox/CSS\|CSS]] and [[JavaScript\|JavaScript]] based scripts. Using Bootstrap offers reasonable styling defaults, premade classes for different assets (Cards, Pills, Images), as well as a 12 Column grid system that adaptively scales to the viewport dimensions based on breakpoints.
 
 ## General Tips
 
-- Using a [[CSS]] class to set a `min-width` will stop a Column from causing the content to wrap funny when resizing.
+- Using a [[90_slipbox/CSS\|CSS]] class to set a `min-width` will stop a Column from causing the content to wrap funny when resizing.
 
 ```css
 .whatIDo {

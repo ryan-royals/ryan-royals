@@ -17,6 +17,6 @@ Azure SQL MI is a middle ground [[SQL\|SQL]] deployment that is close to a full 
 
 ---
 
-Links: [[Azure]]  
+Links: [[90_slipbox/Azure\|Azure]]  
 Tags:  
 Reference:

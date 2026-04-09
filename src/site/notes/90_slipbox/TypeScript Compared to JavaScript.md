@@ -3,7 +3,7 @@
 ---
 
 
-Typescript is a ***typed*** *superset* of [[JavaScript]] that adds a Static Type Checker functionality that checks for nonsensical operations among other errors.
+Typescript is a ***typed*** *superset* of [[JavaScript\|JavaScript]] that adds a Static Type Checker functionality that checks for nonsensical operations among other errors.
 
 ```run-js
 if ("" == 0) {

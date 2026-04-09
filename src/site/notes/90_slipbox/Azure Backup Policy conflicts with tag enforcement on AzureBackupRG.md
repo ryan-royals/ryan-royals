@@ -3,6 +3,6 @@
 ---
 
 
-[[Azure Backup]] auto creates a `AzureBackupRG_{region}_{N}` Resource Group, but there are no controls over the tags on this RG.  
-When using a [[Azure Policy]] that enforces tagging on the RG layer, this causes backups to fail in a near silent way.  
+[[90_slipbox/Azure Backup\|Azure Backup]] auto creates a `AzureBackupRG_{region}_{N}` Resource Group, but there are no controls over the tags on this RG.  
+When using a [[90_slipbox/Azure Policy\|Azure Policy]] that enforces tagging on the RG layer, this causes backups to fail in a near silent way.  
 Either creating the RG manually or removing the Azure Policy to Enforce tags are the best choice.

@@ -5,7 +5,7 @@
 
 [[90_slipbox/Azure Network Security Group\|Azure Network Security Group]]s allow or deny inbound or outbound traffic to a network interface in a VM.
 
-NSG flow logs is a feature of [[90_slipbox/Azure Network Watcher\|Azure Network Watcher]] that allows you to log information about IP traffic flowing through an NSG. The NSG flow log capability allows you to log the source and destination IP address, port, protocol, and whether traffic was allowed or denied by an NSG. You can analyse logs using a variety of tools, such as Power BI and the [[90_slipbox/Azure Traffic Analytics\|Azure Traffic Analytics]] feature in [[Azure Network Watcher]].
+NSG flow logs is a feature of [[90_slipbox/Azure Network Watcher\|Azure Network Watcher]] that allows you to log information about IP traffic flowing through an NSG. The NSG flow log capability allows you to log the source and destination IP address, port, protocol, and whether traffic was allowed or denied by an NSG. You can analyse logs using a variety of tools, such as Power BI and the [[90_slipbox/Azure Traffic Analytics\|Azure Traffic Analytics]] feature in [[90_slipbox/Azure Network Watcher\|Azure Network Watcher]].
 
 Common use cases for NSG flow logs are:
 

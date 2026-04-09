@@ -32,7 +32,7 @@ My recommendation is to always use the Azapi Provider instead of [[AzureRM Provi
 
 ### Sensitive Body
 
-Found that [[90_slipbox/AzApi Provider\|AzApi Provider]] has way better support for [[Terraform]] Ephemeral blocks that [[AzureRM Provider\|AzureRM Provider]].  
+Found that [[90_slipbox/AzApi Provider\|AzApi Provider]] has way better support for [[90_slipbox/Terraform\|Terraform]] Ephemeral blocks that [[AzureRM Provider\|AzureRM Provider]].  
 You can just use a `sensitve_body` to mark whatever argument you want as sensitive, and it just works.  
 This is way better than the AzureRM equivalent where it needs to be hand crafted, and there are resources that currently do not support it.
 

@@ -3,7 +3,7 @@
 ---
 
 
-When using Terraform's [[AzureAD Provider]] `azuread_group_member` resource to add managed identities to Azure AD groups, you may encounter a 403 Authorization_RequestDenied error even when the principal running Terraform is an owner of the target group.
+When using Terraform's [[90_slipbox/AzureAD Provider\|AzureAD Provider]] `azuread_group_member` resource to add managed identities to Azure AD groups, you may encounter a 403 Authorization_RequestDenied error even when the principal running Terraform is an owner of the target group.
 
 ``` bash
 Error: Retrieving member "<member-id>" for group with object ID: "<group-id>"
@@ -14,7 +14,7 @@ Authorization_RequestDenied: Insufficient privileges to complete the operation.
 
 ## Why This Happens
 
-The `azuread_group_member` resource calls the Microsoft Graph API to manage group memberships. When adding [[Azure User Assigned Managed Identity]]'s (or service principals) to groups, the API requires additional permissions beyond group ownership:
+The `azuread_group_member` resource calls the Microsoft Graph API to manage group memberships. When adding [[Azure User Assigned Managed Identity\|Azure User Assigned Managed Identity]]'s (or service principals) to groups, the API requires additional permissions beyond group ownership:
 
 - **Group ownership** is sufficient for adding regular users
 - **Adding managed identities/service principals** requires the ability to read Application objects, which needs explicit Graph API permissions
