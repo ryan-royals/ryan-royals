@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-blog/can-t-resolve-storage-account-dns-from-vnet-but-can-from-internet/","tags":["blogs"],"created":"2026-03-27T09:57:51.987+10:30","updated":"2026-03-27T09:57:51.987+10:30","dg-note-properties":{"tags":"blogs","related":["[[Arkahna - Blog]]","[[Azure Storage Account]]"],"references":null,"created":"2024-06-06","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/80-blog/can-t-resolve-storage-account-dns-from-vnet-but-can-from-internet/","tags":["blogs"],"created":"2025-06-11T10:28:47.904+09:30","updated":"2026-03-03T09:55:32.776+10:30","dg-note-properties":{"tags":"blogs","related":["[[Arkahna - Blog]]","[[Azure Storage Account]]"],"references":null,"created":"2024-06-06","modified":"2026-03-03"}}
 ---
 
 

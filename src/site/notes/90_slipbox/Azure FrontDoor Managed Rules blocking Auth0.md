@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-front-door-managed-rules-blocking-auth0/","tags":["notes"],"created":"2026-03-27T09:57:51.494+10:30","updated":"2026-03-29T17:21:51.042+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure Front Door]]","https://learn.microsoft.com/en-us/azure/private-link/private-link-faq"],"references":["https://community.auth0.com/t/nonce-inside-a0-spajs-txs-cookie-is-blocked-by-azure-front-door-due-to-sql-injection-threat/43118","https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs?tabs=drs21#drs99001-21"],"created":"2024-02-18","modified":"2026-03-29"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-front-door-managed-rules-blocking-auth0/","tags":["notes"],"created":"2025-06-11T10:28:47.720+09:30","updated":"2026-03-29T17:21:51.042+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure Front Door]]","https://learn.microsoft.com/en-us/azure/private-link/private-link-faq"],"references":["https://community.auth0.com/t/nonce-inside-a0-spajs-txs-cookie-is-blocked-by-azure-front-door-due-to-sql-injection-threat/43118","https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs?tabs=drs21#drs99001-21"],"created":"2024-02-18","modified":"2026-03-29"}}
 ---
 
 

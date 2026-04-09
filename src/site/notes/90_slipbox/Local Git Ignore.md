@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/local-git-ignore/","tags":["how-tos"],"created":"2026-03-27T09:57:51.396+10:30","updated":"2026-03-27T09:57:51.396+10:30","dg-note-properties":{"tags":"how-tos","related":["[[Git]]"],"created":"2026-03-05","modified":"2026-03-05"}}
+{"dg-publish":true,"permalink":"/90-slipbox/local-git-ignore/","tags":["how-tos"],"created":"2026-03-05T13:43:00.685+10:30","updated":"2026-03-05T13:43:52.081+10:30","dg-note-properties":{"tags":"how-tos","related":["[[Git]]"],"created":"2026-03-05","modified":"2026-03-05"}}
 ---
 
 

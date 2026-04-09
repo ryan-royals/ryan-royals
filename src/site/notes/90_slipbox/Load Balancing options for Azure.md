@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/load-balancing-options-for-azure/","tags":["notes"],"created":"2026-03-27T09:57:51.496+10:30","updated":"2026-03-27T09:57:51.496+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-23","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/load-balancing-options-for-azure/","tags":["notes"],"created":"2025-06-11T10:28:48.278+09:30","updated":"2026-03-03T09:55:32.262+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"created":"2024-07-23","modified":"2026-03-03"}}
 ---
 
 

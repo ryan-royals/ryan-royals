@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-machine/","tags":["notes"],"created":"2026-03-27T09:57:51.486+10:30","updated":"2026-03-27T09:57:51.486+10:30","dg-note-properties":{"tags":"notes","created":"2023-08-22","modified":"2026-03-03","related":["[[90_slipbox/Azure\|Azure]]"],"references":null}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-machine/","tags":["notes"],"created":"2025-06-11T10:28:47.844+09:30","updated":"2026-03-03T09:55:32.405+10:30","dg-note-properties":{"tags":"notes","created":"2023-08-22","modified":"2026-03-03","related":["[[90_slipbox/Azure\|Azure]]"],"references":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-private-dns-zone/","tags":["notes"],"created":"2026-03-27T09:57:51.488+10:30","updated":"2026-03-27T09:57:51.488+10:30","dg-note-properties":{"created":"2023-05-15","modified":"2026-03-03","tags":"notes","references":["https://learn.microsoft.com/en-us/azure/dns/private-dns-overview","https://learn.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links"],"related":["[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-private-dns-zone/","tags":["notes"],"created":"2025-06-11T10:28:47.778+09:30","updated":"2026-03-03T09:55:32.415+10:30","dg-note-properties":{"created":"2023-05-15","modified":"2026-03-03","tags":"notes","references":["https://learn.microsoft.com/en-us/azure/dns/private-dns-overview","https://learn.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links"],"related":["[[Azure]]"]}}
 ---
 
 

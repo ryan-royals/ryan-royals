@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/pnpm/","tags":["notes"],"created":"2026-03-27T09:57:51.531+10:30","updated":"2026-03-27T09:57:51.531+10:30","dg-note-properties":{"created":"2026-01-06","modified":"2026-03-03","aliases":"PNPM Tips","tags":"notes","related":["[[Programming]]"],"pageId":"1669169153","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1669169153/PNPM"}}
+{"dg-publish":true,"permalink":"/90-slipbox/pnpm/","tags":["notes"],"created":"2026-01-28T11:22:31.153+10:30","updated":"2026-03-03T09:55:32.205+10:30","dg-note-properties":{"created":"2026-01-06","modified":"2026-03-03","aliases":"PNPM Tips","tags":"notes","related":["[[Programming]]"],"pageId":"1669169153","spaceId":"331808774","confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1669169153/PNPM"}}
 ---
 
 

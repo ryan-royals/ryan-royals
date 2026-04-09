@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/programming/","tags":["mocs"],"created":"2026-03-27T09:57:51.513+10:30","updated":"2026-03-27T09:57:51.513+10:30","dg-note-properties":{"created":"2025-12-08","references":null,"tags":"mocs","related":null,"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/programming/","tags":["mocs"],"created":"2025-06-11T10:28:48.508+09:30","updated":"2026-03-03T09:55:32.195+10:30","dg-note-properties":{"created":"2025-12-08","references":null,"tags":"mocs","related":null,"modified":"2026-03-03"}}
 ---
 
 

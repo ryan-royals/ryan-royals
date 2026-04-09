@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/api-vs-web-hook/","tags":["notes"],"created":"2026-03-27T09:57:51.494+10:30","updated":"2026-03-27T10:50:12.591+10:30","dg-note-properties":{"tags":"notes","related":null,"created":"2025-03-18","modified":"2026-03-27"}}
+{"dg-publish":true,"permalink":"/90-slipbox/api-vs-web-hook/","tags":["notes"],"created":"2025-06-11T10:28:47.614+09:30","updated":"2026-03-27T10:50:12.591+10:30","dg-note-properties":{"tags":"notes","related":null,"created":"2025-03-18","modified":"2026-03-27"}}
 ---
 
 

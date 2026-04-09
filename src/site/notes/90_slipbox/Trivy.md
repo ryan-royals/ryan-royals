@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/trivy/","tags":["notes"],"created":"2026-03-27T09:57:51.497+10:30","updated":"2026-03-27T09:57:51.497+10:30","dg-note-properties":{"created":"2023-12-21","tags":"notes","orgs":["[[AquaSecurity]]"],"related":["[[90_slipbox/Terraform\|Terraform]]"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/trivy/","tags":["notes"],"created":"2025-06-11T10:28:48.734+09:30","updated":"2026-03-03T09:55:32.067+10:30","dg-note-properties":{"created":"2023-12-21","tags":"notes","orgs":["[[AquaSecurity]]"],"related":["[[90_slipbox/Terraform\|Terraform]]"],"modified":"2026-03-03"}}
 ---
 
 

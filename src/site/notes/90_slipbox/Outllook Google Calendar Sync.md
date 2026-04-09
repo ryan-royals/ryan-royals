@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/outllook-google-calendar-sync/","tags":["notes"],"created":"2026-03-27T09:57:51.505+10:30","updated":"2026-03-27T09:57:51.505+10:30","dg-note-properties":{"tags":"notes","related":null,"created":"2023-08-30","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/outllook-google-calendar-sync/","tags":["notes"],"created":"2025-06-11T10:28:48.464+09:30","updated":"2026-03-03T09:55:32.209+10:30","dg-note-properties":{"tags":"notes","related":null,"created":"2023-08-30","modified":"2026-03-03"}}
 ---
 
 

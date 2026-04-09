@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terraform-parallelism-investigation/","tags":["notes"],"created":"2026-03-27T09:57:51.498+10:30","updated":"2026-03-27T09:57:51.498+10:30","dg-note-properties":{"created":"2023-12-12","tags":"notes","related":["[[Terraform]]"],"references":["https://arkahna.atlassian.net/jira/software/c/projects/AALZP/issues/AALZP-258?jql=project%20%3D%20%22AALZP%22%20AND%20text%20~%20%22concurrent%22%20ORDER%20BY%20created%20DESC","https://developer.hashicorp.com/terraform/cli/commands/apply#parallelism-n","https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/request-limits-and-throttling"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform-parallelism-investigation/","tags":["notes"],"created":"2025-06-11T10:28:48.684+09:30","updated":"2026-03-03T09:55:32.089+10:30","dg-note-properties":{"created":"2023-12-12","tags":"notes","related":["[[Terraform]]"],"references":["https://arkahna.atlassian.net/jira/software/c/projects/AALZP/issues/AALZP-258?jql=project%20%3D%20%22AALZP%22%20AND%20text%20~%20%22concurrent%22%20ORDER%20BY%20created%20DESC","https://developer.hashicorp.com/terraform/cli/commands/apply#parallelism-n","https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/request-limits-and-throttling"],"modified":"2026-03-03"}}
 ---
 
 
