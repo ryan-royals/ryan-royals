@@ -1,5 +1,4 @@
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
-const simpleLinkRegex = /\[\[([^\]|]+)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 // Match iframe src for canvas embedded files (internal links only, not external URLs)
 // Format: <iframe src="/path/" class="canvas-file-iframe" ...>
@@ -34,15 +33,6 @@ function extractLinks(content) {
         link
           .slice(2, -2)
           .split("|")[0]
-          .replace(/\.(md|markdown)\s?$/i, "")
-          .replace("\\", "")
-          .trim()
-          .split("#")[0]
-    ),
-    ...(content.match(simpleLinkRegex) || []).map(
-      (link) =>
-        link
-          .slice(2, -2)
           .replace(/\.(md|markdown)\s?$/i, "")
           .replace("\\", "")
           .trim()
@@ -105,7 +95,6 @@ async function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
-  let slugURLs = {};
   let homeAlias = "/";
 
   const notes = data.collections.note || [];
@@ -139,25 +128,12 @@ async function getGraph(data) {
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
       outBound: extractLinks(content),
-      relatedLinks: [],
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
       hide: v.data.hideInGraph || false,
     };
-    // Extract links from the related: frontmatter field (stored in dg-note-properties)
-    const related = v.data?.["dg-note-properties"]?.related || [];
-    related
-      .filter((val) => typeof val === "string")
-      .flatMap((val) => extractLinks(val))
-      .forEach((link) => {
-        nodes[v.url].outBound.push(link);
-        nodes[v.url].relatedLinks.push(link);
-      });
     stemURLs[fpath] = v.url;
-    // Also index by just the filename slug for resolving short-form [[Note Name]] links
-    const slug = parts[parts.length - 1];
-    if (slug) slugURLs[slug] = v.url;
     if (
       v.data["dg-home"] ||
       (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
@@ -170,20 +146,10 @@ async function getGraph(data) {
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
-      let link = (stemURLs[olink] || slugURLs[olink] || olink).split("#")[0];
+      let link = (stemURLs[olink] || olink).split("#")[0];
       outBound.add(link);
     });
     node.outBound = Array.from(outBound);
-
-    // Resolve relatedLinks to URLs using the same lookup
-    node.relatedLinks = [
-      ...new Set(
-        node.relatedLinks
-          .map((olink) => (stemURLs[olink] || slugURLs[olink] || olink).split("#")[0])
-          .filter((link) => nodes[link]) // only keep links that resolve to a known node
-      ),
-    ];
-
     node.outBound.forEach((link) => {
       let n = nodes[link];
       if (n) {
