@@ -3,7 +3,7 @@
 Welcome to my Github.
 All Repos under my name here are mostly scratch / trash projects, no need to be a hater :)
 
-If you want to see something I'm a little more proud of, check out my [not-blog](ryanroyals.cloud) to get a bit more insight into what I am all about.
+If you want to see something I'm a little more proud of, check out my [not-blog](https://ryanroyals.cloud) to get a bit more insight into what I am all about.
 
 ## Contact Info
 
