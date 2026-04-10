@@ -13,6 +13,6 @@ Want to work with me in the future?
 Just think I'm someone you want to say hi to?
 Please, reach out!
 
-[LinkedIn](https://www.linkedin.com/in/ryan-royals/)
-[Email](mailto:me@ryanroyals.cloud)
+[LinkedIn](https://www.linkedin.com/in/ryan-royals/)  
+[Email](mailto:me@ryanroyals.cloud)  
 [Arkahna: Cloud-native, Outcome-driven, Future-ready](https://arkahna.io)
