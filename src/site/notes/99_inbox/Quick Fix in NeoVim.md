@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-inbox/quick-fix-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:44:18.340+09:30","updated":"2026-04-10T18:13:21.328+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10"}}
+{"dg-publish":true,"permalink":"/99-inbox/quick-fix-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:44:18.340+09:30","updated":"2026-04-10T16:57:53.829+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10"}}
 ---
 
 

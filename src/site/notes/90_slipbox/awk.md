@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/awk/","tags":["notes"],"created":"2026-04-09T15:31:51.116+09:30","updated":"2026-04-09T18:13:39.962+09:30","dg-note-properties":{"tags":"notes","related":["[[Shell]]"],"created":"2026-04-09","modified":"2026-04-09"}}
+{"dg-publish":true,"permalink":"/90-slipbox/awk/","tags":["notes"],"created":"2026-04-09T15:31:51.116+09:30","updated":"2026-04-09T15:35:53.111+09:30","dg-note-properties":{"tags":"notes","related":["[[Shell]]"],"created":"2026-04-09","modified":"2026-04-09"}}
 ---
 
 

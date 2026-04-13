@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/jq/","tags":["notes"],"created":"2026-04-09T10:04:59.919+09:30","updated":"2026-04-09T18:13:40.170+09:30","dg-note-properties":{"tags":"notes","related":["[[Shell]]"],"created":"2026-04-09","modified":"2026-04-09","aliases":"jq tips"}}
+{"dg-publish":true,"permalink":"/90-slipbox/jq/","tags":["notes"],"created":"2026-04-09T10:04:59.919+09:30","updated":"2026-04-09T15:40:00.727+09:30","dg-note-properties":{"tags":"notes","related":["[[Shell]]"],"created":"2026-04-09","modified":"2026-04-09","aliases":"jq tips"}}
 ---
 
 

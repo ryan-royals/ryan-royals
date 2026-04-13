@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/hcp-for-private-module-distribution/","tags":["notes"],"created":"2025-06-11T10:28:48.125+09:30","updated":"2026-03-03T09:55:32.310+10:30","dg-note-properties":{"created":"2024-08-30","tags":"notes","related":["[[HashiCorp Cloud Platform]]","[[Terraform]]"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/hcp-for-private-module-distribution/","tags":["notes"],"created":"2026-03-27T09:57:51.502+10:30","updated":"2026-03-27T09:57:51.502+10:30","dg-note-properties":{"created":"2024-08-30","tags":"notes","related":["[[HashiCorp Cloud Platform]]","[[Terraform]]"],"modified":"2026-03-03"}}
 ---
 
 

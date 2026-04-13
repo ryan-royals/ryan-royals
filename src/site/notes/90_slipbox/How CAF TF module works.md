@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/how-caf-tf-module-works/","tags":["notes"],"created":"2025-06-11T10:28:48.134+09:30","updated":"2026-03-03T09:55:32.299+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure Cloud Adoption Framework]]","[[Terraform]]"],"created":"2023-08-31","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/how-caf-tf-module-works/","tags":["notes"],"created":"2026-03-27T09:57:51.491+10:30","updated":"2026-03-27T09:57:51.491+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure Cloud Adoption Framework]]","[[Terraform]]"],"created":"2023-08-31","modified":"2026-03-03"}}
 ---
 
 

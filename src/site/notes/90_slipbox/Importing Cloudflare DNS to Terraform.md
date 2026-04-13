@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/importing-cloudflare-dns-to-terraform/","tags":["how-tos"],"created":"2026-02-24T09:36:06.170+10:30","updated":"2026-03-03T09:55:32.292+10:30","dg-note-properties":{"tags":"how-tos","related":["[[Cloudflare]]","[[Terraform]]"],"created":"2026-02-24","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/importing-cloudflare-dns-to-terraform/","tags":["how-tos"],"created":"2026-03-27T09:57:51.536+10:30","updated":"2026-03-27T09:57:51.536+10:30","dg-note-properties":{"tags":"how-tos","related":["[[Cloudflare]]","[[Terraform]]"],"created":"2026-02-24","modified":"2026-03-03"}}
 ---
 
 

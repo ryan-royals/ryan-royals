@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-backup-policy-conflicts-with-tag-enforcement-on-azure-backup-rg/","tags":["today-i-learns"],"created":"2026-04-09T15:10:08.771+09:30","updated":"2026-04-09T18:13:33.898+09:30","dg-note-properties":{"tags":"today-i-learns","related":["[[90_slipbox/Azure Backup\|Azure Backup]]","[[90_slipbox/Azure Policy\|Azure Policy]]"],"created":"2026-04-09","modified":"2026-04-09"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-backup-policy-conflicts-with-tag-enforcement-on-azure-backup-rg/","tags":["today-i-learns"],"created":"2026-04-09T15:10:08.771+09:30","updated":"2026-04-09T15:12:27.990+09:30","dg-note-properties":{"tags":"today-i-learns","related":["[[90_slipbox/Azure Backup\|Azure Backup]]","[[90_slipbox/Azure Policy\|Azure Policy]]"],"created":"2026-04-09","modified":"2026-04-09"}}
 ---
 
 

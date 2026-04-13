@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-blog/how-i-take-notes/","tags":["blogs"],"created":"2025-08-07T21:05:51.424+09:30","updated":"2026-03-03T09:55:32.776+10:30","dg-note-properties":{"created":"2025-06-11","tags":"blogs","modified":"2026-03-03","related":null}}
+{"dg-publish":true,"permalink":"/80-blog/how-i-take-notes/","tags":["blogs"],"created":"2026-03-27T09:57:51.988+10:30","updated":"2026-04-13T10:18:01.067+09:30","dg-note-properties":{"created":"2025-06-11","tags":"blogs","modified":"2026-04-13","related":null}}
 ---
 
 
@@ -43,10 +43,17 @@ A single file can represent multiple Object Types, or have Meta Types as well as
 | `#trips`          | Diary of my trips.                                                                                                    |
 | `#workbooks`      | Problem-solving journals as a place to think. Can also be a broader scope like a Project, with nested Workbooks.      |
 
+#### Status Tags
+
+| Tag               | Description                                                                                                                                                         |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#status/inbox`   | Mark a note as new. All notes start as new, and eventually drop this tag when they are sorted into a better object, or ends up deleted.                             |
+| `#status/ongoing` | Mark a note as ongoing. This is used to mark at note for ongoing review, and at the end of its life cycle it is is sorted into a better object, or ends up deleted. |
+
 #### Reference Tags
 
-| Tag           | Description                                                                        |
-| ------------- | ---------------------------------------------------------------------------------- |
+| Tag                   | Description                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------ |
 | `#ref/clippings`      | Type of Reference. Clipped from a website, using Obsidian Clipper                    |
 | `#ref/claude`         | Type of Reference. Shows that the content is largely Claude (LLM) generated content. |
 | `#ref/transcriptions` | Type of Reference. Exported / LLM refined transcriptions from calls.                 |
@@ -87,7 +94,6 @@ Fields are shared across different Object types to enable auto fill
 | Field       | Definition                                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------------------------------- |
 | address     | A string of the street address                                                                              |
-| archived    | A Boolean representing if the status of the Object, True meaning it is no longer being worked on.           |
 | author      | A list of Authors for the source material (Book Author for example)                                         |
 | base_color  | A color to use for the Icon in Bases map view                                                               |
 | base_icon   | A icon to use for the Icon in Bases map view                                                                |
@@ -141,18 +147,18 @@ related:
 
 ## Workflows & Best Practices
 
-### Daily Notes Workflow
-
-Daily notes are mostly used for their Bases to quickly see meta data about that day (Notes made, Notes changed, meetings had), but sometimes I put little bits of information in there. I typically find that my note taking style is not time boxed, and I prefer to have a long running Workbook or Project, over little bits of scattered information in daily notes (Not to say I don't like little fleeting notes, but they have the context of not being buried under a date).
-
 ### Slipbox Notes Workflow
+
+I use the [Spaced Repetition plugin](obsidian://show-plugin?id=obsidian-spaced-repetition) to manage reviewing my fleeting / inbox notes. I do this by using its Note review process, and filtering to my `#status` tags. It plays nice with tag hierarchy, so I can either review all of my inbox, or just my ongoing workbooks etc.  
+
+To ensure that all notes get at least a `#status/inbox` tag, I use the [Templatr](obsidian://show-plugin?id=templater-obsidian) plugin to ensure that all notes start with my `inbox_template`, which simply has the `#status/inbox` tag on it.
 
 **Inbox → Processing → Organization:**
 
-1. **Capture** - New content starts in `99_inbox/`
-2. **Process** - Review and add proper frontmatter/tags
-3. **Connect** - Add relevant links and relationships
-4. **Store** - Move to the slipbox when ready for long term storage.
+1. **Capture** - New content starts in `99_inbox/` with a `#status/inbox` tag.
+2. **Process** - Review and add proper frontmatter/tags.
+3. **Connect** - Add relevant links and relationships.
+4. **Store** - Remove the `#status` tag, move to the slipbox when ready for long term storage.
 
 #### Deciding on Making a New Note or Updating a Current Note
 
@@ -167,9 +173,12 @@ If the content is linking two topics together, create a new Note that links to b
 
 #### Creating New Notes
 
-1. Use Obsidian's template plugin or copy from `00_templates/` folder
-2. Ensure the correct tag is applied to match the object type
-3. Fill in required frontmatter fields according to the template
+1. Create a new note using `CTRL+N` or command `Create a new note`.
+    - This ensures it gets the `#status/inbox` tag.
+2. Apply additional templates to add frontmatter.
+3. Fill in required frontmatter fields according to the template.
+4. If the Note requires further processing for another time, leave as is with `#status` tag.
+5. If the Note is ready for storage, remove the `#status` tag and move to slipbox.
 
 #### File Naming Conventions
 
@@ -177,38 +186,43 @@ Consistent naming patterns enable predictable organization and easy discovery:
 
 **Daily Notes**: `YYYY-MM-DD.md`
 - Example: `2025-07-29.md`
-- Always use ISO date format for chronological sorting
+- Always use ISO date format for chronological sorting.
 
 **Meeting Notes**: `YYYY-MM-DD [Meeting Description].md`  
 - Example: `2025-07-29 Contoso Standup.md`
-- Date prefix enables chronological grouping
-- Descriptive suffix for context
+- Date prefix enables chronological grouping.
+- Descriptive suffix for context.
 
 **Technical Notes**: `[Descriptive Name].md`
 - Example: `Azure Application Gateway.md`
-- Use clear, searchable terms
-- Avoid abbreviations unless widely known
+- Use clear, searchable terms.
+- Avoid abbreviations unless widely known.
 
 **People/Companies**: `[Full Name/Company Name].md`
-- Example: `John Smith.md`, `Contoso.md`
-- Use official or commonly known names
+- Example: `John Smith.md`, `Contoso.md`.
+- Use official or commonly known names.
 
 #### Linking Strategy
 
 - **Daily notes** should **not be** directly linked, but instead the dated front matter fields offer the context.
-- **Meeting notes** should link to attendees, companies, related projects
-- **Technical notes** should link to related technologies, projects, people
-- Use **embedded content** (`![[]]`) sparingly - mainly for pulling meeting content into project notes
-- **Context is king** - every file should be discoverable through multiple paths
-- **Link early and often** - create connections as you write
-- **Use frontmatter** for structured relationships (people, orgs, projects)
-- **Use inline links** for conceptual connections and references
+- **Meeting notes** should link to attendees, companies, related projects.
+- **Technical notes** should link to related technologies, projects, people.
+- Use **embedded content** (`![[]]`) sparingly - mainly for pulling meeting content into project notes.
+- **Context is king** - every file should be discoverable through multiple paths.
+- **Link early and often** - create connections as you write.
+- **Use frontmatter** for structured relationships (people, orgs, projects).
+- **Use inline links** for conceptual connections and references.
 
 #### Content Style Guide
 
 - Content should be concise in nature, as this system is for Notes not Novels.
 - Headings are used liberally to make content easily parse-able.
 - Footnotes are to be used when referencing external content (webpages), otherwise WikiLinks are to be used for internal content and external content.
+
+### Why not a Daily Notes Workflow
+
+Daily notes are mostly used for their Bases to quickly see meta data about that day (Notes made, Notes changed, meetings had).  
+I typically find that my note taking style is not time boxed, and I prefer to have a long running Workbook or Project, over little bits of scattered information in daily notes (Not to say I don't like little fleeting notes, but they have the context of not being buried under a date).
 
 ## Obsidian-Specific Features
 
@@ -224,14 +238,15 @@ Consistent naming patterns enable predictable organization and easy discovery:
 
 ### Periodic Vault Maintenance
 
-**Weekly Review:**
-- Process files in `99_inbox/` folder - add proper frontmatter and move to appropriate organized folders
-- Review recent daily notes for orphaned links or incomplete connections  
-- Check for duplicate or similar files that could be consolidated
+**Daily Review:**
+1. Run the `Spaced Repetition: Open a note for review` command.
+2. Update the content of the Note
+3. If the Note is no longer required, delete it.
+4. If promoting the Note out of inbox, remove the `#status` tag and move to slipbox.
+5. If the Note will loop the inbox, run `Spaced Repetition: Review note as Easy / Good / Hard`, with `Hard` appearing more often.
 
 **Monthly Cleanup:**
 - Review and archive outdated object types
-- Update project status and close completed initiatives
 - Consolidate related technical notes where appropriate
 
 ### The "Campsite Rule"

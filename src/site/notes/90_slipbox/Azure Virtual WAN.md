@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-wan/","tags":["notes"],"created":"2025-06-11T10:28:47.846+09:30","updated":"2026-03-03T09:55:32.402+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"references":["[[2024-02-07 Meeting with Matt White]]","https://github.com/Azure/terraform-azurerm-avm-ptn-virtualwan"],"created":"2024-02-08","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-wan/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-03-27T09:57:51.490+10:30","dg-note-properties":{"tags":"notes","related":["[[Azure]]"],"references":["[[2024-02-07 Meeting with Matt White]]","https://github.com/Azure/terraform-azurerm-avm-ptn-virtualwan"],"created":"2024-02-08","modified":"2026-03-03"}}
 ---
 
 

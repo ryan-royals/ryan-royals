@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/network-routing/","tags":["notes"],"created":"2025-06-11T10:28:48.386+09:30","updated":"2026-03-03T09:55:32.229+10:30","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2023-08-02","modified":"2026-03-03","references":["https://en.wikipedia.org/wiki/Administrative_distance","https://en.wikipedia.org/wiki/Metrics_(networking)","https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21.html"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/network-routing/","tags":["notes"],"created":"2026-03-27T09:57:51.496+10:30","updated":"2026-03-27T09:57:51.497+10:30","dg-note-properties":{"tags":"notes","related":["[[Network Administration]]"],"created":"2023-08-02","modified":"2026-03-03","references":["https://en.wikipedia.org/wiki/Administrative_distance","https://en.wikipedia.org/wiki/Metrics_(networking)","https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/8651-21.html"]}}
 ---
 
 

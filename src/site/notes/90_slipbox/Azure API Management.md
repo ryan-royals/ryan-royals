@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-api-management/","tags":["notes"],"created":"2025-06-11T10:28:47.654+09:30","updated":"2026-04-09T14:28:10.687+09:30","dg-note-properties":{"created":"2023-05-26","modified":"2026-04-09","tags":"notes","references":["[[2023-11-22 APIM walkthrough with Leigh]]"],"related":["[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-api-management/","tags":["notes"],"created":"2026-03-27T09:57:51.486+10:30","updated":"2026-04-09T14:28:10.687+09:30","dg-note-properties":{"created":"2023-05-26","modified":"2026-04-09","tags":"notes","references":["[[2023-11-22 APIM walkthrough with Leigh]]"],"related":["[[Azure]]"]}}
 ---
 
 

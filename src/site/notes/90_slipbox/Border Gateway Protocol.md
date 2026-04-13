@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/border-gateway-protocol/","tags":["notes"],"created":"2025-06-11T10:28:47.884+09:30","updated":"2026-04-09T15:39:37.039+09:30","dg-note-properties":{"tags":"notes","created":"2023-08-11","modified":"2026-04-09","references":["https://www.youtube.com/watch?v=A1KXPpqlNZ4"],"related":["[[Network Administration]]"],"aliases":"BGP"}}
+{"dg-publish":true,"permalink":"/90-slipbox/border-gateway-protocol/","tags":["notes"],"created":"2026-03-27T09:57:51.487+10:30","updated":"2026-04-09T15:39:37.039+09:30","dg-note-properties":{"tags":"notes","created":"2023-08-11","modified":"2026-04-09","references":["https://www.youtube.com/watch?v=A1KXPpqlNZ4"],"related":["[[Network Administration]]"],"aliases":"BGP"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-inbox/search-and-replace-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:46:50.138+09:30","updated":"2026-04-10T18:13:21.312+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]","[[Quick Fix in NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10","aliases":"%s"}}
+{"dg-publish":true,"permalink":"/99-inbox/search-and-replace-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:46:50.138+09:30","updated":"2026-04-10T16:55:45.435+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]","[[Quick Fix in NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10","aliases":"%s"}}
 ---
 
 

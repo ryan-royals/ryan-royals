@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/johnny-decimal-system/","tags":["notes"],"created":"2025-06-11T10:28:48.218+09:30","updated":"2026-03-03T09:55:32.282+10:30","dg-note-properties":{"created":"2023-03-08","modified":"2026-03-03","tags":"notes","related":["[[Note Taking and Productivity]]"],"references":["https://johnnydecimal.com/"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/johnny-decimal-system/","tags":["notes"],"created":"2026-03-27T09:57:51.492+10:30","updated":"2026-03-27T09:57:51.492+10:30","dg-note-properties":{"created":"2023-03-08","modified":"2026-03-03","tags":"notes","related":["[[Note Taking and Productivity]]"],"references":["https://johnnydecimal.com/"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/rsync/","tags":["notes"],"created":"2025-08-12T10:23:32.332+09:30","updated":"2026-04-09T15:38:10.785+09:30","dg-note-properties":{"created":"2025-08-12","tags":"notes","related":["[[Shell]]"],"aliases":"Rsync Tips","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/rsync/","tags":["notes"],"created":"2026-03-27T09:57:51.497+10:30","updated":"2026-04-09T15:38:10.785+09:30","dg-note-properties":{"created":"2025-08-12","tags":"notes","related":["[[Shell]]"],"aliases":"Rsync Tips","modified":"2026-03-03"}}
 ---
 
 

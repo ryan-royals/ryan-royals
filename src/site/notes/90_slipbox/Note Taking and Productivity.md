@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/note-taking-and-productivity/","tags":["mocs"],"created":"2025-06-11T10:28:48.418+09:30","updated":"2026-03-03T09:55:32.220+10:30","dg-note-properties":{"created":"2023-03-22","modified":"2026-03-03","tags":"mocs","related":["[[Hobbies]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/note-taking-and-productivity/","tags":["mocs"],"created":"2026-03-27T09:57:51.512+10:30","updated":"2026-03-27T09:57:51.512+10:30","dg-note-properties":{"created":"2023-03-22","modified":"2026-03-03","tags":"mocs","related":["[[Hobbies]]"]}}
 ---
 
 

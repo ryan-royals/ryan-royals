@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/open-api-specification/","tags":["notes"],"created":"2025-06-11T10:28:48.444+09:30","updated":"2026-03-03T09:55:32.213+10:30","dg-note-properties":{"tags":"notes","aliases":"Swagger Specification","created":"2023-11-22","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/open-api-specification/","tags":["notes"],"created":"2026-03-27T09:57:51.497+10:30","updated":"2026-03-27T09:57:51.497+10:30","dg-note-properties":{"tags":"notes","aliases":"Swagger Specification","created":"2023-11-22","modified":"2026-03-03"}}
 ---
 
 

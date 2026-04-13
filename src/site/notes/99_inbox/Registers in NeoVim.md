@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-inbox/registers-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:04:36.328+09:30","updated":"2026-04-10T18:13:19.536+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10","references":["https://kezhenxu94.me/blog/registers-in-vim","https://neovim.io/doc/user/change/#_registers"]}}
+{"dg-publish":true,"permalink":"/99-inbox/registers-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:04:36.328+09:30","updated":"2026-04-10T16:42:39.195+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10","references":["https://kezhenxu94.me/blog/registers-in-vim","https://neovim.io/doc/user/change/#_registers"]}}
 ---
 
 

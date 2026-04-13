@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-inbox/macros-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:43:04.180+09:30","updated":"2026-04-10T18:13:20.356+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10"}}
+{"dg-publish":true,"permalink":"/99-inbox/macros-in-neo-vim/","tags":["notes"],"created":"2026-04-10T16:43:04.180+09:30","updated":"2026-04-10T16:43:19.979+09:30","dg-note-properties":{"tags":"notes","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10"}}
 ---
 
 
