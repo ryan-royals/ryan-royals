@@ -9,7 +9,7 @@ Bulk refactor lots of files where LSP tools are not doing it for you.
 
 ## Solutions
 
-Solutions largely come down to using [[99_inbox/Search and Replace in NeoVim\|Search and Replace in NeoVim]] on multiple files at the same time.
+Solutions largely come down to using [[90_slipbox/Search and Replace in NeoVim\|Search and Replace in NeoVim]] on multiple files at the same time.
 
 ### Args / Argdo
 
@@ -24,7 +24,7 @@ This captures entire resource lines and adds a comment prefix across all `.tf` f
 
 The `e` flag suppresses errors if no matches are found, and `update` saves only if the file was modified.
 
-### [[99_inbox/Quick Fix in NeoVim\|Quick Fix in NeoVim]]
+### [[90_slipbox/Quick Fix in NeoVim\|Quick Fix in NeoVim]]
 
 1. `grep *foo*`
 2. `cw` to show results
