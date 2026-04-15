@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/homepage/","tags":["notes","gardenEntry"],"created":"2026-03-27T09:57:51.985+10:30","updated":"2026-03-27T09:57:51.986+10:30","dg-note-properties":{"tags":"notes","created":"2024-05-03","modified":"2026-03-03"}}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/homepage/","tags":["notes","gardenEntry"],"created":"2026-03-27T09:57:51.985+10:30","updated":"2026-04-15T09:25:11.774+09:30","dg-note-properties":{"tags":"notes","created":"2024-05-03","modified":"2026-04-15","related":["[[Ryan Royals]]"]}}
 ---
 
 
