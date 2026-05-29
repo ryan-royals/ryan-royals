@@ -20,9 +20,14 @@ views:
       direction: DESC
     order:
       - file.name
+      - date
       - tags
       - related
     sort:
+      - property: date
+        direction: DESC
+      - property: file.name
+        direction: DESC
       - property: tags
         direction: ASC
   - type: table

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/search-and-replace-in-neo-vim/","tags":["how-tos"],"created":"2026-04-10T16:46:50.138+09:30","updated":"2026-04-15T13:34:03.713+09:30","dg-note-properties":{"tags":"how-tos","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-15","aliases":"%s"}}
+{"dg-publish":true,"permalink":"/90-slipbox/search-and-replace-in-neo-vim/","tags":["how-tos"],"created":"2026-04-10T16:46:50.138+09:30","updated":"2026-04-16T10:37:45.457+09:30","dg-note-properties":{"tags":"how-tos","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-16","aliases":"%s"}}
 ---
 
 
-## Getting started with Search and Replace `%s`
+## Getting Started with Search and Replace `%s`
 
-```
+```shell
 :%s/target/replacement/
 ```
 
@@ -72,14 +72,14 @@ The `e` flag suppresses errors if no matches are found, and `update` saves only 
 
  `-g` - Glob - Define the files to search through
 
-2. Show the results in the Quick Window
+1. Show the results in the Quick Window
 
 ```vim
 :cw
 :cwindow
 ```
 
-3. Quick Fix Do to use `%s` on all files in the Quick Window
+1. Quick Fix Do to use `%s` on all files in the Quick Window
 
 ```vim
 :cfdo %s/*foo*/*bar*`

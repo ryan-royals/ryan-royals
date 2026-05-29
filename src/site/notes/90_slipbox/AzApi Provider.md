@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/az-api-provider/","tags":["notes"],"created":"2026-03-27T09:57:51.486+10:30","updated":"2026-04-06T17:15:20.597+09:30","dg-note-properties":{"tags":"notes","related":["[[Azure]]","[[90_slipbox/Terraform\|Terraform]]"],"created":"2023-08-29","modified":"2026-04-06"}}
+{"dg-publish":true,"permalink":"/90-slipbox/az-api-provider/","tags":["notes"],"created":"2026-03-27T09:57:51.486+10:30","updated":"2026-05-28T15:20:51.174+09:30","dg-note-properties":{"tags":"notes","related":["[[Azure]]","[[90_slipbox/Terraform\|Terraform]]"],"created":"2023-08-29","modified":"2026-05-28"}}
 ---
 
 
@@ -35,6 +35,38 @@ My recommendation is to always use the Azapi Provider instead of [[AzureRM Provi
 Found that [[90_slipbox/AzApi Provider\|AzApi Provider]] has way better support for [[90_slipbox/Terraform\|Terraform]] Ephemeral blocks that [[AzureRM Provider\|AzureRM Provider]].  
 You can just use a `sensitve_body` to mark whatever argument you want as sensitive, and it just works.  
 This is way better than the AzureRM equivalent where it needs to be hand crafted, and there are resources that currently do not support it.
+
+### Lock
+
+When working on resources such as Subnets, you need to lock the parent resource so that multiple operations do not run against the resource at the same time.  
+This is done by using the `locks` parameter.
+
+``` go
+
+resource "azapi_resource" "subnet" {
+  type      = "Microsoft.Network/virtualNetworks/subnets@2025-05-01"
+  name      = "Subnet"
+  parent_id = module.workload_keys_reader.result["vnet_workload"].ResourceId
+  locks     = [module.workload_keys_reader.result["vnet_workload"].ResourceId]
+
+  body = {
+    properties = {
+      addressPrefix = var.subnet_address_prefix
+      delegations = [
+        {
+          name = "delegation"
+          properties = {
+            serviceName = "Microsoft.Web/serverFarms"
+          }
+        }
+      ]
+      networkSecurityGroup = {
+        id = azapi_resource.subnet_nsg.id
+      }
+    }
+  }
+}
+```
 
 ## Troubleshooting
 
