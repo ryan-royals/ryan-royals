@@ -3,21 +3,4 @@
 ---
 
 
-
-```base
-filters:
-  and:
-    - file.tags.contains("notes")
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - related
-      - created
-      - modified
-      - dg-publish
-    sort: []
-
-```
-
+![[notes.base\|notes.base]]
