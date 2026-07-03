@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-local-network-gateway/","tags":["notes"],"created":"2026-03-27T09:57:51.488+10:30","updated":"2026-05-29T14:39:05.101+09:30","dg-note-properties":{"tags":"notes","related":["[[90_slipbox/Azure Connection\|Azure Connection]]","[[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]]"],"references":["https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/2-design-implement-vpn-gateway"],"created":"2024-05-06","modified":"2026-05-29"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-local-network-gateway/","tags":["notes"],"created":"2026-03-27T09:57:51.488+10:30","updated":"2026-06-11T09:30:38.363+09:30","dg-note-properties":{"created":"2024-05-06","modified":"2026-06-11","references":["https://learn.microsoft.com/en-us/training/modules/design-implement-hybrid-networking/2-design-implement-vpn-gateway"],"related":["[[90_slipbox/Azure Connection\|Azure Connection]]","[[90_slipbox/Azure Virtual Network Gateway\|Azure Virtual Network Gateway]]"],"tags":"notes"}}
 ---
 
 

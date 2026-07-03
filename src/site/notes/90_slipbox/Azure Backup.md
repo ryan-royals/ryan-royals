@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-backup/","tags":["notes"],"created":"2026-03-27T09:57:51.493+10:30","updated":"2026-03-27T09:57:51.493+10:30","dg-note-properties":{"created":"2024-06-25","tags":"notes","related":["[[Azure]]"],"references":null,"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-backup/","tags":["notes"],"created":"2026-03-27T09:57:51.493+10:30","updated":"2026-06-11T09:30:38.374+09:30","dg-note-properties":{"created":"2024-06-25","modified":"2026-06-11","references":null,"related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 

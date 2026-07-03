@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-blog/how-i-take-notes/","tags":["blogs"],"created":"2026-03-27T09:57:51.988+10:30","updated":"2026-04-13T10:18:01.067+09:30","dg-note-properties":{"created":"2025-06-11","tags":"blogs","modified":"2026-04-13","related":null}}
+{"dg-publish":true,"permalink":"/80-blog/how-i-take-notes/","tags":["blogs"],"created":"2026-03-27T09:57:51.988+10:30","updated":"2026-06-11T09:30:38.590+09:30","dg-note-properties":{"created":"2025-06-11","modified":"2026-06-11","related":null,"tags":"blogs"}}
 ---
 
 
@@ -38,10 +38,11 @@ A single file can represent multiple Object Types, or have Meta Types as well as
 | `#notes`          | My catchall Object type that has technical documentation, more complex thoughts.                                      |
 | `#people`         | Contacts and People I have worked with.                                                                               |
 | `#presentations`  | Notes related to a presentation I attended, could be a webinar or a conference talk.                                  |
+| `#projects`       | A large piece of work, typically something that could have a start date, end date, and / or colllaborators.           |
 | `#recipes`        | My own little recipe book.                                                                                            |
 | `#restaurants`    | Restaurant reviews for places I have eaten.                                                                           |
 | `#trips`          | Diary of my trips.                                                                                                    |
-| `#workbooks`      | Problem-solving journals as a place to think. Can also be a broader scope like a Project, with nested Workbooks.      |
+| `#workbooks`      | Problem-solving journals as a place to think. Like a daily journal with a specific topic.                             |
 
 #### Status Tags
 
@@ -52,11 +53,11 @@ A single file can represent multiple Object Types, or have Meta Types as well as
 
 #### Reference Tags
 
-| Tag                   | Description                                                                          |
-| --------------------- | ------------------------------------------------------------------------------------ |
-| `#ref/clippings`      | Type of Reference. Clipped from a website, using Obsidian Clipper                    |
-| `#ref/claude`         | Type of Reference. Shows that the content is largely Claude (LLM) generated content. |
-| `#ref/transcriptions` | Type of Reference. Exported / LLM refined transcriptions from calls.                 |
+| Tag                   | Description                                                                 |
+| --------------------- | --------------------------------------------------------------------------- |
+| `#ref/clippings`      | Type of Reference. Clipped from a website, using Obsidian Clipper           |
+| `#ref/llm`            | Type of Reference. Shows that the content is largely LLM generated content. |
+| `#ref/transcriptions` | Type of Reference. Exported / LLM refined transcriptions from calls.        |
 
 #### Meta Tags
 

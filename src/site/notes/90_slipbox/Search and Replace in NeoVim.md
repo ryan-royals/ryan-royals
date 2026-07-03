@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/search-and-replace-in-neo-vim/","tags":["how-tos"],"created":"2026-04-10T16:46:50.138+09:30","updated":"2026-04-16T10:37:45.457+09:30","dg-note-properties":{"tags":"how-tos","related":["[[NeoVim]]"],"created":"2026-04-10","modified":"2026-04-16","aliases":"%s"}}
+{"dg-publish":true,"permalink":"/90-slipbox/search-and-replace-in-neo-vim/","tags":["how-tos"],"created":"2026-04-10T16:46:50.138+09:30","updated":"2026-06-11T09:30:38.189+09:30","dg-note-properties":{"aliases":"%s","created":"2026-04-10","modified":"2026-06-11","related":["[[NeoVim]]"],"tags":"how-tos"}}
 ---
 
 

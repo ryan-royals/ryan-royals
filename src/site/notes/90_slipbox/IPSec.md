@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/ip-sec/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-03-27T09:57:51.490+10:30","dg-note-properties":{"tags":"notes","related":["[[Virtual Private Network]]"],"references":null,"created":"2024-05-20","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/ip-sec/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-06-11T09:30:38.290+09:30","dg-note-properties":{"created":"2024-05-20","modified":"2026-06-11","references":null,"related":["[[Virtual Private Network]]"],"tags":"notes"}}
 ---
 
 

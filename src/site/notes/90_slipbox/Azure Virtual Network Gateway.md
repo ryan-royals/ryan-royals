@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network-gateway/","tags":["notes"],"created":"2026-03-27T09:57:51.488+10:30","updated":"2026-03-27T09:57:51.488+10:30","dg-note-properties":{"tags":"notes","related":["[[90_slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]]","[[Azure]]"],"references":["https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways"],"created":"2023-08-11","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network-gateway/","tags":["notes"],"created":"2026-03-27T09:57:51.488+10:30","updated":"2026-06-11T09:30:38.356+09:30","dg-note-properties":{"created":"2023-08-11","modified":"2026-06-11","references":["https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways"],"related":["[[90_slipbox/Azure Local Network Gateway\|Azure Local Network Gateway]]","[[Azure]]"],"tags":"notes"}}
 ---
 
 

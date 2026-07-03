@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/alz-accelerator/","tags":["notes"],"created":"2026-03-27T09:57:51.500+10:30","updated":"2026-04-06T18:11:04.349+09:30","dg-note-properties":{"tags":"notes","orgs":["[[Microsoft]]"],"related":["[[Terraform]]"],"created":"2023-10-27","modified":"2026-04-06"}}
+{"dg-publish":true,"permalink":"/90-slipbox/alz-accelerator/","tags":["notes"],"created":"2026-03-27T09:57:51.500+10:30","updated":"2026-06-11T09:30:38.400+09:30","dg-note-properties":{"created":"2023-10-27","modified":"2026-06-11","orgs":["[[Microsoft]]"],"related":["[[Terraform]]"],"tags":"notes"}}
 ---
 
 

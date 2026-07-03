@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/network-administration/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-03-27T11:19:56.248+10:30","dg-note-properties":{"created":"2024-05-06","tags":"notes","related":null,"references":null,"modified":"2026-03-27"}}
+{"dg-publish":true,"permalink":"/90-slipbox/network-administration/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-06-11T09:30:38.234+09:30","dg-note-properties":{"created":"2024-05-06","modified":"2026-06-11","references":null,"related":null,"tags":"notes"}}
 ---
 
 

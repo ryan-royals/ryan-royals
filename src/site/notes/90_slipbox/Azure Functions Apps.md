@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-functions-apps/","tags":["notes"],"created":"2026-03-27T09:57:51.499+10:30","updated":"2026-05-28T16:17:47.140+09:30","dg-note-properties":{"created":"2023-03-08","modified":"2026-05-28","tags":"notes","related":["[[Azure]]"],"references":null}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-functions-apps/","tags":["notes"],"created":"2026-03-27T09:57:51.499+10:30","updated":"2026-06-11T09:30:38.365+09:30","dg-note-properties":{"created":"2023-03-08","modified":"2026-06-11","references":null,"related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 

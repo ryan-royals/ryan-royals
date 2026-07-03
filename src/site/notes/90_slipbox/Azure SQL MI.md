@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-sql-mi/","tags":["notes"],"created":"2026-03-27T09:57:51.498+10:30","updated":"2026-03-27T09:57:51.498+10:30","dg-note-properties":{"created":"2023-04-19","modified":"2026-03-03","tags":"notes","related":["[[90_slipbox/Azure\|Azure]]"],"references":null}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-sql-mi/","tags":["notes"],"created":"2026-03-27T09:57:51.498+10:30","updated":"2026-06-11T09:30:38.359+09:30","dg-note-properties":{"created":"2023-04-19","modified":"2026-06-11","references":null,"related":["[[90_slipbox/Azure\|Azure]]"],"tags":"notes"}}
 ---
 
 

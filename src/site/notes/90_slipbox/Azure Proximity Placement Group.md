@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-proximity-placement-group/","tags":["notes"],"created":"2026-03-27T09:57:51.499+10:30","updated":"2026-03-27T09:57:51.499+10:30","dg-note-properties":{"created":"2023-08-22","modified":"2026-03-03","tags":"notes","references":null,"related":["[[Azure]]"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-proximity-placement-group/","tags":["notes"],"created":"2026-03-27T09:57:51.499+10:30","updated":"2026-06-11T09:30:38.361+09:30","dg-note-properties":{"created":"2023-08-22","modified":"2026-06-11","references":null,"related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 

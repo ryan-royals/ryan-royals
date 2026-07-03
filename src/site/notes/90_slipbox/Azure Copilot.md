@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-copilot/","tags":["notes"],"created":"2026-03-27T09:57:51.493+10:30","updated":"2026-03-27T09:57:51.494+10:30","dg-note-properties":{"created":"2023-12-05","tags":"notes","related":["[[Azure]]"],"references":["https://www.youtube.com/watch?v=-qZZnwgb2ss"],"modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-copilot/","tags":["notes"],"created":"2026-03-27T09:57:51.493+10:30","updated":"2026-06-11T09:30:38.372+09:30","dg-note-properties":{"created":"2023-12-05","modified":"2026-06-11","references":["https://www.youtube.com/watch?v=-qZZnwgb2ss"],"related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/using-zettlekasten-prefix-just-adds-friction/","tags":["notes"],"created":"2026-03-27T13:52:26.852+10:30","updated":"2026-04-07T10:01:53.232+09:30","dg-note-properties":{"tags":"notes","related":["[[Note Taking and Productivity]]"],"created":"2026-03-27","modified":"2026-04-07"}}
+{"dg-publish":true,"permalink":"/90-slipbox/using-zettlekasten-prefix-just-adds-friction/","tags":["notes"],"created":"2026-03-27T13:52:26.852+10:30","updated":"2026-06-11T09:30:38.160+09:30","dg-note-properties":{"created":"2026-03-27","modified":"2026-06-11","related":["[[Note Taking and Productivity]]"],"tags":"notes"}}
 ---
 
 

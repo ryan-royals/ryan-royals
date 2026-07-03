@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/git/","tags":["notes"],"created":"2026-03-27T09:57:51.532+10:30","updated":"2026-04-09T15:38:39.556+09:30","dg-note-properties":{"created":"2023-06-05","modified":"2026-04-09","tags":"notes","related":["[[Programming]]"],"aliases":"Git Tips"}}
+{"dg-publish":true,"permalink":"/90-slipbox/git/","tags":["notes"],"created":"2026-03-27T09:57:51.532+10:30","updated":"2026-06-11T09:30:38.297+09:30","dg-note-properties":{"aliases":"Git Tips","created":"2023-06-05","modified":"2026-06-11","related":["[[Programming]]"],"tags":"notes"}}
 ---
 
 
@@ -19,17 +19,23 @@ views:
       property: file.tags
       direction: DESC
     order:
-      - file.name
-      - date
       - tags
+      - date
+      - file.name
       - related
     sort:
       - property: date
-        direction: DESC
+        direction: ASC
+      - property: related
+        direction: ASC
       - property: file.name
         direction: DESC
       - property: tags
-        direction: ASC
+        direction: DESC
+    columnSize:
+      note.tags: 88
+      note.date: 105
+      file.name: 234
   - type: table
     name: Meetings
     filters:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/conditional-forwarding-in-ad-dns-can-not-be-privatelink-subdomain/","tags":["today-i-learns"],"created":"2026-05-29T14:27:28.769+09:30","updated":"2026-05-29T14:29:06.654+09:30","dg-note-properties":{"tags":"today-i-learns","related":["[[Active Directory]]","[[Azure Private Link]]"],"created":"2026-05-29","modified":"2026-05-29"}}
+{"dg-publish":true,"permalink":"/90-slipbox/conditional-forwarding-in-ad-dns-can-not-be-privatelink-subdomain/","tags":["today-i-learns"],"created":"2026-05-29T14:27:28.769+09:30","updated":"2026-06-11T09:30:38.333+09:30","dg-note-properties":{"created":"2026-05-29","modified":"2026-06-11","related":["[[Active Directory]]","[[Azure Private Link]]"],"tags":"today-i-learns"}}
 ---
 
 

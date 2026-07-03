@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/keyboards/","tags":["mocs"],"created":"2026-03-27T09:57:51.513+10:30","updated":"2026-03-27T09:57:51.513+10:30","dg-note-properties":{"tags":"mocs","related":["[[Hobbies]]"],"created":"2025-12-08","modified":"2026-03-03"}}
+{"dg-publish":true,"permalink":"/90-slipbox/keyboards/","tags":["mocs"],"created":"2026-03-27T09:57:51.513+10:30","updated":"2026-06-11T09:30:38.271+09:30","dg-note-properties":{"created":"2025-12-08","modified":"2026-06-11","related":["[[Hobbies]]"],"tags":"mocs"}}
 ---
 
 
@@ -17,17 +17,23 @@ views:
       property: file.tags
       direction: DESC
     order:
-      - file.name
-      - date
       - tags
+      - date
+      - file.name
       - related
     sort:
       - property: date
-        direction: DESC
+        direction: ASC
+      - property: related
+        direction: ASC
       - property: file.name
         direction: DESC
       - property: tags
-        direction: ASC
+        direction: DESC
+    columnSize:
+      note.tags: 88
+      note.date: 105
+      file.name: 234
   - type: table
     name: Meetings
     filters:

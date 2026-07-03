@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/shell/","tags":["notes"],"created":"2026-03-27T09:57:51.492+10:30","updated":"2026-04-13T09:32:42.914+09:30","dg-note-properties":{"tags":"notes","related":["[[Programming]]"],"aliases":["Bash","Bash Tips","Shell","Shell Tips","Zsh","Zsh Tips"],"created":"2026-03-06","modified":"2026-04-13","references":["https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/shell/","tags":["notes"],"created":"2026-03-27T09:57:51.492+10:30","updated":"2026-06-11T09:30:38.184+09:30","dg-note-properties":{"aliases":["Bash","Bash Tips","Shell","Shell Tips","Zsh","Zsh Tips"],"created":"2026-03-06","modified":"2026-06-11","references":["https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs"],"related":["[[Programming]]"],"tags":"notes"}}
 ---
 
 
@@ -139,17 +139,23 @@ views:
       property: file.tags
       direction: DESC
     order:
-      - file.name
-      - date
       - tags
+      - date
+      - file.name
       - related
     sort:
       - property: date
-        direction: DESC
+        direction: ASC
+      - property: related
+        direction: ASC
       - property: file.name
         direction: DESC
       - property: tags
-        direction: ASC
+        direction: DESC
+    columnSize:
+      note.tags: 88
+      note.date: 105
+      file.name: 234
   - type: table
     name: Meetings
     filters:

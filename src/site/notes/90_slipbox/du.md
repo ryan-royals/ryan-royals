@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/du/","tags":["notes"],"created":"2026-04-09T15:37:04.709+09:30","updated":"2026-04-13T09:29:23.858+09:30","dg-note-properties":{"tags":"notes","related":["[[Shell]]"],"aliases":"Dish Usage","created":"2026-04-09","modified":"2026-04-13"}}
+{"dg-publish":true,"permalink":"/90-slipbox/du/","tags":["notes"],"created":"2026-04-09T15:37:04.709+09:30","updated":"2026-06-11T09:30:38.146+09:30","dg-note-properties":{"aliases":"Dish Usage","created":"2026-04-09","modified":"2026-06-11","related":["[[Shell]]"],"tags":"notes"}}
 ---
 
 

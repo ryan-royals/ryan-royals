@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/remove-consecutive-empty-lines-in-neo-vim/","tags":["how-tos"],"created":"2026-04-10T16:48:17.337+09:30","updated":"2026-04-10T16:48:50.364+09:30","dg-note-properties":{"tags":"how-tos","related":["[[NeoVim]]","[[Search and Replace in NeoVim]]"],"created":"2026-04-10","modified":"2026-04-10"}}
+{"dg-publish":true,"permalink":"/90-slipbox/remove-consecutive-empty-lines-in-neo-vim/","tags":["how-tos"],"created":"2026-04-10T16:48:17.337+09:30","updated":"2026-06-11T09:30:38.200+09:30","dg-note-properties":{"created":"2026-04-10","modified":"2026-06-11","related":["[[NeoVim]]","[[Search and Replace in NeoVim]]"],"tags":"how-tos"}}
 ---
 
 

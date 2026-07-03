@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/tmux/","tags":["notes"],"created":"2026-03-27T09:57:51.513+10:30","updated":"2026-04-10T16:04:09.391+09:30","dg-note-properties":{"tags":"notes","created":"2025-08-13","related":["[[Shell|Shell]]"],"references":null,"aliases":"tmux tips","modified":"2026-04-10"}}
+{"dg-publish":true,"permalink":"/90-slipbox/tmux/","tags":["notes"],"created":"2026-03-27T09:57:51.513+10:30","updated":"2026-06-11T09:30:38.135+09:30","dg-note-properties":{"aliases":"tmux tips","created":"2025-08-13","modified":"2026-06-11","references":null,"related":["[[Shell|Shell]]"],"tags":"notes"}}
 ---
 
 
