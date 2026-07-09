@@ -14,5 +14,5 @@ Just think I'm someone you want to say hi to?
 Please, reach out!
 
 [LinkedIn](https://www.linkedin.com/in/ryan-royals/)  
-[Email](mailto:me@ryanroyals.cloud)  
+[Email](mailto:gday@ryanroyals.cloud)  
 [Arkahna: Cloud-native, Outcome-driven, Future-ready](https://arkahna.io)
