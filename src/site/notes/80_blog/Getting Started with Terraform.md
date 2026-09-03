@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-blog/getting-started-with-terraform/","tags":["blogs"],"created":"2026-03-27T09:57:51.987+10:30","updated":"2026-06-11T09:30:38.591+09:30","dg-note-properties":{"created":"2023-12-22","modified":"2026-06-11","references":[],"related":["[[Arkahna - Blog]]","[[Terraform]]"],"tags":"blogs"}}
+{"dg-publish":true,"permalink":"/80-blog/getting-started-with-terraform/","tags":["blogs"],"created":"2025-06-11T10:28:47.627+09:30","updated":"2026-06-11T09:30:38.591+09:30","dg-note-properties":{"created":"2023-12-22","modified":"2026-06-11","references":[],"related":["[[Arkahna - Blog]]","[[Terraform]]"],"tags":"blogs"}}
 ---
 
 

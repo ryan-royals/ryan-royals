@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-blog/using-a-squid-proxy-container-to-quickly-capture-requested-urls/","tags":["blogs"],"created":"2026-03-27T09:57:51.987+10:30","updated":"2026-06-11T09:30:38.585+09:30","dg-note-properties":{"created":"2025-02-07","modified":"2026-06-11","related":["[[Arkahna - Blog]]","[[Squid Proxy]]"],"tags":"blogs"}}
+{"dg-publish":true,"permalink":"/80-blog/using-a-squid-proxy-container-to-quickly-capture-requested-urls/","tags":["blogs"],"created":"2025-06-11T10:28:48.744+09:30","updated":"2026-06-11T09:30:38.585+09:30","dg-note-properties":{"created":"2025-02-07","modified":"2026-06-11","related":["[[Arkahna - Blog]]","[[Squid Proxy]]"],"tags":"blogs"}}
 ---
 
 

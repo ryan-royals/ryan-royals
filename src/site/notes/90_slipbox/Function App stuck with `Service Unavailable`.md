@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/function-app-stuck-with-service-unavailable/","tags":["inbox/new","today-i-learns"],"created":"2026-07-03T09:52:31.502+09:30","updated":"2026-07-03T09:55:03.779+09:30","dg-note-properties":{"created":"2026-07-03","modified":"2026-07-03","related":["[[Azure Functions Apps]]","[[Azure Private Endpoint]]"],"tags":["inbox/new","today-i-learns"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/function-app-stuck-with-service-unavailable/","tags":["today-i-learns"],"created":"2026-07-03T09:52:31.502+09:30","updated":"2026-07-06T14:28:48.002+09:30","dg-note-properties":{"created":"2026-07-03","modified":"2026-07-06","related":["[[Azure Functions Apps]]","[[Azure Private Endpoint]]"],"tags":"today-i-learns"}}
 ---
 
 

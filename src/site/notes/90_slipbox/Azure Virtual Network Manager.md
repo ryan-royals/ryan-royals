@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network-manager/","tags":["notes"],"created":"2026-03-27T09:57:51.495+10:30","updated":"2026-06-11T09:30:38.356+09:30","dg-note-properties":{"created":"2025-06-11","modified":"2026-06-11","references":["https://azure.microsoft.com/en-us/products/virtual-network-manager"],"related":["[[Azure Virtual Network]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-virtual-network-manager/","tags":["notes"],"created":"2025-06-30T10:16:00.422+09:30","updated":"2026-06-11T09:30:38.356+09:30","dg-note-properties":{"created":"2025-06-11","modified":"2026-06-11","references":["https://azure.microsoft.com/en-us/products/virtual-network-manager"],"related":["[[Azure Virtual Network]]"],"tags":"notes"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/git/","tags":["notes"],"created":"2026-03-27T09:57:51.532+10:30","updated":"2026-06-11T09:30:38.297+09:30","dg-note-properties":{"aliases":"Git Tips","created":"2023-06-05","modified":"2026-06-11","related":["[[Programming]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/git/","tags":["notes"],"created":"2025-06-11T10:28:48.103+09:30","updated":"2026-06-11T09:30:38.297+09:30","dg-note-properties":{"aliases":"Git Tips","created":"2023-06-05","modified":"2026-06-11","related":["[[Programming]]"],"tags":"notes"}}
 ---
 
 
@@ -25,7 +25,7 @@ views:
       - related
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
       - property: related
         direction: ASC
       - property: file.name

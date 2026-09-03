@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/strategies-to-avoid-braking-terraform-state/","tags":["notes"],"created":"2026-03-27T09:57:51.498+10:30","updated":"2026-06-11T09:30:38.179+09:30","dg-note-properties":{"created":"2023-11-29","modified":"2026-06-11","references":null,"related":["[[Terraform]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/strategies-to-avoid-braking-terraform-state/","tags":["notes"],"created":"2025-06-11T10:28:48.653+09:30","updated":"2026-06-11T09:30:38.179+09:30","dg-note-properties":{"created":"2023-11-29","modified":"2026-06-11","references":null,"related":["[[Terraform]]"],"tags":"notes"}}
 ---
 
 

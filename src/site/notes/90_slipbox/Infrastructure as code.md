@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/infrastructure-as-code/","tags":["notes"],"created":"2026-03-27T09:57:51.486+10:30","updated":"2026-06-11T09:30:38.286+09:30","dg-note-properties":{"aliases":"IaC","created":"2023-10-15","modified":"2026-06-11","references":"https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code","related":null,"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/infrastructure-as-code/","tags":["notes"],"created":"2025-06-11T10:28:48.167+09:30","updated":"2026-06-11T09:30:38.286+09:30","dg-note-properties":{"aliases":"IaC","created":"2023-10-15","modified":"2026-06-11","references":"https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code","related":null,"tags":"notes"}}
 ---
 
 

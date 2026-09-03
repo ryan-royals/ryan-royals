@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/keyboards/","tags":["mocs"],"created":"2026-03-27T09:57:51.513+10:30","updated":"2026-06-11T09:30:38.271+09:30","dg-note-properties":{"created":"2025-12-08","modified":"2026-06-11","related":["[[Hobbies]]"],"tags":"mocs"}}
+{"dg-publish":true,"permalink":"/90-slipbox/keyboards/","tags":["mocs"],"created":"2025-06-11T10:28:48.240+09:30","updated":"2026-06-11T09:30:38.271+09:30","dg-note-properties":{"created":"2025-12-08","modified":"2026-06-11","related":["[[Hobbies]]"],"tags":"mocs"}}
 ---
 
 
@@ -23,7 +23,7 @@ views:
       - related
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
       - property: related
         direction: ASC
       - property: file.name

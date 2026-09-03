@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/virtual-private-network/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-06-11T09:30:38.158+09:30","dg-note-properties":{"aliases":["vpn","VPN"],"created":"2024-05-06","modified":"2026-06-11","references":null,"related":["[[Network Administration]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/virtual-private-network/","tags":["notes"],"created":"2025-06-11T10:28:48.759+09:30","updated":"2026-06-11T09:30:38.158+09:30","dg-note-properties":{"aliases":["vpn","VPN"],"created":"2024-05-06","modified":"2026-06-11","references":null,"related":["[[Network Administration]]"],"tags":"notes"}}
 ---
 
 

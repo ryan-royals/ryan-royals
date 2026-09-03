@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/tetris-theme/","tags":["tabs"],"created":"2026-06-22T14:28:26.582+09:30","updated":"2026-06-22T14:28:26.886+09:30","dg-note-properties":{"created":"2026-06-12","modified":"2026-06-13","references":["https://coolstylophonetabs.neocities.org/#Misc"],"related":["[[Stylophone]]"],"tags":"tabs"}}
+{"dg-publish":true,"permalink":"/90-slipbox/tetris-theme/","tags":["tabs"],"created":"2026-06-12T23:44:31.949+09:30","updated":"2026-06-13T14:59:57.794+09:30","dg-note-properties":{"created":"2026-06-12","modified":"2026-06-13","references":["https://coolstylophonetabs.neocities.org/#Misc"],"related":["[[Stylophone]]"],"tags":"tabs"}}
 ---
 
 

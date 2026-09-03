@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/alz-accelerator/","tags":["notes"],"created":"2026-03-27T09:57:51.500+10:30","updated":"2026-06-11T09:30:38.400+09:30","dg-note-properties":{"created":"2023-10-27","modified":"2026-06-11","orgs":["[[Microsoft]]"],"related":["[[Terraform]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/alz-accelerator/","tags":["notes"],"created":"2025-06-11T10:28:47.584+09:30","updated":"2026-08-31T11:20:20.435+09:30","dg-note-properties":{"created":"2023-10-27","modified":"2026-08-31","orgs":["[[Microsoft]]"],"related":["[[Terraform]]"],"tags":"notes"}}
 ---
 
 
@@ -8,3 +8,6 @@ It is a simple form that takes the basic inputs for the platform (name, network 
 
 Module Source code : <https://github.com/Azure/ALZ-PowerShell-Module>  
 Repo that gets used as a template: <https://github.com/Azure/alz-terraform-accelerator>
+
+[[90_slipbox/ALZ Accelerator Bootstrap checklist\|ALZ Accelerator Bootstrap checklist]]  
+[[90_slipbox/ALZ Accelerator Terraform Checklist\|ALZ Accelerator Terraform Checklist]]

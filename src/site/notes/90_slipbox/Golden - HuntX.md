@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/golden-hunt-x/","tags":["tabs"],"created":"2026-06-22T14:28:26.382+09:30","updated":"2026-06-25T16:01:07.020+09:30","dg-note-properties":{"created":"2026-06-12","modified":"2026-06-25","references":null,"related":["[[Stylophone]]"],"tags":"tabs"}}
+{"dg-publish":true,"permalink":"/90-slipbox/golden-hunt-x/","tags":["tabs"],"created":"2026-06-12T23:44:31.760+09:30","updated":"2026-06-25T16:01:07.020+09:30","dg-note-properties":{"created":"2026-06-12","modified":"2026-06-25","references":null,"related":["[[Stylophone]]"],"tags":"tabs"}}
 ---
 
 

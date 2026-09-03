@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/load-balance-http-s-traffic-in-azure/","tags":["notes"],"created":"2026-03-27T09:57:51.496+10:30","updated":"2026-06-11T09:30:38.261+09:30","dg-note-properties":{"created":"2024-09-24","modified":"2026-06-11","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/load-balance-http-s-traffic-in-azure/","tags":["notes"],"created":"2025-06-11T10:28:48.276+09:30","updated":"2026-06-11T09:30:38.261+09:30","dg-note-properties":{"created":"2024-09-24","modified":"2026-06-11","related":["[[Exam AZ-700 Designing and Implementing Microsoft Azure Networking Solutions]]"],"tags":"notes"}}
 ---
 
 

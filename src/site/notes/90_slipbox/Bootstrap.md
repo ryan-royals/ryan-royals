@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/bootstrap/","tags":["notes"],"created":"2026-03-27T09:57:51.493+10:30","updated":"2026-06-11T09:30:38.347+09:30","dg-note-properties":{"created":"2023-09-25","modified":"2026-06-11","orgs":null,"references":null,"related":["[[90_slipbox/CSS\|CSS]]","[[90_slipbox/HTML\|HTML]]","[[Programming]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/bootstrap/","tags":["notes"],"created":"2025-06-11T10:28:47.883+09:30","updated":"2026-06-11T09:30:38.347+09:30","dg-note-properties":{"created":"2023-09-25","modified":"2026-06-11","orgs":null,"references":null,"related":["[[90_slipbox/CSS\|CSS]]","[[90_slipbox/HTML\|HTML]]","[[Programming]]"],"tags":"notes"}}
 ---
 
 

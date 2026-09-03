@@ -25,7 +25,7 @@ views:
       - related
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
       - property: related
         direction: ASC
       - property: file.name

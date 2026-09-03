@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/dactyl-manuform/","tags":["assets"],"created":"2026-03-27T09:57:51.503+10:30","updated":"2026-06-11T09:30:38.323+09:30","dg-note-properties":{"created":"2025-01-15","date":"2025-01-15","modified":"2026-06-11","related":["[[Keyboards]]"],"tags":"assets"}}
+{"dg-publish":true,"permalink":"/90-slipbox/dactyl-manuform/","tags":["assets"],"created":"2025-06-11T10:28:47.972+09:30","updated":"2026-06-11T09:30:38.323+09:30","dg-note-properties":{"created":"2025-01-15","date":"2025-01-15","modified":"2026-06-11","related":["[[Keyboards]]"],"tags":"assets"}}
 ---
 
 

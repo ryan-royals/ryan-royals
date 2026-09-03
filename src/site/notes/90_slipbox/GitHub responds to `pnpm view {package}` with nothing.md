@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/git-hub-responds-to-pnpm-view-package-with-nothing/","tags":["how-tos"],"created":"2026-03-27T09:57:51.531+10:30","updated":"2026-06-11T09:30:38.297+09:30","dg-note-properties":{"confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1645838354/GitHub+responds+to+pnpm+view+package+with+nothing","created":"2025-12-18","modified":"2026-06-11","pageId":"1645838354","related":["[[Github Packages]]","[[PNPM]]"],"spaceId":"331808774","tags":"how-tos"}}
+{"dg-publish":true,"permalink":"/90-slipbox/git-hub-responds-to-pnpm-view-package-with-nothing/","tags":["how-tos"],"created":"2025-12-18T16:20:33.617+10:30","updated":"2026-06-11T09:30:38.297+09:30","dg-note-properties":{"confluenceUrl":"https://arkahna.atlassian.net/wiki/spaces/~6332438e748d1bfcb85930b7/pages/1645838354/GitHub+responds+to+pnpm+view+package+with+nothing","created":"2025-12-18","modified":"2026-06-11","pageId":"1645838354","related":["[[Github Packages]]","[[PNPM]]"],"spaceId":"331808774","tags":"how-tos"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/nx/","tags":["notes"],"created":"2026-03-27T09:57:51.533+10:30","updated":"2026-06-11T09:30:38.229+09:30","dg-note-properties":{"aliases":"NX Tips","created":"2025-10-15","modified":"2026-06-11","related":["[[Programming]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/nx/","tags":["notes"],"created":"2025-10-15T09:58:42.837+10:30","updated":"2026-06-11T09:30:38.229+09:30","dg-note-properties":{"aliases":"NX Tips","created":"2025-10-15","modified":"2026-06-11","related":["[[Programming]]"],"tags":"notes"}}
 ---
 
 

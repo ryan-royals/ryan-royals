@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/shell/","tags":["notes"],"created":"2026-03-27T09:57:51.492+10:30","updated":"2026-06-11T09:30:38.184+09:30","dg-note-properties":{"aliases":["Bash","Bash Tips","Shell","Shell Tips","Zsh","Zsh Tips"],"created":"2026-03-06","modified":"2026-06-11","references":["https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs"],"related":["[[Programming]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/shell/","tags":["notes"],"created":"2025-07-30T16:53:57.248+09:30","updated":"2026-06-11T09:30:38.184+09:30","dg-note-properties":{"aliases":["Bash","Bash Tips","Shell","Shell Tips","Zsh","Zsh Tips"],"created":"2026-03-06","modified":"2026-06-11","references":["https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs"],"related":["[[Programming]]"],"tags":"notes"}}
 ---
 
 
@@ -145,7 +145,7 @@ views:
       - related
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
       - property: related
         direction: ASC
       - property: file.name

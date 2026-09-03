@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/hcp-for-private-module-distribution/","tags":["notes"],"created":"2026-03-27T09:57:51.502+10:30","updated":"2026-06-11T09:30:38.295+09:30","dg-note-properties":{"created":"2024-08-30","modified":"2026-06-11","related":["[[HashiCorp Cloud Platform]]","[[Terraform]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/hcp-for-private-module-distribution/","tags":["notes"],"created":"2025-06-11T10:28:48.125+09:30","updated":"2026-06-11T09:30:38.295+09:30","dg-note-properties":{"created":"2024-08-30","modified":"2026-06-11","related":["[[HashiCorp Cloud Platform]]","[[Terraform]]"],"tags":"notes"}}
 ---
 
 
@@ -20,7 +20,7 @@ This is done through the use of `credential` blocks in Terraform, and API Keys.
 
 Modules and Providers are published at the Organization layer, which is the top layer to HCP. All Users and Teams in a Organization have access to interact with all Modules and Providers, without a way to restrict to certain teams.
 
-As [[90_slipbox/Arkahna\|Arkahna]], we could set up a Organization per customer, and then they could self service access to any Modules we chose to publish to the Organization.  
+As [[90_slipbox/companies/Arkahna\|Arkahna]], we could set up a Organization per customer, and then they could self service access to any Modules we chose to publish to the Organization.  
 This approach would work, but if the customer removed us from the Organization, we would have no way to unpublish the module, making it so any subscription based approach would be easy to work around as we can not revoke access.
 
 [[90_slipbox/Terraform Enterprise\|Terraform Enterprise]] allows you to have a *Enterprise* that sits on top of *Organizations*, which appears to give you control on which Modules to publish, but is a paid self hosted version of HCP.

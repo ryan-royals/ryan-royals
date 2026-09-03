@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/managed-identity-can-not-add-members-to-a-group-it-is-the-owner-of/","tags":["notes"],"created":"2026-03-27T09:57:51.397+10:30","updated":"2026-06-11T09:30:38.257+09:30","dg-note-properties":{"created":"2025-12-04","modified":"2026-06-11","related":["[[Azure User Assigned Managed Identity\|Azure User Assigned Managed Identity]]","[[90_slipbox/AzureAD Provider\|AzureAD Provider]]","[[Entra ID]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/managed-identity-can-not-add-members-to-a-group-it-is-the-owner-of/","tags":["notes"],"created":"2025-12-04T15:46:19.184+10:30","updated":"2026-06-11T09:30:38.257+09:30","dg-note-properties":{"created":"2025-12-04","modified":"2026-06-11","related":["[[Azure User Assigned Managed Identity\|Azure User Assigned Managed Identity]]","[[90_slipbox/AzureAD Provider\|AzureAD Provider]]","[[Entra ID]]"],"tags":"notes"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/introduction-to-azure-open-ai-service/","tags":["notes"],"created":"2026-03-27T09:57:51.503+10:30","updated":"2026-06-11T09:30:38.284+09:30","dg-note-properties":{"created":"2023-05-29","modified":"2026-06-11","references":["https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"],"related":["[[Azure]]","[[Microsoft Build Azure AI Challenge]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/introduction-to-azure-open-ai-service/","tags":["notes"],"created":"2025-06-11T10:28:48.183+09:30","updated":"2026-06-11T09:30:38.284+09:30","dg-note-properties":{"created":"2023-05-29","modified":"2026-06-11","references":["https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?WT.mc_id=cloudskillschallenge_12f32cf8-2cd8-42e1-97dd-001b4a042766"],"related":["[[Azure]]","[[Microsoft Build Azure AI Challenge]]"],"tags":"notes"}}
 ---
 
 
@@ -42,7 +42,7 @@ Where OpenAI models fit into AI landscape:
 
 
 
-Created in partnership with Microsoft and [[90_slipbox/OpenAI\|OpenAI]], a service is supplied to provide 4 key components:
+Created in partnership with Microsoft and [[90_slipbox/companies/OpenAI\|OpenAI]], a service is supplied to provide 4 key components:
 
 - Pre trained generative AI models
 - customization capabilities to fine tune the AI
@@ -77,23 +77,10 @@ Completions (Also Chat Completions) are predictive modes that you pass a message
 
 ### Embeddings
 
-Embeddings are trained to give a [[90_slipbox/Data Vector\|Data Vector]] response, which is used to create searchable content to find a specific document that is most like the input.  
+Embeddings are trained to give a [[Data Vector\|Data Vector]] response, which is used to create searchable content to find a specific document that is most like the input.  
 This involves the processing of data using something like [[90_slipbox/Azure Data Factory\|Azure Data Factory]]  
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/90-slipbox/data-vector/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-Vectors are similar to a GUID for the data, that measure the data in 3d space so you can compare them.  
-Convert content to maths, so you can compare the maths to find what you are looking for  
-Each Embedding is a vector of floating point numbers, and the distance between two embeddings in the vector space is correlated with semantic similarity between two inputs in the original format.
-
-
-</div></div>
-
+![[Data Vector\|Data Vector]]
 
 
 </div></div>

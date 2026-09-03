@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/terraform/","tags":["notes"],"created":"2026-03-27T09:57:51.532+10:30","updated":"2026-06-11T09:30:38.175+09:30","dg-note-properties":{"created":"2023-05-08","modified":"2026-06-11","orgs":["[[90_slipbox/HashiCorp\|HashiCorp]]"],"references":null,"related":["[[90_slipbox/Infrastructure as code\|Infrastructure as code]]","[[Programming]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/terraform/","tags":["notes"],"created":"2025-06-11T10:28:48.693+09:30","updated":"2026-06-11T09:30:38.175+09:30","dg-note-properties":{"created":"2023-05-08","modified":"2026-06-11","orgs":["[[90_slipbox/companies/HashiCorp\|HashiCorp]]"],"references":null,"related":["[[90_slipbox/Infrastructure as code\|Infrastructure as code]]","[[Programming]]"],"tags":"notes"}}
 ---
 
 
-Terraform is a Declarative, Domain Specific Language, [[90_slipbox/Infrastructure as code\|Infrastructure as code]] tool by [[90_slipbox/HashiCorp\|HashiCorp]] used to manage public cloud platforms like [[90_slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].
+Terraform is a Declarative, Domain Specific Language, [[90_slipbox/Infrastructure as code\|Infrastructure as code]] tool by [[90_slipbox/companies/HashiCorp\|HashiCorp]] used to manage public cloud platforms like [[90_slipbox/Azure\|Azure]] [[Google Cloud Provider\|Google Cloud Provider]] [[Amazon Web Services\|Amazon Web Services]], as well as self hosted platforms like [[VmWare vSphere\|VmWare vSphere]].
 
 Terraform uses a simple built upon individual blocks called Resources to build a Dependency Graph by linking items together.
 

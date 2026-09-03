@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/private-endpoints-can-be-disconnected-without-terraform-noticing/","tags":["inbox/new","today-i-learns"],"created":"2026-07-01T12:32:22.476+09:30","updated":"2026-07-02T08:56:42.698+09:30","dg-note-properties":{"created":"2026-07-01","modified":"2026-07-02","related":["[[Azure Private Endpoint]]","[[Terraform]]"],"tags":["inbox/new","today-i-learns"]}}
+{"dg-publish":true,"permalink":"/90-slipbox/private-endpoints-can-be-disconnected-without-terraform-noticing/","tags":["today-i-learns"],"created":"2026-07-01T12:32:22.476+09:30","updated":"2026-07-06T14:28:41.180+09:30","dg-note-properties":{"created":"2026-07-01","modified":"2026-07-06","related":["[[Azure Private Endpoint]]","[[Terraform]]"],"tags":"today-i-learns"}}
 ---
 
 

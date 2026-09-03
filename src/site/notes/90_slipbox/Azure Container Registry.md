@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-container-registry/","tags":["notes"],"created":"2026-03-27T09:57:51.489+10:30","updated":"2026-06-11T09:30:38.372+09:30","dg-note-properties":{"created":"2023-03-24","modified":"2026-06-11","related":["[[Azure]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-container-registry/","tags":["notes"],"created":"2025-06-11T10:28:47.689+09:30","updated":"2026-06-11T09:30:38.372+09:30","dg-note-properties":{"created":"2023-03-24","modified":"2026-06-11","related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 

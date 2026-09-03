@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage","permalink":"/homepage/","tags":["notes","gardenEntry"],"created":"2026-03-27T09:57:51.985+10:30","updated":"2026-06-11T09:30:38.591+09:30","dg-note-properties":{"created":"2024-05-03","modified":"2026-06-11","related":["[[Ryan Royals]]"],"tags":"notes"}}
+{"dg-publish":true,"dg-path":"Homepage","permalink":"/homepage/","tags":["notes","gardenEntry"],"created":"2026-03-27T09:57:51.985+10:30","updated":"2026-09-04T08:34:06.423+09:30","dg-note-properties":{"created":"2024-05-03","modified":"2026-06-11","related":["[[Ryan Royals]]"],"tags":"notes"}}
 ---
 
 
@@ -8,7 +8,7 @@
 Howdy!  
 Welcome to my site, please enjoy your stay.
 
-I'm a Lead (Backend) Engineer, leaning more towards the networking, infrastructure, cloud (Mostly [[90_slipbox/Azure\|Azure]]) side of backend, but I have a deep passion for programming and always slipping further into that rabbit hole every day.  
+I'm a Cloud Consultant with a deep knowledge in everything [[90_slipbox/Azure\|Azure]], but I have a deep passion for programming, backend engineering, and automation.  
 I am not the sort of person that clicks in portals, so I'm all [[90_slipbox/Terraform\|Terraform]], all CLI, all automation 24/7.
 
 Beyond professional guff, I love note taking (As seen in [[80_blog/How I take Notes\|How I take Notes]]), trading card games (Flesh and Blood is the king right now), Miniature Painting, playing board games (Dominion is such a comfy place, but I also go deep into Kingdom Death Monster), exercising (Running, downhill bike riding, moving heavy objects), and overusing brackets (and sometimes I think I'm funny).
@@ -28,5 +28,3 @@ You are not a bother, I'm at the part of my journey where I'd be excited for som
 [Ryan Royals | LinkedIn](https://www.linkedin.com/in/ryan-royals-17785b148/)  
 [me@ryanroyals.cloud](mailto:me@ryanroyals.cloud)  
 [GitHub](https://github.com/ryan-royals/)
-
-[Arkahna: Cloud-native, Outcome-driven, Future-ready](https://arkahna.io/)  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/90-slipbox/azure-route-filter/","tags":["notes"],"created":"2026-03-27T09:57:51.490+10:30","updated":"2026-06-11T09:30:38.360+09:30","dg-note-properties":{"created":"2024-07-22","modified":"2026-06-11","related":["[[Azure]]"],"tags":"notes"}}
+{"dg-publish":true,"permalink":"/90-slipbox/azure-route-filter/","tags":["notes"],"created":"2025-06-11T10:28:47.799+09:30","updated":"2026-06-11T09:30:38.360+09:30","dg-note-properties":{"created":"2024-07-22","modified":"2026-06-11","related":["[[Azure]]"],"tags":"notes"}}
 ---
 
 
