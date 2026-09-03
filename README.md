@@ -15,4 +15,3 @@ Please, reach out!
 
 [LinkedIn](https://www.linkedin.com/in/ryan-royals/)  
 [Email](mailto:gday@ryanroyals.cloud)  
-[Arkahna: Cloud-native, Outcome-driven, Future-ready](https://arkahna.io)
